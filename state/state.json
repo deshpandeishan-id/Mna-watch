@@ -1,0 +1,833 @@
+{
+ "deals": {},
+ "initialised_sources": [
+  "sec",
+  "uk_panel",
+  "euronext",
+  "eqs",
+  "prnewswire"
+ ],
+ "llm_by_subject": {},
+ "seen": {
+  "eqs:0d0b947b-5ceb-44cc-9ba0-33af4883a079": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:16080546-ffce-4464-b37c-3d83ea9096d5": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:1754017b-1b8e-475f-af2e-3046482748f6": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:246ae390-4607-479e-a91a-46e313e5dfcf": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:295a1bca-a484-4c1f-8b39-b2044bdedb4e": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:2b373131-ad6a-414e-9b85-bf2ed0edfa84": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:3e78c69a-7713-49d7-b2b6-039cd37b4362": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:55193a30-f8a4-46b3-8a06-df3f914355dd": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:868ae1a4-184c-46bc-83d5-947fddc1ac92": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:955292bd-74d0-46f1-8f9e-d454eb27281c": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:9c4f2632-3c36-4023-b948-a07ff5de1b14": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:b0622890-fc37-441b-8b53-95881201677c": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:c5abbf3a-6878-411f-bf0e-662fa0e5d1b7": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:c7c3744c-8afa-42df-ac8c-3c1ecccc6eba": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:c8526a6b-d175-4cdd-bdab-d16cdc7b7475": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:d29c8699-f0af-49f6-a096-3344e5f73f5c": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:da20b0f5-9b43-406c-878f-e7cc6b05a8b8": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:da853731-2892-491f-8ef9-0550c2adf0ce": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:f1d90104-ac04-414f-96d5-84c4e3b6ea42": [
+   1791993864,
+   "bootstrap"
+  ],
+  "eqs:f77581c6-fb12-4d0a-806a-a9f216258af8": [
+   1791993864,
+   "bootstrap"
+  ],
+  "euronext:12916380 at https://live.euronext.com": [
+   1791993863,
+   "bootstrap"
+  ],
+  "euronext:12916381 at https://live.euronext.com": [
+   1791993863,
+   "bootstrap"
+  ],
+  "euronext:12916382 at https://live.euronext.com": [
+   1791993863,
+   "bootstrap"
+  ],
+  "euronext:12916383 at https://live.euronext.com": [
+   1791993863,
+   "bootstrap"
+  ],
+  "euronext:12916384 at https://live.euronext.com": [
+   1791993863,
+   "bootstrap"
+  ],
+  "euronext:12916385 at https://live.euronext.com": [
+   1791993863,
+   "bootstrap"
+  ],
+  "euronext:12916386 at https://live.euronext.com": [
+   1791993863,
+   "bootstrap"
+  ],
+  "euronext:12916387 at https://live.euronext.com": [
+   1791993863,
+   "bootstrap"
+  ],
+  "euronext:12916389 at https://live.euronext.com": [
+   1791993863,
+   "bootstrap"
+  ],
+  "euronext:12916394 at https://live.euronext.com": [
+   1791993863,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/1cbio-received-shareholder-proceeds-upon-closing-of-biomarin-pharmaceutical-incs-acquisition-of-alesta-therapeutics-302908026.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/24-seven-acquires-staffing-firm-sri-302908113.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/acorns-acquires-frich-expanding-its-financial-education-community-302908117.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/ara-infrastructure-acquires-majority-interest-in-pacific-ag-north-americas-largest-crop-residue-supply-and-logistics-company-302907830.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/blackford-capital-acquires-eg-middleton-inc-expanding-its-mep-services-platform-into-virginia-302907996.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/campusworks-and-dynamic-campus-name-jim-wilson-ceo-to-lead-next-phase-of-growth-and-transformation-302908285.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/clarion-expands-ai-capabilities-with-advanced-call-management-302908632.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/el-grupo-hotelero-uzbeko-teg-completa-su-fusion-con-una-empresa-estadounidense-302908710.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/flex-completes-acquisition-of-epc-power-expanding-power-conversion-capabilities-for-ai-data-centers-and-grid-applications-302907691.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/formativgroup-acquires-saige-consulting-adding-ai-and-data-engineering-to-its-platform-302908016.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/humanly-acquires-careerarc-to-build-an-always-on-candidate-pipeline-for-high-volume-hiring-302907965.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/marshall-goldman-expands-into-florida-with-acquisition-of-marino-performance-motors-302908005.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/medtronic-announces-final-results-of-minimed-group-inc-exchange-offer-302908450.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/simplicity-group-acquires-maia-wealth-expanding-wealth-management-capabilities-with-new-denver-team-302908053.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/uzbecka-grupa-z-brany-hotelarskiej-teg-finalizuje-transakcj-poczenia-przedsibiorstw-w-usa-302908744.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/uzbecka-skupina-teg-psobici-v-pohostinstvi-dokonila-fuzi-s-americkou-spolenosti-302908708.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/uzbekistan-hospitality-group-teg-completes-us-business-combination-302908581.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/uzbekistan-hospitality-group-teg-completes-us-business-combination-302908651.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/west-madison-foods-acquires-the-bobs-big-boy-salad-dressings--dips-retail-brand-302908688.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/zocdoc-acquires-sohar-health-to-make-insurance-easier-to-navigate-for-patients-and-providers-302907770.html": [
+   1791993871,
+   "bootstrap"
+  ],
+  "sec:0000076605-26-000093": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0000763744-26-000090": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0000825313-26-000070": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0000894189-26-029319": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0000929638-26-003891": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0000947871-26-000936": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001074828-26-000084": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001081400-26-000490": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001104659-26-114840": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001104659-26-114850": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001104659-26-115039": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001104659-26-115048": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001104659-26-115483": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001104659-26-115488": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001104659-26-115503": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001104659-26-115504": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001104659-26-115505": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001104659-26-115672": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001140361-26-039380": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001140361-26-039452": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001185185-26-004736": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-418400": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-418408": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-419064": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-419158": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-419159": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-419224": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-419604": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-419730": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-419732": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-419759": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-420059": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-420392": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-420500": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-421044": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-421058": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-421059": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-421067": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-421079": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-421151": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-421152": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001193125-26-421215": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001213900-26-108209": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001213900-26-108223": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001213900-26-108719": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001213900-26-108736": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001213900-26-108774": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001213900-26-109080": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001213900-26-109093": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001213900-26-109097": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001213900-26-109105": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001213900-26-109108": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001213900-26-109120": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001213900-26-109222": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001213900-26-109268": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001213900-26-109273": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001398733-26-000056": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001437749-26-032438": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001437749-26-032459": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001437749-26-032570": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001437749-26-032577": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001437749-26-032600": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001493152-26-046540": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001493152-26-046596": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001493152-26-046687": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001493152-26-046691": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001493152-26-046761": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001493152-26-046848": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001493152-26-046872": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001493152-26-046927": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001493152-26-046938": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001493152-26-046939": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001493152-26-046949": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001493152-26-046953": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001609151-26-000112": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001628280-26-065550": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001628280-26-065596": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001628280-26-065686": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001628280-26-065819": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001628873-26-000110": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001683168-26-007753": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001731122-26-001341": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001829126-26-010951": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001829126-26-011004": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001829126-26-011032": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001829126-26-011034": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001829126-26-011073": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001829126-26-011075": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001829126-26-011096": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001829126-26-011097": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001829126-26-011104": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001929980-26-000543": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001999371-26-022683": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001999371-26-022685": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001999371-26-022687": [
+   1791993862,
+   "bootstrap"
+  ],
+  "sec:0001999371-26-022689": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1558": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1558:offeror:Tulip UK Bidco Limited (a newly formed company to be indirectly owned by a consortium including (i) funds managed or advised by Toscafund Asset Management LLP; (ii) funds managed or advised by THCP Advisory Limited; and (iii) funds managed or advised by Ares Management Limited):firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1569": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1586": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1589": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1589:offeror:Mara BidCo Ltd. (a newly formed company indirectly owned or controlled by Helios Investors V, L.P. and Helios Investors V (Mauritius) L.P. and Helios Fairfax Partners Corporation):firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1595": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1595:offeror:DNO Bidco AS (a company directly wholly owned by DNO ASA):firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1595:offeror:Genel Energy No.9 Limited (a company indirectly owned by Genel Energy plc):firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1601": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1601:offeror:Bradbury Bidco Limited (a newly incorporated company controlled by funds managed and/or advised by Epiris GP III Limited and its affiliates):firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1602": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1606": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1606:offeror:Isotope Bidco Limited (a newly formed company to be indirectly owned by EQT X EUR SCSp and EQT X USD SCSp, each acting through its manager EQT Fund Management S.a.r.l., together with certain indirect minority shareholders including, among others, Luxinva and Mubadala):firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1611": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1611:offeror:Ingredion Incorporated:firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1615": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1615:offeror:H.B. Fuller Medical Adhesive Technologies Inc (a wholly-owned subsidiary of H.B. Fuller Company):firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1617": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1617:offeror:Eagle Bidco Ltd (a company indirectly owned by the Apollo Funds, managed by affiliates of Apollo Capital Management, L.P. (together with Apollo Global Management, Inc. and its subsidiaries)):firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1620": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1620:offeror:Chess Bidco Limited (an indirect wholly-owned subsidiary of FirstCash Holdings, Inc.):firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1622": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1622:offeror:Prologis, Inc.:firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1623": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1623:offeror:Ratio Petroleum Energy LP:firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1625": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1625:offeror:Brave Bison Group plc:firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1626": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1627": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1627:offeror:Greenlight Bidco Limited (a newly formed company owned indirectly by Arlington Capital Partners, VII, L.P.):firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1628": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1628:offeror:ABB Automation Holding UK Limited (an indirect, wholly-owned subsidiary of ABB Ltd):firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1629": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1629:offeror:OCS Group International Limited (an indirect wholly-owned subsidiary of OCS Group Topco Limited):firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1631": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1631:offeror:Vulcan Alpha Bidco Limited (a newly formed company indirectly owned by funds and investment vehicles managed or controlled by Veritas Capital Management, L.L.C.):firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1634": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1634:offeror:Bentley Park (UK) Limited (the parent company of Ultimate Finance Group Limited):firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1635": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1636": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1636:offeror:Greenland Energy Company:possible": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1637": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1637:offeror:Circle8 Group Inc.:possible": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1638": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1638:offeror:Avocet Bidco Limited (a newly formed company which will, as at the Effective Date, be indirectly wholly-owned by funds managed and/or advised by Accel-KKR and its affiliates):firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1639": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1639:offeror:Jenzabar, Inc.:possible": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1640": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1640:offeror:Taboola Europe Limited (a wholly-owned subsidiary of Taboola.com Ltd):firm": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1641": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1642": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1642:offeror:Ember Infrastructure Management, LP (on behalf of its managed and advised investment funds):possible": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1643": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1643:offeror:RHI Magnesita N.V.:possible": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1644": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1644:offeror:DBAY Advisors Limited:possible": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1645": [
+   1791993862,
+   "bootstrap"
+  ],
+  "uk_panel:case:1645:offeror:Metals X Limited:possible": [
+   1791993862,
+   "bootstrap"
+  ]
+ }
+}
