@@ -1,0 +1,20 @@
+# systemd unit for an always-on Linux server (e.g. Oracle Cloud "Always Free" VM).
+# Install:
+#   sudo cp deploy/mna-watch.service /etc/systemd/system/
+#   sudo systemctl daemon-reload && sudo systemctl enable --now mna-watch
+#   journalctl -u mna-watch -f        # watch the logs
+[Unit]
+Description=mna-watch M&A alerts
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/mna-watch
+ExecStart=/home/ubuntu/mna-watch/.venv/bin/python -m mna_watch loop
+Restart=always
+RestartSec=30
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<disclosure_table Date="13 October 2026" Final="YES">
+  <additions />
+  <deletions />
+  <amendments />
+  <maintable>
+    <case caseid="1602">
+      <offeree name="Aptitude Software Group plc" lei="2138009VHA1WI2VKMA28" offer_period_commenced="07:00 08-Apr-2026">
+        <twoten_information><twoten_line><n>7 1/3p ordinary</n><ISIN>GB00BJV2F804</ISIN><NSI>54,521,064</NSI></twoten_line></twoten_information>
+      </offeree>
+      <empty_offeror>No named offeror</empty_offeror>
+    </case>
+    <case caseid="1645">
+      <offeree name="First Tin plc" lei="984500CSA7TBE3FB7C63" offer_period_commenced="11:28 09-Oct-2026">
+        <twoten_information><twoten_line><n>0.1p ordinary</n><ISIN>GB00BNR45554</ISIN><NSI>541,868,306</NSI></twoten_line></twoten_information>
+      </offeree>
+      <offeror name="Metals X Limited" rule_26_deadline="17:00 06-Nov-2026" offeror_identified="11:28 09-Oct-2026">
+        <empty_2.10>Disclosure of dealings and positions in this offeror is not required</empty_2.10>
+      </offeror>
+    </case>
+    <case caseid="1595">
+      <offeree name="Capricorn Energy plc" lei="213800ZJEUQ8ZOC9AL24" offer_period_commenced="16:23 11-Mar-2026">
+        <twoten_information><twoten_line><n>799 / 122p ordinary</n><ISIN>GB00BNKT5L33</ISIN><NSI>71,403,652</NSI></twoten_line></twoten_information>
+      </offeree>
+      <offeror name="Genel Energy No.9 Limited" rule_26_deadline="N/A" offeror_identified="07:00 02-Jul-2026">
+        <empty_2.10>Disclosure of dealings and positions in this offeror is not required</empty_2.10>
+      </offeror>
+      <offeror name="DNO Bidco AS" rule_26_deadline="N/A" offeror_identified="07:00 01-Sep-2026">
+        <empty_2.10>Disclosure of dealings and positions in this offeror is not required</empty_2.10>
+      </offeror>
+    </case>
+  </maintable>
+</disclosure_table>

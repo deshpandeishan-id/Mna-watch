@@ -1,0 +1,4 @@
+{"Table":[
+ {"NEWSID":"aaa-111","SCRIP_CD":500001,"SLONGNAME":"Example Industries Ltd","NEWSSUB":"Public Announcement for Open Offer under Regulation 3(1) and 4 of SEBI (SAST) Regulations, 2011","HEADLINE":"Open offer by XYZ Holdings to acquire up to 26% of shares","CATEGORYNAME":"Company Update","SUBCATNAME":"Open Offer","ATTACHMENTNAME":"abc.pdf","NEWS_DT":"2026-10-13T10:00:00"},
+ {"NEWSID":"bbb-222","SCRIP_CD":500002,"SLONGNAME":"Other Ltd","NEWSSUB":"Board Meeting Intimation","HEADLINE":"Board meeting to approve Q2 results","CATEGORYNAME":"Board Meeting","SUBCATNAME":"","ATTACHMENTNAME":"","NEWS_DT":"2026-10-13T11:00:00"}
+],"Table1":[{"ROWCNT":2}]}

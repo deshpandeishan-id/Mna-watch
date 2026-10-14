@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://live.euronext.com/en">
+  <channel>
+    <title>Company press releases</title>
+    <link>https://live.euronext.com/en</link>
+    <item>
+      <title>REXEL: Statement relating to the total number of shares and voting rights</title>
+      <link>https://live.euronext.com/en/products/equities/company-news/2026-10-13-rexel</link>
+      <description>REXEL statement &lt;span class="field__item"&gt; FR0010451203 &lt;/span&gt; &lt;span class="field__item"&gt; Share history &lt;/span&gt; &lt;label&gt;Language&lt;/label&gt; English &lt;p&gt;Number of shares 311,385,744&lt;/p&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 16:00:03 +0000</pubDate>
+      <guid isPermaLink="false">12916159 at https://live.euronext.com</guid>
+    </item>
+    <item>
+      <title>Projet d'offre publique d'achat simplifiée visant les actions de la société Exemple SA</title>
+      <link>https://live.euronext.com/fr/products/equities/company-news/2026-10-13-exemple-opa</link>
+      <description>Exemple SA &lt;span class="field__item"&gt; FR0000000001 &lt;/span&gt; &lt;span class="field__item"&gt; Takeover bids &lt;/span&gt; &lt;label&gt;Language&lt;/label&gt; French &lt;p&gt;Bidco SAS annonce son intention de déposer une offre publique d'achat au prix de 12,50 euros par action.&lt;/p&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">12916200 at https://live.euronext.com</guid>
+    </item>
+  </channel>
+</rss>
