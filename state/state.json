@@ -1,5 +1,13 @@
 {
- "deals": {},
+ "deals": {
+  "08 05 corporate all for one corporate all for one ubernahmeangebot von vinci energies vollzogen delisting vereinbarung abgeschlossen und delisting erwerbsangebot von vinci energies angekundigt|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "08:05 Corporate All for One Group SE Corporate All for One: Übernahmeangebot von VINCI Energies vollzogen // Delisting-Vereinbarung abgeschlossen und Delisting-Erwerbsangebot von VINCI Energies angekündigt ",
+   "ts": 1792044757,
+   "url": "https://www.eqs-news.com/de/news/corporate/all-for-one-uebernahmeangebot-von-vinci-energies-vollzogen-delisting-vereinbarung-abgeschlossen-und-delisting-erwerbsangebot-von-vinci-energies-angekuendigt/321ce122-8684-44a4-8919-d9824f1bffb4_de"
+  }
+ },
  "initialised_sources": [
   "sec",
   "uk_panel",
@@ -9,6 +17,10 @@
  ],
  "llm_by_subject": {},
  "seen": {
+  "eqs:01b40550-f491-4b62-9b5d-7455fc14dc07": [
+   1792044757,
+   "filtered (none)"
+  ],
   "eqs:03c24949-f018-4156-bb59-45690fd702c0": [
    1791999333,
    "filtered (none)"
@@ -41,6 +53,10 @@
    1791993864,
    "bootstrap"
   ],
+  "eqs:2530caa1-953b-40ca-b035-7b178362847d": [
+   1792044757,
+   "filtered (none)"
+  ],
   "eqs:295a1bca-a484-4c1f-8b39-b2044bdedb4e": [
    1791993864,
    "bootstrap"
@@ -52,6 +68,10 @@
   "eqs:2dd58e1c-3e79-4932-b344-cfd52e2941fb": [
    1792011211,
    "filtered (none)"
+  ],
+  "eqs:321ce122-8684-44a4-8919-d9824f1bffb4": [
+   1792044757,
+   "classified:possible_offer"
   ],
   "eqs:3e78c69a-7713-49d7-b2b6-039cd37b4362": [
    1791993864,
@@ -97,6 +117,10 @@
    1792042784,
    "filtered (none)"
   ],
+  "eqs:7b91a3cb-7ab7-4062-8e87-181111b28890": [
+   1792044756,
+   "filtered (none)"
+  ],
   "eqs:7dfbd116-6944-45c4-b80e-fc357853d66e": [
    1791999333,
    "filtered (none)"
@@ -125,9 +149,17 @@
    1792015402,
    "filtered (none)"
   ],
+  "eqs:acbef898-0e5f-4d8c-934b-45e177cad5e9": [
+   1792044756,
+   "filtered (none)"
+  ],
   "eqs:b0622890-fc37-441b-8b53-95881201677c": [
    1791993864,
    "bootstrap"
+  ],
+  "eqs:bd3f8c7e-b548-4ae6-8214-a9b6a1bf334b": [
+   1792044757,
+   "filtered (none)"
   ],
   "eqs:c5abbf3a-6878-411f-bf0e-662fa0e5d1b7": [
    1791993864,
