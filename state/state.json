@@ -100,6 +100,10 @@
    1791993864,
    "bootstrap"
   ],
+  "eqs:2be3ab4e-c058-458e-90b8-5ca1833de8b1": [
+   1792074845,
+   "filtered (none)"
+  ],
   "eqs:2c165f72-7324-427b-8143-c74c85fe5455": [
    1792058126,
    "filtered (none)"
@@ -111,6 +115,10 @@
   "eqs:321ce122-8684-44a4-8919-d9824f1bffb4": [
    1792044757,
    "classified:possible_offer"
+  ],
+  "eqs:392d105a-d7e0-4e1d-a0f9-523b55799478": [
+   1792074845,
+   "filtered (none)"
   ],
   "eqs:3e78c69a-7713-49d7-b2b6-039cd37b4362": [
    1791993864,
@@ -138,6 +146,10 @@
   ],
   "eqs:4be39b2d-6646-4a2b-aa2f-b8ec751e2069": [
    1792013339,
+   "filtered (none)"
+  ],
+  "eqs:504d7435-e6b0-41c8-a214-37297ef45a07": [
+   1792074845,
    "filtered (none)"
   ],
   "eqs:50b2c748-e71f-4a30-8843-0bf833363497": [
@@ -186,6 +198,10 @@
   ],
   "eqs:79623d28-f713-489f-bb47-0f1accf29821": [
    1792042784,
+   "filtered (none)"
+  ],
+  "eqs:79d5b378-613e-4c95-b87e-8a9a19e58733": [
+   1792074845,
    "filtered (none)"
   ],
   "eqs:7b91a3cb-7ab7-4062-8e87-181111b28890": [
@@ -242,6 +258,10 @@
   ],
   "eqs:9d687761-d970-4293-9930-f96bf9048d1d": [
    1792042784,
+   "filtered (none)"
+  ],
+  "eqs:9f24b861-c60b-4fd6-8c43-74d5fff5a74b": [
+   1792074845,
    "filtered (none)"
   ],
   "eqs:a1451ee4-0da8-424e-94fd-9159689dff4e": [
@@ -595,6 +615,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/medtronic-announces-final-results-of-minimed-group-inc-exchange-offer-302908450.html": [
    1791993871,
    "bootstrap"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/minimed-completes-separation-from-medtronic-302910187.html": [
+   1792074852,
+   "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/navara-acquires-pieq-to-accelerate-strategic-expansion-into-vertical-markets-and-enhance-ai-solutions-302909001.html": [
    1792006904,
@@ -1126,6 +1150,10 @@
   ],
   "sec:0001493152-26-047158": [
    1792069792,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-047172": [
+   1792074835,
    "filtered (none)"
   ],
   "sec:0001580670-26-000080": [
