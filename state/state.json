@@ -40,6 +40,10 @@
    1792034077,
    "filtered (none)"
   ],
+  "eqs:0a63d54a-8244-4aa1-9641-af5f736dd1f4": [
+   1792082006,
+   "filtered (none)"
+  ],
   "eqs:0cda8815-6371-47eb-8fcb-9699eb7a529e": [
    1791997176,
    "filtered (none)"
@@ -70,6 +74,10 @@
   ],
   "eqs:1c94365e-5283-466d-9c1c-31d83eeee9a1": [
    1791997176,
+   "filtered (none)"
+  ],
+  "eqs:1dede0ca-71c5-4213-93dd-f85b57fe61db": [
+   1792082006,
    "filtered (none)"
   ],
   "eqs:234842da-ffb3-4ebc-8cf0-1ac8ae2ce989": [
@@ -200,6 +208,18 @@
    1792001485,
    "filtered (none)"
   ],
+  "eqs:7132498e-4a32-4833-9d64-12bf9893169c": [
+   1792082006,
+   "filtered (none)"
+  ],
+  "eqs:74d658d5-6c07-4c74-b2ee-769326a37c80": [
+   1792082006,
+   "filtered (none)"
+  ],
+  "eqs:774943e5-c832-4968-ae0b-bdbeb3984b51": [
+   1792082006,
+   "filtered (none)"
+  ],
   "eqs:79623d28-f713-489f-bb47-0f1accf29821": [
    1792042784,
    "filtered (none)"
@@ -230,6 +250,10 @@
   ],
   "eqs:8d72094f-8650-4be2-be52-efa24407bfe5": [
    1792053200,
+   "filtered (none)"
+  ],
+  "eqs:8e04023f-af63-4504-86ee-2762a4ee5692": [
+   1792082006,
    "filtered (none)"
   ],
   "eqs:8ea52a1a-5149-45e6-9adf-1df9c9c706da": [
@@ -282,6 +306,10 @@
   ],
   "eqs:abfbc462-6a8d-4aa1-9b3d-d96af2a7182d": [
    1792053200,
+   "filtered (none)"
+  ],
+  "eqs:ac643b1f-c528-4da0-a71c-b3cf36dd627c": [
+   1792082006,
    "filtered (none)"
   ],
   "eqs:acbef898-0e5f-4d8c-934b-45e177cad5e9": [
@@ -562,6 +590,46 @@
   ],
   "euronext:12916633 at https://live.euronext.com": [
    1792079790,
+   "filtered (none)"
+  ],
+  "euronext:12916639 at https://live.euronext.com": [
+   1792082005,
+   "filtered (none)"
+  ],
+  "euronext:12916640 at https://live.euronext.com": [
+   1792082005,
+   "filtered (none)"
+  ],
+  "euronext:12916643 at https://live.euronext.com": [
+   1792082005,
+   "filtered (none)"
+  ],
+  "euronext:12916644 at https://live.euronext.com": [
+   1792082005,
+   "filtered (none)"
+  ],
+  "euronext:12916645 at https://live.euronext.com": [
+   1792082005,
+   "filtered (none)"
+  ],
+  "euronext:12916647 at https://live.euronext.com": [
+   1792082005,
+   "filtered (none)"
+  ],
+  "euronext:12916648 at https://live.euronext.com": [
+   1792082005,
+   "filtered (none)"
+  ],
+  "euronext:12916649 at https://live.euronext.com": [
+   1792082005,
+   "filtered (none)"
+  ],
+  "euronext:12916650 at https://live.euronext.com": [
+   1792082005,
+   "filtered (none)"
+  ],
+  "euronext:12916651 at https://live.euronext.com": [
+   1792082005,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/-teg-----------302909728.html": [
@@ -1024,6 +1092,10 @@
    1792069792,
    "filtered (none)"
   ],
+  "sec:0001193125-26-422523": [
+   1792082003,
+   "filtered (none)"
+  ],
   "sec:0001213900-26-108209": [
    1791993862,
    "bootstrap"
@@ -1135,6 +1207,10 @@
   "sec:0001437749-26-032600": [
    1791993862,
    "bootstrap"
+  ],
+  "sec:0001437749-26-032689": [
+   1792082003,
+   "filtered (none)"
   ],
   "sec:0001493152-26-046540": [
    1791993862,
