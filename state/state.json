@@ -7,6 +7,13 @@
    "ts": 1792116121,
    "url": "https://www.eqs-news.com/de/news/corporate/results-of-on-market-tender-offer/7ee3d565-81a0-4698-8ed9-2c6e5d720fd1_en"
   },
+  "07 00 ad hoc en polypeptide ad hoc en polypeptide definitive interim result of public tender offer of samsung biologics|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "07:00 Ad-hoc EN Polypeptide Group AG Ad-hoc EN PolyPeptide Group: Definitive interim result of the public tender offer of Samsung Biologics Co., Ltd. ",
+   "ts": 1792127137,
+   "url": "https://www.eqs-news.com/de/news/ad-hoc/polypeptide-group-definitive-interim-result-of-the-public-tender-offer-of-samsung-biologics-co-ltd/a5f0a8fe-5f4d-4802-9b3a-69aed16fc13f_en"
+  },
   "08 05 corporate all for one corporate all for one ubernahmeangebot von vinci energies vollzogen delisting vereinbarung abgeschlossen und delisting erwerbsangebot von vinci energies angekundigt|possible_offer": {
    "acquirer": "",
    "source": "eqs",
@@ -346,6 +353,10 @@
   "eqs:a5e40772-284a-4a0a-8e4f-c71e12cfff8d": [
    1792122906,
    "filtered (none)"
+  ],
+  "eqs:a5f0a8fe-5f4d-4802-9b3a-69aed16fc13f": [
+   1792127137,
+   "classified:possible_offer"
   ],
   "eqs:a83fba78-da64-4be9-ab8d-3e5e806771ee": [
    1792058126,
