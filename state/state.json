@@ -21,6 +21,13 @@
    "ts": 1792044757,
    "url": "https://www.eqs-news.com/de/news/corporate/all-for-one-uebernahmeangebot-von-vinci-energies-vollzogen-delisting-vereinbarung-abgeschlossen-und-delisting-erwerbsangebot-von-vinci-energies-angekuendigt/321ce122-8684-44a4-8919-d9824f1bffb4_de"
   },
+  "beretta announces preliminary results of cash tender offer for shares of sturm ruger amp|possible_offer": {
+   "acquirer": "",
+   "source": "prnewswire",
+   "title": "BERETTA HOLDING S.A. ANNOUNCES PRELIMINARY RESULTS OF CASH TENDER OFFER FOR SHARES OF STURM, RUGER &amp; COMPANY, INC.",
+   "ts": 1792152265,
+   "url": "https://www.prnewswire.com/news-releases/beretta-holding-sa-announces-preliminary-results-of-cash-tender-offer-for-shares-of-sturm-ruger--company-inc-302911028.html"
+  },
   "skyai|possible_offer": {
    "acquirer": "",
    "source": "sec",
@@ -357,6 +364,10 @@
    1791999333,
    "filtered (none)"
   ],
+  "eqs:7e887539-650e-409e-aff0-c9d6a4936d5c": [
+   1792152258,
+   "filtered (none)"
+  ],
   "eqs:7ee3d565-81a0-4698-8ed9-2c6e5d720fd1": [
    1792116121,
    "classified:possible_offer"
@@ -403,6 +414,10 @@
   ],
   "eqs:96e5a414-f49b-4985-9d49-02cb4c5535f4": [
    1792060322,
+   "filtered (none)"
+  ],
+  "eqs:97bcecac-0850-4fb3-9621-0dbe44f3e2a2": [
+   1792152258,
    "filtered (none)"
   ],
   "eqs:9c4f2632-3c36-4023-b948-a07ff5de1b14": [
@@ -543,6 +558,10 @@
   ],
   "eqs:ee3859bd-7d0f-4770-bf4e-3d77746e15ad": [
    1792048178,
+   "filtered (none)"
+  ],
+  "eqs:f023733a-dcee-4681-9da9-2be91a45f15b": [
+   1792152258,
    "filtered (none)"
   ],
   "eqs:f0631fe5-f305-4ab6-a1a8-7547ccb3de05": [
@@ -873,6 +892,10 @@
    1792008936,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/beretta-holding-sa-announces-preliminary-results-of-cash-tender-offer-for-shares-of-sturm-ruger--company-inc-302911028.html": [
+   1792152265,
+   "classified:possible_offer"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/blackford-capital-acquires-eg-middleton-inc-expanding-its-mep-services-platform-into-virginia-302907996.html": [
    1791993871,
    "bootstrap"
@@ -1127,6 +1150,10 @@
   ],
   "sec:0000950103-26-015665": [
    1792100479,
+   "filtered (none)"
+  ],
+  "sec:0000950103-26-015690": [
+   1792152255,
    "filtered (none)"
   ],
   "sec:0001074828-26-000084": [
@@ -1507,6 +1534,10 @@
   ],
   "sec:0001193125-26-423331": [
    1792145493,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-423404": [
+   1792152255,
    "filtered (none)"
   ],
   "sec:0001213900-26-108209": [
