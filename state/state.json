@@ -1,5 +1,12 @@
 {
  "deals": {
+  "03 36 corporate en polymetal international corporate en results of on market tender offer|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "03:36 Corporate EN Polymetal International plc Corporate EN Results of on-market tender offer ",
+   "ts": 1792116121,
+   "url": "https://www.eqs-news.com/de/news/corporate/results-of-on-market-tender-offer/7ee3d565-81a0-4698-8ed9-2c6e5d720fd1_en"
+  },
   "08 05 corporate all for one corporate all for one ubernahmeangebot von vinci energies vollzogen delisting vereinbarung abgeschlossen und delisting erwerbsangebot von vinci energies angekundigt|possible_offer": {
    "acquirer": "",
    "source": "eqs",
@@ -58,6 +65,10 @@
   ],
   "eqs:0e468c4e-83a3-42d8-ab19-33ed9606f483": [
    1792053200,
+   "filtered (none)"
+  ],
+  "eqs:0ef85d10-cd04-4b80-a0a1-40a7cb79b02a": [
+   1792116120,
    "filtered (none)"
   ],
   "eqs:13cbbb86-2700-45ac-84d6-b4a3e8ea437f": [
@@ -251,6 +262,10 @@
   "eqs:7dfbd116-6944-45c4-b80e-fc357853d66e": [
    1791999333,
    "filtered (none)"
+  ],
+  "eqs:7ee3d565-81a0-4698-8ed9-2c6e5d720fd1": [
+   1792116121,
+   "classified:possible_offer"
   ],
   "eqs:7f522c01-b041-48d8-be61-9bef93138c8f": [
    1792064881,
