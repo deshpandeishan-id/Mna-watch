@@ -14,6 +14,20 @@
    "ts": 1792127137,
    "url": "https://www.eqs-news.com/de/news/ad-hoc/polypeptide-group-definitive-interim-result-of-the-public-tender-offer-of-samsung-biologics-co-ltd/a5f0a8fe-5f4d-4802-9b3a-69aed16fc13f_en"
   },
+  "07 31 ad hoc steyr motors ad hoc steyr motors freiwilliges offentliches erwerbsangebot der smot acquisition einer tochtergesellschaft der red cat fur samtliche aktien der steyr motors|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "07:31 Ad-hoc Steyr Motors AG Ad-hoc Steyr Motors AG: Freiwilliges öffentliches Erwerbsangebot der SMOT Acquisition GmbH, einer Tochtergesellschaft der Red Cat Holdings, Inc., für sämtliche Aktien der Steyr Motors AG ",
+   "ts": 1792389284,
+   "url": "https://www.eqs-news.com/de/news/ad-hoc/steyr-motors-ag-freiwilliges-oeffentliches-erwerbsangebot-der-smot-acquisition-gmbh-einer-tochtergesellschaft-der-red-cat-holdings-inc-fuer-saemtliche-aktien-der-steyr-motors-ag/aa7b3a0a-19f8-4c50-ad4c-663c44b6fa69_de"
+  },
+  "07 32 corporate steyr motors corporate steyr motors freiwilliges offentliches erwerbsangebot der smot acquisition einer tochtergesellschaft der red cat angebotspreis von eur 39 00 in bar|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "07:32 Corporate Steyr Motors AG Corporate Steyr Motors AG: Freiwilliges öffentliches Erwerbsangebot der SMOT Acquisition GmbH, einer Tochtergesellschaft der Red Cat Holdings, Inc. – Angebotspreis von EUR 39,00 in bar ",
+   "ts": 1792389283,
+   "url": "https://www.eqs-news.com/de/news/corporate/steyr-motors-ag-freiwilliges-oeffentliches-erwerbsangebot-der-smot-acquisition-gmbh-einer-tochtergesellschaft-der-red-cat-holdings-inc-angebotspreis-von-eur-3900-in-bar/b89f5ea5-de48-4b2e-9952-b14624e9cc98_de"
+  },
   "08 05 corporate all for one corporate all for one ubernahmeangebot von vinci energies vollzogen delisting vereinbarung abgeschlossen und delisting erwerbsangebot von vinci energies angekundigt|possible_offer": {
    "acquirer": "",
    "source": "eqs",
@@ -332,6 +346,10 @@
    1792122906,
    "filtered (none)"
   ],
+  "eqs:569ba2c9-c546-4c45-ba0b-f71e7f824b07": [
+   1792389284,
+   "filtered (none)"
+  ],
   "eqs:590e5fae-78d8-419c-9023-915000208590": [
    1792202424,
    "filtered (none)"
@@ -512,6 +530,10 @@
    1792152258,
    "filtered (none)"
   ],
+  "eqs:9b81c7a3-ec6d-4d6a-801d-06b99aa26a4e": [
+   1792389282,
+   "filtered (none)"
+  ],
   "eqs:9c4f2632-3c36-4023-b948-a07ff5de1b14": [
    1791993864,
    "bootstrap"
@@ -547,6 +569,10 @@
   "eqs:a973ef43-e5ee-4994-8b63-006aeefaafb8": [
    1792166857,
    "filtered (none)"
+  ],
+  "eqs:aa7b3a0a-19f8-4c50-ad4c-663c44b6fa69": [
+   1792389284,
+   "classified:possible_offer"
   ],
   "eqs:ab92602b-072c-4216-aa20-6fae1aa76068": [
    1792118404,
@@ -603,6 +629,10 @@
   "eqs:b5d991c7-72d5-4d8d-ad05-a836d9eeba13": [
    1792053200,
    "filtered (none)"
+  ],
+  "eqs:b89f5ea5-de48-4b2e-9952-b14624e9cc98": [
+   1792389283,
+   "classified:possible_offer"
   ],
   "eqs:b9170117-a851-470c-9cbe-810f26747d6b": [
    1792053200,
@@ -696,8 +726,16 @@
    1792177888,
    "filtered (none)"
   ],
+  "eqs:e46d9141-8c20-4570-b703-cbf921812ed9": [
+   1792389284,
+   "filtered (none)"
+  ],
   "eqs:e5e0159c-e3ff-4ca0-8523-e0c7f5bfd7e7": [
    1792064881,
+   "filtered (none)"
+  ],
+  "eqs:e7e9c974-9705-4833-be24-d323640025c3": [
+   1792389282,
    "filtered (none)"
   ],
   "eqs:e84b3b01-cba9-466f-ad5e-a2f8e7781387": [
@@ -1058,6 +1096,46 @@
   ],
   "euronext:12916859 at https://live.euronext.com": [
    1792166855,
+   "filtered (none)"
+  ],
+  "euronext:12916924 at https://live.euronext.com": [
+   1792389281,
+   "filtered (none)"
+  ],
+  "euronext:12916925 at https://live.euronext.com": [
+   1792389281,
+   "filtered (none)"
+  ],
+  "euronext:12916926 at https://live.euronext.com": [
+   1792389281,
+   "filtered (none)"
+  ],
+  "euronext:12916927 at https://live.euronext.com": [
+   1792389281,
+   "filtered (none)"
+  ],
+  "euronext:12916940 at https://live.euronext.com": [
+   1792389281,
+   "filtered (none)"
+  ],
+  "euronext:12916941 at https://live.euronext.com": [
+   1792389281,
+   "filtered (none)"
+  ],
+  "euronext:12916942 at https://live.euronext.com": [
+   1792389281,
+   "filtered (none)"
+  ],
+  "euronext:12916943 at https://live.euronext.com": [
+   1792389281,
+   "filtered (none)"
+  ],
+  "euronext:12916944 at https://live.euronext.com": [
+   1792389281,
+   "filtered (none)"
+  ],
+  "euronext:12916945 at https://live.euronext.com": [
+   1792389281,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/-teg-----------302909728.html": [
