@@ -77,6 +77,10 @@
    1792048178,
    "filtered (none)"
   ],
+  "eqs:0160b967-0b4d-4199-bb4c-245d29292262": [
+   1792419700,
+   "filtered (none)"
+  ],
   "eqs:01b40550-f491-4b62-9b5d-7455fc14dc07": [
    1792044757,
    "filtered (none)"
@@ -313,6 +317,10 @@
    1792120278,
    "filtered (none)"
   ],
+  "eqs:4662438c-9a0d-41ab-802e-cdc98a7f2f8c": [
+   1792419700,
+   "filtered (none)"
+  ],
   "eqs:47bc49f7-6877-4c8f-b69a-c2378bc0383f": [
    1792040610,
    "filtered (none)"
@@ -405,6 +413,10 @@
    1792060322,
    "filtered (none)"
   ],
+  "eqs:5cc4db39-6e2a-4ccb-bd02-e574ab8b5cbb": [
+   1792419700,
+   "filtered (none)"
+  ],
   "eqs:5d9adc17-80d8-433a-9f9e-4df901a69ee4": [
    1792138673,
    "filtered (none)"
@@ -449,6 +461,10 @@
    1792040610,
    "filtered (none)"
   ],
+  "eqs:66e26ec3-cc29-4a92-aef8-0bc9ad903b3b": [
+   1792419700,
+   "filtered (none)"
+  ],
   "eqs:684f023f-297c-4a95-84e2-33b3e32328b2": [
    1792066643,
    "filtered (none)"
@@ -479,6 +495,10 @@
   ],
   "eqs:740d787a-969b-4b24-b1a9-7c5dd5a36e7a": [
    1792386996,
+   "filtered (none)"
+  ],
+  "eqs:748ef922-8875-4ec0-b8db-5b1a94a91daa": [
+   1792419700,
    "filtered (none)"
   ],
   "eqs:74d658d5-6c07-4c74-b2ee-769326a37c80": [
@@ -753,6 +773,10 @@
    1792053200,
    "filtered (none)"
   ],
+  "eqs:b970bc81-6bc7-4f87-bcb4-3ac2d0322b68": [
+   1792419700,
+   "filtered (none)"
+  ],
   "eqs:bbd8c182-21e9-4b21-9413-20b881dbaee6": [
    1792145503,
    "filtered (none)"
@@ -771,6 +795,10 @@
   ],
   "eqs:c072be3c-e919-4944-bab2-4d0f6727cc62": [
    1792386996,
+   "filtered (none)"
+  ],
+  "eqs:c19ba60e-034a-4fb1-82a2-2a33b24981c1": [
+   1792419700,
    "filtered (none)"
   ],
   "eqs:c5abbf3a-6878-411f-bf0e-662fa0e5d1b7": [
@@ -823,6 +851,10 @@
   ],
   "eqs:d41de29b-6baa-46b5-90dd-ace8e2015044": [
    1792408308,
+   "filtered (none)"
+  ],
+  "eqs:d6d3ed76-827a-438e-8f44-56345b6584fd": [
+   1792419700,
    "filtered (none)"
   ],
   "eqs:d9799ceb-d3df-43cc-ae36-b9564519332c": [
@@ -1329,6 +1361,46 @@
    1792392131,
    "filtered (none)"
   ],
+  "euronext:12917083 at https://live.euronext.com": [
+   1792419699,
+   "filtered (none)"
+  ],
+  "euronext:12917084 at https://live.euronext.com": [
+   1792419699,
+   "filtered (none)"
+  ],
+  "euronext:12917085 at https://live.euronext.com": [
+   1792419699,
+   "filtered (none)"
+  ],
+  "euronext:12917086 at https://live.euronext.com": [
+   1792419699,
+   "filtered (none)"
+  ],
+  "euronext:12917087 at https://live.euronext.com": [
+   1792419699,
+   "filtered (none)"
+  ],
+  "euronext:12917090 at https://live.euronext.com": [
+   1792419699,
+   "filtered (none)"
+  ],
+  "euronext:12917091 at https://live.euronext.com": [
+   1792419699,
+   "filtered (none)"
+  ],
+  "euronext:12917093 at https://live.euronext.com": [
+   1792419699,
+   "filtered (none)"
+  ],
+  "euronext:12917094 at https://live.euronext.com": [
+   1792419699,
+   "filtered (none)"
+  ],
+  "euronext:12917095 at https://live.euronext.com": [
+   1792419699,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/-teg-----------302909728.html": [
    1792050761,
    "filtered (none)"
@@ -1509,6 +1581,10 @@
    1792183964,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/kapital-agrees-to-acquire-ai-startup-woz-for-30m-to-enhance-capabilities-of-ai-native-banking-platform-302912404.html": [
+   1792419708,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/kort-payments-to-acquire-aptpay-expanding-real-time-payments-and-payment-orchestration-across-north-america-302912058.html": [
    1792413712,
    "classified:none"
@@ -1553,8 +1629,16 @@
    1792006904,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/net-health-announces-leadership-transition-ron-books-appointed-executive-chairman-patrick-rooney-named-interim-ceo-302912681.html": [
+   1792419708,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/new-private-equity-partners-with-one-group-solutions-to-build-the-data-driven-fund-governance-platform-for-global-asset-managers-302912651.html": [
    1792416659,
+   "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/new-private-equity-partners-with-one-group-solutions-to-build-the-data-driven-fund-governance-platform-for-global-asset-managers-302912665.html": [
+   1792419708,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/newport-llc-welcomes-three-experienced-business-leaders-as-partners-expanding-advisory-expertise-in-business-transformation-ma-and-strategic-growth-302909353.html": [
@@ -1629,6 +1713,10 @@
    1792077255,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/scorpion-deepens-its-investment-in-pest-control-and-lawn-care-acquires-coalmarch-marketing-302912687.html": [
+   1792419707,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/simplicity-group-acquires-maia-wealth-expanding-wealth-management-capabilities-with-new-denver-team-302908053.html": [
    1791993871,
    "bootstrap"
@@ -1647,6 +1735,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/sunbound-acquires-richter-healthcare-consultants-bringing-decades-of-financial-trust-and-expertise-in-senior-living-revenue-management-to-sunbounds-technology-platform-302909212.html": [
    1792069809,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/system-one-acquires-gmp-a-critical-infrastructure-capital-project-planning-and-consulting-leader-302912206.html": [
+   1792419708,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/tessera-makes-payment-to-secure-previously-granted-option-on-world-leader-in-tethered-aerostat-and-aerospace-technology-302910145.html": [
@@ -1931,6 +2023,14 @@
   ],
   "sec:0001104659-26-116748": [
    1792416643,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-116768": [
+   1792419697,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-116769": [
+   1792419697,
    "filtered (none)"
   ],
   "sec:0001133228-26-013301": [
