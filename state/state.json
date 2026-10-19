@@ -42,6 +42,13 @@
    "ts": 1792152265,
    "url": "https://www.prnewswire.com/news-releases/beretta-holding-sa-announces-preliminary-results-of-cash-tender-offer-for-shares-of-sturm-ruger--company-inc-302911028.html"
   },
+  "eqvista launches sponsored tender offers expanding private market liquidity capabilities|possible_offer": {
+   "acquirer": "",
+   "source": "prnewswire",
+   "title": "Eqvista Launches Company-Sponsored Tender Offers, Expanding Private Market Liquidity Capabilities",
+   "ts": 1792413712,
+   "url": "https://www.prnewswire.com/news-releases/eqvista-launches-company-sponsored-tender-offers-expanding-private-market-liquidity-capabilities-302911472.html"
+  },
   "skyai|possible_offer": {
    "acquirer": "",
    "source": "sec",
@@ -570,6 +577,10 @@
    1792325259,
    "filtered (none)"
   ],
+  "eqs:8e94cba8-7e90-444e-b020-27428069c890": [
+   1792413704,
+   "filtered (none)"
+  ],
   "eqs:8ea52a1a-5149-45e6-9adf-1df9c9c706da": [
    1792050754,
    "filtered (none)"
@@ -616,6 +627,10 @@
   ],
   "eqs:9d687761-d970-4293-9930-f96bf9048d1d": [
    1792042784,
+   "filtered (none)"
+  ],
+  "eqs:9ed46ee8-a036-475c-a6f2-9cb46ba5a29a": [
+   1792413704,
    "filtered (none)"
   ],
   "eqs:9f24b861-c60b-4fd6-8c43-74d5fff5a74b": [
@@ -805,6 +820,10 @@
   "eqs:da853731-2892-491f-8ef9-0550c2adf0ce": [
    1791993864,
    "bootstrap"
+  ],
+  "eqs:dbe3ec46-ad0a-44dc-a5bd-0d652008ad21": [
+   1792413704,
+   "filtered (none)"
   ],
   "eqs:ddbfcce9-d8e7-42f7-bbad-8ccfb03548ad": [
    1792406154,
@@ -1426,6 +1445,10 @@
    1792040617,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/eqvista-launches-company-sponsored-tender-offers-expanding-private-market-liquidity-capabilities-302911472.html": [
+   1792413712,
+   "classified:possible_offer"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/ff-eai-robotics-ffr-and-ff-jointly-launch-ff-nova-first-embodied-ai-humanoid-robot-priced-below-2-500-in-us-ff-nova-mini-physical-ai-spark-program-curriculum-nova-reinforcement-learning-developer-program-and-developer-com-302910863.html": [
    1792122913,
    "filtered (none)"
@@ -1453,6 +1476,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/hyperscale-data-announces-plan-for-its-askroi-subsidiary-to-go-public-in-the-second-or-third-quarter-of-2027-302911628.html": [
    1792183964,
    "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/kort-payments-to-acquire-aptpay-expanding-real-time-payments-and-payment-orchestration-across-north-america-302912058.html": [
+   1792413712,
+   "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/labcorp-enters-into-agreement-with-opko-health-to-acquire-select-assets-of-bioreference-health-302909289.html": [
    1792064888,
@@ -1556,6 +1583,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/performance-brokerage-services-advises-on-the-sale-of-gregg-young-chevrolet-in-plattsmouth-nebraska-from-gregg-young-automotive-group-to-janssen-auto-group-302910646.html": [
    1792134503,
+   "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/radnostix-and-nano-nuclear-energy-announce-joint-submission-of-letter-of-intent-to-nrc-seeking-consent-for-transfer-of-license-sub-1011-following-lea-county-approval-of-property-loi-302912368.html": [
+   1792413712,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/robots--pencils-acquires-tiger-pistol-to-scale-reusable-agentic-patterns-into-products-302910257.html": [
@@ -2230,6 +2261,18 @@
    1792187981,
    "filtered (none)"
   ],
+  "sec:0001193125-26-424693": [
+   1792413695,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-424695": [
+   1792413695,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-424702": [
+   1792413695,
+   "filtered (none)"
+  ],
   "sec:0001193805-26-001376": [
    1792181541,
    "filtered (none)"
@@ -2396,6 +2439,10 @@
   ],
   "sec:0001213900-26-110367": [
    1792187981,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-110492": [
+   1792413695,
    "filtered (none)"
   ],
   "sec:0001214659-26-013022": [
@@ -2572,6 +2619,14 @@
   ],
   "sec:0001493152-26-047459": [
    1792185979,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-047507": [
+   1792413695,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-047514": [
+   1792413695,
    "filtered (none)"
   ],
   "sec:0001506293-26-000143": [
@@ -2756,6 +2811,26 @@
   ],
   "sec:0002007855-26-000081": [
    1792060313,
+   "filtered (none)"
+  ],
+  "sec:0002048951-26-000030": [
+   1792413695,
+   "filtered (none)"
+  ],
+  "sec:0002071844-26-001401": [
+   1792413695,
+   "filtered (none)"
+  ],
+  "sec:0002071844-26-001402": [
+   1792413695,
+   "filtered (none)"
+  ],
+  "sec:0002071844-26-001403": [
+   1792413695,
+   "filtered (none)"
+  ],
+  "sec:0002071844-26-001404": [
+   1792413695,
    "filtered (none)"
   ],
   "sec:0002071876-26-000249": [
