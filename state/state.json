@@ -49,6 +49,13 @@
    "ts": 1792413712,
    "url": "https://www.prnewswire.com/news-releases/eqvista-launches-company-sponsored-tender-offers-expanding-private-market-liquidity-capabilities-302911472.html"
   },
+  "gulf keystone to combine with shamaran petroleum|possible_offer": {
+   "acquirer": "",
+   "source": "euronext",
+   "title": "Gulf Keystone to combine with ShaMaran Petroleum",
+   "ts": 1792495778,
+   "url": "https://live.euronext.com/en/products/equities/company-news/2026-10-20-gulf-keystone-combine-shamaran-petroleum"
+  },
   "skyai|possible_offer": {
    "acquirer": "",
    "source": "sec",
@@ -62,6 +69,13 @@
    "title": "SC TO-C – SNDL Inc. (Subject)",
    "ts": 1792145493,
    "url": "https://www.sec.gov/Archives/edgar/data/1766600/000119312526423219/0001193125-26-423219-index.htm"
+  },
+  "soundthinking|possible_offer": {
+   "acquirer": "",
+   "source": "sec",
+   "title": "SC TO-T – SOUNDTHINKING, INC. (Subject)",
+   "ts": 1792495777,
+   "url": "https://www.sec.gov/Archives/edgar/data/1351636/000114036126040176/0001140361-26-040176-index.htm"
   }
  },
  "initialised_sources": [
@@ -223,6 +237,10 @@
   ],
   "eqs:2530caa1-953b-40ca-b035-7b178362847d": [
    1792044757,
+   "filtered (none)"
+  ],
+  "eqs:274d7212-477e-4407-ba6b-73a1814ba0ca": [
+   1792495780,
    "filtered (none)"
   ],
   "eqs:2933434d-6f6d-4449-ac7b-24b2d84d218d": [
@@ -1777,6 +1795,46 @@
    1792473049,
    "filtered (none)"
   ],
+  "euronext:12917279 at https://live.euronext.com": [
+   1792495778,
+   "filtered (none)"
+  ],
+  "euronext:12917280 at https://live.euronext.com": [
+   1792495778,
+   "filtered (none)"
+  ],
+  "euronext:12917281 at https://live.euronext.com": [
+   1792495778,
+   "filtered (none)"
+  ],
+  "euronext:12917282 at https://live.euronext.com": [
+   1792495778,
+   "filtered (none)"
+  ],
+  "euronext:12917283 at https://live.euronext.com": [
+   1792495778,
+   "classified:possible_offer"
+  ],
+  "euronext:12917284 at https://live.euronext.com": [
+   1792495778,
+   "filtered (none)"
+  ],
+  "euronext:12917285 at https://live.euronext.com": [
+   1792495778,
+   "filtered (none)"
+  ],
+  "euronext:12917286 at https://live.euronext.com": [
+   1792495778,
+   "filtered (none)"
+  ],
+  "euronext:12917287 at https://live.euronext.com": [
+   1792495778,
+   "filtered (none)"
+  ],
+  "euronext:12917288 at https://live.euronext.com": [
+   1792495778,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/-teg-----------302909728.html": [
    1792050761,
    "filtered (none)"
@@ -2309,6 +2367,14 @@
    1792185979,
    "filtered (none)"
   ],
+  "sec:0000950103-26-015848": [
+   1792495777,
+   "filtered (none)"
+  ],
+  "sec:0001032220-26-000038": [
+   1792495777,
+   "filtered (none)"
+  ],
   "sec:0001074828-26-000084": [
    1791993862,
    "bootstrap"
@@ -2572,6 +2638,10 @@
   "sec:0001140361-26-040145": [
    1792491028,
    "filtered (none)"
+  ],
+  "sec:0001140361-26-040176": [
+   1792495777,
+   "classified:possible_offer"
   ],
   "sec:0001171843-26-006667": [
    1792095980,
