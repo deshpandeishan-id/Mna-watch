@@ -483,6 +483,10 @@
    1792079791,
    "filtered (none)"
   ],
+  "eqs:5288a8f4-8555-4e23-a93a-a403eeaa5d6c": [
+   1792508392,
+   "filtered (none)"
+  ],
   "eqs:52ce4d8b-cdaf-44fa-8c12-03c2c34acd37": [
    1792141157,
    "filtered (medium)"
@@ -517,6 +521,10 @@
   ],
   "eqs:569ba2c9-c546-4c45-ba0b-f71e7f824b07": [
    1792389284,
+   "filtered (none)"
+  ],
+  "eqs:56bb97f8-fe14-4beb-a704-949199b02be7": [
+   1792508392,
    "filtered (none)"
   ],
   "eqs:57b3aa49-8d79-4151-81ea-968af6f1ff1d": [
@@ -767,6 +775,10 @@
    1792503616,
    "filtered (none)"
   ],
+  "eqs:8ce127eb-0401-4559-8d18-cdf65a20dd7f": [
+   1792508392,
+   "filtered (none)"
+  ],
   "eqs:8d3763c7-ff64-43f8-95b6-c807d29e8bcf": [
    1792386996,
    "filtered (medium)"
@@ -853,6 +865,10 @@
   ],
   "eqs:9b81c7a3-ec6d-4d6a-801d-06b99aa26a4e": [
    1792389282,
+   "filtered (none)"
+  ],
+  "eqs:9ba59488-8895-42ac-b2e7-0470e0e577c1": [
+   1792508392,
    "filtered (none)"
   ],
   "eqs:9beeb7b0-799a-4174-9ff1-8b0237e7f1a3": [
@@ -1927,6 +1943,10 @@
    1792062593,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/aia-contract-documents-names-levelset-founder-scott-wolfe-ceo-302913416.html": [
+   1792508401,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/ara-infrastructure-acquires-majority-interest-in-pacific-ag-north-americas-largest-crop-residue-supply-and-logistics-company-302907830.html": [
    1791993871,
    "bootstrap"
@@ -1961,6 +1981,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/aurora-cannabis-reaffirms-recommendation-to-shareholders-reject-curaleafs-revised-hostile-bid-preserve-opportunities-for-future-upside-302909066.html": [
    1792008936,
+   "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/beacon-pointe-advisors-builds-on-national-momentum-with-latest-ria-acquisitions-302907661.html": [
+   1792508400,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/beretta-holding-sa-announces-preliminary-results-of-cash-tender-offer-for-shares-of-sturm-ruger--company-inc-302911028.html": [
@@ -2019,6 +2043,10 @@
    1792441852,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/crowell--moring-continues-to-expand-corporate-practice-with-addition-of-ma-partner-jeryl-bowers-in-los-angeles-302913709.html": [
+   1792508399,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/csl-group-acquires-simpl-wireless-to-bring-critical-connectivity-to-north-america-302910607.html": [
    1792150202,
    "classified:none"
@@ -2063,9 +2091,17 @@
    1792413712,
    "classified:possible_offer"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/essex-investment-management-company-joins-shelton-capital-management-302913470.html": [
+   1792508400,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/ff-eai-robotics-ffr-and-ff-jointly-launch-ff-nova-first-embodied-ai-humanoid-robot-priced-below-2-500-in-us-ff-nova-mini-physical-ai-spark-program-curriculum-nova-reinforcement-learning-developer-program-and-developer-com-302910863.html": [
    1792122913,
    "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/first-legal-deepens-its-new-york-presence-with-acquisition-of-aaa-attorney-service-302913242.html": [
+   1792508400,
+   "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/flex-completes-acquisition-of-epc-power-expanding-power-conversion-capabilities-for-ai-data-centers-and-grid-applications-302907691.html": [
    1791993871,
@@ -2079,13 +2115,29 @@
    1791993871,
    "bootstrap"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/formidium-expands-ai-native-fund-administration-in-europe-with-acquisition-of-ci-fund-services-sa-302913049.html": [
+   1792508401,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/further-update-on-ardagh-metal-packaging-sa-sales-process-302910106.html": [
    1792072573,
+   "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/ga-group-appoints-bill-soncini-and-marc-musitano-as-co-presidents-of-ga-groups-advisory--valuation-services-segment-302913697.html": [
+   1792508399,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/gopro-files-preliminary-proxy-statement-proposed-merger-with-starman-optical-on-track-302912646.html": [
    1792416660,
    "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/hig-whitehorse-provides-financing-to-be-cloud-and-qualityhosting-302913061.html": [
+   1792508401,
+   "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/hig-whitehorse-provides-financing-to-be-cloud-and-qualityhosting-302913107.html": [
+   1792508401,
+   "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/humanly-acquires-careerarc-to-build-an-always-on-candidate-pipeline-for-high-volume-hiring-302907965.html": [
    1791993871,
@@ -2095,6 +2147,10 @@
    1792183964,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/ibm-ventures-invests-in-leena-ai-to-accelerate-agentic-ai-across-the-enterprise-back-office-302914251.html": [
+   1792508399,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/ixl-learning-acquires-noredink-302912835.html": [
    1792432277,
    "classified:none"
@@ -2102,6 +2158,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/kapital-agrees-to-acquire-ai-startup-woz-for-30m-to-enhance-capabilities-of-ai-native-banking-platform-302912404.html": [
    1792419708,
    "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/kimberly-clark-corporation-announces-pricing-of-4-9-billion-private-offering-of-senior-notes-302913225.html": [
+   1792508401,
+   "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/kort-payments-to-acquire-aptpay-expanding-real-time-payments-and-payment-orchestration-across-north-america-302912058.html": [
    1792413712,
@@ -2235,8 +2295,16 @@
    1792134503,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/platinum-equity-to-acquire-trime-in-partnership-with-founder-and-management-302913190.html": [
+   1792508401,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/radnostix-and-nano-nuclear-energy-announce-joint-submission-of-letter-of-intent-to-nrc-seeking-consent-for-transfer-of-license-sub-1011-following-lea-county-approval-of-property-loi-302912368.html": [
    1792413712,
+   "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/red-group-and-industrial-design-solutions-combine-under-ceo-carl-fangue-302913407.html": [
+   1792508400,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/robots--pencils-acquires-tiger-pistol-to-scale-reusable-agentic-patterns-into-products-302910257.html": [
@@ -2259,6 +2327,10 @@
    1792008936,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/southern-paving--milling-announces-acquisition-of-carolina-site-302913842.html": [
+   1792508400,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/sta-jets-to-acquire-international-jet-continuing-its-rapid-expansion-throughout-private-aviation-302909302.html": [
    1792060329,
    "classified:none"
@@ -2274,6 +2346,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/tessera-makes-payment-to-secure-previously-granted-option-on-world-leader-in-tethered-aerostat-and-aerospace-technology-302910145.html": [
    1792072573,
    "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/the-partner-companies-acquires-advanced-cnc-industries-inc-increasing-manufacturing-capacity-for-aerospace-defense-medical-and-energy-customers-302914204.html": [
+   1792508399,
+   "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/tko-hotels-calls-on-service-properties-trust-to-engage-on-2-0-billion-all-cash-offer-to-acquire-hospitality-portfolio-302909178.html": [
    1792069810,
@@ -3367,6 +3443,14 @@
    1792500624,
    "filtered (none)"
   ],
+  "sec:0001213900-26-110874": [
+   1792508383,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-110876": [
+   1792508383,
+   "filtered (none)"
+  ],
   "sec:0001214659-26-013022": [
    1792406150,
    "filtered (none)"
@@ -3821,6 +3905,22 @@
   ],
   "sec:0002071844-26-001407": [
    1792427579,
+   "filtered (none)"
+  ],
+  "sec:0002071844-26-001416": [
+   1792508383,
+   "filtered (none)"
+  ],
+  "sec:0002071844-26-001417": [
+   1792508383,
+   "filtered (none)"
+  ],
+  "sec:0002071844-26-001418": [
+   1792508383,
+   "filtered (none)"
+  ],
+  "sec:0002071844-26-001419": [
+   1792508383,
    "filtered (none)"
   ],
   "sec:0002071876-26-000249": [
