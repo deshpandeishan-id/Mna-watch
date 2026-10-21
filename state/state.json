@@ -49,6 +49,13 @@
    "ts": 1792152265,
    "url": "https://www.prnewswire.com/news-releases/beretta-holding-sa-announces-preliminary-results-of-cash-tender-offer-for-shares-of-sturm-ruger--company-inc-302911028.html"
   },
+  "cavitation technologies|possible_offer": {
+   "acquirer": "",
+   "source": "sec",
+   "title": "SC TO-T – Cavitation Technologies, Inc. (Subject)",
+   "ts": 1792591938,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376793/000168316826007992/0001683168-26-007992-index.htm"
+  },
   "decibel comments on tender offer by ewing morris for up to 6 8 of common shares at 1 91 per share|possible_offer": {
    "acquirer": "",
    "source": "prnewswire",
@@ -4493,6 +4500,10 @@
   "sec:0001683168-26-007951": [
    1792425236,
    "filtered (none)"
+  ],
+  "sec:0001683168-26-007992": [
+   1792591938,
+   "classified:possible_offer"
   ],
   "sec:0001692951-26-000193": [
    1792170916,
