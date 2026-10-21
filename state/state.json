@@ -35,6 +35,13 @@
    "ts": 1792044757,
    "url": "https://www.eqs-news.com/de/news/corporate/all-for-one-uebernahmeangebot-von-vinci-energies-vollzogen-delisting-vereinbarung-abgeschlossen-und-delisting-erwerbsangebot-von-vinci-energies-angekuendigt/321ce122-8684-44a4-8919-d9824f1bffb4_de"
   },
+  "23 38 corporate crown nl bidco b v corporate qiagen and eqt private equity announce agreement on a recommended voluntary all cash public takeover offer|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "23:38 Corporate Crown NL Bidco B.V. Corporate QIAGEN and EQT Private Equity announce agreement on a recommended voluntary all-cash public takeover offer ",
+   "ts": 1792619797,
+   "url": "https://www.eqs-news.com/de/news/corporate/qiagen-and-eqt-private-equity-announce-agreement-on-a-recommended-voluntary-all-cash-public-takeover-offer/34f2112f-4886-4d98-9d11-d63eed643eb5_de"
+  },
   "ashtead technology|firm": {
    "acquirer": "Pine Acquisition UK Bidco Limited (a company controlled by funds managed and advised by Ember Infrastructure Management, LP and its affiliates)",
    "source": "uk_panel",
@@ -459,6 +466,10 @@
    1792395308,
    "filtered (none)"
   ],
+  "eqs:34f2112f-4886-4d98-9d11-d63eed643eb5": [
+   1792619797,
+   "classified:possible_offer"
+  ],
   "eqs:35120640-1522-4a54-9c9b-91c698eb7ff9": [
    1792488728,
    "filtered (none)"
@@ -637,6 +648,10 @@
   ],
   "eqs:51961b9e-58e4-4b4d-ae1f-224ae268a8a1": [
    1792079791,
+   "filtered (none)"
+  ],
+  "eqs:5227b334-4681-4e6a-897f-52e7e61994ad": [
+   1792619797,
    "filtered (none)"
   ],
   "eqs:5288a8f4-8555-4e23-a93a-a403eeaa5d6c": [
@@ -4357,6 +4372,14 @@
   ],
   "sec:0001213900-26-111415": [
    1792617382,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-111421": [
+   1792619787,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-111424": [
+   1792619787,
    "filtered (none)"
   ],
   "sec:0001214659-26-013022": [
