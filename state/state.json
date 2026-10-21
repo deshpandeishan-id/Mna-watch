@@ -35,6 +35,13 @@
    "ts": 1792044757,
    "url": "https://www.eqs-news.com/de/news/corporate/all-for-one-uebernahmeangebot-von-vinci-energies-vollzogen-delisting-vereinbarung-abgeschlossen-und-delisting-erwerbsangebot-von-vinci-energies-angekuendigt/321ce122-8684-44a4-8919-d9824f1bffb4_de"
   },
+  "ashtead technology|firm": {
+   "acquirer": "Pine Acquisition UK Bidco Limited (a company controlled by funds managed and advised by Ember Infrastructure Management, LP and its affiliates)",
+   "source": "uk_panel",
+   "title": "UK offeror identified for Ashtead Technology Holdings plc: Pine Acquisition UK Bidco Limited (a company controlled by funds managed and advised by Ember Infrastructure Management, LP and its affiliates)",
+   "ts": 1792566744,
+   "url": "https://www.thetakeoverpanel.org.uk/disclosure/disclosure-table"
+  },
   "beretta announces preliminary results of cash tender offer for shares of sturm ruger amp|possible_offer": {
    "acquirer": "",
    "source": "prnewswire",
@@ -357,6 +364,14 @@
    1792044757,
    "classified:possible_offer"
   ],
+  "eqs:32202d65-d607-4aaf-9066-a06f66525afa": [
+   1792566753,
+   "filtered (none)"
+  ],
+  "eqs:34852472-dad6-478c-988e-2bd3ebd2e7bd": [
+   1792566753,
+   "filtered (none)"
+  ],
   "eqs:348b4d2d-8ec4-4b3c-ae0c-7a79aab08ece": [
    1792395308,
    "filtered (none)"
@@ -471,6 +486,10 @@
   ],
   "eqs:494f770e-0926-494d-874a-7fb886b66695": [
    1792118404,
+   "filtered (none)"
+  ],
+  "eqs:4a0b48a0-b51c-46f8-879f-8c9f501b8578": [
+   1792566753,
    "filtered (none)"
   ],
   "eqs:4b5ba14a-f431-4f97-a585-c81d69d6b702": [
@@ -729,6 +748,10 @@
    1792392133,
    "filtered (none)"
   ],
+  "eqs:78a92f7b-3e8d-401f-b5f4-320b709077fb": [
+   1792566753,
+   "filtered (none)"
+  ],
   "eqs:78ae9a2e-7e4e-4129-9843-7f8643545563": [
    1792173173,
    "filtered (none)"
@@ -935,6 +958,10 @@
   ],
   "eqs:988a646b-81ea-45fe-ab1c-a7c75fc7ed7a": [
    1792416653,
+   "filtered (none)"
+  ],
+  "eqs:99ee6e59-d1db-4bd3-a3cb-5c6f225e6cff": [
+   1792566753,
    "filtered (none)"
   ],
   "eqs:9a8b34d3-8cb2-43d9-a9fd-aa268d36ae33": [
@@ -4516,6 +4543,10 @@
   "uk_panel:case:1642:offeror:Ember Infrastructure Management, LP (on behalf of its managed and advised investment funds):possible": [
    1791993862,
    "bootstrap"
+  ],
+  "uk_panel:case:1642:offeror:Pine Acquisition UK Bidco Limited (a company controlled by funds managed and advised by Ember Infrastructure Management, LP and its affiliates):firm": [
+   1792566744,
+   "structured"
   ],
   "uk_panel:case:1643": [
    1791993862,
