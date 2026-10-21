@@ -77,6 +77,13 @@
    "ts": 1792495778,
    "url": "https://live.euronext.com/en/products/equities/company-news/2026-10-20-gulf-keystone-combine-shamaran-petroleum"
   },
+  "lexibook communique addendum expert independant|possible_offer": {
+   "acquirer": "",
+   "source": "euronext",
+   "title": "Lexibook Communique Addendum Expert Independant",
+   "ts": 1792599274,
+   "url": "https://live.euronext.com/fr/products/equities/company-news/2026-10-21-lexibook-communique-addendum-expert-independant"
+  },
   "mobico|possible_offer": {
    "acquirer": "Autobuses de Leon, S.L.",
    "source": "uk_panel",
@@ -175,6 +182,10 @@
   ],
   "eqs:06fac08c-a6bc-4604-b92c-c892b77bd0fd": [
    1792572310,
+   "filtered (none)"
+  ],
+  "eqs:07adbd90-1928-43a8-a2a2-e2f6e40bb699": [
+   1792599276,
    "filtered (none)"
   ],
   "eqs:09321278-c211-4d95-b9fb-a204b878b00e": [
@@ -277,6 +288,10 @@
    1792143266,
    "filtered (none)"
   ],
+  "eqs:1c0b3bdb-0a82-4e6b-b0a7-5166425e678b": [
+   1792599276,
+   "filtered (none)"
+  ],
   "eqs:1c3c67fd-e73b-4680-bfb5-85f6f8084278": [
    1792066643,
    "filtered (medium)"
@@ -332,6 +347,10 @@
   "eqs:246ae390-4607-479e-a91a-46e313e5dfcf": [
    1791993864,
    "bootstrap"
+  ],
+  "eqs:2498bc0b-1521-43eb-bfdb-6543699e7c97": [
+   1792599276,
+   "filtered (none)"
   ],
   "eqs:2530caa1-953b-40ca-b035-7b178362847d": [
    1792044757,
@@ -1569,6 +1588,10 @@
    1792493625,
    "filtered (none)"
   ],
+  "eqs:f2a04c81-9de6-4635-bee6-7c3334b271dc": [
+   1792599276,
+   "filtered (none)"
+  ],
   "eqs:f2ef2216-4172-43a9-a175-ffc4c53cc334": [
    1792077248,
    "filtered (none)"
@@ -2359,6 +2382,46 @@
   ],
   "euronext:12917692 at https://live.euronext.com": [
    1792589127,
+   "filtered (none)"
+  ],
+  "euronext:12917751 at https://live.euronext.com": [
+   1792599274,
+   "classified:possible_offer"
+  ],
+  "euronext:12917752 at https://live.euronext.com": [
+   1792599274,
+   "filtered (none)"
+  ],
+  "euronext:12917753 at https://live.euronext.com": [
+   1792599274,
+   "filtered (none)"
+  ],
+  "euronext:12917755 at https://live.euronext.com": [
+   1792599274,
+   "filtered (none)"
+  ],
+  "euronext:12917756 at https://live.euronext.com": [
+   1792599274,
+   "filtered (none)"
+  ],
+  "euronext:12917757 at https://live.euronext.com": [
+   1792599274,
+   "filtered (none)"
+  ],
+  "euronext:12917758 at https://live.euronext.com": [
+   1792599274,
+   "filtered (none)"
+  ],
+  "euronext:12917759 at https://live.euronext.com": [
+   1792599274,
+   "filtered (none)"
+  ],
+  "euronext:12917760 at https://live.euronext.com": [
+   1792599274,
+   "filtered (none)"
+  ],
+  "euronext:12917762 at https://live.euronext.com": [
+   1792599274,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/-teg-----------302909728.html": [
