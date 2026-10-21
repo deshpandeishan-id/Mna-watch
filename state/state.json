@@ -83,6 +83,13 @@
    "title": "SPIE successfully completes the refinancing of its ORNANEs due January 2028, further strengthening financial flexibility",
    "ts": 1792551280,
    "url": "https://live.euronext.com/en/products/equities/company-news/2026-10-20-spie-successfully-completes-refinancing-its-ornanes-due"
+  },
+  "trading update|possible_offer": {
+   "acquirer": "",
+   "source": "euronext",
+   "title": "Trading Update",
+   "ts": 1792563027,
+   "url": "https://live.euronext.com/en/products/equities/company-news/2026-10-21-trading-update"
   }
  },
  "initialised_sources": [
@@ -1414,6 +1421,10 @@
    1792079791,
    "filtered (none)"
   ],
+  "eqs:f75429c3-d09c-4beb-8e90-1e13e87061c2": [
+   1792563029,
+   "filtered (none)"
+  ],
   "eqs:f77581c6-fb12-4d0a-806a-a9f216258af8": [
    1791993864,
    "bootstrap"
@@ -2073,6 +2084,46 @@
   "euronext:12917466 at https://live.euronext.com": [
    1792551280,
    "filtered (none)"
+  ],
+  "euronext:12917579 at https://live.euronext.com": [
+   1792563027,
+   "filtered (none)"
+  ],
+  "euronext:12917580 at https://live.euronext.com": [
+   1792563027,
+   "filtered (none)"
+  ],
+  "euronext:12917581 at https://live.euronext.com": [
+   1792563027,
+   "filtered (none)"
+  ],
+  "euronext:12917582 at https://live.euronext.com": [
+   1792563027,
+   "filtered (none)"
+  ],
+  "euronext:12917583 at https://live.euronext.com": [
+   1792563027,
+   "filtered (none)"
+  ],
+  "euronext:12917584 at https://live.euronext.com": [
+   1792563027,
+   "filtered (none)"
+  ],
+  "euronext:12917585 at https://live.euronext.com": [
+   1792563027,
+   "filtered (none)"
+  ],
+  "euronext:12917586 at https://live.euronext.com": [
+   1792563027,
+   "filtered (none)"
+  ],
+  "euronext:12917587 at https://live.euronext.com": [
+   1792563027,
+   "filtered (none)"
+  ],
+  "euronext:12917588 at https://live.euronext.com": [
+   1792563027,
+   "classified:possible_offer"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/-teg-----------302909728.html": [
    1792050761,
