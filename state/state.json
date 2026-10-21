@@ -56,6 +56,13 @@
    "ts": 1792591938,
    "url": "https://www.sec.gov/Archives/edgar/data/1376793/000168316826007992/0001683168-26-007992-index.htm"
   },
+  "cementos pacasmayo saa|possible_offer": {
+   "acquirer": "",
+   "source": "sec",
+   "title": "SC TO-T – CEMENTOS PACASMAYO SAA (Subject)",
+   "ts": 1792617382,
+   "url": "https://www.sec.gov/Archives/edgar/data/1221029/000114036126040406/0001140361-26-040406-index.htm"
+  },
   "decibel comments on tender offer by ewing morris for up to 6 8 of common shares at 1 91 per share|possible_offer": {
    "acquirer": "",
    "source": "prnewswire",
@@ -802,6 +809,10 @@
   ],
   "eqs:6e3a5523-bd9c-42ac-b277-7c3b25bb121f": [
    1792411022,
+   "filtered (none)"
+  ],
+  "eqs:70888352-e741-40e0-b657-52605e2ded57": [
+   1792617391,
    "filtered (none)"
   ],
   "eqs:7132498e-4a32-4833-9d64-12bf9893169c": [
@@ -3540,6 +3551,10 @@
    1792500624,
    "classified:possible_offer"
   ],
+  "sec:0001140361-26-040406": [
+   1792617382,
+   "classified:possible_offer"
+  ],
   "sec:0001171843-26-006667": [
    1792095980,
    "filtered (none)"
@@ -4008,8 +4023,16 @@
    1792615663,
    "filtered (none)"
   ],
+  "sec:0001193125-26-427908": [
+   1792617382,
+   "filtered (none)"
+  ],
   "sec:0001193125-26-427930": [
    1792615663,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-427970": [
+   1792617382,
    "filtered (none)"
   ],
   "sec:0001193805-26-001376": [
@@ -4324,6 +4347,18 @@
    1792615663,
    "filtered (none)"
   ],
+  "sec:0001213900-26-111377": [
+   1792617382,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-111411": [
+   1792617382,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-111415": [
+   1792617382,
+   "filtered (none)"
+  ],
   "sec:0001214659-26-013022": [
    1792406150,
    "filtered (none)"
@@ -4580,6 +4615,10 @@
    1792615663,
    "filtered (none)"
   ],
+  "sec:0001493152-26-047930": [
+   1792617382,
+   "filtered (none)"
+  ],
   "sec:0001506293-26-000143": [
    1792098170,
    "filtered (none)"
@@ -4734,6 +4773,10 @@
   ],
   "sec:0001753926-26-001940": [
    1792060313,
+   "filtered (none)"
+  ],
+  "sec:0001753926-26-001972": [
+   1792617382,
    "filtered (none)"
   ],
   "sec:0001756770-26-000131": [
