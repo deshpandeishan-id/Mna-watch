@@ -49,6 +49,13 @@
    "ts": 1792152265,
    "url": "https://www.prnewswire.com/news-releases/beretta-holding-sa-announces-preliminary-results-of-cash-tender-offer-for-shares-of-sturm-ruger--company-inc-302911028.html"
   },
+  "decibel comments on tender offer by ewing morris for up to 6 8 of common shares at 1 91 per share|possible_offer": {
+   "acquirer": "",
+   "source": "prnewswire",
+   "title": "Decibel Comments on Tender Offer by Ewing Morris for up to 6.8% of Common Shares at $1.91 per Share",
+   "ts": 1792589136,
+   "url": "https://www.prnewswire.com/news-releases/decibel-comments-on-tender-offer-by-ewing-morris-for-up-to-6-8-of-common-shares-at-1-91-per-share-302915523.html"
+  },
   "eqvista launches sponsored tender offers expanding private market liquidity capabilities|possible_offer": {
    "acquirer": "",
    "source": "prnewswire",
@@ -787,6 +794,10 @@
    1792082006,
    "filtered (none)"
   ],
+  "eqs:75062a79-4e45-415f-af37-3cd6ea76742a": [
+   1792589129,
+   "filtered (none)"
+  ],
   "eqs:75743c78-6fb6-4300-9d38-70c4178a94bc": [
    1792577190,
    "filtered (none)"
@@ -1387,6 +1398,10 @@
    1792419700,
    "filtered (none)"
   ],
+  "eqs:d6e396b9-0c66-4f64-8eeb-bbbea669330f": [
+   1792589129,
+   "filtered (none)"
+  ],
   "eqs:d9799ceb-d3df-43cc-ae36-b9564519332c": [
    1792406154,
    "filtered (none)"
@@ -1409,6 +1424,10 @@
   ],
   "eqs:ddbfcce9-d8e7-42f7-bbad-8ccfb03548ad": [
    1792406154,
+   "filtered (none)"
+  ],
+  "eqs:dec0d1b3-2752-4da9-8c66-541fe036e8cf": [
+   1792589129,
    "filtered (none)"
   ],
   "eqs:df5bb0f4-02b7-4b16-b43d-f1709ee28139": [
@@ -2287,6 +2306,46 @@
    1792574472,
    "filtered (none)"
   ],
+  "euronext:12917683 at https://live.euronext.com": [
+   1792589127,
+   "filtered (none)"
+  ],
+  "euronext:12917684 at https://live.euronext.com": [
+   1792589127,
+   "filtered (none)"
+  ],
+  "euronext:12917685 at https://live.euronext.com": [
+   1792589127,
+   "filtered (none)"
+  ],
+  "euronext:12917686 at https://live.euronext.com": [
+   1792589127,
+   "filtered (none)"
+  ],
+  "euronext:12917687 at https://live.euronext.com": [
+   1792589127,
+   "filtered (none)"
+  ],
+  "euronext:12917688 at https://live.euronext.com": [
+   1792589127,
+   "filtered (none)"
+  ],
+  "euronext:12917689 at https://live.euronext.com": [
+   1792589127,
+   "filtered (none)"
+  ],
+  "euronext:12917690 at https://live.euronext.com": [
+   1792589127,
+   "filtered (none)"
+  ],
+  "euronext:12917691 at https://live.euronext.com": [
+   1792589127,
+   "filtered (none)"
+  ],
+  "euronext:12917692 at https://live.euronext.com": [
+   1792589127,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/-teg-----------302909728.html": [
    1792050761,
    "filtered (none)"
@@ -2319,6 +2378,10 @@
    1792508401,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/analog-devices-recommends-shareholders-reject-mini-tender-offer-by-tutanota-llc-302914283.html": [
+   1792589138,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/ara-infrastructure-acquires-majority-interest-in-pacific-ag-north-americas-largest-crop-residue-supply-and-logistics-company-302907830.html": [
    1791993871,
    "bootstrap"
@@ -2335,6 +2398,10 @@
    1792416661,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/arthur-j-gallagher--co-acquires-the-mund-group-ltd-302912573.html": [
+   1792589138,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/assa-abloy-sells-pki-business-unit-to-vista-equity-partners-302911633.html": [
    1792183964,
    "filtered (none)"
@@ -2349,6 +2416,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/assa-abloy-sells-pki-business-unit-to-vista-equity-partners-302911805.html": [
    1792229135,
+   "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/augeo-unites-as-one-company-to-give-enterprise-clients-a-single-partner-for-loyalty-and-engagement-302914859.html": [
+   1792589138,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/aurora-cannabis-reaffirms-recommendation-to-shareholders-reject-curaleafs-revised-hostile-bid-preserve-opportunities-for-future-upside-302909066.html": [
@@ -2419,6 +2490,10 @@
    1792441852,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/cpl-expands-chicago-midwest-footprint-through-acquisition-of-bailey-edward-302915059.html": [
+   1792589139,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/crowell--moring-continues-to-expand-corporate-practice-with-addition-of-ma-partner-jeryl-bowers-in-los-angeles-302913709.html": [
    1792508399,
    "filtered (none)"
@@ -2438,6 +2513,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/csl-group-ubernimmt-simpl-wireless-um-critical-connectivity-nach-nordamerika-zu-bringen-302910837.html": [
    1792150200,
    "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/decibel-comments-on-tender-offer-by-ewing-morris-for-up-to-6-8-of-common-shares-at-1-91-per-share-302915523.html": [
+   1792589136,
+   "classified:possible_offer"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/die-usbekische-hospitality-gruppe-teg-schlieWt-unternehmenszusammenschluss-in-den-usa-ab-302909107.html": [
    1792011217,
@@ -2542,6 +2621,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/hr-path-starkt-seine-prasenz-in-australien-mit-der-strategischen-akquisition-von-payroll-experts-australia-302915170.html": [
    1792569696,
    "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/hr-path-strengthens-its-australian-presence-with-strategic-acquisition-of-payroll-experts-australia-302915161.html": [
+   1792589137,
+   "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/hr-path-strengthens-its-australian-presence-with-strategic-acquisition-of-payroll-experts-australia-302915164.html": [
    1792569697,
@@ -2751,6 +2834,10 @@
    1792510612,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/shrieve-chemical-company-acquires-research-solutions-group-302914663.html": [
+   1792589139,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/simplicity-group-acquires-maia-wealth-expanding-wealth-management-capabilities-with-new-denver-team-302908053.html": [
    1791993871,
    "bootstrap"
@@ -2769,6 +2856,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/sta-jets-to-acquire-international-jet-continuing-its-rapid-expansion-throughout-private-aviation-302909302.html": [
    1792060329,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/stord-acquires-ams-fulfillment-enhancing-its-market-leading-scale-and-network-coverage-302915069.html": [
+   1792589137,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/sunbound-acquires-richter-healthcare-consultants-bringing-decades-of-financial-trust-and-expertise-in-senior-living-revenue-management-to-sunbounds-technology-platform-302909212.html": [
@@ -3727,6 +3818,10 @@
    1792577180,
    "filtered (none)"
   ],
+  "sec:0001193125-26-427316": [
+   1792589127,
+   "filtered (none)"
+  ],
   "sec:0001193805-26-001376": [
    1792181541,
    "filtered (none)"
@@ -4097,6 +4192,10 @@
   ],
   "sec:0001437749-26-033007": [
    1792524775,
+   "filtered (none)"
+  ],
+  "sec:0001437749-26-033069": [
+   1792589127,
    "filtered (none)"
   ],
   "sec:0001451505-26-000075": [
