@@ -76,6 +76,13 @@
    "title": "SC TO-T – SOUNDTHINKING, INC. (Subject)",
    "ts": 1792495777,
    "url": "https://www.sec.gov/Archives/edgar/data/1351636/000114036126040176/0001140361-26-040176-index.htm"
+  },
+  "spie successfully completes refinancing of its ornanes due january 2028 further strengthening financial flexibility|possible_offer": {
+   "acquirer": "",
+   "source": "euronext",
+   "title": "SPIE successfully completes the refinancing of its ORNANEs due January 2028, further strengthening financial flexibility",
+   "ts": 1792551280,
+   "url": "https://live.euronext.com/en/products/equities/company-news/2026-10-20-spie-successfully-completes-refinancing-its-ornanes-due"
   }
  },
  "initialised_sources": [
@@ -1993,6 +2000,46 @@
   ],
   "euronext:12917288 at https://live.euronext.com": [
    1792495778,
+   "filtered (none)"
+  ],
+  "euronext:12917454 at https://live.euronext.com": [
+   1792551280,
+   "filtered (none)"
+  ],
+  "euronext:12917455 at https://live.euronext.com": [
+   1792551280,
+   "filtered (none)"
+  ],
+  "euronext:12917456 at https://live.euronext.com": [
+   1792551280,
+   "filtered (none)"
+  ],
+  "euronext:12917458 at https://live.euronext.com": [
+   1792551280,
+   "filtered (none)"
+  ],
+  "euronext:12917459 at https://live.euronext.com": [
+   1792551280,
+   "filtered (none)"
+  ],
+  "euronext:12917460 at https://live.euronext.com": [
+   1792551280,
+   "filtered (none)"
+  ],
+  "euronext:12917461 at https://live.euronext.com": [
+   1792551280,
+   "filtered (none)"
+  ],
+  "euronext:12917464 at https://live.euronext.com": [
+   1792551280,
+   "filtered (none)"
+  ],
+  "euronext:12917465 at https://live.euronext.com": [
+   1792551280,
+   "classified:possible_offer"
+  ],
+  "euronext:12917466 at https://live.euronext.com": [
+   1792551280,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/-teg-----------302909728.html": [
