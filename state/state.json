@@ -105,6 +105,13 @@
    "ts": 1792574471,
    "url": "https://www.thetakeoverpanel.org.uk/disclosure/disclosure-table"
   },
+  "qiagen|possible_offer": {
+   "acquirer": "",
+   "source": "sec",
+   "title": "SC TO-C – QIAGEN N.V. (Subject)",
+   "ts": 1792681085,
+   "url": "https://www.sec.gov/Archives/edgar/data/1015820/000110465926117921/0001104659-26-117921-index.htm"
+  },
   "skyai|possible_offer": {
    "acquirer": "",
    "source": "sec",
@@ -1042,6 +1049,10 @@
    1792082006,
    "filtered (none)"
   ],
+  "eqs:77d19fa5-a03e-4d6c-a863-aa0ec4f06aa0": [
+   1792681088,
+   "filtered (none)"
+  ],
   "eqs:783a8bb9-7dcb-4fb8-996d-da39fc5c98f7": [
    1792416653,
    "filtered (none)"
@@ -1582,6 +1593,10 @@
    1792503616,
    "filtered (none)"
   ],
+  "eqs:c3230b0a-3482-451b-be87-7577c872a7a3": [
+   1792681088,
+   "filtered (none)"
+  ],
   "eqs:c3c2e54b-a665-4455-a146-c85cfc61a7c9": [
    1792473050,
    "filtered (none)"
@@ -1960,6 +1975,10 @@
   ],
   "eqs:fdce4755-14e9-4d8d-8521-946271319f4d": [
    1792077248,
+   "filtered (none)"
+  ],
+  "eqs:fe3bfb66-341e-4c8d-b856-679891c6a20a": [
+   1792681088,
    "filtered (none)"
   ],
   "eqs:ff22bd31-81b3-4854-bc23-cc62d1ac9cf3": [
@@ -3909,6 +3928,10 @@
   "sec:0001104659-26-117912": [
    1792663733,
    "filtered (none)"
+  ],
+  "sec:0001104659-26-117921": [
+   1792681085,
+   "classified:possible_offer"
   ],
   "sec:0001104659-26-117963": [
    1792666026,
