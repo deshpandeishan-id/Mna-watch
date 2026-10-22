@@ -378,12 +378,20 @@
    1792599276,
    "filtered (none)"
   ],
+  "eqs:24b7203d-1219-4e92-9579-87df80a874f0": [
+   1792647105,
+   "filtered (none)"
+  ],
   "eqs:2530caa1-953b-40ca-b035-7b178362847d": [
    1792044757,
    "filtered (none)"
   ],
   "eqs:274d7212-477e-4407-ba6b-73a1814ba0ca": [
    1792495780,
+   "filtered (none)"
+  ],
+  "eqs:27b071b6-aea7-4ce8-8321-fe9ec602cca8": [
+   1792647105,
    "filtered (none)"
   ],
   "eqs:2933434d-6f6d-4449-ac7b-24b2d84d218d": [
@@ -524,6 +532,10 @@
   ],
   "eqs:3d0137fd-6b0e-4a71-9121-29e067f394e8": [
    1792512983,
+   "filtered (none)"
+  ],
+  "eqs:3d24a146-3af6-4922-b9e4-3b567ff14c3a": [
+   1792647105,
    "filtered (none)"
   ],
   "eqs:3da4c1fc-b89e-437f-9966-27d4788835bb": [
@@ -1250,6 +1262,10 @@
    1792389284,
    "classified:possible_offer"
   ],
+  "eqs:aa871064-a5b0-4c83-a1cb-623835bb9d35": [
+   1792647105,
+   "filtered (none)"
+  ],
   "eqs:ab92602b-072c-4216-aa20-6fae1aa76068": [
    1792118404,
    "filtered (none)"
@@ -1438,6 +1454,10 @@
    1791993864,
    "bootstrap"
   ],
+  "eqs:c8e58a09-6ab9-4475-9e7c-01d321285998": [
+   1792647105,
+   "filtered (none)"
+  ],
   "eqs:c9056631-69c3-492e-bd76-978ec0532d1b": [
    1792089172,
    "filtered (none)"
@@ -1452,6 +1472,10 @@
   ],
   "eqs:cb016463-cc18-4a61-9a9c-de4a56f6dc1a": [
    1792053200,
+   "filtered (none)"
+  ],
+  "eqs:cb8be385-6779-40e2-9524-729b6b064fff": [
+   1792647105,
    "filtered (none)"
   ],
   "eqs:cbb4c077-531a-458e-adce-c0dc66ce2e7f": [
@@ -2504,6 +2528,46 @@
   ],
   "euronext:12917762 at https://live.euronext.com": [
    1792599274,
+   "filtered (none)"
+  ],
+  "euronext:12917834 at https://live.euronext.com": [
+   1792647103,
+   "filtered (none)"
+  ],
+  "euronext:12917835 at https://live.euronext.com": [
+   1792647103,
+   "filtered (none)"
+  ],
+  "euronext:12917836 at https://live.euronext.com": [
+   1792647103,
+   "filtered (none)"
+  ],
+  "euronext:12917837 at https://live.euronext.com": [
+   1792647103,
+   "filtered (none)"
+  ],
+  "euronext:12917838 at https://live.euronext.com": [
+   1792647103,
+   "filtered (none)"
+  ],
+  "euronext:12917839 at https://live.euronext.com": [
+   1792647103,
+   "filtered (none)"
+  ],
+  "euronext:12917840 at https://live.euronext.com": [
+   1792647103,
+   "filtered (none)"
+  ],
+  "euronext:12917841 at https://live.euronext.com": [
+   1792647103,
+   "filtered (none)"
+  ],
+  "euronext:12917842 at https://live.euronext.com": [
+   1792647103,
+   "filtered (none)"
+  ],
+  "euronext:12917843 at https://live.euronext.com": [
+   1792647103,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/-teg-----------302909728.html": [
