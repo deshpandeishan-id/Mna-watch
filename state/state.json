@@ -35,6 +35,13 @@
    "ts": 1792044757,
    "url": "https://www.eqs-news.com/de/news/corporate/all-for-one-uebernahmeangebot-von-vinci-energies-vollzogen-delisting-vereinbarung-abgeschlossen-und-delisting-erwerbsangebot-von-vinci-energies-angekuendigt/321ce122-8684-44a4-8919-d9824f1bffb4_de"
   },
+  "20 00 corporate en eleving corporate en exchange offer for eleving 2023 2028 bonds completed|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "20:00 Corporate EN Eleving Group S.A. Corporate EN Exchange offer for Eleving Group 2023/2028 bonds (ISIN DE000A3LL7M4) completed ",
+   "ts": 1792692490,
+   "url": "https://www.eqs-news.com/de/news/corporate/exchange-offer-for-eleving-group-2023-2028-bonds-isin-de000a3ll7m4-completed/9725079e-1721-488f-8680-3428d6b02698_en"
+  },
   "23 38 corporate crown nl bidco b v corporate qiagen and eqt private equity announce agreement on a recommended voluntary all cash public takeover offer|possible_offer": {
    "acquirer": "",
    "source": "eqs",
@@ -623,6 +630,10 @@
   ],
   "eqs:3d24a146-3af6-4922-b9e4-3b567ff14c3a": [
    1792647105,
+   "filtered (none)"
+  ],
+  "eqs:3d8a5c4d-6dd6-4670-aad6-989eb2785905": [
+   1792692490,
    "filtered (none)"
   ],
   "eqs:3da4c1fc-b89e-437f-9966-27d4788835bb": [
@@ -1317,6 +1328,10 @@
    1792060322,
    "filtered (none)"
   ],
+  "eqs:9725079e-1721-488f-8680-3428d6b02698": [
+   1792692490,
+   "classified:possible_offer"
+  ],
   "eqs:9733ef2f-b020-4b09-804a-ba88a4cb3689": [
    1792500634,
    "filtered (none)"
@@ -1583,6 +1598,10 @@
   ],
   "eqs:bbd8c182-21e9-4b21-9413-20b881dbaee6": [
    1792145503,
+   "filtered (none)"
+  ],
+  "eqs:bbe80ca8-ae2c-4dc7-ad4d-cb32286ec05e": [
+   1792692490,
    "filtered (none)"
   ],
   "eqs:bcc82d32-98bd-4fab-8e99-41cbf6a56968": [
@@ -3212,6 +3231,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/greenberg-traurig-advises-opko-health-on-722m-agreement-to-sell-select-bioreference-health-assets-to-labcorp-302915762.html": [
    1792609049,
    "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/harlem-childrens-zone-acquires-fintech-platform-goalsetter-to-accelerate-universal-economic-mobility-302917320.html": [
+   1792692497,
+   "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/hig-capital-acquires-a-majority-stake-in-l4a-to-support-continued-growth-and-expansion-302916040.html": [
    1792663743,
