@@ -546,6 +546,10 @@
    1792500634,
    "filtered (none)"
   ],
+  "eqs:37ebf003-6d4d-4bbc-b46f-903ec39ad877": [
+   1792660926,
+   "filtered (none)"
+  ],
   "eqs:392d105a-d7e0-4e1d-a0f9-523b55799478": [
    1792074845,
    "filtered (none)"
@@ -1084,6 +1088,10 @@
   ],
   "eqs:83d91d55-8cd0-46ba-b438-32df6f474c2a": [
    1792560652,
+   "filtered (none)"
+  ],
+  "eqs:83fb5bea-dbd4-45a7-b69f-4984a4773ebe": [
+   1792660926,
    "filtered (none)"
   ],
   "eqs:868ae1a4-184c-46bc-83d5-947fddc1ac92": [
@@ -2642,8 +2650,16 @@
    1792647103,
    "filtered (none)"
   ],
+  "euronext:12917879 at https://live.euronext.com": [
+   1792660924,
+   "filtered (none)"
+  ],
   "euronext:12917886 at https://live.euronext.com": [
    1792649526,
+   "filtered (none)"
+  ],
+  "euronext:12917887 at https://live.euronext.com": [
+   1792660924,
    "filtered (none)"
   ],
   "euronext:12917888 at https://live.euronext.com": [
