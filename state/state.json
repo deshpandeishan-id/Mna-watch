@@ -35,6 +35,20 @@
    "ts": 1792044757,
    "url": "https://www.eqs-news.com/de/news/corporate/all-for-one-uebernahmeangebot-von-vinci-energies-vollzogen-delisting-vereinbarung-abgeschlossen-und-delisting-erwerbsangebot-von-vinci-energies-angekuendigt/321ce122-8684-44a4-8919-d9824f1bffb4_de"
   },
+  "11 30 corporate sazerac germany corporate annahmefrist fur das freiwillige offentliche ubernahmeangebot von sazerac fur die berentzen gruppe aktiengesellschaft beginnt|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "11:30 Corporate Sazerac Germany Holding GmbH Corporate Annahmefrist für das freiwillige öffentliche Übernahmeangebot von Sazerac für die Berentzen-Gruppe Aktiengesellschaft beginnt ",
+   "ts": 1792748051,
+   "url": "https://www.eqs-news.com/de/news/corporate/annahmefrist-fuer-das-freiwillige-oeffentliche-uebernahmeangebot-von-sazerac-fuer-die-berentzen-gruppe-aktiengesellschaft-beginnt/9d22b605-da0e-4b3b-bc0a-982f8608e674_de"
+  },
+  "11 30 corporate shelly corporate die bulgarische finanzaufsichtsbehorde schliet die vorlaufige prufung des freiwilligen offentlichen ubernahmeangebots fur die shelly|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "11:30 Corporate Shelly Group SE Corporate Die Bulgarische Finanzaufsichtsbehörde schließt die vorläufige Prüfung des freiwilligen öffentlichen Übernahmeangebots für die Shelly Group SE ab ",
+   "ts": 1792748050,
+   "url": "https://www.eqs-news.com/de/news/corporate/die-bulgarische-finanzaufsichtsbehoerde-schliesst-die-vorlaeufige-pruefung-des-freiwilligen-oeffentlichen-uebernahmeangebots-fuer-die-shelly-group-se-ab/edbd7bdd-1d07-4c33-83a3-6e0ab24767a2_de"
+  },
   "20 00 corporate en eleving corporate en exchange offer for eleving 2023 2028 bonds completed|possible_offer": {
    "acquirer": "",
    "source": "eqs",
@@ -360,6 +374,10 @@
    1792710684,
    "filtered (none)"
   ],
+  "eqs:1a7269ac-59c8-49f4-905f-ffe5a2121a49": [
+   1792748051,
+   "filtered (none)"
+  ],
   "eqs:1b8b83e9-c66a-4289-908a-ebe564ba30a6": [
    1792685682,
    "filtered (none)"
@@ -658,6 +676,10 @@
   ],
   "eqs:3d24a146-3af6-4922-b9e4-3b567ff14c3a": [
    1792647105,
+   "filtered (none)"
+  ],
+  "eqs:3d55d155-9d1e-4a1f-8046-a0ed356c8ac2": [
+   1792748051,
    "filtered (none)"
   ],
   "eqs:3d8a5c4d-6dd6-4670-aad6-989eb2785905": [
@@ -1468,6 +1490,10 @@
    1792411022,
    "filtered (none)"
   ],
+  "eqs:9d22b605-da0e-4b3b-bc0a-982f8608e674": [
+   1792748051,
+   "classified:possible_offer"
+  ],
   "eqs:9d687761-d970-4293-9930-f96bf9048d1d": [
    1792042784,
    "filtered (none)"
@@ -1963,6 +1989,10 @@
   "eqs:ed4afd43-1b5f-4fd1-9005-df46a1793853": [
    1792401209,
    "filtered (none)"
+  ],
+  "eqs:edbd7bdd-1d07-4c33-83a3-6e0ab24767a2": [
+   1792748050,
+   "classified:possible_offer"
   ],
   "eqs:ee3859bd-7d0f-4770-bf4e-3d77746e15ad": [
    1792048178,
@@ -3488,8 +3518,16 @@
    1792745890,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/malteurop-adquiere-la-planta-de-malteado-de-chunlei-malting-co-302917939.html": [
+   1792748057,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/malteurop-change-dechelle-avec-lacquisition-de-la-malterie-chunlei-malting-co-un-investissement-strategique-pour-son-developpement-export-302917928.html": [
    1792745890,
+   "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/malteurop-erwirbt-die-malzerei-der-chunlei-malting-co---eine-strategische-investition-die-das-geschaft-des-unternehmens-erheblich-ausweitet-und-seine-position-auf-den-exportmarkten-starkt-302917933.html": [
+   1792748057,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/mapmygenome-completes-acquisition-of-dnapower-inc-to-accelerate-north-american-expansion-in-dna-microbiome-longevity-and-precision-health-testing-302915388.html": [
