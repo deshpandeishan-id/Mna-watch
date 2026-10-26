@@ -252,6 +252,13 @@
    "ts": 1792990952,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/AF9B876B_D0B2_440B_9CBF_86CA0DA4F7D4_101239.pdf"
   },
+  "playpower and bci burke announce mutual termination of merger agreement|possible_offer": {
+   "acquirer": "",
+   "source": "prnewswire",
+   "title": "PlayPower and BCI Burke Announce Mutual Termination of Merger Agreement",
+   "ts": 1793053961,
+   "url": "https://www.prnewswire.com/news-releases/playpower-and-bci-burke-announce-mutual-termination-of-merger-agreement-302919967.html"
+  },
   "qiagen|possible_offer": {
    "acquirer": "",
    "source": "sec",
@@ -7418,6 +7425,10 @@
    1792427590,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/columbia-distributing-completes-alaska-transaction-with-rndc-establishing-a-four-state-pacific-northwest-total-beverage-platform-302919977.html": [
+   1793053960,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/construction-partners-inc-completes-florida-acquisition-302913034.html": [
    1792441852,
    "filtered (none)"
@@ -7885,6 +7896,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/platinum-equity-to-acquire-trime-in-partnership-with-founder-and-management-302913190.html": [
    1792508401,
    "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/playpower-and-bci-burke-announce-mutual-termination-of-merger-agreement-302919967.html": [
+   1793053961,
+   "classified:possible_offer"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/prc-saltillo-acquires-ner-chat-bringing-minspeak-symbols-to-glint-visual-support-platform-302915859.html": [
    1792667926,
