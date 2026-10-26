@@ -174,10 +174,15 @@
   "uk_panel",
   "euronext",
   "eqs",
-  "prnewswire"
+  "prnewswire",
+  "bse"
  ],
  "llm_by_subject": {},
  "seen": {
+  "bse:64b9b826-9e68-424c-ad2c-f780b588f0f5": [
+   1792981099,
+   "bootstrap"
+  ],
   "eqs:001f3ef1-48ad-4c74-97ae-cbd6990b8b39": [
    1792732318,
    "filtered (none)"
