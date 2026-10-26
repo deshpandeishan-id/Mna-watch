@@ -126,6 +126,13 @@
    "ts": 1792574471,
    "url": "https://www.thetakeoverpanel.org.uk/disclosure/disclosure-table"
   },
+  "mukta agriculture|possible_offer": {
+   "acquirer": "",
+   "source": "bse",
+   "title": "Mukta Agriculture Ltd: Mukta Agriculture Ltd - 535204 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+   "ts": 1792990952,
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/AF9B876B_D0B2_440B_9CBF_86CA0DA4F7D4_101239.pdf"
+  },
   "qiagen|possible_offer": {
    "acquirer": "",
    "source": "sec",
@@ -187,8 +194,16 @@
    1792988322,
    "filtered (none)"
   ],
+  "bse:320c5197-6b7d-4d5e-81d9-cc5d9a837c80": [
+   1792990954,
+   "classified:possible_offer"
+  ],
   "bse:371894ec-7202-49fe-b83a-204f025474aa": [
    1792988322,
+   "filtered (none)"
+  ],
+  "bse:3ede46d4-0409-4954-bc7d-384c2784453e": [
+   1792990950,
    "filtered (none)"
   ],
   "bse:64b9b826-9e68-424c-ad2c-f780b588f0f5": [
@@ -203,6 +218,10 @@
    1792988322,
    "filtered (none)"
   ],
+  "bse:9c3695a0-aef7-48ce-9f1b-a519943ee7ae": [
+   1792990950,
+   "filtered (none)"
+  ],
   "bse:a24d9507-3f19-42f0-8a77-73ff4cfcab9b": [
    1792983596,
    "filtered (none)"
@@ -211,8 +230,24 @@
    1792983596,
    "filtered (none)"
   ],
+  "bse:af9b876b-d0b2-440b-9cbf-86ca0da4f7d4": [
+   1792990952,
+   "classified:possible_offer"
+  ],
   "bse:bcb107a9-87ac-47d5-bd4c-d497ee56d485": [
    1792985840,
+   "filtered (none)"
+  ],
+  "bse:bd043ce3-5401-4c72-96dc-493c7fe0c99d": [
+   1792990954,
+   "filtered (none)"
+  ],
+  "bse:bdc3a571-2cf9-4bab-85c6-b296b7aef0a8": [
+   1792990954,
+   "filtered (none)"
+  ],
+  "bse:ddd4f3fd-55a4-4f4a-8c7b-7936e5bf6e43": [
+   1792990954,
    "filtered (none)"
   ],
   "bse:e5f93b29-5249-4c65-ae9c-02d77da33239": [
@@ -221,6 +256,10 @@
   ],
   "bse:e7a33076-7385-4835-9664-7236929ecddd": [
    1792983596,
+   "filtered (none)"
+  ],
+  "bse:f3cf3df7-e18a-43f5-9386-2e97d512b9d6": [
+   1792990950,
    "filtered (none)"
   ],
   "eqs:001f3ef1-48ad-4c74-97ae-cbd6990b8b39": [
