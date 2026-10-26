@@ -154,6 +154,13 @@
    "ts": 1793002736,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2E9CD33E_F12A_48EC_B7C9_FE8CCEF5B003_132807.pdf"
   },
+  "charwood energy communique du 26 octobre 2026 relatif au depot du projet doffre publique dachat simplifiee visant les actions de la societe charwood energy initiee par biomasse vision 2030|possible_offer": {
+   "acquirer": "",
+   "source": "euronext",
+   "title": "Charwood Energy: COMMUNIQUÉ DU 26 OCTOBRE 2026 RELATIF AU DÉPÔT DU PROJET D’OFFRE PUBLIQUE D’ACHAT SIMPLIFIÉE VISANT LES ACTIONS DE LA SOCIÉTÉ CHARWOOD ENERGY INITIEE PAR BIOMASSE VISION 2030.",
+   "ts": 1793041810,
+   "url": "https://live.euronext.com/fr/products/equities/company-news/2026-10-26-charwood-energy-communique-du-26-octobre-2026-relatif-au"
+  },
   "decibel comments on tender offer by ewing morris for up to 6 8 of common shares at 1 91 per share|possible_offer": {
    "acquirer": "",
    "source": "prnewswire",
@@ -2231,6 +2238,10 @@
    1793008733,
    "filtered (none)"
   ],
+  "bse:93be43de-8ec1-4094-98d3-4b4f7304d7c4": [
+   1793041820,
+   "filtered (none)"
+  ],
   "bse:93eb0ad7-2060-48aa-a2e4-4748775eb2bf": [
    1792999382,
    "filtered (none)"
@@ -2807,6 +2818,10 @@
    1793002736,
    "filtered (none)"
   ],
+  "bse:cac8754d-f0a3-4d2a-a1a8-611686928af8": [
+   1793041820,
+   "filtered (none)"
+  ],
   "bse:cae31b31-5f37-4daa-bf91-7ebdc71cf797": [
    1793002732,
    "filtered (none)"
@@ -3145,6 +3160,10 @@
   ],
   "bse:e5fe1df1-66bb-40bf-99ea-3f184e1880af": [
    1793002733,
+   "filtered (none)"
+  ],
+  "bse:e681ccb7-bcb2-476b-ba9a-6229e69f50df": [
+   1793041820,
    "filtered (none)"
   ],
   "bse:e6b5eceb-a6c2-4d37-8992-8a3743c1e788": [
@@ -5559,6 +5578,10 @@
    1792589129,
    "filtered (none)"
   ],
+  "eqs:dee2457a-77ad-4964-9eb6-dd4f1039110a": [
+   1793041811,
+   "filtered (none)"
+  ],
   "eqs:df0f7d5d-b387-4451-8617-d07e39b26ec3": [
    1793013916,
    "filtered (none)"
@@ -7119,6 +7142,46 @@
    1793035451,
    "filtered (none)"
   ],
+  "euronext:12918694 at https://live.euronext.com": [
+   1793041810,
+   "classified:possible_offer"
+  ],
+  "euronext:12918696 at https://live.euronext.com": [
+   1793041809,
+   "filtered (none)"
+  ],
+  "euronext:12918697 at https://live.euronext.com": [
+   1793041809,
+   "filtered (none)"
+  ],
+  "euronext:12918698 at https://live.euronext.com": [
+   1793041809,
+   "filtered (none)"
+  ],
+  "euronext:12918699 at https://live.euronext.com": [
+   1793041809,
+   "filtered (none)"
+  ],
+  "euronext:12918700 at https://live.euronext.com": [
+   1793041809,
+   "filtered (none)"
+  ],
+  "euronext:12918701 at https://live.euronext.com": [
+   1793041809,
+   "filtered (none)"
+  ],
+  "euronext:12918702 at https://live.euronext.com": [
+   1793041809,
+   "filtered (none)"
+  ],
+  "euronext:12918703 at https://live.euronext.com": [
+   1793041809,
+   "filtered (none)"
+  ],
+  "euronext:12918704 at https://live.euronext.com": [
+   1793041809,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/-teg-----------302909728.html": [
    1792050761,
    "filtered (none)"
@@ -7631,6 +7694,10 @@
    1792706781,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/mesirow-fiduciary-solutions-completes-acquisition-of-flexpath-strategies-plan-level-338-business-302919723.html": [
+   1793041818,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/midea-completa-la-adquisicion-de-esaote-302915414.html": [
    1792583810,
    "filtered (none)"
@@ -7894,6 +7961,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/tko-hotels-calls-on-service-properties-trust-to-engage-on-2-0-billion-all-cash-offer-to-acquire-hospitality-portfolio-302909178.html": [
    1792069810,
    "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/tko-miller-advises-retlaw-industries-inc-on-its-sale-to-aim-processing-a-portfolio-company-of-mcm-capital-partners-302919726.html": [
+   1793041817,
+   "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/trinity-acquires-verix-adding-ai-powered-next-best-action-and-omnichannel-orchestration-to-the-trinityedge-platform-302914278.html": [
    1792510610,
