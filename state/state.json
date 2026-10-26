@@ -70,6 +70,13 @@
    "ts": 1793022905,
    "url": "https://www.eqs-news.com/de/news/corporate/zf-north-america-capital-inc-announces-tender-offer/d38bc369-dba2-4de9-a49d-9427f0af68cf_de"
   },
+  "19 00 fr regulatory fr charwood energy fr regulatory fr charwood energy communique du 26 octobre 2026 relatif au depot du projet doffre publique dachat simplifiee visant les actions de la societe charwood energy initiee par biomasse vision 2030|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "19:00 FR Regulatory FR Charwood Energy FR Regulatory FR Charwood Energy: COMMUNIQUÉ DU 26 OCTOBRE 2026 RELATIF AU DÉPÔT DU PROJET D’OFFRE PUBLIQUE D’ACHAT SIMPLIFIÉE VISANT LES ACTIONS DE LA SOCIÉTÉ CHARWOOD ENERGY INITIEE PAR BIOMASSE VISION 2030. ",
+   "ts": 1793038239,
+   "url": "https://www.eqs-news.com/de/news/fr-regulatory/charwood-energy-communique-du-26-octobre-2026-relatif-au-depot-du-projet-doffre-publique-dachat-simplifiee-visant-les-actions-de-la-societe-charwood-energy-initiee-par-biomasse-visi/b4007351-354c-4974-9a19-2f7a7401298b_fr"
+  },
   "20 00 corporate en eleving corporate en exchange offer for eleving 2023 2028 bonds completed|possible_offer": {
    "acquirer": "",
    "source": "eqs",
@@ -484,6 +491,10 @@
    1793002732,
    "filtered (none)"
   ],
+  "bse:0cccf4ec-7cc1-463a-abaa-b79083c74c0f": [
+   1793038247,
+   "filtered (none)"
+  ],
   "bse:0d0b9841-e63f-4416-928e-39b66591b864": [
    1793013926,
    "filtered (none)"
@@ -542,6 +553,10 @@
   ],
   "bse:136c31ee-ca78-45a5-9933-f22735c31130": [
    1793035462,
+   "filtered (none)"
+  ],
+  "bse:13ec7854-0975-49eb-91ab-26d00f5c4e2b": [
+   1793038247,
    "filtered (none)"
   ],
   "bse:146790a3-12a4-4300-8a36-70185a64c365": [
@@ -698,6 +713,10 @@
   ],
   "bse:212af32a-032b-4b2f-a959-f9ca13e0c005": [
    1793013929,
+   "filtered (none)"
+  ],
+  "bse:2147983d-9115-4c12-8ce1-32024d8b1f39": [
+   1793038247,
    "filtered (none)"
   ],
   "bse:22649492-4289-4bb2-97ce-42526cb49753": [
@@ -1042,6 +1061,10 @@
   ],
   "bse:3bdcc35e-b4b8-4aed-b30d-0400304ce0d4": [
    1792999382,
+   "filtered (none)"
+  ],
+  "bse:3beab6d7-bb0b-443e-b676-607b9e75cc40": [
+   1793038247,
    "filtered (none)"
   ],
   "bse:3bf9fb29-4c4e-4c81-bd9e-90cccb4f07cf": [
@@ -1476,6 +1499,10 @@
    1793008733,
    "filtered (none)"
   ],
+  "bse:5af94a5d-d933-42b2-b31d-f4871edfeef2": [
+   1793038247,
+   "filtered (none)"
+  ],
   "bse:5b5bea58-041f-467c-97ce-4cf12a2fc5f1": [
    1792999382,
    "filtered (none)"
@@ -1560,6 +1587,10 @@
    1793028940,
    "filtered (none)"
   ],
+  "bse:6210a9aa-e39f-4805-88ff-8e8ed7514c96": [
+   1793038247,
+   "filtered (none)"
+  ],
   "bse:62ce123e-aca9-417a-80b8-03ad63728326": [
    1793022917,
    "filtered (none)"
@@ -1598,6 +1629,10 @@
   ],
   "bse:65b423ac-1ea8-4238-b3d5-288ca0d53f06": [
    1793028940,
+   "filtered (none)"
+  ],
+  "bse:65eca96b-8db9-4ce0-adf9-c202c27e2232": [
+   1793038247,
    "filtered (none)"
   ],
   "bse:660d29d2-a75b-49ba-a33b-eedfc193522e": [
@@ -2136,6 +2171,10 @@
    1793011263,
    "filtered (none)"
   ],
+  "bse:8ebe9a30-f517-4b80-a34d-13dd2db5feb1": [
+   1793038247,
+   "filtered (none)"
+  ],
   "bse:8ec61dce-7c75-43f6-b403-64083e409df9": [
    1793002739,
    "filtered (none)"
@@ -2202,6 +2241,10 @@
   ],
   "bse:943db346-886f-46c4-89aa-0f7cc7429ba6": [
    1793005775,
+   "filtered (none)"
+  ],
+  "bse:94a6c703-e11e-4e67-ac67-cab8fc6789a8": [
+   1793038247,
    "filtered (none)"
   ],
   "bse:9508df2b-fc05-431f-b716-1983e9ab3dc9": [
@@ -2656,6 +2699,10 @@
    1793008731,
    "filtered (none)"
   ],
+  "bse:c2fb15f2-f39b-4463-8270-fdc6cf6d2b26": [
+   1793038247,
+   "filtered (none)"
+  ],
   "bse:c37fff9d-5000-402f-a198-9d267e2ef895": [
    1793005775,
    "filtered (none)"
@@ -2776,6 +2823,10 @@
    1793008733,
    "filtered (none)"
   ],
+  "bse:cbd500f8-438c-4228-8f2f-c62d2e90660c": [
+   1793038247,
+   "filtered (none)"
+  ],
   "bse:cc5dcf25-4ff4-4e22-ab96-84a607b07c88": [
    1793002736,
    "filtered (none)"
@@ -2798,6 +2849,10 @@
   ],
   "bse:ceb4877a-3896-4245-87b9-d6ce6f66c3bb": [
    1793032290,
+   "filtered (none)"
+  ],
+  "bse:d0102cdf-fff6-4942-ac01-22168c89a360": [
+   1793038247,
    "filtered (none)"
   ],
   "bse:d0da7730-4f69-4f0c-815f-8fad53e350a3": [
@@ -2826,6 +2881,10 @@
   ],
   "bse:d4c3bf1b-5819-4cd8-8acf-f8bc6c2ae7fd": [
    1792999382,
+   "filtered (none)"
+  ],
+  "bse:d5dc0494-2fa8-4000-a0a8-66b283b3adf6": [
+   1793038247,
    "filtered (none)"
   ],
   "bse:d5e88c6e-bb97-4748-ac62-a64c0d33c68b": [
@@ -3056,6 +3115,10 @@
    1792999382,
    "filtered (none)"
   ],
+  "bse:e4c168b5-0735-49cc-a030-f058d7ebc477": [
+   1793038247,
+   "filtered (none)"
+  ],
   "bse:e4e5368a-3625-4621-9da9-5afdd0cef564": [
    1793022918,
    "filtered (none)"
@@ -3134,6 +3197,10 @@
   ],
   "bse:e9c484dd-6def-4d4b-9533-434d698e8150": [
    1793002739,
+   "filtered (none)"
+  ],
+  "bse:ea0c510c-3318-40b8-80f7-b79b3ab88a96": [
+   1793038247,
    "filtered (none)"
   ],
   "bse:ea1d61b2-29be-41b2-b58b-768e297f21ee": [
@@ -3388,6 +3455,10 @@
    1793008733,
    "filtered (none)"
   ],
+  "bse:ffb2b628-e547-4a2c-b9f9-b5f960193a00": [
+   1793038247,
+   "filtered (none)"
+  ],
   "bse:fffbfcee-a54f-447e-9658-dbd1a987b99d": [
    1793028939,
    "filtered (none)"
@@ -3466,6 +3537,10 @@
   ],
   "eqs:08608609-99a9-4992-aa97-e42f5415c861": [
    1792995580,
+   "filtered (none)"
+  ],
+  "eqs:0864e406-d125-4c1c-8e70-4ba3de5f71a5": [
+   1793038239,
    "filtered (none)"
   ],
   "eqs:08b02da8-5134-4410-aa13-ecad2516bbdb": [
@@ -3760,6 +3835,10 @@
    1792647105,
    "filtered (none)"
   ],
+  "eqs:24eb0b34-ede0-408c-a62c-ce315c087892": [
+   1793038239,
+   "filtered (none)"
+  ],
   "eqs:2530caa1-953b-40ca-b035-7b178362847d": [
    1792044757,
    "filtered (none)"
@@ -3906,6 +3985,10 @@
   ],
   "eqs:32202d65-d607-4aaf-9066-a06f66525afa": [
    1792566753,
+   "filtered (none)"
+  ],
+  "eqs:322f5bcc-20bb-4630-adc5-2fbdda2e5441": [
+   1793038238,
    "filtered (none)"
   ],
   "eqs:327ec72b-1eee-4e3c-a0f1-898b834f2ef3": [
@@ -5148,6 +5231,10 @@
    1792670271,
    "filtered (none)"
   ],
+  "eqs:b4007351-354c-4974-9a19-2f7a7401298b": [
+   1793038239,
+   "classified:possible_offer"
+  ],
   "eqs:b4bb832b-37ab-481b-b6f1-c86e29e37b73": [
    1792170919,
    "filtered (none)"
@@ -5458,6 +5545,10 @@
   ],
   "eqs:dcad4ffe-d6b1-41e8-a5f7-ee03097fbb85": [
    1793005767,
+   "filtered (none)"
+  ],
+  "eqs:dd8aa1ce-f51e-4650-a4ed-0e7621834f19": [
+   1793038239,
    "filtered (none)"
   ],
   "eqs:ddbfcce9-d8e7-42f7-bbad-8ccfb03548ad": [
@@ -7072,6 +7163,10 @@
    1792589138,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/anderson-automotive-group-expands-florida-presence-with-acquisitions-of-acura-of-fort-myers-and-lexus-of-fort-myers-302919672.html": [
+   1793038245,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/ara-infrastructure-acquires-majority-interest-in-pacific-ag-north-americas-largest-crop-residue-supply-and-logistics-company-302907830.html": [
    1791993871,
    "bootstrap"
@@ -7147,6 +7242,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/beretta-holding-sa-announces-preliminary-results-of-cash-tender-offer-for-shares-of-sturm-ruger--company-inc-302911028.html": [
    1792152265,
    "classified:possible_offer"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/bertram-capital-expands-industrial-distribution-portfolio-through-partnership-with-motion--control-enterprises-302919683.html": [
+   1793038245,
+   "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/blackford-capital-acquires-eg-middleton-inc-expanding-its-mep-services-platform-into-virginia-302907996.html": [
    1791993871,
