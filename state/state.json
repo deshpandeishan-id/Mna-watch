@@ -196,6 +196,13 @@
    "ts": 1793028936,
    "url": "https://www.prnewswire.com/news-releases/high-liner-foods-enters-into-agreement-to-be-acquired-by-umios-for-c27-00-per-share-in-cash-302919282.html"
   },
+  "installux communique relatif au resultat de l offre visant les actions de la societe et initiee par la societe financiere cce|possible_offer": {
+   "acquirer": "",
+   "source": "euronext",
+   "title": "Installux SA - Communiqué relatif au résultat de l'offre visant les actions de la société et initiée par la société Financière CCE",
+   "ts": 1793056216,
+   "url": "https://live.euronext.com/fr/products/equities/company-news/2026-10-26-installux-sa-communique-relatif-au-resultat-loffre-visant"
+  },
   "ishaan infrastructures and shelters|possible_offer": {
    "acquirer": "",
    "source": "bse",
@@ -7175,6 +7182,18 @@
   ],
   "euronext:12918684 at https://live.euronext.com": [
    1793035451,
+   "filtered (none)"
+  ],
+  "euronext:12918690 at https://live.euronext.com": [
+   1793056216,
+   "classified:possible_offer"
+  ],
+  "euronext:12918692 at https://live.euronext.com": [
+   1793056215,
+   "filtered (none)"
+  ],
+  "euronext:12918693 at https://live.euronext.com": [
+   1793056215,
    "filtered (none)"
   ],
   "euronext:12918694 at https://live.euronext.com": [
