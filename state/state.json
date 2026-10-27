@@ -196,6 +196,13 @@
    "ts": 1793028936,
    "url": "https://www.prnewswire.com/news-releases/high-liner-foods-enters-into-agreement-to-be-acquired-by-umios-for-c27-00-per-share-in-cash-302919282.html"
   },
+  "hittco tools|possible_offer": {
+   "acquirer": "",
+   "source": "bse",
+   "title": "Hittco Tools Ltd: Hittco Tools Ltd - 531661 - Public Announcement - Open Offer",
+   "ts": 1793071233,
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/616DCE62-AC7E-419D-93B3-78ECA170E2B0-083029.pdf"
+  },
   "installux communique relatif au resultat de l offre visant les actions de la societe et initiee par la societe financiere cce|possible_offer": {
    "acquirer": "",
    "source": "euronext",
@@ -1036,6 +1043,10 @@
    1793005775,
    "filtered (none)"
   ],
+  "bse:3770246c-d0a8-4a0c-aff6-064b2418688d": [
+   1793071233,
+   "filtered (none)"
+  ],
   "bse:37c73679-c3c3-4e4a-806c-4cbe2d299f04": [
    1793008733,
    "filtered (none)"
@@ -1428,6 +1439,10 @@
    1793028940,
    "filtered (none)"
   ],
+  "bse:5402f5c7-41b3-4e1b-9b2c-f9ff50af427c": [
+   1793071233,
+   "filtered (none)"
+  ],
   "bse:54440204-cc81-47eb-b858-002cfc257dc1": [
    1793028940,
    "filtered (none)"
@@ -1611,6 +1626,10 @@
   "bse:6149fc95-4a55-4c1a-b94e-22a674563371": [
    1793013924,
    "filtered (none)"
+  ],
+  "bse:616dce62-ac7e-419d-93b3-78eca170e2b0": [
+   1793071233,
+   "classified:possible_offer"
   ],
   "bse:61725b65-c66f-4e30-ae0b-5504bc6d4bc6": [
    1793028940,
