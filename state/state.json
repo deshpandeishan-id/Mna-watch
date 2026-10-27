@@ -217,6 +217,13 @@
    "ts": 1792413712,
    "url": "https://www.prnewswire.com/news-releases/eqvista-launches-company-sponsored-tender-offers-expanding-private-market-liquidity-capabilities-302911472.html"
   },
+  "financiere cce sarl communique relatif a la mise en uvre du retrait obligatoire visant les actions de la societe installux|possible_offer": {
+   "acquirer": "",
+   "source": "euronext",
+   "title": "Financière CCE SARL - Communiqué relatif à la mise en œuvre du retrait obligatoire visant les actions de la société Installux SA",
+   "ts": 1793121564,
+   "url": "https://live.euronext.com/fr/products/equities/company-news/2026-10-27-financiere-cce-sarl-communique-relatif-mise-en-oeuvre-du"
+  },
   "gallantt ispat|possible_offer": {
    "acquirer": "",
    "source": "bse",
@@ -314,6 +321,13 @@
    "title": "Jay Bharat Maruti Ltd: Jay Bharat Maruti Ltd - 520066 - Closure of Trading Window",
    "ts": 1793078391,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/454699d9-59e9-49e7-acdb-6c22f3dd0c6c.pdf"
+  },
+  "kirloskar oil engines|possible_offer": {
+   "acquirer": "",
+   "source": "bse",
+   "title": "Kirloskar Oil Engines Ltd: Kirloskar Oil Engines Ltd - 533293 - Closure of Trading Window",
+   "ts": 1793121576,
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5ec54dfa-408e-4ffd-9311-884811b1813c.pdf"
   },
   "lexibook communique addendum expert independant|possible_offer": {
    "acquirer": "",
@@ -1167,6 +1181,14 @@
    1793022918,
    "filtered (none)"
   ],
+  "bse:14d96cc5-c1a5-4ac1-891e-067af96ef398": [
+   1793121574,
+   "filtered (none)"
+  ],
+  "bse:14f2e355-8ada-43a1-b836-898a0981e279": [
+   1793121574,
+   "filtered (none)"
+  ],
   "bse:155dbaee-a726-410a-bc9c-4e6ad9079743": [
    1793028940,
    "filtered (none)"
@@ -1281,6 +1303,10 @@
   ],
   "bse:19baf10c-ec8b-4f4c-86b3-e5698e73306a": [
    1793102935,
+   "filtered (none)"
+  ],
+  "bse:19d277c1-25e8-493a-9f8d-be8df0f3b012": [
+   1793121576,
    "filtered (none)"
   ],
   "bse:19d333cb-d4e6-474c-adac-de910d867de6": [
@@ -1407,6 +1433,10 @@
    1793080751,
    "filtered (none)"
   ],
+  "bse:1e2f2cf4-f195-4345-adbe-2252e7c386b3": [
+   1793121574,
+   "filtered (none)"
+  ],
   "bse:1e36cfc9-3434-40c9-878e-c8a2ad50a62a": [
    1792999382,
    "filtered (none)"
@@ -1417,6 +1447,10 @@
   ],
   "bse:1e41de6d-17c3-4303-aca9-ce4602c4b9a3": [
    1793013925,
+   "filtered (none)"
+  ],
+  "bse:1e730646-ae8b-413d-8620-8442d1802b3c": [
+   1793121574,
    "filtered (none)"
   ],
   "bse:1ef67ffe-d026-4463-aa35-18311f2205f3": [
@@ -2055,6 +2089,10 @@
    1793106037,
    "filtered (none)"
   ],
+  "bse:33c6d733-9ba6-4cd3-bf3e-ada006f6a678": [
+   1793121576,
+   "filtered (none)"
+  ],
   "bse:33e3f90c-eabd-46a0-8856-0bc747d6ad59": [
    1793086458,
    "filtered (none)"
@@ -2455,6 +2493,10 @@
    1793002732,
    "filtered (none)"
   ],
+  "bse:42103c1e-f587-4928-9461-9a752960afaa": [
+   1793121576,
+   "filtered (none)"
+  ],
   "bse:422d1e61-8449-44de-a1d3-cd2a4328018a": [
    1793035462,
    "filtered (none)"
@@ -2561,6 +2603,10 @@
   ],
   "bse:45ba6e18-a83e-44f5-915d-7413bf420f1f": [
    1793102935,
+   "filtered (none)"
+  ],
+  "bse:45bb764a-4d98-4108-af63-ada23d6f274d": [
+   1793121574,
    "filtered (none)"
   ],
   "bse:45c16877-acc2-47f6-b4da-8793db694356": [
@@ -2771,6 +2817,10 @@
    1793083383,
    "filtered (none)"
   ],
+  "bse:4d75fc02-8c4b-4132-b013-79d51a8904bc": [
+   1793121574,
+   "filtered (none)"
+  ],
   "bse:4d9195e0-262f-491a-af94-502fb691fdf4": [
    1793028940,
    "filtered (none)"
@@ -2969,6 +3019,10 @@
   ],
   "bse:53d0d11f-2ab7-4441-9b7f-acc238d34f95": [
    1793109433,
+   "filtered (none)"
+  ],
+  "bse:53f2d163-fdc4-409c-a9d7-8013312de481": [
+   1793121574,
    "filtered (none)"
   ],
   "bse:5402f5c7-41b3-4e1b-9b2c-f9ff50af427c": [
@@ -3301,6 +3355,10 @@
   ],
   "bse:5e0fbaf8-4898-4690-a85f-7a7958f63631": [
    1793083383,
+   "filtered (none)"
+  ],
+  "bse:5e118788-d3c1-41fc-8731-7897dd336d36": [
+   1793121574,
    "filtered (none)"
   ],
   "bse:5e365b48-2658-4b3f-a249-3045c12d7329": [
@@ -3799,6 +3857,10 @@
    1793095309,
    "filtered (none)"
   ],
+  "bse:6ee11ce3-a6b1-4db1-b4ce-8ca9a12545c9": [
+   1793121574,
+   "filtered (none)"
+  ],
   "bse:6f169edf-566f-45c9-81d8-62d0dd68dff5": [
    1793011262,
    "filtered (none)"
@@ -4131,6 +4193,10 @@
    1793112475,
    "filtered (none)"
   ],
+  "bse:7b6666ba-39ce-455b-8c6e-fd3f02030713": [
+   1793121574,
+   "filtered (none)"
+  ],
   "bse:7b937719-5f5c-48bf-a136-4103421d9340": [
    1793095319,
    "filtered (none)"
@@ -4337,6 +4403,10 @@
   ],
   "bse:836d7576-f554-457d-80b6-350b2dd55b80": [
    1793008733,
+   "filtered (none)"
+  ],
+  "bse:8394d3f8-5824-4132-a7e6-eb53140ef7f3": [
+   1793121576,
    "filtered (none)"
   ],
   "bse:83d04984-0a5a-480c-9f16-e815caa1f714": [
@@ -4582,6 +4652,10 @@
   "bse:8cab5b98-7176-43d1-bbea-ecd8a017fc85": [
    1793097942,
    "filtered (none)"
+  ],
+  "bse:8d09bff9-8a87-4094-9a7e-67916a309694": [
+   1793121576,
+   "classified:possible_offer"
   ],
   "bse:8d4c225c-201f-4f4c-b014-d7fad0e07b6e": [
    1793109433,
@@ -5239,6 +5313,10 @@
    1793102937,
    "filtered (none)"
   ],
+  "bse:a59a0080-0223-4088-8bff-ad9935bd45a3": [
+   1793121576,
+   "filtered (none)"
+  ],
   "bse:a59e4bc3-88ab-442f-8b9d-44921b556e9d": [
    1793109433,
    "filtered (none)"
@@ -5503,6 +5581,10 @@
    1793097940,
    "filtered (none)"
   ],
+  "bse:af112f6c-e8bf-4080-9501-0c18a1586176": [
+   1793121574,
+   "filtered (none)"
+  ],
   "bse:af1eb69f-ec9d-4c51-8b03-126087f14aeb": [
    1793011262,
    "filtered (none)"
@@ -5597,6 +5679,10 @@
   ],
   "bse:b24cc52b-4982-4905-8a4b-5176f94179a1": [
    1793069289,
+   "filtered (none)"
+  ],
+  "bse:b263ca81-6a40-4674-9c56-09deec5bbc3c": [
+   1793121576,
    "filtered (none)"
   ],
   "bse:b2ab6521-b6b0-4bb1-8360-f097f995e02e": [
@@ -6231,6 +6317,10 @@
    1793086458,
    "filtered (none)"
   ],
+  "bse:c737601e-dff8-49ed-8959-263b42e68df0": [
+   1793121576,
+   "filtered (none)"
+  ],
   "bse:c7604e54-1992-4ba5-af68-5ac0b1806b65": [
    1793008733,
    "filtered (none)"
@@ -6517,6 +6607,10 @@
   ],
   "bse:d051afdd-23a5-48f6-9475-fdcc5b87857a": [
    1793109433,
+   "filtered (none)"
+  ],
+  "bse:d0905e60-edd1-40a5-b47c-ccf60f6c6ca3": [
+   1793121576,
    "filtered (none)"
   ],
   "bse:d09ab9d3-f6e4-41d1-a4f6-7260760f4c08": [
@@ -7511,6 +7605,10 @@
    1793022917,
    "filtered (none)"
   ],
+  "bse:f023f10d-b6ef-4027-b7e4-ffa2cbfdf8cd": [
+   1793121576,
+   "filtered (none)"
+  ],
   "bse:f0338f47-7ea4-47f5-9004-ee7ebf760e10": [
    1793089360,
    "filtered (none)"
@@ -7859,6 +7957,10 @@
    1793089360,
    "filtered (none)"
   ],
+  "bse:fb53abfa-dfbc-48d6-a310-3715bbe40aab": [
+   1793121576,
+   "filtered (none)"
+  ],
   "bse:fb58afea-b356-4491-b73f-ea2cf392eae6": [
    1793022917,
    "filtered (none)"
@@ -7921,6 +8023,10 @@
   ],
   "bse:fd4488f6-3d90-43a3-84d0-d893eae30021": [
    1793008733,
+   "filtered (none)"
+  ],
+  "bse:fd51ba9a-17e5-44ac-b7b9-fff1e0465407": [
+   1793121574,
    "filtered (none)"
   ],
   "bse:fd8b3367-b982-4fbf-a546-9e565f6f58da": [
@@ -8037,6 +8143,10 @@
   ],
   "eqs:01b40550-f491-4b62-9b5d-7455fc14dc07": [
    1792044757,
+   "filtered (none)"
+  ],
+  "eqs:01b772b5-05cf-49a0-a185-aedf1eaff879": [
+   1793121565,
    "filtered (none)"
   ],
   "eqs:0238c8f5-85ae-4049-af14-6c56028add9d": [
@@ -8327,6 +8437,10 @@
    1793112466,
    "filtered (none)"
   ],
+  "eqs:1e7539e4-9031-418c-81cb-70bd6e992bd8": [
+   1793121565,
+   "filtered (none)"
+  ],
   "eqs:1eb76a59-327c-4b6a-bf1d-b608c3152078": [
    1792574474,
    "filtered (none)"
@@ -8597,6 +8711,10 @@
   ],
   "eqs:32910666-f8fb-40a9-8d76-b5b3b86deb26": [
    1792666030,
+   "filtered (none)"
+  ],
+  "eqs:33d10be1-3422-4600-a24f-0c0a66981f46": [
+   1793121565,
    "filtered (none)"
   ],
   "eqs:343e2eda-d6f9-4222-a53c-c54ead044151": [
@@ -9851,6 +9969,10 @@
    1792760111,
    "filtered (none)"
   ],
+  "eqs:a931dc73-f57a-4740-a519-5dc589699189": [
+   1793121565,
+   "filtered (none)"
+  ],
   "eqs:a973ef43-e5ee-4994-8b63-006aeefaafb8": [
    1792166857,
    "filtered (none)"
@@ -10026,6 +10148,10 @@
   "eqs:b89f5ea5-de48-4b2e-9952-b14624e9cc98": [
    1792389283,
    "classified:possible_offer"
+  ],
+  "eqs:b8a64ce6-08fc-41a2-a4d5-2f7fa8076b01": [
+   1793121565,
+   "filtered (none)"
   ],
   "eqs:b9170117-a851-470c-9cbe-810f26747d6b": [
    1792053200,
@@ -12107,6 +12233,46 @@
    1793115206,
    "filtered (none)"
   ],
+  "euronext:12918957 at https://live.euronext.com": [
+   1793121563,
+   "filtered (none)"
+  ],
+  "euronext:12918958 at https://live.euronext.com": [
+   1793121564,
+   "filtered (none)"
+  ],
+  "euronext:12918959 at https://live.euronext.com": [
+   1793121564,
+   "filtered (none)"
+  ],
+  "euronext:12918960 at https://live.euronext.com": [
+   1793121564,
+   "classified:possible_offer"
+  ],
+  "euronext:12918961 at https://live.euronext.com": [
+   1793121564,
+   "filtered (none)"
+  ],
+  "euronext:12918962 at https://live.euronext.com": [
+   1793121564,
+   "filtered (none)"
+  ],
+  "euronext:12918964 at https://live.euronext.com": [
+   1793121563,
+   "filtered (none)"
+  ],
+  "euronext:12918965 at https://live.euronext.com": [
+   1793121564,
+   "filtered (none)"
+  ],
+  "euronext:12918966 at https://live.euronext.com": [
+   1793121564,
+   "filtered (none)"
+  ],
+  "euronext:12918974 at https://live.euronext.com": [
+   1793121563,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/-teg-----------302909728.html": [
    1792050761,
    "filtered (none)"
@@ -13017,6 +13183,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/umios-to-acquire-high-liner-foods-creating-a-vertically-integrated-global-protein-leader-302919419.html": [
    1793028931,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/us-worldmeds-acquires-orbus-therapeutics-expanding-commitment-to-rare-diseases-and-advancing-eflornithine-in-adult-malignant-glioma-302921067.html": [
+   1793121572,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/uzbecka-grupa-z-brany-hotelarskiej-teg-finalizuje-transakcj-poczenia-przedsibiorstw-w-usa-302908744.html": [
