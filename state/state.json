@@ -315,6 +315,13 @@
    "ts": 1792551280,
    "url": "https://live.euronext.com/en/products/equities/company-news/2026-10-20-spie-successfully-completes-refinancing-its-ornanes-due"
   },
+  "swojas foods|possible_offer": {
+   "acquirer": "",
+   "source": "bse",
+   "title": "Swojas Foods Ltd: Swojas Foods Ltd - 530217 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+   "ts": 1793076039,
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8156033D_C128_4FA0_A286_7825A8A74724_100735.pdf"
+  },
   "trading update|possible_offer": {
    "acquirer": "",
    "source": "euronext",
@@ -809,6 +816,10 @@
   ],
   "bse:28148227-cb2a-451a-b610-f3858679fd50": [
    1793002739,
+   "filtered (none)"
+  ],
+  "bse:285ee6ad-812b-47c3-a2ba-d32be26fbc49": [
+   1793076039,
    "filtered (none)"
   ],
   "bse:28607701-b7a5-4c33-b793-8ab9794daffb": [
@@ -1687,6 +1698,10 @@
    1793008731,
    "filtered (none)"
   ],
+  "bse:65a14d4a-e8d9-4f57-8873-ea233137f355": [
+   1793076039,
+   "filtered (none)"
+  ],
   "bse:65b423ac-1ea8-4238-b3d5-288ca0d53f06": [
    1793028940,
    "filtered (none)"
@@ -1753,6 +1768,10 @@
   ],
   "bse:69168241-1e98-40f7-816c-4861f100d741": [
    1793022918,
+   "filtered (none)"
+  ],
+  "bse:695f6868-3ef6-4615-96bd-4dccf9458e31": [
+   1793076039,
    "filtered (none)"
   ],
   "bse:6971a146-da6e-45ed-b953-d952900e9d2e": [
@@ -2071,6 +2090,10 @@
    1793032290,
    "filtered (none)"
   ],
+  "bse:7e222142-b70e-4fe9-81d4-f6b647c30991": [
+   1793076039,
+   "filtered (none)"
+  ],
   "bse:7ea53982-3aac-4615-993b-3dd78586a457": [
    1793008733,
    "filtered (none)"
@@ -2094,6 +2117,10 @@
   "bse:809e7c08-f40d-4139-9e35-3eb22c17a2cb": [
    1793013926,
    "filtered (none)"
+  ],
+  "bse:8156033d-c128-4fa0-a286-7825a8a74724": [
+   1793076039,
+   "classified:possible_offer"
   ],
   "bse:817fc959-2800-401d-8ac8-0657c50385ce": [
    1793028940,
@@ -2583,6 +2610,10 @@
    1793032290,
    "filtered (none)"
   ],
+  "bse:ad832c9e-5573-45fc-9a5c-3ed736b3ac57": [
+   1793076039,
+   "filtered (none)"
+  ],
   "bse:adf726ee-2a8f-4c0b-b4ff-a6f35f50a0e6": [
    1793011262,
    "filtered (none)"
@@ -3061,6 +3092,10 @@
   ],
   "bse:db27fe0a-5640-4958-9c0b-74b5abd65fc8": [
    1792999382,
+   "filtered (none)"
+  ],
+  "bse:db2cd259-6831-4485-8a54-e0452875e923": [
+   1793076039,
    "filtered (none)"
   ],
   "bse:db8dfbd8-b553-4de7-82ed-1d2ed4acfed3": [
