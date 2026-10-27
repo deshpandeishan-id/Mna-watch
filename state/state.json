@@ -581,6 +581,13 @@
    "ts": 1792563027,
    "url": "https://live.euronext.com/en/products/equities/company-news/2026-10-21-trading-update"
   },
+  "ultralife|possible_offer": {
+   "acquirer": "",
+   "source": "sec",
+   "title": "SC TO-C – ULTRALIFE CORP (Subject)",
+   "ts": 1793136874,
+   "url": "https://www.sec.gov/Archives/edgar/data/875657/000119312526434446/0001193125-26-434446-index.htm"
+  },
   "umiya buildcon|possible_offer": {
    "acquirer": "",
    "source": "bse",
@@ -9556,6 +9563,10 @@
    1792589129,
    "filtered (none)"
   ],
+  "eqs:7555b68f-c13e-4d00-b3fc-606ff20e3c71": [
+   1793136877,
+   "filtered (none)"
+  ],
   "eqs:75743c78-6fb6-4300-9d38-70c4178a94bc": [
    1792577190,
    "filtered (none)"
@@ -13428,6 +13439,10 @@
    1791993871,
    "bootstrap"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/western-microsurgical-announces-acquisitions-of-q-surgical-and-proficient-surgical-302921316.html": [
+   1793136883,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/westlake-securities-advises-watermark-commercial-contractors-on-chicago-atlantic-financing-for-acquisition-of-val-chris-investments-302920817.html": [
    1793109429,
    "classified:none"
@@ -14130,6 +14145,18 @@
   ],
   "sec:0001104659-26-119181": [
    1793134613,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-119224": [
+   1793136874,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-119230": [
+   1793136874,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-119231": [
+   1793136874,
    "filtered (none)"
   ],
   "sec:0001133228-26-013301": [
@@ -15028,6 +15055,46 @@
    1793134613,
    "filtered (none)"
   ],
+  "sec:0001193125-26-434392": [
+   1793136874,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-434394": [
+   1793136874,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-434397": [
+   1793136874,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-434415": [
+   1793136874,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-434422": [
+   1793136874,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-434444": [
+   1793136874,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-434446": [
+   1793136873,
+   "classified:possible_offer"
+  ],
+  "sec:0001193125-26-434449": [
+   1793136874,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-434453": [
+   1793136874,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-434460": [
+   1793136872,
+   "classified:possible_offer"
+  ],
   "sec:0001193805-26-001376": [
    1792181541,
    "filtered (none)"
@@ -15580,8 +15647,24 @@
    1793134613,
    "filtered (none)"
   ],
+  "sec:0001213900-26-112968": [
+   1793136874,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-112975": [
+   1793136874,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-112979": [
+   1793136874,
+   "filtered (none)"
+  ],
   "sec:0001214659-26-013022": [
    1792406150,
+   "filtered (none)"
+  ],
+  "sec:0001262976-26-000034": [
+   1793136874,
    "filtered (none)"
   ],
   "sec:0001287032-26-000294": [
@@ -15728,6 +15811,10 @@
    1793134613,
    "filtered (none)"
   ],
+  "sec:0001437749-26-033664": [
+   1793136874,
+   "filtered (none)"
+  ],
   "sec:0001451505-26-000075": [
    1792100479,
    "filtered (none)"
@@ -15738,6 +15825,14 @@
   ],
   "sec:0001477932-26-006456": [
    1793046662,
+   "filtered (none)"
+  ],
+  "sec:0001477932-26-006470": [
+   1793136874,
+   "filtered (none)"
+  ],
+  "sec:0001477932-26-006474": [
+   1793136874,
    "filtered (none)"
   ],
   "sec:0001493152-26-046540": [
@@ -16022,6 +16117,10 @@
   ],
   "sec:0001493152-26-048725": [
    1793134613,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-048734": [
+   1793136874,
    "filtered (none)"
   ],
   "sec:0001506293-26-000143": [
