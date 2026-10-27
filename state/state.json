@@ -98,6 +98,13 @@
    "ts": 1793127000,
    "url": "https://www.eqs-news.com/de/news/corporate/zf-finance-gmbh-indicative-maximum-acceptance-amount-in-relation-to-the-tender-offer-zf-finance-gmbh-indicative-maximum-acceptance-amount-in-relation-to-the-tender-offer/215fbd55-d0c1-40f7-b2f6-46532ad81a75_de"
   },
+  "19 51 corporate en rhi magnesita corporate en statement re possible offer|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "19:51 Corporate EN RHI Magnesita N.V. Corporate EN Statement re Possible Offer ",
+   "ts": 1793129602,
+   "url": "https://www.eqs-news.com/de/news/corporate/statement-re-possible-offer/b4935331-8cf9-40a0-8cc6-2d19ead5c90d_en"
+  },
   "20 00 corporate en eleving corporate en exchange offer for eleving 2023 2028 bonds completed|possible_offer": {
    "acquirer": "",
    "source": "eqs",
@@ -552,6 +559,13 @@
    "title": "TeamLease Services Ltd: TeamLease Services Ltd - 539658 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
    "ts": 1793092500,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/E3C0CA91_0637_48FF_A437_CCEF672841C2_143637.pdf"
+  },
+  "tetragon financial announcement of dividend and intention to conduct tender offer|possible_offer": {
+   "acquirer": "",
+   "source": "prnewswire",
+   "title": "Tetragon Financial Group Limited Announcement of Dividend and Intention to Conduct Tender Offer",
+   "ts": 1793129610,
+   "url": "https://www.prnewswire.com/news-releases/tetragon-financial-group-limited-announcement-of-dividend-and-intention-to-conduct-tender-offer-302921156.html"
   },
   "tilak ventures|possible_offer": {
    "acquirer": "",
@@ -1890,6 +1904,10 @@
    1792988322,
    "filtered (none)"
   ],
+  "bse:2d517eb3-62be-447b-a1b4-6f9229e5a3f1": [
+   1793129611,
+   "filtered (none)"
+  ],
   "bse:2dc17144-f3b9-4b7c-ab06-2f3f3a142b01": [
    1792999382,
    "filtered (none)"
@@ -2404,6 +2422,10 @@
   ],
   "bse:3e4d30a0-287a-4037-b45e-680961b7d236": [
    1793109433,
+   "filtered (none)"
+  ],
+  "bse:3e60c7b9-3c20-4d58-a103-2aaa3a4c8846": [
+   1793129611,
    "filtered (none)"
   ],
   "bse:3e7a6b12-5708-4741-9280-fc558be4f67a": [
@@ -6390,6 +6412,10 @@
    1793121576,
    "filtered (none)"
   ],
+  "bse:c7451620-2044-4dd9-acfe-2fe50cdd220a": [
+   1793129611,
+   "filtered (none)"
+  ],
   "bse:c7604e54-1992-4ba5-af68-5ac0b1806b65": [
    1793008733,
    "filtered (none)"
@@ -10210,6 +10236,10 @@
    1793038239,
    "classified:possible_offer"
   ],
+  "eqs:b4935331-8cf9-40a0-8cc6-2d19ead5c90d": [
+   1793129602,
+   "classified:possible_offer"
+  ],
   "eqs:b4bb832b-37ab-481b-b6f1-c86e29e37b73": [
    1792170919,
    "filtered (none)"
@@ -12386,6 +12416,14 @@
    1793121563,
    "filtered (none)"
   ],
+  "euronext:12918975 at https://live.euronext.com": [
+   1793129600,
+   "filtered (none)"
+  ],
+  "euronext:12918976 at https://live.euronext.com": [
+   1793129600,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/-teg-----------302909728.html": [
    1792050761,
    "filtered (none)"
@@ -13237,6 +13275,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/tessera-makes-payment-to-secure-previously-granted-option-on-world-leader-in-tethered-aerostat-and-aerospace-technology-302910145.html": [
    1792072573,
    "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/tetragon-financial-group-limited-announcement-of-dividend-and-intention-to-conduct-tender-offer-302921156.html": [
+   1793129610,
+   "classified:possible_offer"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/the-broe-group-enters-southern-california-as-part-of-billion-dollar-multifamily-initiative-302916179.html": [
    1792675887,
