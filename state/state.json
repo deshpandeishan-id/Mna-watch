@@ -357,6 +357,13 @@
    "ts": 1793121576,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5ec54dfa-408e-4ffd-9311-884811b1813c.pdf"
   },
+  "kkalpana plastick|possible_offer": {
+   "acquirer": "",
+   "source": "bse",
+   "title": "Kkalpana Plastick Ltd: Kkalpana Plastick Ltd - 523652 - Announcement under Regulation 30 (LODR)-Meeting Updates",
+   "ts": 1793139275,
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/da4b18cf-736e-4012-81dc-bc12e1490820.pdf"
+  },
   "lexibook communique addendum expert independant|possible_offer": {
    "acquirer": "",
    "source": "euronext",
@@ -1411,6 +1418,10 @@
    1793044454,
    "filtered (none)"
   ],
+  "bse:1bf589a7-a025-4a66-8cfd-eb9e3d415888": [
+   1793139275,
+   "filtered (none)"
+  ],
   "bse:1c2fff8f-98d0-4e43-93e1-d7e23e9f4f8a": [
    1793022917,
    "filtered (none)"
@@ -1731,6 +1742,10 @@
    1793118441,
    "filtered (none)"
   ],
+  "bse:2771c5d1-54c1-4383-82f4-323ab15ac2ee": [
+   1793139275,
+   "filtered (none)"
+  ],
   "bse:2776e71c-0946-4a13-a98a-2667ccb7e7ae": [
    1793109433,
    "filtered (none)"
@@ -1841,6 +1856,10 @@
   ],
   "bse:2adb103e-f26a-4df2-9dad-fba1e46adc56": [
    1793002739,
+   "filtered (none)"
+  ],
+  "bse:2afe35af-b736-4846-bc97-dc2f52702e9b": [
+   1793139275,
    "filtered (none)"
   ],
   "bse:2b0cf74e-dfbc-4d0a-b816-3fae47692d12": [
@@ -2419,6 +2438,10 @@
    1793078388,
    "filtered (none)"
   ],
+  "bse:3dab411c-e6c7-404a-8e18-662a103f0e08": [
+   1793139275,
+   "classified:possible_offer"
+  ],
   "bse:3db1fd16-944c-4095-a06a-af05c49604c4": [
    1793106037,
    "filtered (none)"
@@ -2845,6 +2868,10 @@
   ],
   "bse:4b9a7fec-40fd-4c3e-90be-e45118e47334": [
    1793022918,
+   "filtered (none)"
+  ],
+  "bse:4bb8837c-a044-4f35-a4f9-542df8fbb52d": [
+   1793139275,
    "filtered (none)"
   ],
   "bse:4bbfa591-d721-4803-aa02-e5f059285a64": [
@@ -4967,6 +4994,10 @@
    1793106037,
    "filtered (none)"
   ],
+  "bse:943410db-7d2e-47a5-b512-97509966f3cc": [
+   1793139275,
+   "filtered (none)"
+  ],
   "bse:943d6c96-0d29-4b9f-881c-d933b3eb4c0f": [
    1792988322,
    "filtered (none)"
@@ -5837,6 +5868,10 @@
   ],
   "bse:b4d4ef28-76e5-4c54-9382-b9e548c18006": [
    1793109433,
+   "filtered (none)"
+  ],
+  "bse:b4e515f3-6ec7-4bc0-aadb-53e0cd992355": [
+   1793139275,
    "filtered (none)"
   ],
   "bse:b50c6987-c44c-46fe-984c-be34afbef260": [
@@ -7589,6 +7624,10 @@
   ],
   "bse:eb10cfa2-7d6a-4af5-993c-4befb8547572": [
    1793032290,
+   "filtered (none)"
+  ],
+  "bse:eb18b6f7-52fe-4a46-a25b-e14e4fb5d962": [
+   1793139275,
    "filtered (none)"
   ],
   "bse:eb2520e3-1f1a-4a59-a404-15ba9aa49509": [
@@ -9766,6 +9805,10 @@
   "eqs:868ae1a4-184c-46bc-83d5-947fddc1ac92": [
    1791993864,
    "bootstrap"
+  ],
+  "eqs:86913c17-b6e1-4596-b22a-1df834feeed8": [
+   1793139265,
+   "filtered (none)"
   ],
   "eqs:86c5b974-6c45-4b41-9381-008e3eb1beca": [
    1792166857,
