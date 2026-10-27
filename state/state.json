@@ -77,6 +77,27 @@
    "ts": 1793038239,
    "url": "https://www.eqs-news.com/de/news/fr-regulatory/charwood-energy-communique-du-26-octobre-2026-relatif-au-depot-du-projet-doffre-publique-dachat-simplifiee-visant-les-actions-de-la-societe-charwood-energy-initiee-par-biomasse-visi/b4007351-354c-4974-9a19-2f7a7401298b_fr"
   },
+  "19 15 corporate zf europe finance b v corporate zf europe finance b v indicative maximum acceptance amount in relation to tender offer|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "19:15 Corporate ZF Europe Finance B.V. Corporate ZF Europe Finance B.V. : Indicative Maximum Acceptance Amount in relation to the Tender Offer. ",
+   "ts": 1793127001,
+   "url": "https://www.eqs-news.com/de/news/corporate/zf-europe-finance-b-v-indicative-maximum-acceptance-amount-in-relation-to-the-tender-offer/10cf5e83-62d5-4a82-82b6-6c24bddbe71b_de"
+  },
+  "19 15 corporate zf north america capital corporate zf north america capital indicative maximum acceptance amount in relation to tender offer|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "19:15 Corporate ZF North America Capital Inc. Corporate ZF North America Capital, Inc.: Indicative Maximum Acceptance Amount in relation to the Tender Offer. ",
+   "ts": 1793127002,
+   "url": "https://www.eqs-news.com/de/news/corporate/zf-north-america-capital-inc-indicative-maximum-acceptance-amount-in-relation-to-the-tender-offer/11900763-9bc9-4171-ba95-324a899afe6c_de"
+  },
+  "19 17 corporate zf finance corporate zf finance indicative maximum acceptance amount in relation to tender offer zf finance indicative maximum acceptance amount in relation to tender offer|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "19:17 Corporate ZF Finance GmbH Corporate ZF Finance GmbH : Indicative Maximum Acceptance Amount in relation to the Tender Offer. ZF Finance GmbH : Indicative Maximum Acceptance Amount in relation to the Tender Offer. ",
+   "ts": 1793127000,
+   "url": "https://www.eqs-news.com/de/news/corporate/zf-finance-gmbh-indicative-maximum-acceptance-amount-in-relation-to-the-tender-offer-zf-finance-gmbh-indicative-maximum-acceptance-amount-in-relation-to-the-tender-offer/215fbd55-d0c1-40f7-b2f6-46532ad81a75_de"
+  },
   "20 00 corporate en eleving corporate en exchange offer for eleving 2023 2028 bonds completed|possible_offer": {
    "acquirer": "",
    "source": "eqs",
@@ -1507,6 +1528,10 @@
   ],
   "bse:1fd7d1c4-1d9e-4c14-ab7a-cb83396746cc": [
    1793089360,
+   "filtered (none)"
+  ],
+  "bse:2030768b-190f-4017-994c-c05420188212": [
+   1793127010,
    "filtered (none)"
   ],
   "bse:2053544d-220c-4351-aeb8-5bf43fb8cbef": [
@@ -4133,6 +4158,10 @@
    1793115216,
    "filtered (none)"
   ],
+  "bse:78bc7932-3358-422b-9211-3743f2d2652a": [
+   1793127010,
+   "filtered (none)"
+  ],
   "bse:78c21de3-81a6-4f6f-8e76-730790a1541a": [
    1793032290,
    "filtered (none)"
@@ -4171,6 +4200,10 @@
   ],
   "bse:79e81d48-5539-494a-9210-15ee8c121e96": [
    1792999382,
+   "filtered (none)"
+  ],
+  "bse:7a016adc-4fde-45be-ae29-5ee292dba6d3": [
+   1793127010,
    "filtered (none)"
   ],
   "bse:7a0438fa-0c55-46c9-996a-30bab3896a62": [
@@ -5069,6 +5102,10 @@
    1793080751,
    "filtered (none)"
   ],
+  "bse:9c0a6069-01c8-4e3b-aade-6aa6ab851c46": [
+   1793127010,
+   "filtered (none)"
+  ],
   "bse:9c3695a0-aef7-48ce-9f1b-a519943ee7ae": [
    1792990950,
    "filtered (none)"
@@ -5935,6 +5972,10 @@
   ],
   "bse:ba9ef7c0-f0b3-46fd-bf97-f7dc9683d320": [
    1793083383,
+   "filtered (none)"
+  ],
+  "bse:baaba74d-b95d-45ef-97c9-0b34fa4c1bb6": [
+   1793127010,
    "filtered (none)"
   ],
   "bse:bac0731a-34de-460e-9fba-2cc73706cdf6": [
@@ -7585,6 +7626,10 @@
    1793115216,
    "filtered (none)"
   ],
+  "bse:ee92f981-5d18-45ab-a84d-1e86fcfe31b6": [
+   1793127010,
+   "filtered (none)"
+  ],
   "bse:eec7feef-76b4-4678-8a34-9dcf03486c4b": [
    1793095309,
    "filtered (none)"
@@ -7615,6 +7660,10 @@
   ],
   "bse:ef1ae120-7105-444a-9532-a88be9bbc1eb": [
    1793109433,
+   "filtered (none)"
+  ],
+  "bse:ef2ae6a6-4dd6-4580-bd54-840943c554fe": [
+   1793127010,
    "filtered (none)"
   ],
   "bse:ef33fa99-2868-4dd1-8fad-7a20bf297115": [
@@ -7833,6 +7882,10 @@
    1793097943,
    "filtered (none)"
   ],
+  "bse:f6e4b918-605f-4be0-a076-887062334428": [
+   1793127010,
+   "filtered (none)"
+  ],
   "bse:f6e4f5e1-a79c-4caa-82cb-c243c7f4c744": [
    1793035462,
    "filtered (none)"
@@ -7859,6 +7912,10 @@
   ],
   "bse:f7a8a0fb-439e-4199-a570-2cc9c8a7e189": [
    1793013929,
+   "filtered (none)"
+  ],
+  "bse:f82003dd-5b1c-4eef-87aa-291856498303": [
+   1793127010,
    "filtered (none)"
   ],
   "bse:f8644d1f-37ef-4b35-b745-638667357c72": [
@@ -8333,6 +8390,10 @@
    1792999347,
    "filtered (none)"
   ],
+  "eqs:10cf5e83-62d5-4a82-82b6-6c24bddbe71b": [
+   1793127001,
+   "classified:possible_offer"
+  ],
   "eqs:11231cea-9aab-403b-af8c-7e90871e1a21": [
    1793100192,
    "filtered (none)"
@@ -8340,6 +8401,10 @@
   "eqs:116c2b71-f702-4a2c-ba52-b82aec29a286": [
    1792678636,
    "filtered (none)"
+  ],
+  "eqs:11900763-9bc9-4171-ba95-324a899afe6c": [
+   1793127002,
+   "classified:possible_offer"
   ],
   "eqs:12895cdb-8cfc-402a-ba0a-2b14642dc646": [
    1792999347,
@@ -8516,6 +8581,10 @@
   "eqs:20bcb94c-979f-4e05-a75e-40030d9cb0b4": [
    1792999347,
    "filtered (none)"
+  ],
+  "eqs:215fbd55-d0c1-40f7-b2f6-46532ad81a75": [
+   1793127000,
+   "classified:possible_offer"
   ],
   "eqs:216bfdff-51da-47a5-b9fd-a0fb4222acf2": [
    1793035453,
@@ -8747,6 +8816,10 @@
   ],
   "eqs:32910666-f8fb-40a9-8d76-b5b3b86deb26": [
    1792666030,
+   "filtered (none)"
+  ],
+  "eqs:335c8b2a-efb4-4ee8-ab53-e614d48bf71d": [
+   1793127002,
    "filtered (none)"
   ],
   "eqs:33d10be1-3422-4600-a24f-0c0a66981f46": [
@@ -10579,6 +10652,10 @@
   ],
   "eqs:e5fe2d84-8449-4c89-9458-4ca1899689b9": [
    1792818224,
+   "filtered (none)"
+  ],
+  "eqs:e67e4510-9461-4973-8f67-c0baab703c08": [
+   1793127002,
    "filtered (none)"
   ],
   "eqs:e70e5e77-9738-4b09-a17b-4a9c253cb92c": [
@@ -14111,6 +14188,10 @@
   ],
   "sec:0001140361-26-040772": [
    1793046662,
+   "filtered (none)"
+  ],
+  "sec:0001140361-26-040872": [
+   1793126990,
    "filtered (none)"
   ],
   "sec:0001171843-26-006667": [
