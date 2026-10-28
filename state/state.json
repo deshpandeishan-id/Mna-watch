@@ -126,6 +126,13 @@
    "ts": 1793078384,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/A64199AB_CF6C_42E8_87E0_157BB0F60CEB_104724.pdf"
   },
+  "acc|possible_offer": {
+   "acquirer": "",
+   "source": "bse",
+   "title": "ACC Ltd: ACC Ltd - 500410 - Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011.",
+   "ts": 1793199350,
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1F81B04C_6BAA_44D2_99F1_C7E43B294E98_194400.pdf"
+  },
   "aci infocom|possible_offer": {
    "acquirer": "",
    "source": "bse",
@@ -378,6 +385,13 @@
    "ts": 1793078391,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/454699d9-59e9-49e7-acdb-6c22f3dd0c6c.pdf"
   },
+  "kirloskar industries|possible_offer": {
+   "acquirer": "",
+   "source": "bse",
+   "title": "Kirloskar Industries Ltd: Kirloskar Industries Ltd - 500243 - Closure of Trading Window",
+   "ts": 1793199349,
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5a693787-dcf0-4ec2-85c0-957782a91944.pdf"
+  },
   "kirloskar oil engines|possible_offer": {
    "acquirer": "",
    "source": "bse",
@@ -489,6 +503,13 @@
    "title": "Orissa Minerals Development Company Ltd: Orissa Minerals Development Company Ltd - 590086 - Closure of Trading Window",
    "ts": 1793112475,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7d3e5595-f1df-4740-a1ea-8d7e0d8e637c.pdf"
+  },
+  "paisalo digital|possible_offer": {
+   "acquirer": "",
+   "source": "bse",
+   "title": "Paisalo Digital Ltd: Paisalo Digital Ltd - 532900 - Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011.",
+   "ts": 1793199354,
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/84AF9342_56DD_4E7B_8C21_4ABC7254BD88_193921.pdf"
   },
   "patrick industries reaffirms merger agreement with lci industries|possible_offer": {
    "acquirer": "",
@@ -665,6 +686,13 @@
    "ts": 1793129610,
    "url": "https://www.prnewswire.com/news-releases/tetragon-financial-group-limited-announcement-of-dividend-and-intention-to-conduct-tender-offer-302921156.html"
   },
+  "themis medicare|possible_offer": {
+   "acquirer": "",
+   "source": "bse",
+   "title": "Themis Medicare Ltd: Themis Medicare Ltd - 530199 - Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011.",
+   "ts": 1793199345,
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6954277E_08AF_436A_B7FF_B6D0C449D9A7_200116.pdf"
+  },
   "tilak ventures|possible_offer": {
    "acquirer": "",
    "source": "bse",
@@ -685,6 +713,13 @@
    "title": "TVS Motor Company Ltd: TVS Motor Company Ltd - 532343 - Announcement under Regulation 30 (LODR)-Scheme of Arrangement",
    "ts": 1793182867,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/419dc90f-08bf-4b00-afac-b6634e9c1b60.pdf"
+  },
+  "tvs|possible_offer": {
+   "acquirer": "",
+   "source": "bse",
+   "title": "TVS Holdings Ltd: TVS Holdings Ltd - 520056 - Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011.",
+   "ts": 1793199343,
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/D82F9EB3_080E_4B69_A0FB_B57A4254D335_200930.pdf"
   },
   "ultralife|possible_offer": {
    "acquirer": "",
@@ -1108,6 +1143,10 @@
    1793109433,
    "filtered (none)"
   ],
+  "bse:06d81d09-837f-413f-b68a-5032d2ad2030": [
+   1793199359,
+   "filtered (none)"
+  ],
   "bse:06f47479-e034-484e-967e-b220021e6a8e": [
    1793005775,
    "filtered (none)"
@@ -1126,6 +1165,10 @@
   ],
   "bse:07328c6d-8dc3-4446-bea8-33706faff07f": [
    1793013925,
+   "filtered (none)"
+  ],
+  "bse:073afedd-e429-4f88-b153-b68fdcd28252": [
+   1793199343,
    "filtered (none)"
   ],
   "bse:0746e6cf-bf37-48f8-b517-dc62a3fd773a": [
@@ -1360,6 +1403,10 @@
    1793179648,
    "filtered (none)"
   ],
+  "bse:0d237fac-19d1-4b16-9fc5-79b187ddcdba": [
+   1793199349,
+   "filtered (none)"
+  ],
   "bse:0d7cc81d-cfad-41fe-b0d7-589cd97a3a85": [
    1793179648,
    "filtered (none)"
@@ -1430,6 +1477,10 @@
   ],
   "bse:10200ce5-bd04-4626-b302-bd9917571f92": [
    1793112475,
+   "filtered (none)"
+  ],
+  "bse:105e0bb1-e748-4db9-b32a-0e52c8ebfbd5": [
+   1793199352,
    "filtered (none)"
   ],
   "bse:1062c8f4-3bc0-4ce6-8415-64684f79a5f1": [
@@ -1546,6 +1597,10 @@
   ],
   "bse:12ff823d-43b2-4678-92ef-b9fbb70ee3d8": [
    1793186087,
+   "filtered (none)"
+  ],
+  "bse:13099ce6-41c0-4c4e-afd4-a28006724825": [
+   1793199346,
    "filtered (none)"
   ],
   "bse:135498d1-fd58-42dd-bfa5-00b152f56564": [
@@ -1680,6 +1735,10 @@
    1793078383,
    "filtered (none)"
   ],
+  "bse:161fa84a-62fb-4085-ac3d-9e87f1b00c68": [
+   1793199345,
+   "filtered (none)"
+  ],
   "bse:1636ae69-847e-4f3a-b401-9524ccc5e1f1": [
    1793112475,
    "filtered (none)"
@@ -1750,6 +1809,10 @@
   ],
   "bse:17ac8a15-5de1-46e8-9434-c34f024812b9": [
    1793089360,
+   "filtered (none)"
+  ],
+  "bse:17c32085-9bc2-4fa5-8ce3-106d78a3feab": [
+   1793199352,
    "filtered (none)"
   ],
   "bse:1802e1cc-5bbd-440a-967f-595c17b690a0": [
@@ -1920,6 +1983,10 @@
    1793022918,
    "filtered (none)"
   ],
+  "bse:1c762789-3305-4b79-ad80-e89d47ca66b5": [
+   1793199343,
+   "filtered (none)"
+  ],
   "bse:1c912f20-e628-4472-a94c-04cd3c1ddf1e": [
    1793011263,
    "filtered (none)"
@@ -1930,6 +1997,10 @@
   ],
   "bse:1ca0a32f-3f4c-4804-ae76-a5b472c2fb8f": [
    1793080751,
+   "filtered (none)"
+  ],
+  "bse:1cac6485-238f-48f0-abad-6dfb8246a0ee": [
+   1793199352,
    "filtered (none)"
   ],
   "bse:1cb0bb14-012f-441f-a7ff-672a7fe5e8cb": [
@@ -1946,6 +2017,10 @@
   ],
   "bse:1cb82377-3cce-4720-a469-a455546b2ad9": [
    1793089360,
+   "filtered (none)"
+  ],
+  "bse:1cd14173-42d0-4813-93e5-a228dd923c8c": [
+   1793199343,
    "filtered (none)"
   ],
   "bse:1cd76aa7-54f1-4031-9600-77a29aa562c5": [
@@ -2024,6 +2099,10 @@
    1793092504,
    "filtered (none)"
   ],
+  "bse:1e407a04-fcc1-4ceb-9994-f7826f2734f9": [
+   1793199352,
+   "filtered (none)"
+  ],
   "bse:1e41de6d-17c3-4303-aca9-ce4602c4b9a3": [
    1793013925,
    "filtered (none)"
@@ -2034,6 +2113,10 @@
   ],
   "bse:1e730646-ae8b-413d-8620-8442d1802b3c": [
    1793121574,
+   "filtered (none)"
+  ],
+  "bse:1e7845ea-ba96-4134-9226-e5b2379f88c9": [
+   1793199350,
    "filtered (none)"
   ],
   "bse:1ee21456-900d-4569-95b2-6e286e6f3ef5": [
@@ -2072,12 +2155,20 @@
    1793188914,
    "filtered (none)"
   ],
+  "bse:1f81b04c-6baa-44d2-99f1-c7e43b294e98": [
+   1793199350,
+   "classified:possible_offer"
+  ],
   "bse:1f85b7ce-bb38-488c-a783-0dcae1d99b8f": [
    1793097940,
    "filtered (none)"
   ],
   "bse:1f87d513-e7e4-4bfd-9507-c0edae94a1c8": [
    1793092504,
+   "filtered (none)"
+  ],
+  "bse:1f9942ca-f1ec-4631-88e6-48f83752722d": [
+   1793199359,
    "filtered (none)"
   ],
   "bse:1fbf2fc3-9340-408e-99ed-ea3bfcb7e1af": [
@@ -2216,6 +2307,10 @@
    1793102935,
    "filtered (none)"
   ],
+  "bse:23a013b7-969e-4b94-a6ab-d25acd0782d4": [
+   1793199352,
+   "filtered (none)"
+  ],
   "bse:23b18c5c-d9e8-4b4b-be37-b2e9bc506ed9": [
    1793173385,
    "filtered (none)"
@@ -2328,6 +2423,10 @@
    1792999382,
    "filtered (none)"
   ],
+  "bse:275e14aa-cd14-4eba-9cbc-b55333e4eb4f": [
+   1793199343,
+   "filtered (none)"
+  ],
   "bse:276647a4-4225-456a-aff2-a51697106d26": [
    1793028940,
    "filtered (none)"
@@ -2358,6 +2457,10 @@
   ],
   "bse:27af1ae1-c636-4914-9867-be7131653064": [
    1793182862,
+   "filtered (none)"
+  ],
+  "bse:27b62e0e-ad52-43ba-b263-68cfd73b0e71": [
+   1793199352,
    "filtered (none)"
   ],
   "bse:27b650cb-b899-4e29-acad-c02243342d39": [
@@ -2448,6 +2551,10 @@
    1793028939,
    "filtered (none)"
   ],
+  "bse:29f15b6c-127f-441e-b429-c1a071d84455": [
+   1793199349,
+   "filtered (none)"
+  ],
   "bse:29f4c4a3-a74e-4333-bd23-a5e15d975b1a": [
    1793112475,
    "filtered (none)"
@@ -2528,6 +2635,10 @@
    1793100202,
    "filtered (none)"
   ],
+  "bse:2bd5104c-8a6f-4d27-883e-79ae2a65cb9f": [
+   1793199352,
+   "filtered (none)"
+  ],
   "bse:2bff2e08-18b7-4552-aa45-2fc951be5d93": [
    1793002739,
    "filtered (none)"
@@ -2590,6 +2701,10 @@
   ],
   "bse:2d31529a-4eca-4dbd-a3d6-743d6a477c94": [
    1793173385,
+   "filtered (none)"
+  ],
+  "bse:2d4a8683-fa02-48a5-b83f-d22566e744a4": [
+   1793199346,
    "filtered (none)"
   ],
   "bse:2d517eb3-62be-447b-a1b4-6f9229e5a3f1": [
@@ -2696,6 +2811,10 @@
    1793112475,
    "filtered (none)"
   ],
+  "bse:2f0fd842-aafa-4ad4-82cf-36e66c8de428": [
+   1793199343,
+   "filtered (none)"
+  ],
   "bse:2f54b2c5-6a2a-42ec-9a0c-8e41cb91d108": [
    1793186082,
    "filtered (none)"
@@ -2734,6 +2853,10 @@
   ],
   "bse:2ff7bbe7-b478-4a57-8cec-00f9419ee17c": [
    1792999382,
+   "filtered (none)"
+  ],
+  "bse:301cf8ba-5e45-4440-8e25-35149ec4bfb5": [
+   1793199352,
    "filtered (none)"
   ],
   "bse:302c4fca-dc35-41e9-8d66-2b46f3c8b235": [
@@ -2820,6 +2943,14 @@
    1793192425,
    "filtered (none)"
   ],
+  "bse:3165b02a-7e0a-4765-8f19-4c05bceb50fd": [
+   1793199352,
+   "filtered (none)"
+  ],
+  "bse:31a908eb-7725-47df-be2b-fef4b8c125fe": [
+   1793199343,
+   "filtered (none)"
+  ],
   "bse:31b50316-e4f4-4574-a0b1-18e95afabf93": [
    1792995589,
    "filtered (none)"
@@ -2868,6 +2999,10 @@
    1793112475,
    "filtered (none)"
   ],
+  "bse:327fda33-9aca-4c5b-9f4a-125a531b9bee": [
+   1793199346,
+   "filtered (none)"
+  ],
   "bse:329c2dca-7063-430f-a46e-a0312da2a7fb": [
    1793086458,
    "filtered (none)"
@@ -2894,6 +3029,10 @@
   ],
   "bse:32f4515c-c226-4bb1-a849-f5dc76cb14e5": [
    1793100202,
+   "filtered (none)"
+  ],
+  "bse:32f5793d-372b-463e-a676-50e4036b1a1e": [
+   1793199357,
    "filtered (none)"
   ],
   "bse:330a41f5-1c37-40d6-8873-fa648e7da102": [
@@ -3008,6 +3147,10 @@
    1793176423,
    "filtered (none)"
   ],
+  "bse:35044c5f-b94b-459e-8087-85200be1fea8": [
+   1793199346,
+   "filtered (none)"
+  ],
   "bse:35241020-88e5-4855-b485-12b3bdc88069": [
    1793176423,
    "filtered (none)"
@@ -3022,6 +3165,10 @@
   ],
   "bse:3545ac52-87c9-4ac4-9e65-b993ad0414fa": [
    1793102935,
+   "filtered (none)"
+  ],
+  "bse:3553e405-b634-43c2-bd7f-ff564d7ac9b1": [
+   1793199343,
    "filtered (none)"
   ],
   "bse:355b2817-1ab5-498a-8b9f-793b0be7c289": [
@@ -3160,6 +3307,10 @@
    1793186087,
    "filtered (none)"
   ],
+  "bse:37a90138-7be3-4a4b-b800-435a4d985e1c": [
+   1793199359,
+   "filtered (none)"
+  ],
   "bse:37c73679-c3c3-4e4a-806c-4cbe2d299f04": [
    1793008733,
    "filtered (none)"
@@ -3186,6 +3337,10 @@
   ],
   "bse:385009c3-bfd3-4127-a56c-1649ffb6a71f": [
    1792993381,
+   "filtered (none)"
+  ],
+  "bse:389a6c84-2d9d-454f-9125-40c2f0e6c7fe": [
+   1793199349,
    "filtered (none)"
   ],
   "bse:389df22a-ba0b-4cee-9a34-01451c65ff2a": [
@@ -3239,6 +3394,10 @@
   "bse:3a417584-3299-45d1-96fa-466ea60fe058": [
    1793196010,
    "filtered (medium)"
+  ],
+  "bse:3a69d271-4f3f-4d11-acdb-c5f5570aea5e": [
+   1793199343,
+   "filtered (none)"
   ],
   "bse:3a7a4e32-30a0-4e2b-a9c4-441b2b011020": [
    1793173385,
@@ -3380,12 +3539,20 @@
    1793112475,
    "filtered (none)"
   ],
+  "bse:3dc773b7-40e4-4ded-933e-b3b3a390c33e": [
+   1793199359,
+   "filtered (none)"
+  ],
   "bse:3de09072-f011-4f54-a29b-dbdb1ab95a73": [
    1793186082,
    "filtered (none)"
   ],
   "bse:3de7c5ad-7775-470e-84f0-0dff9d585701": [
    1793176425,
+   "filtered (none)"
+  ],
+  "bse:3de8e1bf-7d08-475a-a50a-0915dd05e231": [
+   1793199345,
    "filtered (none)"
   ],
   "bse:3e066169-ef48-41c6-8ad4-ba3c4d480ce4": [
@@ -3414,6 +3581,10 @@
   ],
   "bse:3e908486-d9ba-4f9a-a6ad-9c549970903a": [
    1793100202,
+   "filtered (none)"
+  ],
+  "bse:3ea5532a-6f73-48e1-8aa8-02b0c395dbb3": [
+   1793199343,
    "filtered (none)"
   ],
   "bse:3ebdb98f-74ce-426e-9814-e0dfc66e7bd1": [
@@ -3860,6 +4031,10 @@
    1793179650,
    "filtered (none)"
   ],
+  "bse:473b6030-d21b-4771-82a8-64b253913813": [
+   1793199343,
+   "filtered (none)"
+  ],
   "bse:4752b0b5-b440-4214-8c42-ae8920addd1d": [
    1793083383,
    "filtered (none)"
@@ -4208,6 +4383,10 @@
    1793188914,
    "filtered (none)"
   ],
+  "bse:500c981e-cdbf-461a-9108-f5ddd1b5f25f": [
+   1793199346,
+   "filtered (none)"
+  ],
   "bse:50260109-eb6d-448f-a7a7-aa495b86e3aa": [
    1793188914,
    "filtered (none)"
@@ -4330,6 +4509,10 @@
   ],
   "bse:528fe4cf-ac59-4ffe-b24b-3ae7639e84fb": [
    1793173385,
+   "filtered (none)"
+  ],
+  "bse:52bb3c89-a0cc-4e7e-8bc9-a0926981ecae": [
+   1793199354,
    "filtered (none)"
   ],
   "bse:52dc47d7-7c35-4192-b7c9-2999005b275b": [
@@ -4692,6 +4875,10 @@
    1793086458,
    "filtered (none)"
   ],
+  "bse:5b58147f-b047-4a71-a757-4057ca1477dd": [
+   1793199349,
+   "filtered (none)"
+  ],
   "bse:5b5bea58-041f-467c-97ce-4cf12a2fc5f1": [
    1792999382,
    "filtered (none)"
@@ -4750,6 +4937,10 @@
   ],
   "bse:5cf6402a-93dd-45c2-9cc5-28ddfc97d53c": [
    1793106036,
+   "filtered (none)"
+  ],
+  "bse:5d21e72f-486a-49da-ae14-96a8700d8fd6": [
+   1793199346,
    "filtered (none)"
   ],
   "bse:5d2fdfaa-fe88-477c-b116-9e437b036533": [
@@ -4846,6 +5037,10 @@
   ],
   "bse:5e58e535-fbe6-41f2-96a0-6ed69b4acf65": [
    1793106037,
+   "filtered (none)"
+  ],
+  "bse:5e59f40c-e793-4342-9deb-d6cb740426be": [
+   1793199352,
    "filtered (none)"
   ],
   "bse:5e7b4ca1-fa9f-4164-9989-43b3a5deefcc": [
@@ -4978,6 +5173,10 @@
   ],
   "bse:611f9dd6-f3af-4603-a93e-56946bb050d8": [
    1793106037,
+   "filtered (none)"
+  ],
+  "bse:61419c7e-2b97-4192-a064-a55b6a63f018": [
+   1793199349,
    "filtered (none)"
   ],
   "bse:61480de2-8f96-412d-b83c-f5171fbd6d44": [
@@ -5268,6 +5467,10 @@
    1793011262,
    "filtered (none)"
   ],
+  "bse:67f2d6a6-049f-439d-97b8-2a2021b0a286": [
+   1793199345,
+   "filtered (none)"
+  ],
   "bse:68026ab2-cae0-4f1d-a70c-6d9d31e39c1d": [
    1793196010,
    "filtered (none)"
@@ -5352,6 +5555,10 @@
    1793182862,
    "filtered (none)"
   ],
+  "bse:6954277e-08af-436a-b7ff-b6d0c449d9a7": [
+   1793199345,
+   "classified:possible_offer"
+  ],
   "bse:695f6868-3ef6-4615-96bd-4dccf9458e31": [
    1793076039,
    "filtered (none)"
@@ -5422,6 +5629,10 @@
   ],
   "bse:6aac91d1-8469-4186-a7ad-aa8f380652d3": [
    1793109433,
+   "filtered (none)"
+  ],
+  "bse:6ab3f35e-0399-47d0-b30e-b2ed81233210": [
+   1793199346,
    "filtered (none)"
   ],
   "bse:6ac13f56-8acb-4de1-a500-9ad13a481fec": [
@@ -5662,6 +5873,10 @@
   ],
   "bse:6f431543-9188-40b9-af45-363784fed047": [
    1793176425,
+   "filtered (none)"
+  ],
+  "bse:6f447549-be03-4575-a939-aa41a8124456": [
+   1793199346,
    "filtered (none)"
   ],
   "bse:6f488bfe-416b-4b6e-a9b7-063f5db7ceae": [
@@ -5914,6 +6129,10 @@
   ],
   "bse:7508eaa9-66e7-4a4d-a3d8-9dd97325a04c": [
    1793196010,
+   "filtered (none)"
+  ],
+  "bse:7529c96c-50b5-4ec5-a858-0ab271a0c16f": [
+   1793199349,
    "filtered (none)"
   ],
   "bse:752ad07f-9552-4dfd-9c94-98be86c02ed1": [
@@ -6196,6 +6415,10 @@
    1793008733,
    "filtered (none)"
   ],
+  "bse:7bc90a11-2a96-4acf-bf69-2137dfb92b22": [
+   1793199352,
+   "filtered (none)"
+  ],
   "bse:7bcf7c69-434d-49fc-a9a5-0fae6285f291": [
    1793188916,
    "filtered (none)"
@@ -6294,6 +6517,10 @@
   ],
   "bse:7d375e45-1ed8-4ea8-a725-fc0eb209b3b1": [
    1793013929,
+   "filtered (none)"
+  ],
+  "bse:7d4cc349-bbd8-42a5-aa13-ce899f480bdf": [
+   1793199357,
    "filtered (none)"
   ],
   "bse:7d5d9f8f-dd00-477f-8c4d-ebf8e63ebd2d": [
@@ -6448,6 +6675,10 @@
    1793192425,
    "filtered (none)"
   ],
+  "bse:80d719c8-5906-4ec3-83f4-34eba23ec509": [
+   1793199354,
+   "filtered (none)"
+  ],
   "bse:80e4c7d4-ef2f-4ca5-8c1b-43f449c42226": [
    1793102935,
    "filtered (none)"
@@ -6520,6 +6751,10 @@
    1793100202,
    "filtered (none)"
   ],
+  "bse:8322cf57-2cc5-4b92-8ef1-f88f35f5d4df": [
+   1793199349,
+   "filtered (none)"
+  ],
   "bse:833680c5-2b1c-4ea4-a6ba-aaa4cfbc2b8e": [
    1793089360,
    "filtered (none)"
@@ -6542,6 +6777,10 @@
   ],
   "bse:839686cd-1c9c-4320-bcfa-aa7987939c90": [
    1793192425,
+   "filtered (none)"
+  ],
+  "bse:83a33e87-f0f1-409f-8710-615c4a1e3eec": [
+   1793199349,
    "filtered (none)"
   ],
   "bse:83c8d307-a040-4137-a86a-795367b61808": [
@@ -6575,6 +6814,10 @@
   "bse:848aca18-3eb7-452a-806f-fd377dd35089": [
    1793092498,
    "filtered (none)"
+  ],
+  "bse:84af9342-56dd-4e7b-8c21-4abc7254bd88": [
+   1793199354,
+   "classified:possible_offer"
   ],
   "bse:84bf689f-636a-47e5-bfa9-a77a081293da": [
    1793102937,
@@ -6622,6 +6865,10 @@
   ],
   "bse:856bce2e-d30b-496e-9b80-27ae3f60247d": [
    1793173385,
+   "filtered (none)"
+  ],
+  "bse:857f3a28-c26f-4846-9ff3-5f1256bc9923": [
+   1793199345,
    "filtered (none)"
   ],
   "bse:85a4062e-657c-4dfb-a3fc-49b2b8cfeebf": [
@@ -6771,6 +7018,10 @@
   "bse:89cde438-0308-4210-8f52-2bb86b3a6ed1": [
    1793008733,
    "filtered (none)"
+  ],
+  "bse:89d4fd7c-2903-4252-92f7-899b5c62bebe": [
+   1793199346,
+   "classified:possible_offer"
   ],
   "bse:89f7be55-6f49-45ba-8b19-9cfe6c73d768": [
    1793169984,
@@ -7200,6 +7451,10 @@
    1793100202,
    "filtered (none)"
   ],
+  "bse:92e273b0-f362-451a-bf4b-cfb0e5e1794a": [
+   1793199359,
+   "filtered (none)"
+  ],
   "bse:92e7a929-5596-408f-a696-60af93c316cf": [
    1793083379,
    "filtered (none)"
@@ -7304,6 +7559,10 @@
    1793170007,
    "filtered (none)"
   ],
+  "bse:94f88573-e502-4aed-ab8c-9a2c278b52db": [
+   1793199349,
+   "filtered (none)"
+  ],
   "bse:9508df2b-fc05-431f-b716-1983e9ab3dc9": [
    1793022917,
    "filtered (none)"
@@ -7348,6 +7607,10 @@
    1793179648,
    "filtered (none)"
   ],
+  "bse:9684740e-b370-4645-ad7a-b9f619a42a89": [
+   1793199357,
+   "filtered (none)"
+  ],
   "bse:969acf28-ae3d-4296-a001-391707f337f5": [
    1793092504,
    "filtered (none)"
@@ -7358,6 +7621,10 @@
   ],
   "bse:96bd2cc2-3af0-4253-bb3b-75beb58576a6": [
    1793100202,
+   "filtered (none)"
+  ],
+  "bse:96c108e4-0cde-4e8f-9d58-d60c45f85a7c": [
+   1793199349,
    "filtered (none)"
   ],
   "bse:96c52283-b184-4b19-94b0-59cbc9c2e38e": [
@@ -7474,6 +7741,10 @@
   ],
   "bse:9a0204bd-8a41-4f8c-8a3c-419e7ef57691": [
    1793186082,
+   "filtered (none)"
+  ],
+  "bse:9a1faed4-8ab9-45c9-883d-446fcbc8ff89": [
+   1793199343,
    "filtered (none)"
   ],
   "bse:9a3dc9c2-4255-4a32-a113-60aa67152556": [
@@ -7676,8 +7947,16 @@
    1793192425,
    "filtered (none)"
   ],
+  "bse:9e6e6f0f-031a-4050-a849-a4a5a8eed64b": [
+   1793199343,
+   "filtered (none)"
+  ],
   "bse:9e7391b0-9f8d-4f44-9fc6-2967b78bea09": [
    1793100202,
+   "filtered (none)"
+  ],
+  "bse:9e8d3795-e891-4a4a-b578-f0d1e831351d": [
+   1793199349,
    "filtered (none)"
   ],
   "bse:9e8e9e5c-34d5-4c3b-b88d-e9dca0b785da": [
@@ -7706,6 +7985,10 @@
   ],
   "bse:9f25b365-ef2d-4f1f-9e2a-7cffda691621": [
    1793032290,
+   "filtered (none)"
+  ],
+  "bse:9f2f126a-02e0-49a8-9d51-b3f59a2d35ba": [
+   1793199359,
    "filtered (none)"
   ],
   "bse:9f4c92e3-10d9-440a-b67c-b2f3a487bd01": [
@@ -7852,6 +8135,14 @@
    1793188914,
    "filtered (none)"
   ],
+  "bse:a2c71ff7-f782-487d-a358-664d8c812f20": [
+   1793199359,
+   "filtered (none)"
+  ],
+  "bse:a2c9e004-80d5-43d0-a8d7-9144fd20a292": [
+   1793199346,
+   "filtered (none)"
+  ],
   "bse:a2ec9248-4735-429d-9923-ded927f97fa6": [
    1793028940,
    "filtered (none)"
@@ -7890,6 +8181,10 @@
   ],
   "bse:a3ef2bde-10e2-4d6a-a682-a931c1786b70": [
    1793102935,
+   "filtered (none)"
+  ],
+  "bse:a3f36740-be12-4458-b889-bc19d5a18c4e": [
+   1793199349,
    "filtered (none)"
   ],
   "bse:a40a71a5-2586-45da-a2cb-a6dd7b4f6116": [
@@ -8062,6 +8357,10 @@
   ],
   "bse:a873dfe4-5bd7-446b-b14a-7f189a0c2768": [
    1793182862,
+   "filtered (none)"
+  ],
+  "bse:a88ecc79-3fd3-487f-b3eb-f827eb14141e": [
+   1793199345,
    "filtered (none)"
   ],
   "bse:a8a90394-0144-40a2-b15f-b364351f4809": [
@@ -8252,6 +8551,10 @@
    1793022918,
    "classified:possible_offer"
   ],
+  "bse:abfa89e8-e44a-4b14-8162-3bc7645082c0": [
+   1793199349,
+   "classified:possible_offer"
+  ],
   "bse:abfeaa29-b4e9-4c62-a18e-c872b8e9669d": [
    1793173385,
    "filtered (none)"
@@ -8284,6 +8587,10 @@
    1793102935,
    "filtered (none)"
   ],
+  "bse:ac9aa767-9f05-41ad-b267-1992a05df89f": [
+   1793199349,
+   "filtered (none)"
+  ],
   "bse:acaff6e1-899a-4b65-9489-41af9722525d": [
    1793192425,
    "filtered (none)"
@@ -8307,6 +8614,10 @@
   "bse:ad6123d1-c315-42c9-b923-1b17b6ccf253": [
    1793032290,
    "filtered (none)"
+  ],
+  "bse:ad6d827d-43e1-4d1d-8155-256afea606cd": [
+   1793199357,
+   "classified:possible_offer"
   ],
   "bse:ad6f618a-7884-4296-9656-176b0dc1be22": [
    1793182862,
@@ -8552,6 +8863,10 @@
    1793121576,
    "filtered (none)"
   ],
+  "bse:b2757d53-cc5f-4946-9e44-9d1219743593": [
+   1793199343,
+   "filtered (none)"
+  ],
   "bse:b277610d-1a03-40ea-9e4a-1df8500c5967": [
    1793170007,
    "filtered (none)"
@@ -8710,6 +9025,10 @@
   ],
   "bse:b6778034-1286-43a0-a10e-045d89f59b64": [
    1793182866,
+   "filtered (none)"
+  ],
+  "bse:b682a74c-36af-498c-beea-82aa0434b10b": [
+   1793199346,
    "filtered (none)"
   ],
   "bse:b682e756-bed9-4372-abdc-ff94d283c55c": [
@@ -8912,6 +9231,10 @@
    1793089360,
    "filtered (none)"
   ],
+  "bse:ba6b2c99-6bf3-4da1-9cb1-00a36be7fc5f": [
+   1793199349,
+   "filtered (none)"
+  ],
   "bse:ba7b8806-ea4c-45dc-8c6c-3b794dfcdf4b": [
    1793092504,
    "filtered (none)"
@@ -8970,6 +9293,10 @@
   ],
   "bse:bba6b88f-9f40-4061-8a3e-cf95c8b9fdce": [
    1793192425,
+   "filtered (none)"
+  ],
+  "bse:bbd60173-c108-4d03-a9a4-7b74f9036dd2": [
+   1793199346,
    "filtered (none)"
   ],
   "bse:bbe462dd-8cce-4eaf-952a-9b458e1dd701": [
@@ -9120,12 +9447,20 @@
    1793186082,
    "filtered (none)"
   ],
+  "bse:be8e5df4-24e3-42f9-86f9-4469c6ba3e94": [
+   1793199345,
+   "filtered (none)"
+  ],
   "bse:bea7b27e-b733-4915-b876-cdf5790df253": [
    1793176425,
    "filtered (none)"
   ],
   "bse:bec18a7b-0bff-4ee4-89c8-4b28f8a77e98": [
    1793100202,
+   "filtered (none)"
+  ],
+  "bse:bed12ad5-e41b-4973-aba8-dafbea1cc444": [
+   1793199349,
    "filtered (none)"
   ],
   "bse:bee07691-174b-4924-909a-c0d338ed8429": [
@@ -9210,6 +9545,10 @@
   ],
   "bse:c16e5715-885e-43a2-bbef-494c74a2bd07": [
    1793002739,
+   "filtered (none)"
+  ],
+  "bse:c185015f-c47f-43c0-80e1-fc13fe2cc368": [
+   1793199359,
    "filtered (none)"
   ],
   "bse:c1868fda-b45b-422f-a2d5-cc3401fd1f4b": [
@@ -9376,6 +9715,10 @@
    1793102935,
    "filtered (none)"
   ],
+  "bse:c47e12ac-b644-4626-8898-f20d5dd48a0e": [
+   1793199349,
+   "filtered (none)"
+  ],
   "bse:c489ef1f-134a-400f-addf-835c7bce8756": [
    1793106037,
    "filtered (none)"
@@ -9394,6 +9737,10 @@
   ],
   "bse:c4cb151c-1cc4-48a5-97a3-4d24cfb0580c": [
    1793176423,
+   "filtered (none)"
+  ],
+  "bse:c4ccb049-b1d9-4ee2-a22e-9c1b14cd0744": [
+   1793199359,
    "filtered (none)"
   ],
   "bse:c4f8d07a-be67-46bd-883b-6a7c23589be2": [
@@ -9474,6 +9821,14 @@
   ],
   "bse:c68994dc-94b3-44f5-8836-f153e3602739": [
    1793179648,
+   "filtered (none)"
+  ],
+  "bse:c6a9bf77-9a71-47b6-ac5e-3d897ff6f677": [
+   1793199359,
+   "filtered (none)"
+  ],
+  "bse:c6bb55b4-4995-467e-a2a7-9d4b789f4a3e": [
+   1793199349,
    "filtered (none)"
   ],
   "bse:c6ed95f7-922b-4c94-b191-361aaf4317ed": [
@@ -9728,6 +10083,10 @@
    1793112475,
    "filtered (none)"
   ],
+  "bse:cb55deb0-b75a-42b2-8246-28e406f7068e": [
+   1793199357,
+   "filtered (none)"
+  ],
   "bse:cb8dfdce-356e-4392-8c1f-a00a1e6c2bd8": [
    1793035462,
    "filtered (none)"
@@ -9872,6 +10231,10 @@
    1793102937,
    "filtered (none)"
   ],
+  "bse:ce8e6bc2-97e5-47d7-bf38-1c1fc5c5cff9": [
+   1793199343,
+   "filtered (none)"
+  ],
   "bse:ceb4877a-3896-4245-87b9-d6ce6f66c3bb": [
    1793032290,
    "filtered (none)"
@@ -9988,6 +10351,10 @@
    1793022917,
    "filtered (none)"
   ],
+  "bse:d24f0b61-b8c0-4e71-98af-e11f4f73461e": [
+   1793199357,
+   "filtered (none)"
+  ],
   "bse:d264c412-b91c-4a99-b991-8aea4aec73cf": [
    1793176425,
    "filtered (none)"
@@ -10011,6 +10378,10 @@
   "bse:d3391e42-bc15-447b-aef0-c88679db2a4a": [
    1793176423,
    "filtered (none)"
+  ],
+  "bse:d3498b57-22cb-4854-9db9-1f903e12d6c7": [
+   1793199359,
+   "classified:possible_offer"
   ],
   "bse:d3510fd1-96b4-4625-898e-31e196a009cd": [
    1793095318,
@@ -10054,6 +10425,10 @@
   ],
   "bse:d4c3bf1b-5819-4cd8-8acf-f8bc6c2ae7fd": [
    1792999382,
+   "filtered (none)"
+  ],
+  "bse:d4eef213-0fbf-438a-99c6-4e4d3b842da3": [
+   1793199357,
    "filtered (none)"
   ],
   "bse:d50d5b25-a58a-4a37-853b-c120da29f78d": [
@@ -10199,6 +10574,10 @@
   "bse:d823aacf-510d-4a77-9543-01d8f996b3e7": [
    1793092504,
    "filtered (none)"
+  ],
+  "bse:d82f9eb3-080e-4b69-a0fb-b57a4254d335": [
+   1793199343,
+   "classified:possible_offer"
   ],
   "bse:d86385bb-d869-4202-a5f2-b1ba602d2d4c": [
    1793102937,
@@ -10347,6 +10726,10 @@
   "bse:da903486-2b14-4a8c-ac6d-847adff92a62": [
    1793188914,
    "filtered (none)"
+  ],
+  "bse:da9e613a-5eb4-43ab-8f09-78ff34e00b8b": [
+   1793199345,
+   "classified:possible_offer"
   ],
   "bse:daa3953c-5577-4c1e-8ad2-4569afacee07": [
    1793106036,
@@ -10600,6 +10983,10 @@
    1793097943,
    "filtered (none)"
   ],
+  "bse:dfd94e1c-ac22-438a-a809-cca4b5d8c9c7": [
+   1793199349,
+   "filtered (none)"
+  ],
   "bse:dfebe689-67e1-4631-85e2-538213673436": [
    1793008733,
    "filtered (none)"
@@ -10796,6 +11183,10 @@
    1793118441,
    "classified:possible_offer"
   ],
+  "bse:e4975519-fe04-4b91-8d39-267252b75465": [
+   1793199350,
+   "filtered (none)"
+  ],
   "bse:e49bc0f7-c487-466f-b16b-88fb00f0a69b": [
    1793106037,
    "filtered (none)"
@@ -10876,6 +11267,10 @@
    1793002733,
    "filtered (none)"
   ],
+  "bse:e647d64f-1f47-4efc-a9ad-d1e105335c93": [
+   1793199349,
+   "filtered (none)"
+  ],
   "bse:e64ad94e-0eed-4807-a9ac-2269a192a287": [
    1793109433,
    "filtered (none)"
@@ -10904,6 +11299,10 @@
    1793173385,
    "filtered (none)"
   ],
+  "bse:e6a267ae-67f5-4ce1-9098-4550305985ac": [
+   1793199343,
+   "filtered (none)"
+  ],
   "bse:e6b5eceb-a6c2-4d37-8992-8a3743c1e788": [
    1793035462,
    "filtered (none)"
@@ -10928,8 +11327,16 @@
    1793192425,
    "filtered (none)"
   ],
+  "bse:e6e006e7-e0a2-4643-b3f2-1a464059f6f9": [
+   1793199349,
+   "filtered (none)"
+  ],
   "bse:e6e586d6-dbae-4478-9404-58946bdb4de7": [
    1793083383,
+   "filtered (none)"
+  ],
+  "bse:e709f51c-57cd-45a2-9861-41648cbf2594": [
+   1793199359,
    "filtered (none)"
   ],
   "bse:e70e41cf-39de-40e0-a761-a85c0ca48817": [
@@ -10950,6 +11357,10 @@
   ],
   "bse:e7a33076-7385-4835-9664-7236929ecddd": [
    1792983596,
+   "filtered (none)"
+  ],
+  "bse:e7daacc6-74ef-4757-a951-1d2122bf68a4": [
+   1793199357,
    "filtered (none)"
   ],
   "bse:e7f2089f-c849-4c76-ad50-0ffad61f2717": [
@@ -11160,6 +11571,10 @@
    1793022918,
    "filtered (none)"
   ],
+  "bse:eb3c97a8-b7d5-43bb-a1cd-4271c2667dcf": [
+   1793199352,
+   "classified:possible_offer"
+  ],
   "bse:eb77cc76-7192-4504-b52d-4b54e7838d54": [
    1793169984,
    "filtered (none)"
@@ -11206,6 +11621,10 @@
   ],
   "bse:ec5b190e-b037-4cb0-91a8-d037cfad8574": [
    1793164124,
+   "filtered (none)"
+  ],
+  "bse:ecbc8efb-b3e1-4c18-84df-6e8448c120a8": [
+   1793199352,
    "filtered (none)"
   ],
   "bse:ecca5725-7d2e-43fc-98f9-27dd97a5f041": [
@@ -11384,6 +11803,10 @@
    1793169984,
    "filtered (none)"
   ],
+  "bse:f063f2e6-ff90-45b8-bbaf-bfd21405e339": [
+   1793199352,
+   "filtered (none)"
+  ],
   "bse:f06481fb-5834-4481-ad0f-9772c463ccce": [
    1793176425,
    "filtered (none)"
@@ -11526,6 +11949,10 @@
   ],
   "bse:f3cf3df7-e18a-43f5-9386-2e97d512b9d6": [
    1792990950,
+   "filtered (none)"
+  ],
+  "bse:f3d8cbe4-d22f-4e68-82ca-681177e49e9b": [
+   1793199359,
    "filtered (none)"
   ],
   "bse:f3f2b046-c256-42b6-ac51-cb60aec90f02": [
@@ -11744,6 +12171,10 @@
    1793161106,
    "filtered (none)"
   ],
+  "bse:f9463fa1-aff3-40c3-8f7d-49661f527c39": [
+   1793199359,
+   "filtered (none)"
+  ],
   "bse:f957f06f-d822-49a8-bf62-de0db737d9d6": [
    1793170007,
    "filtered (none)"
@@ -11798,6 +12229,10 @@
   ],
   "bse:fa305cc0-9c68-4161-821c-e7256c512255": [
    1793089360,
+   "filtered (none)"
+  ],
+  "bse:fa338cd4-5eec-4e28-8cde-e0d8410a7130": [
+   1793199346,
    "filtered (none)"
   ],
   "bse:fa551ed4-424a-4e84-a9e4-022653894414": [
@@ -14332,6 +14767,10 @@
    1792791617,
    "filtered (none)"
   ],
+  "eqs:b6af67ff-f4f6-4b16-a2b7-d407a1f9d1f7": [
+   1793199333,
+   "filtered (none)"
+  ],
   "eqs:b6b9894a-af0e-4f22-aefb-4c6f4562279e": [
    1793155656,
    "filtered (none)"
@@ -16672,6 +17111,10 @@
    1792683438,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/am-capital-completes-strategic-investment-in-delta-group-302922266.html": [
+   1793199340,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/amynta-group-completes-acquisition-of-southern-states-underwriters-302917382.html": [
    1792697577,
    "classified:none"
@@ -17150,6 +17593,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/katalyst-acquires-bluetowne-expanding-cybersecurity-cloud-and-infrastructure-capabilities-302918823.html": [
    1793028934,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/keyrenter-indianapolis-north-acquires-j--j-property-services-expanding-its-reach-across-carmel-westfield-and-zionsville-302922288.html": [
+   1793199340,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/kimberly-clark-corporation-announces-pricing-of-4-9-billion-private-offering-of-senior-notes-302913225.html": [
@@ -19378,6 +19825,10 @@
   ],
   "sec:0001193125-26-435262": [
    1793195985,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-435413": [
+   1793199322,
    "filtered (none)"
   ],
   "sec:0001193805-26-001376": [
