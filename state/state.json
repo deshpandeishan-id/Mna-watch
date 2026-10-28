@@ -1921,6 +1921,10 @@
    1793008733,
    "filtered (none)"
   ],
+  "bse:19895f87-1eff-4461-8b1a-bf2f5bf2d46a": [
+   1793211438,
+   "filtered (none)"
+  ],
   "bse:19908ba4-d44d-492f-9013-a72fd7be4930": [
    1793032290,
    "filtered (none)"
@@ -4469,6 +4473,10 @@
    1793022917,
    "filtered (none)"
   ],
+  "bse:4e0147b1-d1d9-406d-8d35-6c427b5bae79": [
+   1793211438,
+   "filtered (none)"
+  ],
   "bse:4e06d433-99e4-4ff0-b5cf-37c0b9841992": [
    1793022915,
    "filtered (none)"
@@ -5503,6 +5511,10 @@
   ],
   "bse:64c72662-6f34-471f-8655-ff2d37d99357": [
    1793106036,
+   "filtered (none)"
+  ],
+  "bse:64d81052-1ec1-4897-9649-f35fde4d36fa": [
+   1793211438,
    "filtered (none)"
   ],
   "bse:64f35a46-db92-4d4f-9c53-89fc73a4a81a": [
@@ -7109,6 +7121,10 @@
    1793106037,
    "filtered (none)"
   ],
+  "bse:85b30b4b-861a-4172-8c60-a448db332d0c": [
+   1793211438,
+   "filtered (none)"
+  ],
   "bse:85f9f538-d87d-4156-8282-e97e685fd1d6": [
    1793028940,
    "filtered (none)"
@@ -7839,6 +7855,10 @@
   ],
   "bse:957621f2-216d-4cf7-b38e-130d09681b09": [
    1793022917,
+   "filtered (none)"
+  ],
+  "bse:95889365-3598-4b62-a24d-49cfabdce4d7": [
+   1793211438,
    "filtered (none)"
   ],
   "bse:958ba478-8e4e-4907-b547-fa4b5b8ba993": [
@@ -8585,6 +8605,10 @@
    1793196010,
    "filtered (none)"
   ],
+  "bse:a620173f-2704-4acd-8416-b35e5ce97c61": [
+   1793211438,
+   "filtered (none)"
+  ],
   "bse:a64199ab-cf6c-42e8-87e0-157bb0f60ceb": [
    1793078384,
    "classified:possible_offer"
@@ -9069,6 +9093,10 @@
    1793205441,
    "filtered (none)"
   ],
+  "bse:b03fa126-a4d0-49ba-833b-8a4d86d8d4c3": [
+   1793211438,
+   "filtered (none)"
+  ],
   "bse:b04245a3-9e63-41d5-92b7-6ca2f2fe2d9d": [
    1793176423,
    "filtered (none)"
@@ -9119,6 +9147,10 @@
   ],
   "bse:b100edb7-4e6f-41f1-8b65-c22d9a22390f": [
    1793208506,
+   "filtered (none)"
+  ],
+  "bse:b10ecc02-0e81-4998-a8a9-fdc90f0dcb14": [
+   1793211438,
    "filtered (none)"
   ],
   "bse:b1330d82-fa0d-4ca9-ae19-815abdb36dfb": [
@@ -9845,6 +9877,10 @@
    1793176425,
    "filtered (none)"
   ],
+  "bse:bf4e3c93-c112-4609-b445-9ffd8127c320": [
+   1793211438,
+   "filtered (none)"
+  ],
   "bse:bf4eac20-3cfb-4598-aebb-560bf180a9aa": [
    1793179648,
    "filtered (none)"
@@ -10519,6 +10555,10 @@
   ],
   "bse:cbeee149-0cc0-46c7-beb0-03d3757508bc": [
    1793170007,
+   "filtered (none)"
+  ],
+  "bse:cc102b9e-b096-4dd9-81f8-560e438f963f": [
+   1793211438,
    "filtered (none)"
   ],
   "bse:cc18d234-e1d2-4b01-b566-34d8fe2befb2": [
@@ -13797,6 +13837,10 @@
    1792732318,
    "filtered (none)"
   ],
+  "eqs:34441349-7517-462e-823f-5e822f92316a": [
+   1793211429,
+   "filtered (none)"
+  ],
   "eqs:34466670-f9ff-43d1-9e35-1c385de1c4e5": [
    1792771124,
    "filtered (none)"
@@ -14295,6 +14339,10 @@
   ],
   "eqs:5fb30247-8835-47da-a0aa-f70d3f627d1d": [
    1792762708,
+   "filtered (none)"
+  ],
+  "eqs:5fda15ef-11e3-4919-a6f4-7e0be37b52bc": [
+   1793211429,
    "filtered (none)"
   ],
   "eqs:5fe2a7a8-4518-4965-a3f0-40dd4966e3ec": [
@@ -14903,6 +14951,10 @@
   ],
   "eqs:9407f179-57fe-4a5d-bc91-ad4973a4f0d8": [
    1792392133,
+   "filtered (none)"
+  ],
+  "eqs:943f8b57-2b59-43c9-9280-99f6c35a13af": [
+   1793211429,
    "filtered (none)"
   ],
   "eqs:950d8b1f-92c4-43fb-9503-efedca7fb2ef": [
@@ -17713,6 +17765,46 @@
    1793208496,
    "filtered (none)"
   ],
+  "euronext:12919304 at https://live.euronext.com": [
+   1793211428,
+   "filtered (none)"
+  ],
+  "euronext:12919305 at https://live.euronext.com": [
+   1793211428,
+   "filtered (none)"
+  ],
+  "euronext:12919306 at https://live.euronext.com": [
+   1793211428,
+   "filtered (none)"
+  ],
+  "euronext:12919307 at https://live.euronext.com": [
+   1793211428,
+   "filtered (none)"
+  ],
+  "euronext:12919308 at https://live.euronext.com": [
+   1793211428,
+   "filtered (none)"
+  ],
+  "euronext:12919310 at https://live.euronext.com": [
+   1793211428,
+   "filtered (none)"
+  ],
+  "euronext:12919311 at https://live.euronext.com": [
+   1793211428,
+   "filtered (none)"
+  ],
+  "euronext:12919312 at https://live.euronext.com": [
+   1793211428,
+   "filtered (none)"
+  ],
+  "euronext:12919313 at https://live.euronext.com": [
+   1793211428,
+   "filtered (none)"
+  ],
+  "euronext:12919315 at https://live.euronext.com": [
+   1793211428,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/-teg-----------302909728.html": [
    1792050761,
    "filtered (none)"
@@ -18688,6 +18780,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/transpharmation-ltd-anuncia-la-adquisicion-estrategica-de-organotherapeutics-sarl-302922255.html": [
    1793196001,
    "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/transpharmation-ltd-gibt-strategische-ubernahme-von-organotherapeutics-sarl-bekannt-302922549.html": [
+   1793211437,
+   "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/trinity-acquires-verix-adding-ai-powered-next-best-action-and-omnichannel-orchestration-to-the-trinityedge-platform-302914278.html": [
    1792510610,
