@@ -5348,6 +5348,10 @@
    1793188914,
    "filtered (none)"
   ],
+  "bse:605b0c0b-1081-42b4-89f2-d964d6fe8802": [
+   1793220625,
+   "filtered (none)"
+  ],
   "bse:60660193-4da9-495e-90fa-b377dd94996f": [
    1793008733,
    "filtered (none)"
@@ -15432,6 +15436,10 @@
    1792670271,
    "filtered (none)"
   ],
+  "eqs:b33570f5-2632-4ed3-948e-db251b107aaa": [
+   1793220617,
+   "filtered (none)"
+  ],
   "eqs:b4007351-354c-4974-9a19-2f7a7401298b": [
    1793038239,
    "classified:possible_offer"
@@ -15700,12 +15708,20 @@
    1792560652,
    "filtered (none)"
   ],
+  "eqs:cf1c2056-e4cd-46de-a9c3-d9bee2c28f2b": [
+   1793220617,
+   "filtered (none)"
+  ],
   "eqs:cfd2ed99-41fe-4dfd-bf43-2006cab4a61f": [
    1792649528,
    "filtered (none)"
   ],
   "eqs:cfe14caf-40ac-46bf-9ff4-1bba9f018f39": [
    1792497912,
+   "filtered (none)"
+  ],
+  "eqs:d01fa542-f3d4-490a-b6a8-e8fe620a63a1": [
+   1793220617,
    "filtered (none)"
   ],
   "eqs:d1403678-e913-4e32-8475-8541c9351163": [
@@ -18112,6 +18128,10 @@
    1793028932,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/cloopen-group-holding-limited-announces-completion-of-going-private-transaction-302922371.html": [
+   1793220624,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/cognizant-to-acquire-dyflex-solutions-accelerating-ai-led-enterprise-transformation-for-sap-clients-in-australia-and-new-zealand-302916092.html": [
    1792626076,
    "classified:none"
@@ -19052,6 +19072,10 @@
    1792702479,
    "filtered (none)"
   ],
+  "sec:0000076605-26-000103": [
+   1793220614,
+   "filtered (none)"
+  ],
   "sec:0000091388-26-000060": [
    1792155042,
    "filtered (none)"
@@ -19736,6 +19760,18 @@
    1793195985,
    "filtered (none)"
   ],
+  "sec:0001104659-26-119616": [
+   1793220614,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-119632": [
+   1793220614,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-119636": [
+   1793220614,
+   "filtered (none)"
+  ],
   "sec:0001133228-26-013301": [
    1792093817,
    "filtered (none)"
@@ -19920,6 +19956,14 @@
    1793208495,
    "filtered (none)"
   ],
+  "sec:0001140361-26-041051": [
+   1793220614,
+   "filtered (none)"
+  ],
+  "sec:0001140361-26-041056": [
+   1793220614,
+   "filtered (none)"
+  ],
   "sec:0001171843-26-006667": [
    1792095980,
    "filtered (none)"
@@ -19974,6 +20018,10 @@
   ],
   "sec:0001185185-26-005016": [
    1793109409,
+   "filtered (none)"
+  ],
+  "sec:0001185185-26-005042": [
+   1793220614,
    "filtered (none)"
   ],
   "sec:0001193125-26-418400": [
@@ -20708,6 +20756,14 @@
    1793205429,
    "filtered (none)"
   ],
+  "sec:0001193125-26-436150": [
+   1793220614,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-436178": [
+   1793220614,
+   "filtered (none)"
+  ],
   "sec:0001193805-26-001376": [
    1792181541,
    "filtered (none)"
@@ -21304,6 +21360,26 @@
    1793192405,
    "filtered (none)"
   ],
+  "sec:0001213900-26-113306": [
+   1793220614,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-113308": [
+   1793220614,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-113328": [
+   1793220614,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-113339": [
+   1793220614,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-113345": [
+   1793220614,
+   "filtered (none)"
+  ],
   "sec:0001214659-26-013022": [
    1792406150,
    "filtered (none)"
@@ -21330,6 +21406,10 @@
   ],
   "sec:0001362468-26-000056": [
    1792789486,
+   "filtered (none)"
+  ],
+  "sec:0001376339-26-000096": [
+   1793220614,
    "filtered (none)"
   ],
   "sec:0001398733-26-000056": [
@@ -21860,6 +21940,10 @@
    1793049156,
    "filtered (none)"
   ],
+  "sec:0001617640-26-000063": [
+   1793220614,
+   "filtered (none)"
+  ],
   "sec:0001628280-26-065550": [
    1791993862,
    "bootstrap"
@@ -22180,6 +22264,10 @@
    1793132232,
    "filtered (none)"
   ],
+  "sec:0001829126-26-011652": [
+   1793220614,
+   "filtered (none)"
+  ],
   "sec:0001866175-26-000138": [
    1792098170,
    "filtered (none)"
@@ -22230,6 +22318,10 @@
   ],
   "sec:0002030772-26-000032": [
    1792666026,
+   "filtered (none)"
+  ],
+  "sec:0002038118-26-000027": [
+   1793220614,
    "filtered (none)"
   ],
   "sec:0002048951-26-000030": [
