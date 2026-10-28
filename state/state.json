@@ -749,6 +749,13 @@
    "ts": 1793002739,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6bb8026d-3486-4436-95d7-d1a13edd4c38.pdf"
   },
+  "wendy s confirms receipt of unsolicited proposal from trian partners|possible_offer": {
+   "acquirer": "",
+   "source": "prnewswire",
+   "title": "The Wendy's Company Confirms Receipt of Unsolicited Proposal from Trian Partners",
+   "ts": 1793214993,
+   "url": "https://www.prnewswire.com/news-releases/the-wendys-company-confirms-receipt-of-unsolicited-proposal-from-trian-partners-302922593.html"
+  },
   "xtranet technologies|possible_offer": {
    "acquirer": "",
    "source": "bse",
@@ -1451,6 +1458,10 @@
   ],
   "bse:0d7fea04-2394-4065-835c-8db3d1ce866a": [
    1793092504,
+   "filtered (none)"
+  ],
+  "bse:0d855303-589c-470a-8ff4-abe499b329ad": [
+   1793214995,
    "filtered (none)"
   ],
   "bse:0d88b8b6-22c0-4289-a28d-057cdcaf8b03": [
@@ -2511,6 +2522,10 @@
   ],
   "bse:275e14aa-cd14-4eba-9cbc-b55333e4eb4f": [
    1793199343,
+   "filtered (none)"
+  ],
+  "bse:27611eca-3d1e-4973-93c9-e41b913fb9ff": [
+   1793214995,
    "filtered (none)"
   ],
   "bse:276647a4-4225-456a-aff2-a51697106d26": [
@@ -4157,6 +4172,10 @@
    1793186087,
    "filtered (none)"
   ],
+  "bse:46b9d50e-c79b-4153-8f25-2ea50722f47d": [
+   1793214995,
+   "filtered (none)"
+  ],
   "bse:46ccd129-3d72-4d31-bd53-1092eea569c8": [
    1793179650,
    "filtered (none)"
@@ -4733,6 +4752,10 @@
    1793028940,
    "filtered (none)"
   ],
+  "bse:53757faf-9cb1-4109-afaa-ca12ce03845a": [
+   1793214995,
+   "filtered (none)"
+  ],
   "bse:53859377-44dd-4ce6-afc4-4cb3f87697b2": [
    1793092504,
    "filtered (none)"
@@ -5135,6 +5158,10 @@
   ],
   "bse:5cf6402a-93dd-45c2-9cc5-28ddfc97d53c": [
    1793106036,
+   "filtered (none)"
+  ],
+  "bse:5cfa0364-6a90-4579-8a9b-4a63bfbdf367": [
+   1793214995,
    "filtered (none)"
   ],
   "bse:5d0eaf00-2c44-4b3b-a720-01e7bf43dec6": [
@@ -6693,6 +6720,10 @@
    1793173385,
    "filtered (none)"
   ],
+  "bse:7c64aa79-d924-4713-8859-999de0722ecd": [
+   1793214995,
+   "filtered (none)"
+  ],
   "bse:7c769021-76b0-4509-822e-541dc6036f71": [
    1793188914,
    "filtered (none)"
@@ -8117,6 +8148,14 @@
    1793109433,
    "filtered (none)"
   ],
+  "bse:9b681906-6602-432d-bbc6-80bcad8ae44c": [
+   1793214995,
+   "filtered (none)"
+  ],
+  "bse:9b6fbb89-4623-4a36-bbe7-f5206f8b7354": [
+   1793214995,
+   "filtered (none)"
+  ],
   "bse:9bad974a-bf43-41df-8c61-274fa685872c": [
    1793102935,
    "filtered (none)"
@@ -8211,6 +8250,10 @@
   ],
   "bse:9d50bc76-4600-42c2-97b1-f08729a17e10": [
    1793008733,
+   "filtered (none)"
+  ],
+  "bse:9d51632a-aa92-405b-9440-f74f9fcfed2f": [
+   1793214995,
    "filtered (none)"
   ],
   "bse:9d57ac6a-aa76-4b8d-b8e1-a376de6cd84c": [
@@ -11257,6 +11300,10 @@
    1793032290,
    "filtered (none)"
   ],
+  "bse:db18eaab-5f57-4620-ac21-8f8153dca919": [
+   1793214995,
+   "filtered (none)"
+  ],
   "bse:db197bf5-e282-4f3d-916b-b2b8ba75bf4a": [
    1793092504,
    "filtered (none)"
@@ -12207,6 +12254,10 @@
   ],
   "bse:eda81338-c489-4474-aeef-5884b31a1009": [
    1793170007,
+   "filtered (none)"
+  ],
+  "bse:edbf5a28-1b90-4287-8597-edd5283c8364": [
+   1793214995,
    "filtered (none)"
   ],
   "bse:edc19eb4-1a44-4f74-ab5e-ac8ba1fb5e99": [
@@ -18117,6 +18168,10 @@
    1791993871,
    "bootstrap"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/elder-bray--bankler-advises-jh-strain--sons-on-sale-of-assets--real-estate-302922605.html": [
+   1793214993,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/energy-services-of-america-completes-famco-acquisition-302918424.html": [
    1792789495,
    "filtered (none)"
@@ -18748,6 +18803,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/the-partner-companies-acquires-fb-mfg-strengthening-precision-metal-forming-capabilities-for-aerospace-and-defense-302919477.html": [
    1793028931,
    "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/the-wendys-company-confirms-receipt-of-unsolicited-proposal-from-trian-partners-302922593.html": [
+   1793214993,
+   "classified:possible_offer"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/threadlock-precision-supported-by-the-d-e-shaw-group-acquires-service--sales-inc-to-expand-us-aerospace-and-defense-precision-manufacturing-network-302913013.html": [
    1792510611,
@@ -21863,6 +21922,10 @@
   ],
   "sec:0001628280-26-067610": [
    1793134613,
+   "filtered (none)"
+  ],
+  "sec:0001628280-26-067857": [
+   1793214983,
    "filtered (none)"
   ],
   "sec:0001628873-26-000110": [
