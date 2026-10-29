@@ -784,6 +784,13 @@
    "ts": 1793129610,
    "url": "https://www.prnewswire.com/news-releases/tetragon-financial-group-limited-announcement-of-dividend-and-intention-to-conduct-tender-offer-302921156.html"
   },
+  "texas community bancshares and banc of san jacinto county bancshares parent of bank of san jacinto county coldspring texas announce merger agreement|possible_offer": {
+   "acquirer": "",
+   "source": "prnewswire",
+   "title": "TEXAS COMMUNITY BANCSHARES, INC. AND THE BANC OF SAN JACINTO COUNTY BANCSHARES, INC., THE PARENT OF THE BANK OF SAN JACINTO COUNTY, COLDSPRING, TEXAS, ANNOUNCE MERGER AGREEMENT",
+   "ts": 1793314096,
+   "url": "https://www.prnewswire.com/news-releases/texas-community-bancshares-inc-and-the-banc-of-san-jacinto-county-bancshares-inc-the-parent-of-the-bank-of-san-jacinto-county-coldspring-texas-announce-merger-agreement-302924337.html"
+  },
   "themis medicare|possible_offer": {
    "acquirer": "",
    "source": "bse",
@@ -23119,6 +23126,14 @@
    1793296167,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/bmo-closes-sale-of-transportation-and-vendor-finance-businesses-302924335.html": [
+   1793314096,
+   "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/bmo-closes-sale-of-transportation-and-vendor-finance-businesses-850893092.html": [
+   1793314096,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/boots-group-finco-lp-and-the-boots-group-luxco-sa-rl-announce-launch-of-consent-solicitation-for-their-650-000-000-5-375-senior-secured-notes-due-2032-and-375-000-000-7-375-senior-secured-notes-due-2032--302912390.html": [
    1792398130,
    "filtered (none)"
@@ -23957,6 +23972,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/tetragon-financial-group-limited-announcement-of-dividend-and-intention-to-conduct-tender-offer-302921156.html": [
    1793129610,
+   "classified:possible_offer"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/texas-community-bancshares-inc-and-the-banc-of-san-jacinto-county-bancshares-inc-the-parent-of-the-bank-of-san-jacinto-county-coldspring-texas-announce-merger-agreement-302924337.html": [
+   1793314096,
    "classified:possible_offer"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/the-broe-group-enters-southern-california-as-part-of-billion-dollar-multifamily-initiative-302916179.html": [
