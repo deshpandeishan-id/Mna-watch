@@ -11227,6 +11227,10 @@
    1793097940,
    "filtered (none)"
   ],
+  "bse:a0a94db7-f8aa-47a9-acc9-9cd2676f376b": [
+   1793305390,
+   "filtered (none)"
+  ],
   "bse:a0b649cf-9d2a-4fae-a004-8775761f3c3f": [
    1793092504,
    "classified:possible_offer"
@@ -20087,6 +20091,10 @@
    1793022906,
    "filtered (none)"
   ],
+  "eqs:adf0f6e2-e47e-4a62-a14d-91ea85445b73": [
+   1793305381,
+   "filtered (none)"
+  ],
   "eqs:ae264b55-abed-4957-a995-a5b23fe85f4f": [
    1792160143,
    "filtered (none)"
@@ -22895,6 +22903,22 @@
    1793298679,
    "filtered (none)"
   ],
+  "euronext:12919687 at https://live.euronext.com": [
+   1793305379,
+   "filtered (none)"
+  ],
+  "euronext:12919688 at https://live.euronext.com": [
+   1793305379,
+   "filtered (none)"
+  ],
+  "euronext:12919689 at https://live.euronext.com": [
+   1793305379,
+   "filtered (none)"
+  ],
+  "euronext:12919692 at https://live.euronext.com": [
+   1793305379,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/-teg-----------302909728.html": [
    1792050761,
    "filtered (none)"
@@ -23161,6 +23185,14 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/copperpoint-completes-acquisition-of-general-indemnity-group-expanding-nationwide-surety-and-specialty-insurance-capabilities-302918946.html": [
    1793028934,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/coveo-acquires-anglera-to-make-product-data-a-competitive-advantage-in-ai-powered-ecommerce-302924144.html": [
+   1793305388,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/coveo-acquires-anglera-to-make-product-data-a-competitive-advantage-in-ai-powered-ecommerce-895803317.html": [
+   1793305389,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/cpl-expands-chicago-midwest-footprint-through-acquisition-of-bailey-edward-302915059.html": [
@@ -23639,6 +23671,10 @@
    1792583811,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/newport-highlights-four-milestone-transactions-across-retail-real-estate-workforce-solutions-and-building-products-302924132.html": [
+   1793305388,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/newport-llc-welcomes-three-experienced-business-leaders-as-partners-expanding-advisory-expertise-in-business-transformation-ma-and-strategic-growth-302909353.html": [
    1792062593,
    "filtered (none)"
@@ -24039,6 +24075,10 @@
    1792615680,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/vusion-completes-acquisition-of-in-store-media-opening-a-new-chapter-for-digital-retail-media-in-physical-stores-302924244.html": [
+   1793305388,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/wallander-group-debuts-holding-company-built-to-grow-new-englands-industrial-businesses-302921775.html": [
    1793196002,
    "filtered (none)"
@@ -24137,6 +24177,10 @@
   ],
   "sec:0000099780-26-000131": [
    1792699824,
+   "filtered (none)"
+  ],
+  "sec:0000100726-26-000018": [
+   1793305378,
    "filtered (none)"
   ],
   "sec:0000105770-26-000114": [
@@ -24361,6 +24405,14 @@
   ],
   "sec:0000950142-26-002834": [
    1793013912,
+   "filtered (none)"
+  ],
+  "sec:0000950142-26-002890": [
+   1793305378,
+   "filtered (none)"
+  ],
+  "sec:0000950142-26-002891": [
+   1793305378,
    "filtered (none)"
   ],
   "sec:0000950157-26-001129": [
@@ -24873,6 +24925,22 @@
   ],
   "sec:0001104659-26-120019": [
    1793286418,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-120193": [
+   1793305378,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-120207": [
+   1793305378,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-120210": [
+   1793305378,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-120211": [
+   1793305378,
    "filtered (none)"
   ],
   "sec:0001133228-26-013301": [
@@ -25959,6 +26027,14 @@
    1793298677,
    "filtered (none)"
   ],
+  "sec:0001193125-26-437752": [
+   1793305378,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-437818": [
+   1793305378,
+   "filtered (none)"
+  ],
   "sec:0001193805-26-001376": [
    1792181541,
    "filtered (none)"
@@ -26619,6 +26695,18 @@
    1793298677,
    "filtered (none)"
   ],
+  "sec:0001213900-26-113807": [
+   1793305378,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-113824": [
+   1793305378,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-113826": [
+   1793305378,
+   "filtered (none)"
+  ],
   "sec:0001214659-26-013022": [
    1792406150,
    "filtered (none)"
@@ -26637,6 +26725,10 @@
   ],
   "sec:0001308179-26-000433": [
    1793132232,
+   "filtered (none)"
+  ],
+  "sec:0001308179-26-000440": [
+   1793305378,
    "filtered (none)"
   ],
   "sec:0001335258-26-000048": [
@@ -27131,6 +27223,10 @@
    1793282901,
    "filtered (none)"
   ],
+  "sec:0001493152-26-049271": [
+   1793305378,
+   "filtered (none)"
+  ],
   "sec:0001506293-26-000143": [
    1792098170,
    "filtered (none)"
@@ -27149,6 +27245,10 @@
   ],
   "sec:0001520138-26-000434": [
    1792702479,
+   "filtered (none)"
+  ],
+  "sec:0001528396-26-000069": [
+   1793305378,
    "filtered (none)"
   ],
   "sec:0001539497-26-002703": [
@@ -27313,6 +27413,10 @@
   ],
   "sec:0001628280-26-067943": [
    1793222860,
+   "filtered (none)"
+  ],
+  "sec:0001628280-26-068250": [
+   1793305378,
    "filtered (none)"
   ],
   "sec:0001628873-26-000110": [
@@ -27543,6 +27647,10 @@
    1793220614,
    "filtered (none)"
   ],
+  "sec:0001829126-26-011773": [
+   1793305378,
+   "filtered (none)"
+  ],
   "sec:0001866175-26-000138": [
    1792098170,
    "filtered (none)"
@@ -27558,6 +27666,10 @@
   "sec:0001929980-26-000543": [
    1791993862,
    "bootstrap"
+  ],
+  "sec:0001933414-26-000136": [
+   1793305378,
+   "filtered (none)"
   ],
   "sec:0001935979-26-000080": [
    1792100479,
@@ -27586,6 +27698,30 @@
   "sec:0001999371-26-022689": [
    1791993862,
    "bootstrap"
+  ],
+  "sec:0001999371-26-023869": [
+   1793305378,
+   "filtered (none)"
+  ],
+  "sec:0001999371-26-023871": [
+   1793305378,
+   "filtered (none)"
+  ],
+  "sec:0001999371-26-023874": [
+   1793305378,
+   "filtered (none)"
+  ],
+  "sec:0001999371-26-023876": [
+   1793305378,
+   "filtered (none)"
+  ],
+  "sec:0001999371-26-023878": [
+   1793305378,
+   "filtered (none)"
+  ],
+  "sec:0001999371-26-023881": [
+   1793305378,
+   "filtered (none)"
   ],
   "sec:0002007855-26-000081": [
    1792060313,
