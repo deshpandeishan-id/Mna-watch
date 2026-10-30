@@ -1182,6 +1182,10 @@
    1793100202,
    "filtered (none)"
   ],
+  "bse:03fa104c-a9f9-4da2-aedd-1a4b9e7d72ee": [
+   1793331873,
+   "filtered (none)"
+  ],
   "bse:0401bf2b-9c3b-480d-bf36-0071d6bc86e4": [
    1793008733,
    "filtered (none)"
@@ -1292,6 +1296,10 @@
   ],
   "bse:057edc20-e6f6-4c0c-91b8-8e0fbd69b839": [
    1793102935,
+   "filtered (none)"
+  ],
+  "bse:05816a85-efa9-4d8d-adca-b52b00e5f5ff": [
+   1793331873,
    "filtered (none)"
   ],
   "bse:05a0de1b-e7d5-45f2-a34a-35caacb7af1f": [
@@ -8926,6 +8934,10 @@
    1793169984,
    "filtered (none)"
   ],
+  "bse:7c41e1f7-d761-4b92-b5f9-91eb31249486": [
+   1793331873,
+   "filtered (none)"
+  ],
   "bse:7c52a1ca-7e43-4194-8b9f-b54e2dda3349": [
    1793011262,
    "filtered (none)"
@@ -10170,6 +10182,10 @@
    1793109433,
    "filtered (none)"
   ],
+  "bse:8f3619d9-15dd-4adb-ba45-7645374c3bc8": [
+   1793331873,
+   "filtered (none)"
+  ],
   "bse:8f38b38b-0ded-4a21-89b0-6284b5933bf0": [
    1792995589,
    "filtered (none)"
@@ -10524,6 +10540,10 @@
   ],
   "bse:94723809-ff8f-420f-a2bb-ae2a941d5e6d": [
    1793282914,
+   "filtered (none)"
+  ],
+  "bse:94781ea3-9f47-46bb-a649-32a0aa6b7ab8": [
+   1793331873,
    "filtered (none)"
   ],
   "bse:94a6c703-e11e-4e67-ac67-cab8fc6789a8": [
@@ -10934,6 +10954,10 @@
    1793100201,
    "filtered (none)"
   ],
+  "bse:9bb967b5-fd40-47c5-b675-7fb33c6850be": [
+   1793331873,
+   "filtered (none)"
+  ],
   "bse:9bbfe9be-9fbf-4af0-bf2c-0ba2f69713d0": [
    1793205441,
    "filtered (none)"
@@ -11272,6 +11296,10 @@
   ],
   "bse:a0e3bf73-49f4-4dec-beaf-09b6c65547f0": [
    1793109433,
+   "filtered (none)"
+  ],
+  "bse:a0ea3031-8f5e-4f39-8faf-74be2c6733a6": [
+   1793331873,
    "filtered (none)"
   ],
   "bse:a101526d-ff74-4a40-902d-35a9fa51187e": [
@@ -13152,6 +13180,10 @@
   ],
   "bse:bd213904-3b6e-47bc-964d-87814225ae17": [
    1793011262,
+   "filtered (none)"
+  ],
+  "bse:bd4188da-1f76-4c6c-a751-f705757c5ae2": [
+   1793331873,
    "filtered (none)"
   ],
   "bse:bd4643ea-2f07-4305-88b8-e9e07e218837": [
@@ -16582,6 +16614,10 @@
    1793186087,
    "filtered (none)"
   ],
+  "bse:ef008cb9-1696-4d61-97ed-2a699a829a9d": [
+   1793331873,
+   "filtered (none)"
+  ],
   "bse:ef13892b-52d3-4ff0-85b0-ec787f3edacc": [
    1793106037,
    "filtered (none)"
@@ -16656,6 +16692,10 @@
   ],
   "bse:f03fda4f-41ac-4e12-a07f-5e31804bec53": [
    1793202536,
+   "filtered (none)"
+  ],
+  "bse:f04eafbb-5382-4871-ba56-505a544f54bf": [
+   1793331873,
    "filtered (none)"
   ],
   "bse:f04fe906-d94d-427f-947f-de4e4fb7b891": [
@@ -19414,6 +19454,10 @@
    1792681088,
    "filtered (none)"
   ],
+  "eqs:77eadf7c-6990-4548-b31f-a556870454df": [
+   1793331865,
+   "filtered (none)"
+  ],
   "eqs:783a8bb9-7dcb-4fb8-996d-da39fc5c98f7": [
    1792416653,
    "filtered (none)"
@@ -19724,6 +19768,10 @@
   ],
   "eqs:8e04023f-af63-4504-86ee-2762a4ee5692": [
    1792082006,
+   "filtered (none)"
+  ],
+  "eqs:8e2e012a-c828-4713-a089-963352dd9e63": [
+   1793331865,
    "filtered (none)"
   ],
   "eqs:8e471fd6-508e-4dfe-91d7-18aa18355637": [
@@ -22924,6 +22972,46 @@
   ],
   "euronext:12919582 at https://live.euronext.com": [
    1793286419,
+   "filtered (none)"
+  ],
+  "euronext:12919644 at https://live.euronext.com": [
+   1793331863,
+   "filtered (none)"
+  ],
+  "euronext:12919645 at https://live.euronext.com": [
+   1793331863,
+   "filtered (none)"
+  ],
+  "euronext:12919646 at https://live.euronext.com": [
+   1793331863,
+   "filtered (none)"
+  ],
+  "euronext:12919647 at https://live.euronext.com": [
+   1793331863,
+   "filtered (none)"
+  ],
+  "euronext:12919648 at https://live.euronext.com": [
+   1793331863,
+   "filtered (none)"
+  ],
+  "euronext:12919649 at https://live.euronext.com": [
+   1793331863,
+   "filtered (none)"
+  ],
+  "euronext:12919651 at https://live.euronext.com": [
+   1793331863,
+   "filtered (none)"
+  ],
+  "euronext:12919652 at https://live.euronext.com": [
+   1793331863,
+   "filtered (none)"
+  ],
+  "euronext:12919653 at https://live.euronext.com": [
+   1793331863,
+   "filtered (none)"
+  ],
+  "euronext:12919654 at https://live.euronext.com": [
+   1793331863,
    "filtered (none)"
   ],
   "euronext:12919668 at https://live.euronext.com": [
