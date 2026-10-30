@@ -497,6 +497,13 @@
    "ts": 1793092499,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2F73EB05_DC21_4A38_BF15_5D9BA223FD44_143933.pdf"
   },
+  "manipal health enterprises|possible_offer": {
+   "acquirer": "",
+   "source": "bse",
+   "title": "Manipal Health Enterprises Ltd: Manipal Health Enterprises Ltd - 544847 - Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011.",
+   "ts": 1793334583,
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/256831D0_6A72_4CD4_BD18_E9EE87FD8AE9_093525.pdf"
+  },
   "mankind pharma|possible_offer": {
    "acquirer": "",
    "source": "bse",
@@ -3229,6 +3236,10 @@
   "bse:254a2c1a-a057-4efe-86cb-8cf6e4ca7352": [
    1793265966,
    "filtered (none)"
+  ],
+  "bse:256831d0-6a72-4cd4-bd18-e9ee87fd8ae9": [
+   1793334583,
+   "classified:possible_offer"
   ],
   "bse:2568493c-39b4-48b9-ac34-c8c3827854de": [
    1793269339,
@@ -6554,6 +6565,10 @@
    1793097941,
    "filtered (none)"
   ],
+  "bse:57c1d70b-7f51-4eed-802b-1eea1b993db7": [
+   1793334583,
+   "filtered (none)"
+  ],
   "bse:57d8b3e0-f259-43b4-b967-4b9c18ba2c3a": [
    1793282914,
    "filtered (none)"
@@ -8692,6 +8707,10 @@
   ],
   "bse:78ce2e2c-83f9-4f45-b77b-af2078955088": [
    1793186082,
+   "filtered (none)"
+  ],
+  "bse:78d0002d-d714-4c46-a4e1-6157f8c0ff21": [
+   1793334582,
    "filtered (none)"
   ],
   "bse:78d068cc-ab54-4da3-9cb9-4f9da9cd55e3": [
@@ -10840,6 +10859,10 @@
   ],
   "bse:997b60a8-4087-4837-aef8-c58878af0b56": [
    1793011262,
+   "filtered (none)"
+  ],
+  "bse:99ac9a76-76b6-4f90-a0bf-57be37a53f2e": [
+   1793334582,
    "filtered (none)"
   ],
   "bse:99c53db1-05b5-48f4-a49f-cdcd1674f218": [
@@ -14526,6 +14549,10 @@
    1793252664,
    "filtered (none)"
   ],
+  "bse:d0496cb5-06d5-46f7-8ff6-29f672158613": [
+   1793334582,
+   "filtered (none)"
+  ],
   "bse:d04fac80-c92a-47fb-a77d-412ccf5c2337": [
    1793192425,
    "filtered (none)"
@@ -15104,6 +15131,10 @@
   ],
   "bse:d8e18955-d0ea-4ead-ae0a-edbbd029f6f1": [
    1793275430,
+   "filtered (none)"
+  ],
+  "bse:d9000ae0-09e0-4376-8591-e2620d1e4911": [
+   1793334582,
    "filtered (none)"
   ],
   "bse:d90809cf-2b0b-4fb8-a5c1-d5a9588ba185": [
@@ -17760,6 +17791,10 @@
   ],
   "bse:ffa8e465-2001-48a2-a05c-5a078fb7486d": [
    1793100202,
+   "filtered (none)"
+  ],
+  "bse:ffb082b7-d645-487b-a960-571ae0095488": [
+   1793334583,
    "filtered (none)"
   ],
   "bse:ffb2b628-e547-4a2c-b9f9-b5f960193a00": [
