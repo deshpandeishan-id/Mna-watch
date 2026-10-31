@@ -546,6 +546,13 @@
    "ts": 1793202541,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ff02997f-cc15-46d1-bff3-f02a0e563324.pdf"
   },
+  "jsw steel|possible_offer": {
+   "acquirer": "",
+   "source": "bse",
+   "title": "JSW Steel Ltd: JSW Steel Ltd - 500228 - Announcement under Regulation 30 (LODR)-Scheme of Arrangement",
+   "ts": 1793480197,
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b4ff7a5a-dda3-439b-b8dd-0becbf7c3f79.pdf"
+  },
   "kfin technologies|possible_offer": {
    "acquirer": "",
    "source": "bse",
@@ -22135,6 +22142,10 @@
   "bse:d8fde078-aa8d-4fbb-be62-485854133e18": [
    1793347849,
    "filtered (none)"
+  ],
+  "bse:d8fdf800-7f87-4403-9594-cd878418763c": [
+   1793480197,
+   "classified:possible_offer"
   ],
   "bse:d9000ae0-09e0-4376-8591-e2620d1e4911": [
    1793334582,
