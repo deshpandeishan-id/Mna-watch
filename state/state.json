@@ -154,6 +154,13 @@
    "ts": 1793102936,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ED95B025_AA49_43BD_8981_E116903FE648_171707.pdf"
   },
+  "affle 3i|possible_offer": {
+   "acquirer": "",
+   "source": "bse",
+   "title": "Affle 3I Ltd: Affle 3I Ltd - 542752 - Announcement under Regulation 30 (LODR)-Acquisition",
+   "ts": 1793535788,
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7029ff7f-119e-4a69-bf28-be3a3b4dca47.pdf"
+  },
   "ambuja cements|possible_offer": {
    "acquirer": "",
    "source": "bse",
@@ -1749,6 +1756,10 @@
   ],
   "bse:04e271ee-b5e0-4991-a0ab-9b54239687bc": [
    1793437246,
+   "filtered (none)"
+  ],
+  "bse:04ee3f76-eb28-46d5-a25d-bfbf349c9abe": [
+   1793535788,
    "filtered (none)"
   ],
   "bse:04f7bd7f-1a5d-4cc3-8ce1-60e6d150194b": [
@@ -6831,6 +6842,10 @@
    1793269339,
    "filtered (none)"
   ],
+  "bse:39b9af7d-1620-4ef3-b4b5-5346249af2ae": [
+   1793535788,
+   "classified:possible_offer"
+  ],
   "bse:39bc7f0e-e3ed-4283-81f0-31f84c46b317": [
    1793022915,
    "filtered (none)"
@@ -8029,6 +8044,10 @@
   ],
   "bse:45831a1d-a58f-4db8-98ea-c356b0882fbd": [
    1793278940,
+   "filtered (none)"
+  ],
+  "bse:458b7308-4137-4e73-8ce8-55c7c946e8f4": [
+   1793535788,
    "filtered (none)"
   ],
   "bse:45963489-8e05-498d-acfe-8460381af37b": [
@@ -9527,6 +9546,10 @@
    1793102937,
    "filtered (none)"
   ],
+  "bse:55345d98-d356-4986-a53c-f6c231eb3bea": [
+   1793535788,
+   "filtered (none)"
+  ],
   "bse:553d9d3e-1a84-4b15-b5e8-2dc83c9173ae": [
    1793278940,
    "filtered (none)"
@@ -9581,6 +9604,10 @@
   ],
   "bse:563c3393-5959-4a5c-9f67-1dc6ac972970": [
    1793367362,
+   "filtered (none)"
+  ],
+  "bse:563e2f55-dfee-43ad-bafb-a52cfdb40346": [
+   1793535788,
    "filtered (none)"
   ],
   "bse:563fda1d-94eb-4904-8a88-4658bdbdf978": [
@@ -14051,6 +14078,10 @@
    1793097942,
    "filtered (none)"
   ],
+  "bse:84370e91-a619-445a-9b0d-14014f13e937": [
+   1793535787,
+   "filtered (none)"
+  ],
   "bse:843fcecb-7b81-4824-8693-00a3fc371ce6": [
    1793344066,
    "filtered (none)"
@@ -16651,6 +16682,10 @@
    1793092502,
    "filtered (none)"
   ],
+  "bse:9ed1d840-3f62-404f-9447-1224c45f8148": [
+   1793535788,
+   "filtered (none)"
+  ],
   "bse:9ed901ab-9f3e-4883-875f-bf10e2187972": [
    1793455830,
    "filtered (none)"
@@ -17713,6 +17748,10 @@
   ],
   "bse:aa63b874-6912-49a8-b99e-0eadc55bed22": [
    1793097942,
+   "filtered (none)"
+  ],
+  "bse:aa6c0dc4-f817-4b56-8415-d00ae0b49083": [
+   1793535787,
    "filtered (none)"
   ],
   "bse:aa70bd0f-bda6-4776-b69d-3bef343601c0": [
@@ -19855,6 +19894,10 @@
    1793265966,
    "filtered (none)"
   ],
+  "bse:bf2eb684-cde3-4293-8f12-18862eeb93ed": [
+   1793535788,
+   "filtered (none)"
+  ],
   "bse:bf3917e4-c732-4bb7-b22c-6677e81cad60": [
    1793173385,
    "filtered (none)"
@@ -21701,6 +21744,10 @@
   ],
   "bse:d1e9ee7f-914d-4e9a-ae11-da3319595f20": [
    1793367368,
+   "filtered (none)"
+  ],
+  "bse:d1ebbc03-29ca-4a60-8ecf-43996e63e4cb": [
+   1793535788,
    "filtered (none)"
   ],
   "bse:d1ed574f-0292-4592-a223-404f72285171": [
