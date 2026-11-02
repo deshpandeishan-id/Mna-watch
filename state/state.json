@@ -455,6 +455,13 @@
    "ts": 1793095319,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/B6ECDA7E-3B10-41FD-9996-FE3C906D8416-151426.pdf"
   },
+  "geopark|possible_offer": {
+   "acquirer": "",
+   "source": "sec",
+   "title": "SC TO-C – GeoPark Ltd (Subject)",
+   "ts": 1793654414,
+   "url": "https://www.sec.gov/Archives/edgar/data/1464591/000134100426000080/0001341004-26-000080-index.htm"
+  },
   "ginni filaments|possible_offer": {
    "acquirer": "",
    "source": "bse",
@@ -2060,6 +2067,10 @@
   ],
   "bse:06212b99-16e1-4f8b-aa73-364ba3f7e340": [
    1793651297,
+   "filtered (none)"
+  ],
+  "bse:0626d872-5184-409b-b15f-a1cc217886d6": [
+   1793654426,
    "filtered (none)"
   ],
   "bse:062e6633-6c01-4546-affd-08c436ed71ac": [
@@ -19486,6 +19497,10 @@
    1793008731,
    "filtered (none)"
   ],
+  "bse:a00a9795-c552-4207-8ced-fd7fa6b72b95": [
+   1793654426,
+   "filtered (none)"
+  ],
   "bse:a010bb67-fc45-40cc-bd4f-c61b10021a05": [
    1793615457,
    "filtered (none)"
@@ -28626,6 +28641,10 @@
    1793355079,
    "filtered (none)"
   ],
+  "bse:ec75baf1-fbba-44a7-8a8a-41645ee4dae6": [
+   1793654426,
+   "filtered (none)"
+  ],
   "bse:ec763ba6-bb14-4b0f-877c-107595382912": [
    1793351557,
    "filtered (none)"
@@ -33514,6 +33533,10 @@
    1792748051,
    "classified:possible_offer"
   ],
+  "eqs:9d48b9c3-dcc6-45d6-a387-ea3b6c164fbb": [
+   1793654417,
+   "filtered (none)"
+  ],
   "eqs:9d687761-d970-4293-9930-f96bf9048d1d": [
    1792042784,
    "filtered (none)"
@@ -33780,6 +33803,10 @@
   ],
   "eqs:af1ad68f-03e0-4e45-9f77-d070e8af0c72": [
    1793112466,
+   "filtered (none)"
+  ],
+  "eqs:afaf1b88-dc5f-46d4-a39e-6a4af3c9231c": [
+   1793654417,
    "filtered (none)"
   ],
   "eqs:afb4fa31-fb2c-45b1-b747-63b5a5d02b21": [
@@ -34496,6 +34523,10 @@
   ],
   "eqs:e0f1e1f4-e26f-4136-a8d3-81af25d27967": [
    1793526141,
+   "filtered (none)"
+  ],
+  "eqs:e123e009-e35b-4426-b624-3d7273be6fe3": [
+   1793654417,
    "filtered (none)"
   ],
   "eqs:e1667a0c-7c64-4861-835f-78cc671fb366": [
@@ -38282,6 +38313,10 @@
    1793282912,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/platinum-equity-acquires-warren-valve-from-allied-group-302926908.html": [
+   1793654425,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/platinum-equity-to-acquire-edp-302922315.html": [
    1793202534,
    "classified:none"
@@ -38357,6 +38392,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/scorpion-deepens-its-investment-in-pest-control-and-lawn-care-acquires-coalmarch-marketing-302912687.html": [
    1792419707,
    "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/select-water-solutions-announces-closing-of-pilot-water-solutions-acquisition-302926951.html": [
+   1793654424,
+   "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/sequoia-financial-group-acquires-colorado-wealth-manager-quish-302917053.html": [
    1792683439,
@@ -38641,6 +38680,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/williams-safety--rescue-completes-acquisition-of-frandson-safety-302911847.html": [
    1792416660,
    "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/woodward-park-partners-advises-trimas-in-its-sale-of-rapak-to-ringmetall-302926925.html": [
+   1793654424,
+   "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/wsg-acquires-sanctuary-positioning-the-contemporary-womens-brand-for-global-growth-302917570.html": [
    1792762715,
@@ -39008,6 +39051,10 @@
   ],
   "sec:0001062993-26-005466": [
    1792615663,
+   "filtered (none)"
+  ],
+  "sec:0001062993-26-005664": [
+   1793654414,
    "filtered (none)"
   ],
   "sec:0001070750-26-000150": [
@@ -39626,6 +39673,10 @@
    1793630979,
    "filtered (none)"
   ],
+  "sec:0001104659-26-121318": [
+   1793654414,
+   "filtered (none)"
+  ],
   "sec:0001133228-26-013301": [
    1792093817,
    "filtered (none)"
@@ -39864,6 +39915,10 @@
   ],
   "sec:0001140361-26-041319": [
    1793396666,
+   "filtered (none)"
+  ],
+  "sec:0001140361-26-041575": [
+   1793654414,
    "filtered (none)"
   ],
   "sec:0001171843-26-006667": [
@@ -40966,6 +41021,30 @@
    1793648313,
    "filtered (none)"
   ],
+  "sec:0001193125-26-443614": [
+   1793654414,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-443618": [
+   1793654414,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-443623": [
+   1793654414,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-443635": [
+   1793654414,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-443638": [
+   1793654414,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-443681": [
+   1793654414,
+   "filtered (none)"
+  ],
   "sec:0001193805-26-001376": [
    1792181541,
    "filtered (none)"
@@ -41750,6 +41829,38 @@
    1793634309,
    "filtered (none)"
   ],
+  "sec:0001213900-26-114909": [
+   1793654414,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-114913": [
+   1793654414,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-114917": [
+   1793654414,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-114920": [
+   1793654414,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-114927": [
+   1793654414,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-114940": [
+   1793654414,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-114942": [
+   1793654414,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-114943": [
+   1793654414,
+   "filtered (none)"
+  ],
   "sec:0001214659-26-013022": [
    1792406150,
    "filtered (none)"
@@ -41802,6 +41913,10 @@
    1793396666,
    "filtered (none)"
   ],
+  "sec:0001341004-26-000080": [
+   1793654414,
+   "classified:possible_offer"
+  ],
   "sec:0001362468-26-000056": [
    1792789486,
    "filtered (none)"
@@ -41812,6 +41927,10 @@
   ],
   "sec:0001376339-26-000096": [
    1793220614,
+   "filtered (none)"
+  ],
+  "sec:0001385613-26-000138": [
+   1793654414,
    "filtered (none)"
   ],
   "sec:0001396440-26-000140": [
@@ -41984,6 +42103,10 @@
   ],
   "sec:0001437749-26-034282": [
    1793627411,
+   "filtered (none)"
+  ],
+  "sec:0001437749-26-034436": [
+   1793654414,
    "filtered (none)"
   ],
   "sec:0001451505-26-000075": [
@@ -42434,6 +42557,10 @@
    1792069792,
    "filtered (none)"
   ],
+  "sec:0001603978-26-000109": [
+   1793654414,
+   "filtered (none)"
+  ],
   "sec:0001609151-26-000112": [
    1791993862,
    "bootstrap"
@@ -42586,6 +42713,10 @@
    1793651286,
    "filtered (none)"
   ],
+  "sec:0001628280-26-068874": [
+   1793654414,
+   "filtered (none)"
+  ],
   "sec:0001628873-26-000110": [
    1791993862,
    "bootstrap"
@@ -42680,6 +42811,10 @@
   ],
   "sec:0001692951-26-000193": [
    1792170916,
+   "filtered (none)"
+  ],
+  "sec:0001702510-26-000114": [
+   1793654414,
    "filtered (none)"
   ],
   "sec:0001717547-26-000068": [
