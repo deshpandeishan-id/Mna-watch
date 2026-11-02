@@ -2058,6 +2058,10 @@
    1793431477,
    "filtered (none)"
   ],
+  "bse:06212b99-16e1-4f8b-aa73-364ba3f7e340": [
+   1793651297,
+   "filtered (none)"
+  ],
   "bse:062e6633-6c01-4546-affd-08c436ed71ac": [
    1793611741,
    "filtered (none)"
@@ -19842,6 +19846,10 @@
    1793444747,
    "filtered (none)"
   ],
+  "bse:a33e25df-362a-44b4-89b5-e12cfdd4d5ef": [
+   1793651297,
+   "filtered (none)"
+  ],
   "bse:a340af0e-143c-4d79-81c7-b5c1e08d2fe6": [
    1793188921,
    "classified:possible_offer"
@@ -29282,6 +29290,10 @@
    1793262610,
    "filtered (none)"
   ],
+  "bse:f1d526a6-d061-4fc9-9380-3ab2e9d21d46": [
+   1793651297,
+   "filtered (none)"
+  ],
   "bse:f1dd07df-016a-4c5f-a6fe-3ce6796acf04": [
    1792999382,
    "filtered (none)"
@@ -34138,6 +34150,10 @@
    1793358147,
    "filtered (none)"
   ],
+  "eqs:c89f1ad7-6df4-413f-aada-fae3f5a00b59": [
+   1793651289,
+   "filtered (none)"
+  ],
   "eqs:c89f338f-a8a7-4786-bdb8-1f16fb28678d": [
    1792760111,
    "filtered (none)"
@@ -37965,6 +37981,14 @@
   "prnewswire:https://www.prnewswire.com/news-releases/lazard-completes-its-acquisition-of-campbell-lutyens-and-launches-lazard-cl-the-global-leader-for-the-next-era-of-private-capital-302925935.html": [
    1793602206,
    "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/lazard-finalise-lacquisition-de-campbell-lutyens-et-lance-lazard-cl-leader-mondial-de-la-nouvelle-ere-du-capital-investissement-302926882.html": [
+   1793651296,
+   "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/lazard-rondt-de-overname-van-campbell-lutyens-af-en-lanceert-lazard-cl-de-wereldwijde-leider-voor-het-volgende-tijdperk-van-privaat-kapitaal-302926894.html": [
+   1793651296,
+   "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/le-groupe-csl-acquiert-simpl-wireless-pour-proposer-son-offre--critical-connectivity--en-amerique-du-nord-302911581.html": [
    1792177894,
@@ -42556,6 +42580,10 @@
   ],
   "sec:0001628280-26-068653": [
    1793619048,
+   "filtered (none)"
+  ],
+  "sec:0001628280-26-068827": [
+   1793651286,
    "filtered (none)"
   ],
   "sec:0001628873-26-000110": [
