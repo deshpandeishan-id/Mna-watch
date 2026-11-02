@@ -182,6 +182,13 @@
    "ts": 1793011263,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e10a6c56-3807-415c-8d91-b2362a9a8d7e.pdf"
   },
+  "apollo micro systems|possible_offer": {
+   "acquirer": "",
+   "source": "bse",
+   "title": "Apollo Micro Systems Ltd: Apollo Micro Systems Ltd - 540879 - AMS Update On Closure Of Open Offer As Given To The Public Shareholders Of Premier Explosives Limited (Target Company)",
+   "ts": 1793590332,
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e9168e5f-523b-4a78-a746-b4e75957b8a9.pdf"
+  },
   "ashtead technology|firm": {
    "acquirer": "Pine Acquisition UK Bidco Limited (a company controlled by funds managed and advised by Ember Infrastructure Management, LP and its affiliates)",
    "source": "uk_panel",
@@ -2401,6 +2408,10 @@
   "bse:0a892244-59b6-4b26-95f0-3c7a8e07da66": [
    1793176425,
    "filtered (none)"
+  ],
+  "bse:0ac0ec3e-0e5d-43b4-9bfd-7640e1e9c7b8": [
+   1793590332,
+   "classified:possible_offer"
   ],
   "bse:0ac61fe0-f4f5-4378-a50e-48b3baa79217": [
    1793008733,
@@ -5122,6 +5133,10 @@
    1793100202,
    "filtered (none)"
   ],
+  "bse:28a469f8-b424-42f9-aba3-fcb24f703cfc": [
+   1793590331,
+   "filtered (none)"
+  ],
   "bse:28a9d178-1107-420b-8d82-c8a2d7940070": [
    1793262610,
    "filtered (none)"
@@ -6236,6 +6251,10 @@
   ],
   "bse:33258ae0-e23a-419d-98fc-3678747a1e2a": [
    1793249950,
+   "filtered (none)"
+  ],
+  "bse:332bc80e-43c4-4445-b2f8-2c594c1d8181": [
+   1793590331,
    "filtered (none)"
   ],
   "bse:33318787-12a9-4eac-92e1-633a2c9f521b": [
@@ -9306,6 +9325,10 @@
    1793455830,
    "filtered (none)"
   ],
+  "bse:51da8d3d-5c2d-4cae-8154-6be590caa653": [
+   1793590331,
+   "filtered (none)"
+  ],
   "bse:51deb959-a82b-4ae9-a9c4-34e912611428": [
    1793275430,
    "filtered (none)"
@@ -10160,6 +10183,10 @@
   ],
   "bse:5af94a5d-d933-42b2-b31d-f4871edfeef2": [
    1793038247,
+   "filtered (none)"
+  ],
+  "bse:5aff4eed-4c3e-436e-b342-eeaad0e30ea5": [
+   1793590331,
    "filtered (none)"
   ],
   "bse:5b32c39f-63c7-4e77-a9ab-529570505659": [
@@ -11036,6 +11063,10 @@
   ],
   "bse:63ece022-db75-4829-aa67-686b84114ad7": [
    1793118440,
+   "filtered (none)"
+  ],
+  "bse:6408e61c-783c-4033-b915-8915fd26db44": [
+   1793590331,
    "filtered (none)"
   ],
   "bse:640d146f-21e7-42e7-bfe7-8cbc21100010": [
@@ -14290,6 +14321,10 @@
    1793022917,
    "filtered (none)"
   ],
+  "bse:851c0c01-dccb-4dc7-b695-1afb29ee921a": [
+   1793590331,
+   "filtered (none)"
+  ],
   "bse:8529cfd5-6c4c-4304-8921-9ccd0306debc": [
    1793011262,
    "filtered (none)"
@@ -14301,6 +14336,10 @@
   "bse:85519896-b36c-465e-8eae-2eb3709a39ea": [
    1793269338,
    "filtered (medium)"
+  ],
+  "bse:85544901-ffab-4b9f-9da2-98f8573ba597": [
+   1793590331,
+   "filtered (none)"
   ],
   "bse:855eecc4-4fcb-452b-bf54-001aac9b59fb": [
    1793188916,
@@ -14381,6 +14420,10 @@
   "bse:860d4634-4956-4e6b-a9bc-acec264625bf": [
    1793337586,
    "classified:possible_offer"
+  ],
+  "bse:860eeddc-96b4-4f99-9905-8fa6cd4fbe47": [
+   1793590331,
+   "filtered (none)"
   ],
   "bse:86172f71-cb82-428e-a5ba-5d713e6571b8": [
    1793289722,
@@ -17096,6 +17139,10 @@
   ],
   "bse:a1781037-6bbd-412b-8ed5-de723a08e53c": [
    1793463269,
+   "filtered (none)"
+  ],
+  "bse:a18a9b89-7ee3-43a9-bb7e-734a688a8a1d": [
+   1793590331,
    "filtered (none)"
   ],
   "bse:a193e96e-22d9-4dd0-b421-8a80b6d5beb6": [
