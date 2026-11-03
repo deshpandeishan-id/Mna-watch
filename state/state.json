@@ -3047,6 +3047,10 @@
    1793622946,
    "filtered (none)"
   ],
+  "bse:0aee454f-83ed-4356-8384-6affcca018c4": [
+   1793740745,
+   "filtered (none)"
+  ],
   "bse:0af8b965-2ce1-4b59-898b-5239dd4c5ae4": [
    1793360918,
    "filtered (none)"
@@ -35599,6 +35603,10 @@
    1792093820,
    "filtered (none)"
   ],
+  "eqs:0be498ac-853e-4622-8f4f-6203ca3119ea": [
+   1793740736,
+   "filtered (none)"
+  ],
   "eqs:0bf18310-f37c-4ff4-ad94-df9a2e2c98b8": [
    1793355067,
    "filtered (none)"
@@ -37337,6 +37345,10 @@
   ],
   "eqs:6e69f6a1-dc6e-485b-a4f9-994608bcb8ec": [
    1793262602,
+   "filtered (none)"
+  ],
+  "eqs:6e8c34c7-d1f1-4fe9-948e-c4b1d02a8c4b": [
+   1793740736,
    "filtered (none)"
   ],
   "eqs:6ef842a7-6cfa-4c3e-872b-d14e11341732": [
@@ -42451,6 +42463,10 @@
    1792697577,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/analog-devices-completes-acquisition-of-alif-semiconductor-302928307.html": [
+   1793740743,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/analog-devices-recommends-shareholders-reject-mini-tender-offer-by-tutanota-llc-302914283.html": [
    1792589138,
    "classified:none"
@@ -42643,6 +42659,10 @@
    1793028934,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/braemar-hotels--resorts-announces-closing-on-sale-of-four-seasons-resort-scottsdale-302928427.html": [
+   1793740742,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/cae-to-sell-flightscape-to-sita-302918887.html": [
    1793028935,
    "filtered (none)"
@@ -42742,6 +42762,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/copperpoint-completes-acquisition-of-general-indemnity-group-expanding-nationwide-surety-and-specialty-insurance-capabilities-302918946.html": [
    1793028934,
    "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/cordatus-capital-announces-majority-investment-in-diamabrush-302928400.html": [
+   1793740743,
+   "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/cove-capital-investments-acquires-industrial-distribution-center-in-birmingham-al-to-complete-the-formation-of-its-cove-birmingham-industrial-dst-129-offering-302927212.html": [
    1793713788,
@@ -44983,6 +45007,30 @@
    1793713779,
    "filtered (none)"
   ],
+  "sec:0001104659-26-121980": [
+   1793740733,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-121983": [
+   1793740733,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-121986": [
+   1793740733,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-121988": [
+   1793740733,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-122008": [
+   1793740733,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-122012": [
+   1793740733,
+   "filtered (none)"
+  ],
   "sec:0001133228-26-013301": [
    1792093817,
    "filtered (none)"
@@ -45249,6 +45297,10 @@
   ],
   "sec:0001140361-26-041736": [
    1793723313,
+   "filtered (none)"
+  ],
+  "sec:0001140361-26-041805": [
+   1793740733,
    "filtered (none)"
   ],
   "sec:0001171843-26-006667": [
@@ -46451,6 +46503,18 @@
    1793713779,
    "filtered (none)"
   ],
+  "sec:0001193125-26-445329": [
+   1793740733,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-445390": [
+   1793740733,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-445397": [
+   1793740733,
+   "filtered (none)"
+  ],
   "sec:0001193805-26-001376": [
    1792181541,
    "filtered (none)"
@@ -47283,6 +47347,14 @@
    1793713779,
    "filtered (none)"
   ],
+  "sec:0001213900-26-115548": [
+   1793740733,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-115553": [
+   1793740733,
+   "filtered (none)"
+  ],
   "sec:0001214659-26-013022": [
    1792406150,
    "filtered (none)"
@@ -47561,6 +47633,14 @@
   ],
   "sec:0001437749-26-034541": [
    1793716943,
+   "filtered (none)"
+  ],
+  "sec:0001437749-26-034655": [
+   1793740733,
+   "filtered (none)"
+  ],
+  "sec:0001437749-26-034664": [
+   1793740733,
    "filtered (none)"
   ],
   "sec:0001451505-26-000075": [
@@ -47963,6 +48043,14 @@
    1793726857,
    "filtered (none)"
   ],
+  "sec:0001493152-26-049788": [
+   1793740733,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-049795": [
+   1793740733,
+   "filtered (none)"
+  ],
   "sec:0001506293-26-000143": [
    1792098170,
    "filtered (none)"
@@ -48201,6 +48289,14 @@
   ],
   "sec:0001628280-26-068874": [
    1793654414,
+   "filtered (none)"
+  ],
+  "sec:0001628280-26-069484": [
+   1793740733,
+   "filtered (none)"
+  ],
+  "sec:0001628280-26-069496": [
+   1793740733,
    "filtered (none)"
   ],
   "sec:0001628873-26-000110": [
