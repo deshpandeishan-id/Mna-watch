@@ -91,6 +91,27 @@
    "ts": 1793022905,
    "url": "https://www.eqs-news.com/de/news/corporate/zf-north-america-capital-inc-announces-tender-offer/d38bc369-dba2-4de9-a49d-9427f0af68cf_de"
   },
+  "15 00 corporate zf europe finance b v corporate zf europe finance b v hereby announce results of tender offer|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "15:00 Corporate ZF Europe Finance B.V. Corporate ZF Europe Finance B.V. hereby announce the results of the Tender Offer. ",
+   "ts": 1793716948,
+   "url": "https://www.eqs-news.com/de/news/corporate/zf-europe-finance-b-v-hereby-announce-the-results-of-the-tender-offer/136cb2b4-0af0-459a-a4bd-06d4098191b4_de"
+  },
+  "15 00 corporate zf finance corporate zf finance hereby announce results of tender offer|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "15:00 Corporate ZF Finance GmbH Corporate ZF Finance GmbH hereby announce the results of the Tender Offer. ",
+   "ts": 1793716948,
+   "url": "https://www.eqs-news.com/de/news/corporate/zf-finance-gmbh-hereby-announce-the-results-of-the-tender-offer/e0f0e33f-1342-4578-8490-11a801e92ff6_de"
+  },
+  "15 00 corporate zf north america capital corporate zf north america capital hereby announce results of tender offer|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "15:00 Corporate ZF North America Capital Inc. Corporate ZF North America Capital, Inc. hereby announce the results of the Tender Offer. ",
+   "ts": 1793716947,
+   "url": "https://www.eqs-news.com/de/news/corporate/zf-north-america-capital-inc-hereby-announce-the-results-of-the-tender-offer/415201a7-e57f-44b4-91ac-cb9665ff1c6b_de"
+  },
   "17 33 corporate westwing corporate westwing veroffentlichung der rocket internet der global founders der rocata und der zerena uber einen vorsorglichen befreiungsbescheid nach 37 wpug|possible_offer": {
    "acquirer": "",
    "source": "eqs",
@@ -34514,6 +34535,10 @@
    1793022906,
    "classified:possible_offer"
   ],
+  "eqs:08fc4b07-0ed3-416a-be69-c5cb88fe63d3": [
+   1793716946,
+   "filtered (none)"
+  ],
   "eqs:09238da1-1853-4567-8484-cd54a9e700d6": [
    1793615448,
    "filtered (none)"
@@ -34670,6 +34695,10 @@
    1793100192,
    "filtered (none)"
   ],
+  "eqs:113643ef-ec1f-410a-ab51-8fbe71448166": [
+   1793716946,
+   "filtered (none)"
+  ],
   "eqs:116c2b71-f702-4a2c-ba52-b82aec29a286": [
    1792678636,
    "filtered (none)"
@@ -34697,6 +34726,10 @@
   "eqs:132e8d94-7d6b-4bb7-af04-e3d92e5f5017": [
    1793627413,
    "filtered (none)"
+  ],
+  "eqs:136cb2b4-0af0-459a-a4bd-06d4098191b4": [
+   1793716948,
+   "classified:possible_offer"
   ],
   "eqs:139b7cc9-42fd-4675-b5fc-645088283945": [
    1792505903,
@@ -35370,6 +35403,10 @@
    1793083371,
    "filtered (none)"
   ],
+  "eqs:34d06a65-fbd5-4c12-abf5-caaf639ef3cb": [
+   1793716946,
+   "filtered (none)"
+  ],
   "eqs:34f2112f-4886-4d98-9d11-d63eed643eb5": [
    1792619797,
    "classified:possible_offer"
@@ -35525,6 +35562,10 @@
   "eqs:4112e52c-210a-48cc-97a6-4a25a9665286": [
    1793083371,
    "filtered (none)"
+  ],
+  "eqs:415201a7-e57f-44b4-91ac-cb9665ff1c6b": [
+   1793716947,
+   "classified:possible_offer"
   ],
   "eqs:41a2ce4f-a570-4669-8150-606171c05470": [
    1793169975,
@@ -36878,6 +36919,10 @@
    1792053200,
    "filtered (none)"
   ],
+  "eqs:8fafb7ee-0504-448f-b74d-44d497366999": [
+   1793716946,
+   "filtered (none)"
+  ],
   "eqs:900c8839-22db-454f-b03e-dd697ae4fcb7": [
    1793112466,
    "filtered (none)"
@@ -37958,6 +38003,10 @@
    1792558532,
    "filtered (none)"
   ],
+  "eqs:d6848a6d-9520-4394-9054-6637ee5ef053": [
+   1793716946,
+   "filtered (none)"
+  ],
   "eqs:d68b2d0c-0b50-480a-a5de-55c4f503abc5": [
    1793607467,
    "filtered (none)"
@@ -38137,6 +38186,10 @@
   "eqs:e05388ff-73ec-4dfc-94d5-8793138afaf6": [
    1792425238,
    "filtered (none)"
+  ],
+  "eqs:e0f0e33f-1342-4578-8490-11a801e92ff6": [
+   1793716948,
+   "classified:possible_offer"
   ],
   "eqs:e0f1e1f4-e26f-4136-a8d3-81af25d27967": [
    1793526141,
@@ -41230,6 +41283,10 @@
    1793709174,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/aprio-acquires-plano-based-garner-asset-management-corporation-establishing-dallas-fort-worth-wealth-presence-302927252.html": [
+   1793716957,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/ara-infrastructure-acquires-majority-interest-in-pacific-ag-north-americas-largest-crop-residue-supply-and-logistics-company-302907830.html": [
    1791993871,
    "bootstrap"
@@ -41332,6 +41389,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/bce-announces-partnership-with-la-caisse-which-will-acquire-49-9-stake-in-bell-wireless-tower-infrastructure-company-822276026.html": [
    1793097938,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/beacon-pointe-advisors-acquires-act-wealth-management-expanding-services-for-pilots-and-airline-professionals-302927291.html": [
+   1793716958,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/beacon-pointe-advisors-builds-on-national-momentum-with-latest-ria-acquisitions-302907661.html": [
@@ -41446,6 +41507,10 @@
    1793630992,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/chord-expands-into-enterprise-ai-with-zenlytic-acquisition-adding-verizon-jcrew-dominos-and-stanley-black--decker-as-customers-302926600.html": [
+   1793716959,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/clarion-expands-ai-capabilities-with-advanced-call-management-302908632.html": [
    1791993871,
    "bootstrap"
@@ -41549,6 +41614,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/die-usbekische-hospitality-gruppe-teg-schlieWt-unternehmenszusammenschluss-in-den-usa-ab-302909107.html": [
    1792011217,
    "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/docusign-acquires-suplari-to-accelerate-ai-powered-contract-management-for-procurement-302927235.html": [
+   1793716959,
+   "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/dotwork-acquires-arcario-group-to-accelerate-adoption-of-its-ai-native-enterprise-operating-platform-302921095.html": [
    1793124267,
@@ -41710,6 +41779,10 @@
    1793615455,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/gme-supply-acquires-commercial-supply-co-expanding-jobsite-supply-for-construction-and-renewable-energy-contractors-302926956.html": [
+   1793716956,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/gopro-files-preliminary-proxy-statement-proposed-merger-with-starman-optical-on-track-302912646.html": [
    1792416660,
    "classified:none"
@@ -41832,6 +41905,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/ibm-ventures-invests-in-leena-ai-to-accelerate-agentic-ai-across-the-enterprise-back-office-302914251.html": [
    1792508399,
+   "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/incline-announces-sale-of-edko-302927011.html": [
+   1793716955,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/industrial-growth-partners-announces-sale-of-advancedpcb-302921255.html": [
@@ -42004,6 +42081,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/mesirow-fiduciary-solutions-completes-acquisition-of-flexpath-strategies-plan-level-338-business-302919723.html": [
    1793041818,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/meteor-education-acquires-aet-labs-strengthening-career-and-technical-education-offerings-in-new-england-302927860.html": [
+   1793716955,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/midea-completa-la-adquisicion-de-esaote-302915414.html": [
@@ -42202,6 +42283,10 @@
    1792166865,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/partnerone-acquires-3clogic-expanding-its-enterprise-ai-portfolio-and-advancing-the-future-of-intelligent-customer-engagement-302927176.html": [
+   1793716958,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/patrick-industries-inc-reaffirms-merger-agreement-with-lci-industries-302921983.html": [
    1793182858,
    "classified:possible_offer"
@@ -42262,8 +42347,16 @@
    1793637995,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/pra-group-celebra-30-anos-de-actividad-empresarial-haciendo-sonar-la-campana-de-apertura-de-nasdaq-302927959.html": [
+   1793716955,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/pra-group-celebrates-30-years-of-business-by-ringing-nasdaq-opening-bell-302926701.html": [
    1793641369,
+   "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/pra-group-celebre-ses-30-ans-dactivite-en-sonnant-la-cloche-douverture-du-nasdaq-302927940.html": [
+   1793716955,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/prc-saltillo-acquires-ner-chat-bringing-minspeak-symbols-to-glint-visual-support-platform-302915859.html": [
@@ -42354,6 +42447,10 @@
    1792069810,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/simplicity-group-bolsters-workplace-offering-with-the-acquisition-of-alta-montclair-and-welcomes-rocky-rocamora-sam-monastyrsky-and-irina-monastyrsky-as-the-groups-newest-partners-302927200.html": [
+   1793716959,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/skydance-provides-details-on-separate-trading-of-skyd-class-b-shares-and-warrants-302909067.html": [
    1792008936,
    "filtered (none)"
@@ -42392,6 +42489,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/sunbound-acquires-richter-healthcare-consultants-bringing-decades-of-financial-trust-and-expertise-in-senior-living-revenue-management-to-sunbounds-technology-platform-302909212.html": [
    1792069809,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/sunraycer-acquires-325-mwac-solar-portfolio-in-illinois-and-missouri-from-apricus-energy-302926915.html": [
+   1793716957,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/system-one-acquires-gmp-a-critical-infrastructure-capital-project-planning-and-consulting-leader-302912206.html": [
@@ -42588,6 +42689,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/wallander-group-debuts-holding-company-built-to-grow-new-englands-industrial-businesses-302921775.html": [
    1793196002,
+   "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/warespace-continues-national-expansion-with-industrial-acquisitions-in-houston-and-bay-area-302927209.html": [
+   1793716959,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/waters-acquires-mobilion-systems-bringing-advanced-ion-mobility-separation-to-its-mass-spectrometry-portfolio-with-the-speed-and-resolution-ai-workflows-require-for-proteomics-biomarker-discovery-302927147.html": [
@@ -46206,6 +46311,14 @@
    1793705518,
    "filtered (none)"
   ],
+  "sec:0001437749-26-034539": [
+   1793716943,
+   "filtered (none)"
+  ],
+  "sec:0001437749-26-034541": [
+   1793716943,
+   "filtered (none)"
+  ],
   "sec:0001451505-26-000075": [
    1792100479,
    "filtered (none)"
@@ -46596,6 +46709,10 @@
   ],
   "sec:0001493152-26-049716": [
    1793713779,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-049726": [
+   1793716943,
    "filtered (none)"
   ],
   "sec:0001506293-26-000143": [
