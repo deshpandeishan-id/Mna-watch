@@ -287,6 +287,13 @@
    "ts": 1793246968,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/BCDFD2D8_A53C_4D10_9566_224E80BC28D5_091138.pdf"
   },
+  "belding india|possible_offer": {
+   "acquirer": "",
+   "source": "bse",
+   "title": "Belding India Ltd: Belding India Ltd - 513307 - Announcement under Regulation 30 (LODR)-Scheme of Arrangement",
+   "ts": 1793747070,
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b3059f15-1210-40ed-a8be-5b04bd84c4ce.pdf"
+  },
   "beretta announces preliminary results of cash tender offer for shares of sturm ruger amp|possible_offer": {
    "acquirer": "",
    "source": "prnewswire",
@@ -1098,6 +1105,13 @@
    "title": "Ratnamani Metals & Tubes Ltd-$: Ratnamani Metals & Tubes Ltd-$ - 520111 - Closure of Trading Window",
    "ts": 1793095318,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/22b19346-4108-4405-8888-406dda6803c7.pdf"
+  },
+  "redwood trust|possible_offer": {
+   "acquirer": "",
+   "source": "sec",
+   "title": "SC TO-C – REDWOOD TRUST INC (Subject)",
+   "ts": 1793747058,
+   "url": "https://www.sec.gov/Archives/edgar/data/930236/000110465926122176/0001104659-26-122176-index.htm"
   },
   "refex industries|possible_offer": {
    "acquirer": "",
@@ -12543,6 +12557,10 @@
    1792995589,
    "filtered (none)"
   ],
+  "bse:5485c1c9-5d45-4593-b5fe-8ad1b73cb015": [
+   1793747069,
+   "filtered (none)"
+  ],
   "bse:5489579b-a220-4bf5-a6d2-38e17180d650": [
    1793431464,
    "filtered (none)"
@@ -14386,6 +14404,10 @@
   "bse:630c9116-ab03-4e85-bfe8-4bc0032b1155": [
    1793358155,
    "filtered (none)"
+  ],
+  "bse:630e3691-72ce-43b6-bf69-78bbfe60a62d": [
+   1793747070,
+   "classified:possible_offer"
   ],
   "bse:63163d49-3bdb-4458-9f05-ed79f1cbb1c3": [
    1793340448,
@@ -23853,6 +23875,10 @@
   ],
   "bse:abb5a186-3918-46a8-aacf-5e567e3ecf84": [
    1793453035,
+   "filtered (none)"
+  ],
+  "bse:abc0ed76-9f96-43f0-b7c1-3b792c577dfb": [
+   1793747070,
    "filtered (none)"
   ],
   "bse:abc39e87-7a36-469a-94d9-ca8aaf6ad817": [
@@ -42815,6 +42841,10 @@
    1792150200,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/curaleaf-issues-statement-regarding-alternative-proposal-for-aurora-cannabis-302928528.html": [
+   1793747068,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/curaleaf-responds-to-alberta-securities-commission-decision-302920086.html": [
    1793100198,
    "filtered (none)"
@@ -44347,6 +44377,10 @@
    1793391447,
    "filtered (none)"
   ],
+  "sec:0000950142-26-002933": [
+   1793747058,
+   "filtered (none)"
+  ],
   "sec:0000950157-26-001129": [
    1793192405,
    "filtered (none)"
@@ -45066,6 +45100,14 @@
   "sec:0001104659-26-122103": [
    1793743828,
    "filtered (none)"
+  ],
+  "sec:0001104659-26-122170": [
+   1793747058,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-122176": [
+   1793747058,
+   "classified:possible_offer"
   ],
   "sec:0001133228-26-013301": [
    1792093817,
@@ -46571,6 +46613,14 @@
    1793743828,
    "filtered (none)"
   ],
+  "sec:0001193125-26-445637": [
+   1793747058,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-445640": [
+   1793747058,
+   "filtered (none)"
+  ],
   "sec:0001193805-26-001376": [
    1792181541,
    "filtered (none)"
@@ -47423,6 +47473,10 @@
    1793743828,
    "filtered (none)"
   ],
+  "sec:0001213900-26-115637": [
+   1793747058,
+   "filtered (none)"
+  ],
   "sec:0001214659-26-013022": [
    1792406150,
    "filtered (none)"
@@ -48123,6 +48177,10 @@
    1793740733,
    "filtered (none)"
   ],
+  "sec:0001493152-26-049828": [
+   1793747058,
+   "filtered (none)"
+  ],
   "sec:0001506293-26-000143": [
    1792098170,
    "filtered (none)"
@@ -48189,6 +48247,10 @@
   ],
   "sec:0001580642-26-007158": [
    1793132232,
+   "filtered (none)"
+  ],
+  "sec:0001580642-26-007418": [
+   1793747058,
    "filtered (none)"
   ],
   "sec:0001580670-26-000080": [
@@ -48415,6 +48477,10 @@
    1793051650,
    "filtered (none)"
   ],
+  "sec:0001663577-26-000333": [
+   1793747058,
+   "filtered (none)"
+  ],
   "sec:0001677703-26-000134": [
    1792069792,
    "filtered (none)"
@@ -48537,6 +48603,10 @@
   ],
   "sec:0001753926-26-002000": [
    1793049156,
+   "filtered (none)"
+  ],
+  "sec:0001753926-26-002047": [
+   1793747058,
    "filtered (none)"
   ],
   "sec:0001756770-26-000131": [
@@ -48681,6 +48751,10 @@
   ],
   "sec:0001829126-26-011939": [
    1793743828,
+   "filtered (none)"
+  ],
+  "sec:0001829126-26-011940": [
+   1793747058,
    "filtered (none)"
   ],
   "sec:0001837607-26-000081": [
