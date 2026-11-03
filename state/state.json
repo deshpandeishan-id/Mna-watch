@@ -28491,6 +28491,10 @@
    1793106037,
    "filtered (none)"
   ],
+  "bse:cd01b5ab-eb89-46cd-91ec-ebcf308e9dde": [
+   1793743841,
+   "filtered (none)"
+  ],
   "bse:cd0a2e3e-301e-4b06-a888-9e6af42f0e43": [
    1793602211,
    "filtered (none)"
@@ -30797,6 +30801,10 @@
   ],
   "bse:ddd4f3fd-55a4-4f4a-8c7b-7936e5bf6e43": [
    1792990954,
+   "filtered (none)"
+  ],
+  "bse:ddd66b63-0b55-4f7d-aa28-f5a24cbe9c86": [
+   1793743841,
    "filtered (none)"
   ],
   "bse:ddd72d12-e0a2-42b2-a19f-ae216e2503b7": [
@@ -38175,6 +38183,10 @@
    1792411022,
    "filtered (none)"
   ],
+  "eqs:9cca83ca-dc5a-4fc9-b1e7-af85f4dc49ff": [
+   1793743831,
+   "filtered (none)"
+  ],
   "eqs:9ce8a536-2a1c-43ec-87ab-5c18aff8c9c8": [
    1793302258,
    "filtered (none)"
@@ -43975,6 +43987,10 @@
    1793286428,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/whitefiber-completes-acquisition-of-two-north-carolina-data-center-development-sites-and-provides-nc-1-update-302928336.html": [
+   1793743838,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/williams-safety--rescue-completes-acquisition-of-frandson-safety-302911847.html": [
    1792416660,
    "classified:none"
@@ -44361,6 +44377,10 @@
   ],
   "sec:0001062993-26-005664": [
    1793654414,
+   "filtered (none)"
+  ],
+  "sec:0001062993-26-005720": [
+   1793743828,
    "filtered (none)"
   ],
   "sec:0001070750-26-000150": [
@@ -45031,6 +45051,22 @@
    1793740733,
    "filtered (none)"
   ],
+  "sec:0001104659-26-122035": [
+   1793743828,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-122044": [
+   1793743828,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-122052": [
+   1793743828,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-122103": [
+   1793743828,
+   "filtered (none)"
+  ],
   "sec:0001133228-26-013301": [
    1792093817,
    "filtered (none)"
@@ -45303,6 +45339,10 @@
    1793740733,
    "filtered (none)"
   ],
+  "sec:0001140361-26-041829": [
+   1793743828,
+   "filtered (none)"
+  ],
   "sec:0001171843-26-006667": [
    1792095980,
    "filtered (none)"
@@ -45405,6 +45445,14 @@
   ],
   "sec:0001185185-26-005108": [
    1793619048,
+   "filtered (none)"
+  ],
+  "sec:0001185185-26-005142": [
+   1793743828,
+   "filtered (none)"
+  ],
+  "sec:0001185185-26-005144": [
+   1793743828,
    "filtered (none)"
   ],
   "sec:0001193125-26-418400": [
@@ -46515,6 +46563,14 @@
    1793740733,
    "filtered (none)"
   ],
+  "sec:0001193125-26-445508": [
+   1793743828,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-445616": [
+   1793743828,
+   "filtered (none)"
+  ],
   "sec:0001193805-26-001376": [
    1792181541,
    "filtered (none)"
@@ -47355,6 +47411,18 @@
    1793740733,
    "filtered (none)"
   ],
+  "sec:0001213900-26-115562": [
+   1793743828,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-115575": [
+   1793743828,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-115621": [
+   1793743828,
+   "filtered (none)"
+  ],
   "sec:0001214659-26-013022": [
    1792406150,
    "filtered (none)"
@@ -47381,6 +47449,10 @@
   ],
   "sec:0001298675-26-000044": [
    1793308552,
+   "filtered (none)"
+  ],
+  "sec:0001300514-26-000122": [
+   1793743828,
    "filtered (none)"
   ],
   "sec:0001308179-26-000433": [
@@ -48103,6 +48175,10 @@
    1793046662,
    "filtered (none)"
   ],
+  "sec:0001569187-26-000166": [
+   1793743828,
+   "filtered (none)"
+  ],
   "sec:0001575872-26-000709": [
    1792503607,
    "filtered (none)"
@@ -48299,6 +48375,22 @@
    1793740733,
    "filtered (none)"
   ],
+  "sec:0001628280-26-069575": [
+   1793743828,
+   "filtered (none)"
+  ],
+  "sec:0001628280-26-069577": [
+   1793743828,
+   "filtered (none)"
+  ],
+  "sec:0001628280-26-069578": [
+   1793743828,
+   "filtered (none)"
+  ],
+  "sec:0001628280-26-069580": [
+   1793743828,
+   "filtered (none)"
+  ],
   "sec:0001628873-26-000110": [
    1791993862,
    "bootstrap"
@@ -48398,6 +48490,10 @@
   "sec:0001683168-26-008260": [
    1793733692,
    "classified:possible_offer"
+  ],
+  "sec:0001683168-26-008267": [
+   1793743828,
+   "filtered (none)"
   ],
   "sec:0001692951-26-000193": [
    1792170916,
@@ -48581,6 +48677,10 @@
   ],
   "sec:0001829126-26-011842": [
    1793396666,
+   "filtered (none)"
+  ],
+  "sec:0001829126-26-011939": [
+   1793743828,
    "filtered (none)"
   ],
   "sec:0001837607-26-000081": [
