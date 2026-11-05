@@ -42,8 +42,8 @@ STRONG = [
     r"openbaar bod", r"aanbevolen bod", r"oferta pública de adquisición", r"\bopa\b sobre",
     r"offentlig(?:t)? (?:tilbud|uppköpserbjudande|overtakelsestilbud)", r"pliktig tilbud",
     # India (SEBI SAST)
-    r"open offer", r"substantial acquisition of shares and takeovers", r"\bsast\b",
-    r"regulation[s]? 3\(1\)", r"regulation[s]? 4 ", r"detailed public statement", r"public announcement.*offer",
+    # ("SAST" alone is not used: every routine SEBI shareholding disclosure cites the SAST Regulations.)
+    r"open offer", r"regulation[s]? 3\(1\)", r"detailed public statement", r"public announcement.{0,60}open offer",
     r"delisting offer",
 ]
 
@@ -55,7 +55,7 @@ MEDIUM = [
 
 NEGATIVE = [
     r"^form 8\.3", r"^form 8\.5", r"form 8\.3 -", r"form 8 \(dd\)", r"^form-8\.3",
-    r"share buy-?back", r"rachat d'actions propres", r"voting rights", r"droits de vote",
+    r"share buy-?back", r"\bbuy[- ]?back\b", r"rachat d'actions propres", r"voting rights", r"droits de vote",
     r"stimmrechtsmitteilung", r"directors'? dealings", r"transactions sur actions propres",
     r"total number of shares", r"rule 2\.9", r"rule 2\.10", r"block listing", r"net asset value",
     r"transaction in own shares", r"acquisto di azioni proprie",

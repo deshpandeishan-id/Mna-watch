@@ -11,7 +11,7 @@ from .config import Settings
 from .extract import Extractor
 from .keywords import score
 from .models import Alert, Deal, Item
-from .sources import registry, rss, sec, uk_panel
+from .sources import bse, registry, rss, sec, uk_panel
 from .state import State
 
 log = logging.getLogger(__name__)
@@ -23,6 +23,11 @@ SEC_THROTTLED_FORMS = {"425", "DEFA14A", "SC 14D9-C", "8-K"}
 def is_candidate(item: Item) -> tuple[bool, str]:
     if item.meta.get("auto_candidate"):
         return True, "auto"
+    if item.source == "bse":
+        # India is judged by filing type, not keywords: routine SEBI SAST disclosures all mention
+        # "takeovers" and would otherwise flood the alerts.
+        kind = item.meta.get("deal_kind")
+        return (True, f"bse {kind}") if kind else (False, "bse: not a deal filing")
     body = item.text[item.meta.get("body_start", 0):]
     level, _ = score(item.title, body)
     if level == "strong":
@@ -57,7 +62,13 @@ def verify_listing(item: Item, deal: Deal, settings) -> None:
                               "check whether the issuer is the target or the bidder")
         return
     if item.source == "bse":
-        deal.listing_check = f"Filed on BSE under scrip {item.meta.get('scrip')} ({item.meta.get('company')})"
+        kind = item.meta.get("deal_kind")
+        if kind in ("open_offer", "delisting"):
+            deal.listing_check = (f"SEBI {'open offer' if kind == 'open_offer' else 'delisting'} filing on BSE "
+                                  f"(scrip {item.meta.get('scrip')}, {item.meta.get('company')}) - only made for listed targets")
+        else:
+            deal.listing_check = (f"Filed on BSE by {item.meta.get('company')} (scrip {item.meta.get('scrip')}); "
+                                  "other party's listing per AI reading")
         return
     if item.source == "eqs" and item.meta.get("category", "").startswith("wp"):
         deal.listing_check = "German takeover-law (WpÜG) announcement - only made for listed targets"
@@ -122,6 +133,12 @@ class Runner:
             self.state.mark_seen(it.key, why)
             return None
 
+        # India: filings whose stage wouldn't be emailed (letters of offer, updates) don't need the AI
+        if it.source == "bse" and it.meta.get("deal_kind") != "merger" \
+                and it.meta.get("rule_stage") not in self.s.alert_stages:
+            self.state.mark_seen(it.key, f"bse {it.meta.get('rule_stage')} (not alerted)")
+            return None
+
         # 3. avoid re-checking the same SEC company dozens of times per deal
         subj = None
         if it.source == "sec" and it.meta.get("form") in SEC_THROTTLED_FORMS:
@@ -135,6 +152,8 @@ class Runner:
 
         body = full_text(it, self.s) or it.text
         deal = self.extractor.classify(it, body)
+        if it.source == "bse":
+            deal = bse.reconcile(it, deal)
         self.state.mark_seen(it.key, f"classified:{deal.stage if deal else 'none'}")
         if subj:
             self.state.mark_subject_checked(subj)

@@ -78,9 +78,35 @@ class ParserTests(unittest.TestCase):
 
     def test_bse(self):
         items = bse.parse(json.loads(fx("bse.json")))
-        self.assertEqual(len(items), 2)
-        self.assertTrue(items[0].url.endswith("abc.pdf"))
+        self.assertEqual(len(items), 10)
+        self.assertTrue(items[0].url.endswith("aaa-111.pdf"))
         self.assertTrue(items[0].meta["mna_feed"])
+        kinds = {i.uid: (i.meta["deal_kind"], i.meta["rule_stage"]) for i in items}
+        self.assertEqual(kinds["aaa-111"], ("open_offer", "definitive_agreement"))
+        self.assertEqual(kinds["iii-999"], ("open_offer", "definitive_agreement"))
+        self.assertEqual(kinds["ggg-777"], ("open_offer", "update"))
+        self.assertEqual(kinds["jjj-000"], ("merger", "definitive_agreement"))
+        # Routine SAST disclosures, pledges, buy-backs, trading windows, results, intra-group schemes: not deals
+        for uid in ("bbb-222", "ccc-333", "ddd-444", "eee-555", "fff-666", "hhh-888"):
+            self.assertEqual(kinds[uid], ("", ""), uid)
+            self.assertFalse(is_candidate(next(i for i in items if i.uid == uid))[0], uid)
+
+    def test_bse_filing_types(self):
+        c = bse.classify_filing
+        self.assertIsNone(c("Announcement under Regulation 30 (LODR)-Scheme of Arrangement"))  # no detail
+        self.assertIsNone(c("Disclosures under Reg. 10(6) of SEBI (SAST) Regulations, 2011"))
+        self.assertIsNone(c("Submission Of Offer Opening Advertisement Through Tender Offer Route - Buyback"))
+        self.assertIsNone(c("Announcement under Regulation 30 (LODR)-Acquisition"))
+        self.assertIsNone(c("Outcome of Board Meeting", "Board approved demerger of the consumer business"))
+        self.assertEqual(c("Pre-Offer Public Announcement & Corrigendum to Detailed Public Statement")[1], "update")
+        self.assertEqual(c("Public Announcement", "Competing offer for Foo Ltd under Regulation 20")[1],
+                         "competing_offer")
+        self.assertEqual(c("Delisting", "Initial public announcement of intention to delist by the promoter")[1],
+                         "possible_offer")
+        d = bse.structured_deal(bse.parse({"Table": [{"NEWSID": "x", "SLONGNAME": "Apollo Micro Systems Ltd",
+            "NEWSSUB": "AMS Update On Closure Of Open Offer As Given To The Public Shareholders Of "
+                       "Premier Explosives Limited (Target Company)"}]})[0])
+        self.assertEqual(d.target_name, "Premier Explosives Limited")  # filed by the acquirer
 
 
 class KeywordTests(unittest.TestCase):
@@ -178,6 +204,53 @@ class PipelineTests(unittest.TestCase):
         # State persisted to disk
         st = json.loads(Path(self.tmp.name, "state.json").read_text())
         self.assertIn("acme robotics|firm", st["deals"])
+
+
+class BsePipelineTests(unittest.TestCase):
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.env = mock.patch.dict(os.environ, {"STATE_DIR": self.tmp.name, "SOURCES": "bse",
+                                                "LLM_PROVIDER": "none", "SMTP_USER": "", "EMAIL_TO": ""})
+        self.env.start()
+        self.items = bse.parse(json.loads(fx("bse.json")))
+
+    def tearDown(self):
+        self.env.stop()
+        self.tmp.cleanup()
+
+    def _run(self, extractor=None):
+        s = Settings()
+        s.bootstrap_silently = False
+        r = Runner(s)
+        if extractor:
+            r.extractor = extractor
+        r.sources = {"bse": (lambda _s: self.items, lambda it, _s: it.text)}
+        return r, r.cycle()
+
+    def test_only_deal_announcements_alert_without_ai(self):
+        r, alerts = self._run()
+        got = sorted((a.deal.target_name, a.deal.stage) for a in alerts)
+        # PA + DPS for the same offer alert once; letter of offer is an update; everything routine is dropped
+        self.assertEqual(got, [("Example Industries Ltd", "definitive_agreement"),
+                               ("Small Merge Ltd", "definitive_agreement")])
+        offer = next(a for a in alerts if a.deal.target_name == "Example Industries Ltd")
+        self.assertEqual(offer.deal.method, "structured")
+        self.assertEqual(offer.deal.acquirer_name, "XYZ Holdings Private Limited")
+        self.assertIn("only made for listed targets", offer.deal.listing_check)
+
+    def test_ai_fills_terms_but_filing_type_sets_stage(self):
+        class Ex(FakeExtractor):
+            def classify(self, item, body):
+                self.calls += 1
+                if "Small Merge" in item.title:  # AI: other party is private -> no alert
+                    return Deal(is_mna=True, target_is_public=False, stage="other", method="llm")
+                return Deal(is_mna=True, target_is_public=True, target_name="Example Industries Ltd",
+                            acquirer_name="XYZ Holdings", stage="update", price_per_share="120.00",
+                            currency="INR", method="llm")
+        r, alerts = self._run(Ex())
+        self.assertEqual([(a.deal.stage, a.deal.price_per_share) for a in alerts],
+                         [("definitive_agreement", "120.00")])
+        self.assertEqual(r.extractor.calls, 3)  # PA, DPS, merger; letter of offer never reached the AI
 
 
 class MiscTests(unittest.TestCase):

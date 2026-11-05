@@ -19,7 +19,7 @@ Everything here runs at no cost.
 | 🇩🇪 DE / DACH | EQS News (WpÜG takeover notices, ad-hoc releases) | §10 decisions to make an offer, attainment of control, target ad-hocs | Yes |
 | 🇫🇷 🇳🇱 🇧🇪 🇵🇹 🇮🇪 🇳🇴 + some 🇮🇹 | Euronext company regulated news RSS | Releases tagged "Takeover bids" / "Mergers, Acquisitions", OPA/OPAS/openbaar bod etc. | Yes |
 | 🌍 Global | GlobeNewswire M&A feed, PR Newswire M&A feed | US/European deal press releases, many Italian/Spanish/Nordic issuers' English releases | Yes |
-| 🇮🇳 India | BSE corporate announcements | SEBI SAST **open offers**, schemes of amalgamation, delisting offers | Yes |
+| 🇮🇳 India | BSE corporate announcements | New SEBI SAST **open offers** (public announcement / DPS), board-approved mergers between unrelated companies, delisting offers. Routine SAST disclosures, pledges, buy-backs and procedural filings are dropped | Only for mergers |
 
 You can add any other RSS feed without touching code (see `EXTRA_RSS_FEEDS` below).
 
@@ -144,6 +144,12 @@ alert once, but the French and English copies of one release (or an 8-K plus a D
    which is where private-company acquisitions get rejected.
 2. **AI check** (`mna_watch/extract.py`): reads up to ~14k characters of the document and returns structured JSON:
    is it M&A, is the target listed, the stage, parties and terms.
+   **India** skips keywords altogether: BSE items are judged by filing type (subject, headline, BSE
+   subcategory), because every routine SEBI shareholding disclosure cites the "Takeovers" regulations.
+   Open-offer and delisting filings are only made for listed targets, so their stage comes from the
+   filing type (`mna_watch/sources/bse.py`); the AI only adds the acquirer and price. Letters of offer and
+   other follow-up documents count as `update`. Merger schemes go to the AI to check the other party
+   is unrelated and listed.
 3. **Listing check** (`mna_watch/pipeline.py`): US targets are matched against the SEC's official ticker list;
    UK targets come from the Takeover Panel; WpÜG notices and BSE filings only exist for listed companies;
    everything else is labelled "per AI reading".

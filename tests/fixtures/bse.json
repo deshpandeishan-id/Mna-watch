@@ -1,4 +1,119 @@
-{"Table":[
- {"NEWSID":"aaa-111","SCRIP_CD":500001,"SLONGNAME":"Example Industries Ltd","NEWSSUB":"Public Announcement for Open Offer under Regulation 3(1) and 4 of SEBI (SAST) Regulations, 2011","HEADLINE":"Open offer by XYZ Holdings to acquire up to 26% of shares","CATEGORYNAME":"Company Update","SUBCATNAME":"Open Offer","ATTACHMENTNAME":"abc.pdf","NEWS_DT":"2026-10-13T10:00:00"},
- {"NEWSID":"bbb-222","SCRIP_CD":500002,"SLONGNAME":"Other Ltd","NEWSSUB":"Board Meeting Intimation","HEADLINE":"Board meeting to approve Q2 results","CATEGORYNAME":"Board Meeting","SUBCATNAME":"","ATTACHMENTNAME":"","NEWS_DT":"2026-10-13T11:00:00"}
-],"Table1":[{"ROWCNT":2}]}
+{
+ "Table": [
+  {
+   "NEWSID": "aaa-111",
+   "SCRIP_CD": 500001,
+   "SLONGNAME": "Example Industries Ltd",
+   "NEWSSUB": "Example Industries Ltd - 500001 - Public Announcement - Open Offer",
+   "HEADLINE": "Open offer by XYZ Holdings Private Limited to acquire up to 26% of shares of Example Industries Ltd",
+   "CATEGORYNAME": "Company Update",
+   "SUBCATNAME": "Open Offer",
+   "ATTACHMENTNAME": "aaa-111.pdf",
+   "NEWS_DT": "2026-11-05T10:00:00"
+  },
+  {
+   "NEWSID": "bbb-222",
+   "SCRIP_CD": 500002,
+   "SLONGNAME": "Other Ltd",
+   "NEWSSUB": "Other Ltd - 500002 - Board Meeting Intimation",
+   "HEADLINE": "Board meeting to approve Q2 results",
+   "CATEGORYNAME": "Board Meeting",
+   "SUBCATNAME": "",
+   "ATTACHMENTNAME": "",
+   "NEWS_DT": "2026-11-05T10:00:00"
+  },
+  {
+   "NEWSID": "ccc-333",
+   "SCRIP_CD": 500003,
+   "SLONGNAME": "Aanchal Ispat Ltd",
+   "NEWSSUB": "Aanchal Ispat Ltd - 538812 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+   "HEADLINE": "Disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011",
+   "CATEGORYNAME": "Insider Trading / SAST",
+   "SUBCATNAME": "Disclosures under SAST",
+   "ATTACHMENTNAME": "ccc-333.pdf",
+   "NEWS_DT": "2026-11-05T10:00:00"
+  },
+  {
+   "NEWSID": "ddd-444",
+   "SCRIP_CD": 500004,
+   "SLONGNAME": "ACC Ltd",
+   "NEWSSUB": "ACC Ltd - 500410 - Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011.",
+   "HEADLINE": "",
+   "CATEGORYNAME": "Insider Trading / SAST",
+   "SUBCATNAME": "",
+   "ATTACHMENTNAME": "ddd-444.pdf",
+   "NEWS_DT": "2026-11-05T10:00:00"
+  },
+  {
+   "NEWSID": "eee-555",
+   "SCRIP_CD": 500005,
+   "SLONGNAME": "Tata Steel Ltd",
+   "NEWSSUB": "Tata Steel Ltd - 500470 - Announcement under Regulation 30 (LODR)-Scheme of Arrangement",
+   "HEADLINE": "Order of the Hon'ble NCLT sanctioning the Scheme of Amalgamation of a wholly owned subsidiary into Tata Steel Limited",
+   "CATEGORYNAME": "Company Update",
+   "SUBCATNAME": "Scheme of Arrangement",
+   "ATTACHMENTNAME": "eee-555.pdf",
+   "NEWS_DT": "2026-11-05T10:00:00"
+  },
+  {
+   "NEWSID": "fff-666",
+   "SCRIP_CD": 500006,
+   "SLONGNAME": "FDC Ltd",
+   "NEWSSUB": "FDC Ltd - 531599 - Public Announcement (Buyback)",
+   "HEADLINE": "Public announcement for buyback of equity shares through tender offer route",
+   "CATEGORYNAME": "Company Update",
+   "SUBCATNAME": "Buy back",
+   "ATTACHMENTNAME": "fff-666.pdf",
+   "NEWS_DT": "2026-11-05T10:00:00"
+  },
+  {
+   "NEWSID": "ggg-777",
+   "SCRIP_CD": 500007,
+   "SLONGNAME": "Kronox Lab Sciences Ltd",
+   "NEWSSUB": "Kronox Lab Sciences Ltd - 544187 - Letter of Offer",
+   "HEADLINE": "Letter of offer to the public shareholders",
+   "CATEGORYNAME": "Company Update",
+   "SUBCATNAME": "Open Offer",
+   "ATTACHMENTNAME": "ggg-777.pdf",
+   "NEWS_DT": "2026-11-05T10:00:00"
+  },
+  {
+   "NEWSID": "hhh-888",
+   "SCRIP_CD": 500008,
+   "SLONGNAME": "Narayana Hrudayalaya Ltd",
+   "NEWSSUB": "Narayana Hrudayalaya Ltd - 539551 - Closure of Trading Window",
+   "HEADLINE": "Closure of trading window under SEBI (Prohibition of Insider Trading) Regulations",
+   "CATEGORYNAME": "Company Update",
+   "SUBCATNAME": "Trading Window",
+   "ATTACHMENTNAME": "hhh-888.pdf",
+   "NEWS_DT": "2026-11-05T10:00:00"
+  },
+  {
+   "NEWSID": "iii-999",
+   "SCRIP_CD": 500009,
+   "SLONGNAME": "Example Industries Ltd",
+   "NEWSSUB": "Example Industries Ltd - 500001 - Detailed Public Statement",
+   "HEADLINE": "Detailed public statement for open offer by XYZ Holdings Private Limited",
+   "CATEGORYNAME": "Company Update",
+   "SUBCATNAME": "Open Offer",
+   "ATTACHMENTNAME": "iii-999.pdf",
+   "NEWS_DT": "2026-11-05T10:00:00"
+  },
+  {
+   "NEWSID": "jjj-000",
+   "SCRIP_CD": 500010,
+   "SLONGNAME": "Small Merge Ltd",
+   "NEWSSUB": "Small Merge Ltd - 500010 - Outcome of Board Meeting",
+   "HEADLINE": "Board approved the scheme of amalgamation of Small Merge Ltd with Big Listed Ltd and their respective shareholders",
+   "CATEGORYNAME": "Board Meeting",
+   "SUBCATNAME": "Outcome of Board Meeting",
+   "ATTACHMENTNAME": "jjj-000.pdf",
+   "NEWS_DT": "2026-11-05T10:00:00"
+  }
+ ],
+ "Table1": [
+  {
+   "ROWCNT": 10
+  }
+ ]
+}

@@ -22,6 +22,10 @@ a stock exchange (NYSE, Nasdaq, LSE/AIM, Euronext, Xetra, Borsa Italiana, BSE/NS
 NOT relevant: acquisitions of private companies, subsidiaries, business units or assets; dealing
 disclosures (Form 8.3 etc.); buy-backs; routine acceptance-level updates; completed deals;
 joint ventures; minority investments with no control; generic disclaimers.
+India specifically: SEBI SAST shareholding or pledge disclosures (Reg 29, 31, 28(3)), exempt
+promoter/inter-se transfers (Reg 10), buy-backs, trading-window notices, results, and schemes that
+only reorganise one group (merging a subsidiary into its parent, demergers) are NOT relevant. A scheme
+of amalgamation IS relevant when a listed company is merged into, or acquired by, an unrelated company.
 
 Stages:
 - rumour: company confirms press speculation / approach
