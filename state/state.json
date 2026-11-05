@@ -13412,6 +13412,10 @@
    1793779393,
    "filtered (none)"
   ],
+  "bse:47249b39-a52a-44cf-8155-1424bbdfa4fb": [
+   1793910242,
+   "bse: not a deal filing"
+  ],
   "bse:472c3ab1-fdaa-4484-9974-0db3a808eb42": [
    1793892586,
    "bse: not a deal filing"
@@ -44836,10 +44840,6 @@
    1793109422,
    "filtered (none)"
   ],
-  "eqs:0b496333-d4da-4a55-917e-0d892449ef23": [
-   1792093820,
-   "filtered (none)"
-  ],
   "eqs:0b6410aa-a817-49bb-a0a1-747627369ecd": [
    1793860215,
    "filtered (none)"
@@ -45155,6 +45155,10 @@
   "eqs:1b5af59b-4cc5-4d59-bd07-a6d0b6d5a840": [
    1793355067,
    "filtered (none)"
+  ],
+  "eqs:1b6c761e-e0c5-4f29-9528-e6ed593aac50": [
+   1793910234,
+   "filtered (medium)"
   ],
   "eqs:1b8b83e9-c66a-4289-908a-ebe564ba30a6": [
    1792685682,
@@ -48554,6 +48558,10 @@
   ],
   "eqs:d24cf748-18e6-4566-9482-51f091ec1c28": [
    1792362286,
+   "filtered (none)"
+  ],
+  "eqs:d2524072-6ce9-49d5-a693-fede6627c08a": [
+   1793910234,
    "filtered (none)"
   ],
   "eqs:d259ea21-1ffa-46a0-8173-f35509599a65": [
@@ -52464,6 +52472,10 @@
    1793097938,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/beacon-communications-expands-in-illinois-with-acquisition-of-low-voltage-solutions-inc-broadening-national-coverage-to-chicago-area-market-302931270.html": [
+   1793910241,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/beacon-pointe-advisors-acquires-act-wealth-management-expanding-services-for-pilots-and-airline-professionals-302927291.html": [
    1793716958,
    "classified:none"
@@ -54976,8 +54988,8 @@
    1793903338,
    "filtered (none)"
   ],
-  "sec:0001133228-26-013301": [
-   1792093817,
+  "sec:0001104659-26-123281": [
+   1793910231,
    "filtered (none)"
   ],
   "sec:0001133228-26-013317": [
@@ -57604,6 +57616,10 @@
    1793791536,
    "filtered (none)"
   ],
+  "sec:0001482430-26-000044": [
+   1793910231,
+   "filtered (none)"
+  ],
   "sec:0001493152-26-047227": [
    1792095980,
    "filtered (none)"
@@ -58302,6 +58318,10 @@
   ],
   "sec:0001683168-26-008310": [
    1793830966,
+   "filtered (none)"
+  ],
+  "sec:0001683168-26-008341": [
+   1793910231,
    "filtered (none)"
   ],
   "sec:0001692951-26-000193": [
