@@ -1,5 +1,12 @@
 {
  "deals": {
+  "00 05 corporate raiffeisen bank international corporate rbi veroffentlichung des ergebnisses des freiwilligen offentlichen ubernahmeangebots fur samtliche addiko aktien nach ablauf der nachfrist|possible_offer": {
+   "acquirer": "",
+   "source": "eqs",
+   "title": "00:05 Corporate Raiffeisen Bank International AG Corporate RBI: Veröffentlichung des Ergebnisses des freiwilligen öffentlichen Übernahmeangebots für sämtliche Addiko-Aktien nach Ablauf der Nachfrist ",
+   "ts": 1793922616,
+   "url": "https://www.eqs-news.com/de/news/corporate/rbi-veroeffentlichung-des-ergebnisses-des-freiwilligen-oeffentlichen-uebernahmeangebots-fuer-saemtliche-addiko-aktien-nach-ablauf-der-nachfrist/b37e2c9c-9336-4615-80cf-bb1c7288595a_de"
+  },
   "03 36 corporate en polymetal international corporate en results of on market tender offer|possible_offer": {
    "acquirer": "",
    "source": "eqs",
@@ -48071,6 +48078,10 @@
   "eqs:b34b5b49-06a2-429c-bad1-5eb680ec315e": [
    1793726867,
    "filtered (none)"
+  ],
+  "eqs:b37e2c9c-9336-4615-80cf-bb1c7288595a": [
+   1793922616,
+   "classified:possible_offer"
   ],
   "eqs:b3c4fba5-7b5d-4a94-9ce4-e03a3465bfd3": [
    1793860215,
