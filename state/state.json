@@ -5945,6 +5945,10 @@
    1793282915,
    "filtered (none)"
   ],
+  "bse:17c6cb32-8452-406a-b231-42cc6efb2539": [
+   1793996419,
+   "bse: not a deal filing"
+  ],
   "bse:17cb14a0-3a39-4dc9-b5c4-c4c23795bbfc": [
    1793860222,
    "filtered (none)"
@@ -33469,6 +33473,10 @@
    1793028940,
    "filtered (none)"
   ],
+  "bse:b1e3dcfe-5789-44ab-8f20-a38a3d9bd361": [
+   1793996419,
+   "bse: not a deal filing"
+  ],
   "bse:b1e77e6c-990b-4b3b-b87e-c20df0228b3e": [
    1793884618,
    "filtered (none)"
@@ -51205,6 +51213,10 @@
    1793989426,
    "filtered (none)"
   ],
+  "eqs:ab4e2ffa-aabf-4a6e-9993-91ad7a504aed": [
+   1793996411,
+   "filtered (none)"
+  ],
   "eqs:abc000f5-a2d8-4d33-8674-0c878660de41": [
    1793217854,
    "filtered (none)"
@@ -57133,10 +57145,6 @@
    1793705527,
    "filtered (none)"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/vbm-completa-la-transaccion-para-establecer-una-nueva-estructura-de-propiedad-del-complejo-minero-thompson-302911622.html": [
-   1792181550,
-   "filtered (none)"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/vertiv-completes-acquisition-of-utilityinnovation-group-302919810.html": [
    1793097938,
    "classified:none"
@@ -57359,6 +57367,10 @@
   ],
   "sec:0000812011-26-000147": [
    1792441836,
+   "filtered (none)"
+  ],
+  "sec:0000821026-26-000155": [
+   1793996401,
    "filtered (none)"
   ],
   "sec:0000879407-26-000063": [
@@ -57615,10 +57627,6 @@
   ],
   "sec:0001096343-26-000082": [
    1793222860,
-   "filtered (none)"
-  ],
-  "sec:0001096906-26-001565": [
-   1792181541,
    "filtered (none)"
   ],
   "sec:0001096906-26-001624": [
@@ -58281,10 +58289,6 @@
    1793980027,
    "filtered (none)"
   ],
-  "sec:0001133228-26-013355": [
-   1792180137,
-   "filtered (none)"
-  ],
   "sec:0001133228-26-013634": [
    1793112456,
    "filtered (none)"
@@ -58311,10 +58315,6 @@
   ],
   "sec:0001139552-26-000051": [
    1793876529,
-   "filtered (none)"
-  ],
-  "sec:0001140361-26-039912": [
-   1792180137,
    "filtered (none)"
   ],
   "sec:0001140361-26-039937": [
@@ -58635,26 +58635,6 @@
   ],
   "sec:0001185185-26-005144": [
    1793743828,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-423988": [
-   1792180137,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-424061": [
-   1792181541,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-424067": [
-   1792181541,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-424070": [
-   1792181541,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-424073": [
-   1792181541,
    "filtered (none)"
   ],
   "sec:0001193125-26-424204": [
@@ -59691,10 +59671,6 @@
   ],
   "sec:0001193125-26-451039": [
    1793982961,
-   "filtered (none)"
-  ],
-  "sec:0001193805-26-001376": [
-   1792181541,
    "filtered (none)"
   ],
   "sec:0001193805-26-001383": [
@@ -61635,10 +61611,6 @@
   ],
   "sec:0001828962-26-000054": [
    1793134613,
-   "filtered (none)"
-  ],
-  "sec:0001829126-26-011243": [
-   1792181541,
    "filtered (none)"
   ],
   "sec:0001829126-26-011253": [
