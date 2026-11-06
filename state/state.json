@@ -16049,6 +16049,10 @@
    1793619058,
    "filtered (none)"
   ],
+  "bse:5063d6a6-fd6c-4609-8af8-c22abd7d5ae5": [
+   1793999304,
+   "bse: not a deal filing"
+  ],
   "bse:506943d8-7cfa-4c77-ae17-fcdb7ae44f91": [
    1793444747,
    "filtered (none)"
@@ -42029,6 +42033,10 @@
    1793868966,
    "filtered (none)"
   ],
+  "bse:df5ecfa9-5547-4b57-bf50-95c405bc957f": [
+   1793999304,
+   "bse: not a deal filing"
+  ],
   "bse:df6c2444-2242-4623-8b6a-22e1232a6f7d": [
    1793013929,
    "filtered (none)"
@@ -48443,6 +48451,10 @@
   ],
   "eqs:17378226-2504-4a32-bfd3-2cd96e8ee2b4": [
    1793723316,
+   "filtered (none)"
+  ],
+  "eqs:180aa049-9261-4855-8fc3-0628bc17d08b": [
+   1793999296,
    "filtered (none)"
   ],
   "eqs:1869172c-aa15-4cff-9a3e-5c5c433ac07b": [
@@ -55677,6 +55689,10 @@
    1793199340,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/amtd-idea-amtd-digital-and-tge-jointly-announce-the-injection-of-four-premium-hotel-assets-into-tge-302932384.html": [
+   1793999302,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/amtd-idea-in-advanced-dialogue-to-attempt-to-acquire-a-third-hotel-in-new-york-city-302929670.html": [
    1793821210,
    "classified:none"
@@ -55736,14 +55752,6 @@
   "prnewswire:https://www.prnewswire.com/news-releases/asperai-acquires-pricing-ones-rgm-expertise-and-key-assets-to-strengthen-its-agentic-rgm-platform-and-expand-its-european-presence-302930467.html": [
    1793872819,
    "classified:none"
-  ],
-  "prnewswire:https://www.prnewswire.com/news-releases/assa-abloy-sells-pki-business-unit-to-vista-equity-partners-302911633.html": [
-   1792183964,
-   "filtered (none)"
-  ],
-  "prnewswire:https://www.prnewswire.com/news-releases/assa-abloy-sells-pki-business-unit-to-vista-equity-partners-302911635.html": [
-   1792183964,
-   "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/assa-abloy-sells-pki-business-unit-to-vista-equity-partners-302911804.html": [
    1792229135,
@@ -56285,6 +56293,10 @@
    1793821210,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/hackberry-lane-closes-multiple-student-housing-acquisitions-at-the-university-of-florida-and-university-of-alabama-growing-portfolio-to-approximately-4-000-beds-302932392.html": [
+   1793999303,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/harlem-childrens-zone-acquires-fintech-platform-goalsetter-to-accelerate-universal-economic-mobility-302917320.html": [
    1792692497,
    "classified:none"
@@ -56393,10 +56405,6 @@
    1793637995,
    "classified:none"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/hyperscale-data-announces-plan-for-its-askroi-subsidiary-to-go-public-in-the-second-or-third-quarter-of-2027-302911628.html": [
-   1792183964,
-   "filtered (none)"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/ibm-ventures-invests-in-leena-ai-to-accelerate-agentic-ai-across-the-enterprise-back-office-302914251.html": [
    1792508399,
    "filtered (none)"
@@ -56411,6 +56419,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/inkle-acquires-finallys-bookkeeping-division-expanding-its-us-small-business-accounting-footprint-302921420.html": [
    1793192422,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/inmed-pharmaceuticals-completes-closing-of-merger-with-mentari-therapeutics-302932393.html": [
+   1793999303,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/integrated-home-care-services-and-carecentrix-announce-agreement-to-combine-advancing-comprehensive-in-home-benefit-management-platform-302929872.html": [
@@ -57641,14 +57653,6 @@
    1793964632,
    "filtered (none)"
   ],
-  "sec:0001104659-26-116616": [
-   1792183948,
-   "filtered (none)"
-  ],
-  "sec:0001104659-26-116618": [
-   1792183948,
-   "filtered (none)"
-  ],
   "sec:0001104659-26-116641": [
    1792185979,
    "filtered (none)"
@@ -58289,6 +58293,10 @@
    1793980027,
    "filtered (none)"
   ],
+  "sec:0001104659-26-123853": [
+   1793999293,
+   "filtered (none)"
+  ],
   "sec:0001133228-26-013634": [
    1793112456,
    "filtered (none)"
@@ -58635,10 +58643,6 @@
   ],
   "sec:0001185185-26-005144": [
    1793743828,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-424204": [
-   1792183948,
    "filtered (none)"
   ],
   "sec:0001193125-26-424282": [
@@ -59673,6 +59677,14 @@
    1793982961,
    "filtered (none)"
   ],
+  "sec:0001193125-26-451826": [
+   1793999293,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-451831": [
+   1793999293,
+   "filtered (none)"
+  ],
   "sec:0001193805-26-001383": [
    1792503607,
    "filtered (none)"
@@ -59691,14 +59703,6 @@
   ],
   "sec:0001210708-26-000096": [
    1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-110230": [
-   1792183948,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-110236": [
-   1792183948,
    "filtered (none)"
   ],
   "sec:0001213900-26-110352": [
@@ -60805,12 +60809,12 @@
    1793913559,
    "filtered (none)"
   ],
-  "sec:0001482430-26-000044": [
-   1793910231,
+  "sec:0001477932-26-006754": [
+   1793999293,
    "filtered (none)"
   ],
-  "sec:0001493152-26-047401": [
-   1792183948,
+  "sec:0001482430-26-000044": [
+   1793910231,
    "filtered (none)"
   ],
   "sec:0001493152-26-047435": [
@@ -61145,6 +61149,10 @@
    1793993273,
    "filtered (none)"
   ],
+  "sec:0001493152-26-050459": [
+   1793999293,
+   "filtered (none)"
+  ],
   "sec:0001509991-26-000058": [
    1793622935,
    "filtered (none)"
@@ -61439,6 +61447,10 @@
   ],
   "sec:0001628280-26-071284": [
    1793964632,
+   "filtered (none)"
+  ],
+  "sec:0001628280-26-071650": [
+   1793999293,
    "filtered (none)"
   ],
   "sec:0001640334-26-001712": [
@@ -61799,10 +61811,6 @@
   ],
   "sec:0002071844-26-001633": [
    1793374165,
-   "filtered (none)"
-  ],
-  "sec:0002077096-26-000286": [
-   1792183948,
    "filtered (none)"
   ],
   "sec:0002144230-26-000009": [
