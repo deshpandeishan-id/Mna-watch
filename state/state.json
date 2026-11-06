@@ -8205,6 +8205,10 @@
    1793709184,
    "filtered (none)"
   ],
+  "bse:24b0cc0c-884a-43d2-9ec0-a7b43a6d42b3": [
+   1793993371,
+   "bse: not a deal filing"
+  ],
   "bse:24b5c3b3-e1a8-4921-8b73-9e375a113b8a": [
    1793986230,
    "bse: not a deal filing"
@@ -11213,6 +11217,10 @@
    1793944557,
    "bse: not a deal filing"
   ],
+  "bse:35b37a56-5c74-479c-a5c3-0016a97e2bb6": [
+   1793993371,
+   "bse: not a deal filing"
+  ],
   "bse:35ba6ed6-59b5-4845-b619-fed2e72338b4": [
    1793109433,
    "filtered (none)"
@@ -11652,6 +11660,10 @@
   "bse:37f13249-9550-4de0-8a19-ad781c5df7a7": [
    1793774449,
    "filtered (none)"
+  ],
+  "bse:37f80304-80da-487f-a708-9e5332583806": [
+   1793993371,
+   "bse: not a deal filing"
   ],
   "bse:37fc3054-2490-4a0c-ac0c-42c84864ca52": [
    1793698566,
@@ -17929,6 +17941,10 @@
    1793880243,
    "filtered (none)"
   ],
+  "bse:5b18e982-4e72-469b-abba-97575e7a2645": [
+   1793993371,
+   "bse: not a deal filing"
+  ],
   "bse:5b20daaf-be0a-4600-9f92-ee89b484089c": [
    1793986230,
    "bse: not a deal filing"
@@ -18153,6 +18169,10 @@
    1793889000,
    "filtered (none)"
   ],
+  "bse:5c7874c4-c6c4-4320-a818-480217100a14": [
+   1793993371,
+   "bse: not a deal filing"
+  ],
   "bse:5c7f10f9-5828-4bc3-8e63-9582e1a2e1fe": [
    1793269339,
    "filtered (none)"
@@ -18252,6 +18272,10 @@
   "bse:5d21e72f-486a-49da-ae14-96a8700d8fd6": [
    1793199346,
    "filtered (none)"
+  ],
+  "bse:5d2240d5-1a42-489d-84bd-a9949fcb905c": [
+   1793993371,
+   "bse: not a deal filing"
   ],
   "bse:5d2fa316-0407-4444-8722-5bb27dd44725": [
    1793976807,
@@ -31405,6 +31429,10 @@
    1793803167,
    "filtered (none)"
   ],
+  "bse:a6c34fba-54c7-46f7-807c-3e3bd6093045": [
+   1793993371,
+   "bse: not a deal filing"
+  ],
   "bse:a6e5f7aa-eace-481a-bc3f-3fa8fe33c70f": [
    1793876561,
    "filtered (none)"
@@ -41609,6 +41637,10 @@
    1793092504,
    "filtered (none)"
   ],
+  "bse:dcfa9d5b-9ddb-4e1e-859d-ac2da30c3fac": [
+   1793993371,
+   "bse: not a deal filing"
+  ],
   "bse:dcfcde7f-9a4e-44c4-8175-11b6f2038085": [
    1793723325,
    "filtered (none)"
@@ -41644,6 +41676,10 @@
   "bse:dd39bdb7-187b-4aa2-813b-d3fdf0c2b496": [
    1792993381,
    "filtered (none)"
+  ],
+  "bse:dd39c7ee-7db6-442e-ba3d-4b1403b437c9": [
+   1793993371,
+   "bse: not a deal filing"
   ],
   "bse:dd3a7421-8ab3-406e-8502-8ca4e5fc943d": [
    1793455830,
@@ -45323,6 +45359,10 @@
   ],
   "bse:f1b76f73-5eea-417e-8914-8caef01ebf2f": [
    1793964642,
+   "bse: not a deal filing"
+  ],
+  "bse:f1c1f160-0c38-4599-92c7-513666fd9b19": [
+   1793993371,
    "bse: not a deal filing"
   ],
   "bse:f1c4c951-5146-4c70-9a26-0bce56d68f9c": [
@@ -49749,6 +49789,10 @@
    1793686544,
    "filtered (none)"
   ],
+  "eqs:5dca189c-fcba-49fe-8214-99b808dc0358": [
+   1793993363,
+   "filtered (none)"
+  ],
   "eqs:5dd09c95-13e6-4da1-a0a7-e759fd421bdf": [
    1793622938,
    "filtered (none)"
@@ -50571,10 +50615,6 @@
   ],
   "eqs:8a228a1b-03dd-44c7-9c59-e2cd6d2d4478": [
    1793355067,
-   "filtered (none)"
-  ],
-  "eqs:8a27e5ba-94de-4d7b-9796-c7ca0f7e62a6": [
-   1792175470,
    "filtered (none)"
   ],
   "eqs:8afca9b1-4e31-49a5-bcb8-274ef4231f60": [
@@ -52183,10 +52223,6 @@
   ],
   "eqs:e43a735e-8008-461f-b23e-12b2038f4a53": [
    1793868955,
-   "filtered (none)"
-  ],
-  "eqs:e44139de-3c60-412b-b3ff-ac708d1dc256": [
-   1792177888,
    "filtered (none)"
   ],
   "eqs:e4508251-eb3e-42bf-a955-39e339a6eb61": [
@@ -56457,10 +56493,6 @@
    1793698564,
    "classified:none"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/le-groupe-csl-acquiert-simpl-wireless-pour-proposer-son-offre--critical-connectivity--en-amerique-du-nord-302911581.html": [
-   1792177894,
-   "filtered (none)"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/leap-partners-expands-to-virginia-302924041.html": [
    1793729967,
    "filtered (none)"
@@ -57465,6 +57497,10 @@
    1793022901,
    "filtered (none)"
   ],
+  "sec:0000950103-26-017090": [
+   1793993273,
+   "filtered (none)"
+  ],
   "sec:0000950142-26-002834": [
    1793013912,
    "filtered (none)"
@@ -58261,6 +58297,18 @@
    1793115205,
    "filtered (none)"
   ],
+  "sec:0001133228-26-013983": [
+   1793993273,
+   "filtered (none)"
+  ],
+  "sec:0001133228-26-013985": [
+   1793993273,
+   "filtered (none)"
+  ],
+  "sec:0001133228-26-013987": [
+   1793993273,
+   "filtered (none)"
+  ],
   "sec:0001139552-26-000051": [
    1793876529,
    "filtered (none)"
@@ -58587,10 +58635,6 @@
   ],
   "sec:0001185185-26-005144": [
    1793743828,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-423870": [
-   1792175460,
    "filtered (none)"
   ],
   "sec:0001193125-26-423988": [
@@ -61119,6 +61163,10 @@
   ],
   "sec:0001493152-26-050394": [
    1793989423,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-050420": [
+   1793993273,
    "filtered (none)"
   ],
   "sec:0001509991-26-000058": [
