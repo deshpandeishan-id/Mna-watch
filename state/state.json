@@ -20593,6 +20593,10 @@
    1793729969,
    "filtered (none)"
   ],
+  "bse:623cea20-fec0-43ba-992a-02a392589df2": [
+   1794073732,
+   "bse: not a deal filing"
+  ],
   "bse:623d6417-1803-42d0-a355-914362b5a856": [
    1793794631,
    "filtered (none)"
@@ -33132,6 +33136,10 @@
   "bse:a340d619-aa66-413d-9007-cd0b906966af": [
    1793702152,
    "filtered (none)"
+  ],
+  "bse:a347918e-67a2-4393-8636-80ed86d4b671": [
+   1794073732,
+   "bse: not a deal filing"
   ],
   "bse:a34e6c79-6757-4c18-989c-270636a26b42": [
    1793028940,
@@ -55047,10 +55055,6 @@
   ],
   "eqs:be7a540b-f312-43cb-88e9-1fc15cbb1854": [
    1792773458,
-   "filtered (none)"
-  ],
-  "eqs:bef862d1-8933-455d-b16c-a3f386a2a56b": [
-   1792258859,
    "filtered (none)"
   ],
   "eqs:bf0422c3-15d8-464c-b94f-ebe5ce675491": [
