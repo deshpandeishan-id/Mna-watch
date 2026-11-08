@@ -21945,6 +21945,10 @@
    1793286430,
    "filtered (none)"
   ],
+  "bse:696f4a3e-7d11-451a-aa69-6ddd86ff9ba3": [
+   1794119468,
+   "bse: not a deal filing"
+  ],
   "bse:6971a146-da6e-45ed-b953-d952900e9d2e": [
    1793005775,
    "filtered (none)"
@@ -24180,6 +24184,10 @@
   "bse:75a8860b-96ab-4d97-aa29-8b3d5bda9624": [
    1793782939,
    "filtered (none)"
+  ],
+  "bse:75b07f79-ec29-41cb-9eed-34861cad506b": [
+   1794119468,
+   "bse: not a deal filing"
   ],
   "bse:75b67fea-0c01-4081-821b-5e4d09771eba": [
    1793944557,
@@ -31904,6 +31912,10 @@
   "bse:9cc0cb93-c1aa-47b0-bfb5-8f29e7b2b705": [
    1793028940,
    "filtered (none)"
+  ],
+  "bse:9cc552a9-3577-4de0-bdd2-6cc9935554e5": [
+   1794119468,
+   "bse: not a deal filing"
   ],
   "bse:9cc6a56a-b929-443c-9d6c-3f405c8e896c": [
    1793182866,
@@ -51953,10 +51965,6 @@
    1793868955,
    "filtered (none)"
   ],
-  "eqs:152f3725-6972-4645-b59e-e90a502c827e": [
-   1792304084,
-   "filtered (none)"
-  ],
   "eqs:1532b8a8-a72b-4162-b18f-1b06f9e6f7ab": [
    1793865148,
    "filtered (none)"
@@ -60309,20 +60317,8 @@
    1793363260,
    "classified:possible_offer"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/panzani--cerealis---------302911936.html": [
-   1792304091,
-   "filtered (none)"
-  ],
-  "prnewswire:https://www.prnewswire.com/news-releases/panzani-a-cerealis-spoja-sily-a-vytvoria-vyznamnu-europsku-potravinarsku-skupinu-302911937.html": [
-   1792304091,
-   "filtered (none)"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/panzani-a-cerealis-spojuji-sily-s-cilem-vytvoit-vyznamnou-evropskou-potravinaskou-skupinu-302912011.html": [
    1792350013,
-   "filtered (none)"
-  ],
-  "prnewswire:https://www.prnewswire.com/news-releases/panzani-und-cerealis-bundeln-ihre-krafte-zur-schaffung-eines-groWen-europaischen-lebensmittelkonzerns-302911934.html": [
-   1792304091,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/partnerone-acquires-3clogic-expanding-its-enterprise-ai-portfolio-and-advancing-the-future-of-intelligent-customer-engagement-302927176.html": [
@@ -60688,10 +60684,6 @@
   "prnewswire:https://www.prnewswire.com/news-releases/us-worldmeds-acquires-orbus-therapeutics-expanding-commitment-to-rare-diseases-and-advancing-eflornithine-in-adult-malignant-glioma-302921067.html": [
    1793121572,
    "classified:none"
-  ],
-  "prnewswire:https://www.prnewswire.com/news-releases/vale-base-metals-schlieWt-transaktion-zur-neuregelung-der-eigentumsverhaltnisse-am-thompson-minenkomplex-ab-302911931.html": [
-   1792304091,
-   "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/valmet-to-acquire-leading-manufacturing-execution-system-mes-business-from-tieto-to-accelerate-industrial-transition-towards-autonomous-operations-302920375.html": [
    1793086455,
