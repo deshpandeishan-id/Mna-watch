@@ -3693,6 +3693,10 @@
    1793872823,
    "filtered (none)"
   ],
+  "bse:09c97a73-c821-4ff3-b148-c01aec9a890e": [
+   1794140779,
+   "bse: not a deal filing"
+  ],
   "bse:09ccee32-1371-41f3-ad11-892982351b26": [
    1793889000,
    "filtered (none)"
@@ -11189,6 +11193,10 @@
    1793028940,
    "filtered (none)"
   ],
+  "bse:31e283df-176a-4657-abb3-9d1f1b764b0d": [
+   1794140779,
+   "bse: not a deal filing"
+  ],
   "bse:31f205f8-2da8-4b34-aff7-7d3ace1b0571": [
    1793709184,
    "filtered (none)"
@@ -16880,6 +16888,10 @@
   "bse:4e832483-28a2-4d4a-ada6-5fb0963c9ab5": [
    1793803167,
    "filtered (none)"
+  ],
+  "bse:4e835641-2695-401b-9a57-b83804a9e578": [
+   1794140779,
+   "bse: not a deal filing"
   ],
   "bse:4e84886d-b649-44b4-89e1-ea9fbd70a694": [
    1793453034,
@@ -29517,6 +29529,10 @@
    1793892586,
    "bse: not a deal filing"
   ],
+  "bse:91064df1-1e85-4bb2-b58a-d8ba7d9b4cf0": [
+   1794140779,
+   "bse: not a deal filing"
+  ],
   "bse:910746cd-d127-436c-96b8-a28d697055be": [
    1793976807,
    "bse: not a deal filing"
@@ -40024,6 +40040,10 @@
   "bse:c53ec259-9f29-4304-a162-dacf22170a0a": [
    1793872824,
    "filtered (none)"
+  ],
+  "bse:c53fdab0-1e31-47e8-a6d4-bb002922b55a": [
+   1794140779,
+   "bse: not a deal filing"
   ],
   "bse:c5402814-4205-4a5a-8613-46c1e5846132": [
    1793630995,
@@ -54439,10 +54459,6 @@
   ],
   "eqs:8e2e012a-c828-4713-a089-963352dd9e63": [
    1793331865,
-   "filtered (none)"
-  ],
-  "eqs:8e471fd6-508e-4dfe-91d7-18aa18355637": [
-   1792325259,
    "filtered (none)"
   ],
   "eqs:8e64fe22-53d9-4899-b58e-8bad803255fb": [
