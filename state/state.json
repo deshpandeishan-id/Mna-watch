@@ -8293,6 +8293,10 @@
    1793465827,
    "filtered (none)"
   ],
+  "bse:208c3f48-39da-4723-b5c3-da3edc89f085": [
+   1794249465,
+   "bse: not a deal filing"
+  ],
   "bse:208d449f-bd6a-4bb3-a19a-899d02f7f898": [
    1793358156,
    "filtered (none)"
@@ -54413,10 +54417,6 @@
    1793860215,
    "filtered (none)"
   ],
-  "eqs:2a1541a0-d85d-460f-9a93-a3a6b6ea48e4": [
-   1792432270,
-   "filtered (none)"
-  ],
   "eqs:2a35c2a0-a06e-4bc2-b103-c03760e2cdac": [
    1793957222,
    "filtered (none)"
@@ -55197,6 +55197,10 @@
    1793848372,
    "filtered (none)"
   ],
+  "eqs:5280c168-0775-4ce9-9f02-9d7ccd6f77b0": [
+   1794249456,
+   "filtered (none)"
+  ],
   "eqs:5288a8f4-8555-4e23-a93a-a403eeaa5d6c": [
    1792508392,
    "filtered (none)"
@@ -55355,6 +55359,10 @@
   ],
   "eqs:5c7549df-f72c-476d-a36f-9b4d0eb6040e": [
    1793032281,
+   "filtered (none)"
+  ],
+  "eqs:5cae7ee8-69b0-463a-a62e-c14f934c8a7b": [
+   1794249456,
    "filtered (none)"
   ],
   "eqs:5d1b663c-bbaf-465d-9db0-d35243b9ef26": [
@@ -55875,6 +55883,10 @@
   ],
   "eqs:79de414f-b7c6-4ef3-8669-9c25f797c8f6": [
    1793611729,
+   "filtered (none)"
+  ],
+  "eqs:79e608ad-a979-4c6a-9834-f8e491ee6145": [
+   1794249456,
    "filtered (none)"
   ],
   "eqs:7a3fd2de-697b-4f87-ac83-7d9d76a13f4a": [
@@ -56623,6 +56635,10 @@
   ],
   "eqs:a2f5720a-324a-4de6-92e8-4489a218021c": [
    1793269329,
+   "filtered (none)"
+  ],
+  "eqs:a3cd3795-dfd0-4de1-927b-7a39c3e23f38": [
+   1794249456,
    "filtered (none)"
   ],
   "eqs:a3dbec5c-98ac-4644-9b34-ab5a705545f8": [
@@ -57605,6 +57621,10 @@
    1793702144,
    "classified:possible_offer"
   ],
+  "eqs:dc18f67a-70b5-4b92-8edd-7fefb7190811": [
+   1794249456,
+   "filtered (none)"
+  ],
   "eqs:dc36dcf0-2dd0-4d6f-90b5-a0e744e5531b": [
    1793619051,
    "filtered (none)"
@@ -58295,46 +58315,6 @@
   ],
   "eqs:ff22bd31-81b3-4854-bc23-cc62d1ac9cf3": [
    1792644965,
-   "filtered (none)"
-  ],
-  "euronext:12917186 at https://live.euronext.com": [
-   1792432268,
-   "filtered (none)"
-  ],
-  "euronext:12917187 at https://live.euronext.com": [
-   1792432268,
-   "filtered (none)"
-  ],
-  "euronext:12917188 at https://live.euronext.com": [
-   1792432268,
-   "filtered (none)"
-  ],
-  "euronext:12917189 at https://live.euronext.com": [
-   1792432268,
-   "filtered (none)"
-  ],
-  "euronext:12917190 at https://live.euronext.com": [
-   1792432268,
-   "filtered (none)"
-  ],
-  "euronext:12917191 at https://live.euronext.com": [
-   1792432268,
-   "filtered (none)"
-  ],
-  "euronext:12917192 at https://live.euronext.com": [
-   1792432268,
-   "filtered (none)"
-  ],
-  "euronext:12917193 at https://live.euronext.com": [
-   1792432268,
-   "filtered (none)"
-  ],
-  "euronext:12917194 at https://live.euronext.com": [
-   1792432268,
-   "filtered (none)"
-  ],
-  "euronext:12917198 at https://live.euronext.com": [
-   1792432268,
    "filtered (none)"
   ],
   "euronext:12917230 at https://live.euronext.com": [
@@ -61969,10 +61949,6 @@
    1793884616,
    "filtered (none)"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/ixl-learning-acquires-noredink-302912835.html": [
-   1792432277,
-   "classified:none"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/jdm-technology-group-strengthens-construction-software-portfolio-with-acquisition-of-dreeven-302923241.html": [
    1793278934,
    "classified:none"
@@ -62177,10 +62153,6 @@
    1793799268,
    "filtered (none)"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/national-kitchen--bath-showrooms-expands-into-virginia-with-acquisition-of-greenwich-kitchens-302912851.html": [
-   1792432277,
-   "classified:none"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/nativeseed-group-acquires-the-assets-of-sharp-brothers-seed-company-expanding-native-seed-cleaning-across-the-great-plains-302929925.html": [
    1793876547,
    "classified:none"
@@ -62207,10 +62179,6 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/new-private-equity-kooperiert-mit-one-group-solutions-beim-aufbau-einer-datengestutzten-fonds-governance-plattform-fur-weltweit-tatige-vermogensverwalter-302914297.html": [
    1792510609,
-   "filtered (none)"
-  ],
-  "prnewswire:https://www.prnewswire.com/news-releases/new-private-equity-sassocie-a-one-group-solutions-afin-de-construire-la-plateforme-de-gouvernance-de-fonds-centree-sur-les-donnees-pour-les-gestionnaires-dactifs-mondiaux-302912901.html": [
-   1792432276,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/new-study-finds-union-pacific-norfolk-southern-merger-could-deliver-up-to-5-8-billion-a-year-in-economic-and-health-benefits-302929562.html": [
@@ -62763,6 +62731,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/wsg-acquires-sanctuary-positioning-the-contemporary-womens-brand-for-global-growth-302917570.html": [
    1792762715,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/xkig-increases-southeastern-operations-with-acquisition-of-htc-302933659.html": [
+   1794249463,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/yellow-card-acquiert-gomoney-et-etablit-des-operations-directes-au-bresil-302929234.html": [
@@ -64113,6 +64085,10 @@
    1794234645,
    "filtered (none)"
   ],
+  "sec:0001140361-26-042731": [
+   1794249454,
+   "filtered (none)"
+  ],
   "sec:0001171843-26-006740": [
    1792613386,
    "filtered (none)"
@@ -65287,6 +65263,10 @@
   ],
   "sec:0001193125-26-452777": [
    1794234645,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-453175": [
+   1794249454,
    "filtered (none)"
   ],
   "sec:0001193805-26-001383": [
