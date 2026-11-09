@@ -4401,6 +4401,10 @@
    1793719808,
    "filtered (none)"
   ],
+  "bse:0cac131b-6a68-4c78-9af0-73f64f3f5df4": [
+   1794246210,
+   "bse: not a deal filing"
+  ],
   "bse:0cb20bd7-cb82-4012-9551-ad6cfb332608": [
    1793455830,
    "filtered (none)"
@@ -19965,6 +19969,10 @@
    1793686552,
    "filtered (none)"
   ],
+  "bse:5b7ed11f-74eb-4ba4-a48d-73bdece5bf0a": [
+   1794246210,
+   "bse: not a deal filing"
+  ],
   "bse:5b8163e1-74d9-43f8-8503-9784ce9df8bf": [
    1793779394,
    "filtered (none)"
@@ -24497,6 +24505,10 @@
    1793641371,
    "filtered (none)"
   ],
+  "bse:72bc79f1-91c8-49ca-94ca-3202f29f34a0": [
+   1794246210,
+   "bse: not a deal filing"
+  ],
   "bse:72c19871-d8c2-4448-a5a2-e0d82588e097": [
    1793347847,
    "filtered (none)"
@@ -25536,6 +25548,10 @@
   "bse:77ecc2cf-75fe-4dad-8a6a-e4a3df47b989": [
    1793691498,
    "filtered (none)"
+  ],
+  "bse:77f920f9-3542-41ca-a521-e369d4c81858": [
+   1794246210,
+   "bse: not a deal filing"
   ],
   "bse:78015177-394a-4270-9685-fe1adc4a0af7": [
    1793973085,
@@ -27273,6 +27289,10 @@
    1793806578,
    "filtered (none)"
   ],
+  "bse:803bff11-c2c5-4fec-8aab-382df6291600": [
+   1794246210,
+   "bse: not a deal filing"
+  ],
   "bse:803d5abb-9b16-448b-a2ca-47eec707868c": [
    1793434646,
    "filtered (none)"
@@ -28784,6 +28804,10 @@
   "bse:87fda2b4-dcd9-4d18-8df8-8f68316a303d": [
    1793686552,
    "filtered (none)"
+  ],
+  "bse:87fe2035-be0a-46ec-876f-b5249e5338b8": [
+   1794246210,
+   "bse: not a deal filing"
   ],
   "bse:8801367a-ce9e-4a68-8812-5fc0cedcb492": [
    1793622946,
@@ -33893,6 +33917,10 @@
    1793109433,
    "filtered (none)"
   ],
+  "bse:a0e978ca-9bd1-4684-a46c-a41c1c0a06a8": [
+   1794246210,
+   "bse: not a deal filing"
+  ],
   "bse:a0ea3031-8f5e-4f39-8faf-74be2c6733a6": [
    1793331873,
    "filtered (none)"
@@ -38137,6 +38165,10 @@
    1793723325,
    "filtered (none)"
   ],
+  "bse:b60b8629-d645-4203-acee-0989675c858a": [
+   1794246210,
+   "bse: not a deal filing"
+  ],
   "bse:b60ed6c2-fc6a-4fb5-b973-4dde4717de77": [
    1793112475,
    "classified:possible_offer"
@@ -38896,6 +38928,10 @@
   "bse:b94ccf7f-c38b-423d-a7cb-57a32395773f": [
    1793182866,
    "filtered (none)"
+  ],
+  "bse:b94dbffa-6ab1-4a0d-8b41-2a90fec8e3ad": [
+   1794246210,
+   "bse: not a deal filing"
   ],
   "bse:b952f6a4-394d-48a8-9d44-6528148d686f": [
    1793347847,
@@ -39724,6 +39760,10 @@
   "bse:bd4e980f-2daf-430a-8ac5-f493d119d02b": [
    1793449304,
    "filtered (none)"
+  ],
+  "bse:bd5100cb-2dab-4750-a3c5-d83bb1c4b427": [
+   1794246210,
+   "bse: not a deal filing"
   ],
   "bse:bd5330c2-e3d1-4eb4-9d4f-c195ab16ece2": [
    1793344066,
@@ -55877,6 +55917,10 @@
    1793078375,
    "filtered (none)"
   ],
+  "eqs:7baea4f8-d66d-4e78-b137-d3d3458b8598": [
+   1794246202,
+   "filtered (none)"
+  ],
   "eqs:7bb21fe3-c6cb-43fd-ba33-4e275e2629cb": [
    1793630982,
    "filtered (none)"
@@ -56135,6 +56179,10 @@
   ],
   "eqs:8a228a1b-03dd-44c7-9c59-e2cd6d2d4478": [
    1793355067,
+   "filtered (none)"
+  ],
+  "eqs:8aed5b23-3395-4fcb-8d6a-da80e94cbf29": [
+   1794246202,
    "filtered (none)"
   ],
   "eqs:8afca9b1-4e31-49a5-bcb8-274ef4231f60": [
@@ -57411,6 +57459,10 @@
   ],
   "eqs:d5bb0c42-677e-46fc-9505-61a95c2c5e6f": [
    1793602198,
+   "filtered (none)"
+  ],
+  "eqs:d5c686db-b215-4b05-b037-584d382aec7c": [
+   1794246202,
    "filtered (none)"
   ],
   "eqs:d6232c67-8ea4-4e42-9025-cba3bf6b0e4d": [
@@ -60913,6 +60965,46 @@
    1794242731,
    "filtered (none)"
   ],
+  "euronext:12922545 at https://live.euronext.com": [
+   1794246200,
+   "filtered (none)"
+  ],
+  "euronext:12922546 at https://live.euronext.com": [
+   1794246200,
+   "filtered (none)"
+  ],
+  "euronext:12922547 at https://live.euronext.com": [
+   1794246200,
+   "filtered (none)"
+  ],
+  "euronext:12922548 at https://live.euronext.com": [
+   1794246200,
+   "filtered (none)"
+  ],
+  "euronext:12922549 at https://live.euronext.com": [
+   1794246200,
+   "filtered (none)"
+  ],
+  "euronext:12922550 at https://live.euronext.com": [
+   1794246200,
+   "filtered (none)"
+  ],
+  "euronext:12922551 at https://live.euronext.com": [
+   1794246200,
+   "filtered (none)"
+  ],
+  "euronext:12922552 at https://live.euronext.com": [
+   1794246200,
+   "filtered (none)"
+  ],
+  "euronext:12922553 at https://live.euronext.com": [
+   1794246200,
+   "filtered (none)"
+  ],
+  "euronext:12922554 at https://live.euronext.com": [
+   1794246200,
+   "filtered (none)"
+  ],
   "globenewswire:https://www.globenewswire.com/news-release/2026/11/03/3394275/0/en/cannabis-strategic-ventures-inc-signs-binding-letter-of-intent-with-scopien-technologies-inc.html": [
    1793726867,
    "bootstrap"
@@ -62520,6 +62612,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/tiger-group-expands-national-field-examination-platform-with-acquisition-of-mnt-consulting-302932381.html": [
    1794234659,
    "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/tko-miller-advises-advanced-abrasives-corporation-on-its-sale-to-entegris-inc-302933616.html": [
+   1794246208,
+   "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/tko-miller-advises-retlaw-industries-inc-on-its-sale-to-aim-processing-a-portfolio-company-of-mcm-capital-partners-302919726.html": [
    1793041817,
