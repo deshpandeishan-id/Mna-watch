@@ -672,6 +672,13 @@
    "ts": 1793865156,
    "url": "https://www.prnewswire.com/news-releases/hsbc-holdings-plc-announces-tender-offer-for-one-series-of-securities-302930306.html"
   },
+  "hyperscale data|possible_offer": {
+   "acquirer": "",
+   "source": "sec",
+   "title": "SC TO-C – Hyperscale Data, Inc. (Subject)",
+   "ts": 1794260006,
+   "url": "https://www.sec.gov/Archives/edgar/data/896493/000092189526002970/0000921895-26-002970-index.htm"
+  },
   "iifl capital services|possible_offer": {
    "acquirer": "",
    "source": "bse",
@@ -53793,6 +53800,10 @@
    1793860215,
    "filtered (none)"
   ],
+  "eqs:0ba35be2-ab6e-4f87-885d-f2f97749bea5": [
+   1794260009,
+   "filtered (none)"
+  ],
   "eqs:0ba8c004-0308-4407-ad10-b679e3ea5cab": [
    1793884609,
    "filtered (none)"
@@ -54495,6 +54506,10 @@
   ],
   "eqs:2c64e059-ac70-44e0-8ddd-793523d91c27": [
    1793089352,
+   "filtered (none)"
+  ],
+  "eqs:2c6bfaef-fbc4-4757-ada8-313075a7237a": [
+   1794260009,
    "filtered (none)"
   ],
   "eqs:2cbf838e-58d4-4b0c-85aa-62977350578e": [
@@ -55251,6 +55266,10 @@
   ],
   "eqs:54fb45a4-6aa2-4906-864a-e0b8b4f07a84": [
    1792577190,
+   "filtered (none)"
+  ],
+  "eqs:55106145-9e15-4d65-944e-03a6e834ceae": [
+   1794260009,
    "filtered (none)"
   ],
   "eqs:5518ef0f-5cff-4c68-aeb6-8eafc62827b9": [
@@ -56273,10 +56292,6 @@
    1793477782,
    "filtered (none)"
   ],
-  "eqs:8dad3ed1-d089-4fe2-a429-43f588efec9d": [
-   1792439727,
-   "filtered (none)"
-  ],
   "eqs:8e2e012a-c828-4713-a089-963352dd9e63": [
    1793331865,
    "filtered (none)"
@@ -56427,10 +56442,6 @@
   ],
   "eqs:976c35a4-dad2-4832-ae0c-fec34e92032d": [
    1792745875,
-   "filtered (none)"
-  ],
-  "eqs:978aca91-52bc-40aa-a2dd-feddc4b1bbc2": [
-   1792441845,
    "filtered (none)"
   ],
   "eqs:97a44b98-be25-4092-89b0-2167a7253d27": [
@@ -61525,10 +61536,6 @@
    1793888996,
    "classified:none"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/construction-partners-inc-completes-florida-acquisition-302913034.html": [
-   1792441852,
-   "filtered (none)"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/construction-partners-inc-completes-georgia-acquisition-302929808.html": [
    1793827758,
    "filtered (none)"
@@ -62217,6 +62224,10 @@
    1793289720,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/northwind-group-provides-30-million-loan-for-pro-h-group-acquisition-of-110-east-16th-street-in-union-square-302933849.html": [
+   1794260017,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/nour-private-management-completes-acquisition-of-mirabaud-canadas-wealth-management-business-302928199.html": [
    1793729967,
    "classified:none"
@@ -62312,6 +62323,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/perrigo-announces-agreement-to-divest-infant-formula-business-to-meridianmade-302923597.html": [
    1793282912,
    "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/pharmalogic-to-acquire-lantheus-cdmo-business-and-springfield-new-jersey-manufacturing-facility-302933626.html": [
+   1794260016,
+   "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/platinum-equity-acquires-warren-valve-from-allied-group-302926908.html": [
    1793654425,
@@ -62436,6 +62451,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/schryver--co-serves-as-exclusive-ma-advisor-to-bee--jay-plumbing--heating-in-its-successful-sale-to-a-local-entrepreneur-302928719.html": [
    1793794630,
    "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/securitize-to-acquire-river-one-connecting-stablecoin-capital-to-the-6-trillion-asset-backed-finance-market-302933804.html": [
+   1794260016,
+   "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/select-water-solutions-announces-closing-of-pilot-water-solutions-acquisition-302926951.html": [
    1793654424,
@@ -62849,16 +62868,8 @@
    1793919867,
    "filtered (none)"
   ],
-  "sec:0000755001-26-000033": [
-   1792444076,
-   "filtered (none)"
-  ],
   "sec:0000755001-26-000035": [
    1793046662,
-   "filtered (none)"
-  ],
-  "sec:0000763744-26-000092": [
-   1792444076,
    "filtered (none)"
   ],
   "sec:0000763744-26-000096": [
@@ -62895,10 +62906,6 @@
   ],
   "sec:0000789570-26-000104": [
    1793195985,
-   "filtered (none)"
-  ],
-  "sec:0000812011-26-000147": [
-   1792441836,
    "filtered (none)"
   ],
   "sec:0000821026-26-000155": [
@@ -62973,16 +62980,12 @@
    1793821190,
    "filtered (none)"
   ],
+  "sec:0000921895-26-002970": [
+   1794260006,
+   "classified:possible_offer"
+  ],
   "sec:0000924805-26-000055": [
    1793272571,
-   "filtered (none)"
-  ],
-  "sec:0000929638-26-003947": [
-   1792439717,
-   "filtered (none)"
-  ],
-  "sec:0000929638-26-003948": [
-   1792439717,
    "filtered (none)"
   ],
   "sec:0000939930-26-000047": [
@@ -63129,6 +63132,10 @@
    1794004666,
    "filtered (none)"
   ],
+  "sec:0001062993-26-005837": [
+   1794260006,
+   "filtered (none)"
+  ],
   "sec:0001070750-26-000150": [
    1793046662,
    "filtered (none)"
@@ -63171,14 +63178,6 @@
   ],
   "sec:0001097149-26-000085": [
    1793964632,
-   "filtered (none)"
-  ],
-  "sec:0001104659-26-116910": [
-   1792444076,
-   "filtered (none)"
-  ],
-  "sec:0001104659-26-116927": [
-   1792444076,
    "filtered (none)"
   ],
   "sec:0001104659-26-116948": [
@@ -63833,6 +63832,10 @@
    1794238598,
    "filtered (none)"
   ],
+  "sec:0001104659-26-124502": [
+   1794260006,
+   "filtered (none)"
+  ],
   "sec:0001133228-26-013634": [
    1793112456,
    "filtered (none)"
@@ -63859,14 +63862,6 @@
   ],
   "sec:0001139552-26-000051": [
    1793876529,
-   "filtered (none)"
-  ],
-  "sec:0001140361-26-040100": [
-   1792441836,
-   "filtered (none)"
-  ],
-  "sec:0001140361-26-040112": [
-   1792444076,
    "filtered (none)"
   ],
   "sec:0001140361-26-040122": [
@@ -64101,6 +64096,10 @@
    1794249454,
    "filtered (none)"
   ],
+  "sec:0001140361-26-042781": [
+   1794260006,
+   "filtered (none)"
+  ],
   "sec:0001171843-26-006740": [
    1792613386,
    "filtered (none)"
@@ -64153,14 +64152,6 @@
    1794222515,
    "filtered (none)"
   ],
-  "sec:0001175680-26-000039": [
-   1792444076,
-   "filtered (none)"
-  ],
-  "sec:0001178913-26-004794": [
-   1792441836,
-   "filtered (none)"
-  ],
   "sec:0001185185-26-004909": [
    1792672884,
    "filtered (none)"
@@ -64211,34 +64202,6 @@
   ],
   "sec:0001185185-26-005246": [
    1794004666,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-425238": [
-   1792441836,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-425251": [
-   1792441836,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-425271": [
-   1792441836,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-425275": [
-   1792441836,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-425299": [
-   1792444076,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-425355": [
-   1792444076,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-425357": [
-   1792444076,
    "filtered (none)"
   ],
   "sec:0001193125-26-425370": [
@@ -65281,6 +65244,10 @@
    1794249454,
    "filtered (none)"
   ],
+  "sec:0001193125-26-453698": [
+   1794260006,
+   "filtered (none)"
+  ],
   "sec:0001193805-26-001383": [
    1792503607,
    "filtered (none)"
@@ -65299,26 +65266,6 @@
   ],
   "sec:0001210708-26-000096": [
    1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-110685": [
-   1792441836,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-110693": [
-   1792441836,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-110715": [
-   1792444076,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-110718": [
-   1792444076,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-110727": [
-   1792444076,
    "filtered (none)"
   ],
   "sec:0001213900-26-110733": [
@@ -66153,6 +66100,26 @@
    1794238598,
    "filtered (none)"
   ],
+  "sec:0001213900-26-117528": [
+   1794260006,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-117529": [
+   1794260006,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-117534": [
+   1794260006,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-117537": [
+   1794260006,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-117551": [
+   1794260006,
+   "filtered (none)"
+  ],
   "sec:0001214659-26-013480": [
    1793367351,
    "filtered (none)"
@@ -66251,10 +66218,6 @@
   ],
   "sec:0001410636-26-000164": [
    1794001875,
-   "filtered (none)"
-  ],
-  "sec:0001437749-26-032942": [
-   1792444076,
    "filtered (none)"
   ],
   "sec:0001437749-26-032960": [
@@ -66433,6 +66396,10 @@
    1794234645,
    "filtered (none)"
   ],
+  "sec:0001437749-26-035888": [
+   1794260006,
+   "filtered (none)"
+  ],
   "sec:0001462120-26-000075": [
    1793916725,
    "filtered (none)"
@@ -66471,18 +66438,6 @@
   ],
   "sec:0001482430-26-000044": [
    1793910231,
-   "filtered (none)"
-  ],
-  "sec:0001493152-26-047582": [
-   1792441836,
-   "filtered (none)"
-  ],
-  "sec:0001493152-26-047590": [
-   1792444076,
-   "filtered (none)"
-  ],
-  "sec:0001493152-26-047601": [
-   1792444076,
    "filtered (none)"
   ],
   "sec:0001493152-26-047762": [
@@ -66827,10 +66782,6 @@
   ],
   "sec:0001514416-26-000080": [
    1793272571,
-   "filtered (none)"
-  ],
-  "sec:0001517175-26-000030": [
-   1792444076,
    "filtered (none)"
   ],
   "sec:0001520138-26-000427": [
@@ -67265,10 +67216,6 @@
    1793747058,
    "filtered (none)"
   ],
-  "sec:0001756770-26-000131": [
-   1792441836,
-   "filtered (none)"
-  ],
   "sec:0001782170-26-000084": [
    1793391447,
    "filtered (none)"
@@ -67283,10 +67230,6 @@
   ],
   "sec:0001792789-26-000065": [
    1793275418,
-   "filtered (none)"
-  ],
-  "sec:0001794515-26-000062": [
-   1792441836,
    "filtered (none)"
   ],
   "sec:0001811972-26-000020": [
