@@ -25673,6 +25673,10 @@
    1794058104,
    "bse: not a deal filing"
   ],
+  "bse:78b06af8-9aec-47ff-a7db-d73b07c3e637": [
+   1794253257,
+   "bse: not a deal filing"
+  ],
   "bse:78b2dc60-1b52-4977-beb3-f7a481ffa5fd": [
    1793786981,
    "filtered (none)"
@@ -50905,6 +50909,10 @@
    1793892586,
    "bse: not a deal filing"
   ],
+  "bse:f34d34e5-e87d-4bb7-82d5-40c510399442": [
+   1794253257,
+   "bse: not a deal filing"
+  ],
   "bse:f34f3070-2eda-4cd2-9bf7-09dce4bc0435": [
    1793872824,
    "filtered (medium)"
@@ -54921,10 +54929,6 @@
    1793619051,
    "filtered (none)"
   ],
-  "eqs:43b4d5df-191a-4dca-8ebf-30013e9f2f1c": [
-   1792437404,
-   "filtered (none)"
-  ],
   "eqs:440d3783-ce7a-4bf9-8f19-c73596024edb": [
    1792678636,
    "filtered (none)"
@@ -57771,6 +57775,10 @@
   ],
   "eqs:e3b2f858-0d78-4428-9a50-e905c42b2612": [
    1793112466,
+   "filtered (none)"
+  ],
+  "eqs:e3cef22e-d39e-4ac4-932e-510bdbf98545": [
+   1794253249,
    "filtered (none)"
   ],
   "eqs:e3f8b734-f653-440b-b04a-1c3fd7bcec7b": [
@@ -61456,6 +61464,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/caterpillar-inc-acquires-fabick-cat-dealership-302924153.html": [
    1793630991,
    "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/ceo-jason-rabin-leads-management-buyout-of-centric-brands-takes-majority-stake-302933619.html": [
+   1794253256,
+   "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/cet-energy-solutions-accelerates-growth-with-four-acquisitions-across-three-states-302921629.html": [
    1793188910,
@@ -65289,10 +65301,6 @@
    1793830966,
    "filtered (none)"
   ],
-  "sec:0001213900-26-110624": [
-   1792437401,
-   "filtered (none)"
-  ],
   "sec:0001213900-26-110685": [
    1792441836,
    "filtered (none)"
@@ -66463,10 +66471,6 @@
   ],
   "sec:0001482430-26-000044": [
    1793910231,
-   "filtered (none)"
-  ],
-  "sec:0001493152-26-047561": [
-   1792437401,
    "filtered (none)"
   ],
   "sec:0001493152-26-047582": [
