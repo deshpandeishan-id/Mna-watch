@@ -8213,6 +8213,10 @@
    1793173385,
    "filtered (none)"
   ],
+  "bse:20363f0a-b79b-4c31-856f-af885fe7df55": [
+   1794238610,
+   "bse: not a deal filing"
+  ],
   "bse:204c3030-e5e1-4988-9325-d396fb561a68": [
    1793791554,
    "filtered (none)"
@@ -17729,6 +17733,10 @@
    1793810028,
    "filtered (none)"
   ],
+  "bse:501e2a31-df19-46a7-856f-662f56c57f39": [
+   1794238610,
+   "bse: not a deal filing"
+  ],
   "bse:501e788b-ba70-43a3-9d33-81b0c313ac89": [
    1793453034,
    "filtered (none)"
@@ -20264,6 +20272,10 @@
   "bse:5d5e955f-aec5-45b6-b155-72633177a5c4": [
    1793367362,
    "filtered (none)"
+  ],
+  "bse:5d6248d3-e70a-4d6e-94d2-d19f20cb891d": [
+   1794238610,
+   "bse: not a deal filing"
   ],
   "bse:5d633bf7-fbe8-42c3-af72-2e88672e6916": [
    1793089360,
@@ -22863,6 +22875,10 @@
   ],
   "bse:6a5ea483-cee9-42e0-9128-e8946b2f9af8": [
    1794032656,
+   "bse: not a deal filing"
+  ],
+  "bse:6a5edd4e-2d50-4f88-bea4-0a79618ea669": [
+   1794238610,
    "bse: not a deal filing"
   ],
   "bse:6a756332-5561-4b8b-b31b-f781b8670a56": [
@@ -28776,6 +28792,10 @@
   "bse:8833c13c-0903-40fe-b01d-698d766cd791": [
    1793013929,
    "filtered (none)"
+  ],
+  "bse:883402ff-1aa6-4fe7-a135-28dced980881": [
+   1794238610,
+   "bse: not a deal filing"
   ],
   "bse:883b20dd-26af-4225-8a90-f7e21024f96f": [
    1793961283,
@@ -36652,6 +36672,10 @@
   "bse:af53a732-a180-4726-acbd-dcbbe0532004": [
    1793089360,
    "filtered (none)"
+  ],
+  "bse:af561390-2300-4b17-ad1d-4c2f80ccf76f": [
+   1794238610,
+   "bse: not a deal filing"
   ],
   "bse:af5bf123-745e-4df6-afc7-d968a4f18c68": [
    1793363266,
@@ -48101,6 +48125,10 @@
    1793726871,
    "filtered (none)"
   ],
+  "bse:e627bff7-6259-4098-acc6-f53b0bbcbe0c": [
+   1794238610,
+   "bse: not a deal filing"
+  ],
   "bse:e62b0647-438f-4377-9a90-3af7bf7ca396": [
    1793358160,
    "filtered (none)"
@@ -54613,6 +54641,10 @@
    1794210974,
    "filtered (none)"
   ],
+  "eqs:38bb1aa8-9f46-458a-8bb6-3f0486f2b8d8": [
+   1794238601,
+   "filtered (none)"
+  ],
   "eqs:3935b5aa-c5fe-4e4f-a4fa-2c0b5deb9913": [
    1793779385,
    "filtered (none)"
@@ -55637,6 +55669,10 @@
    1793860215,
    "filtered (none)"
   ],
+  "eqs:75442569-a30f-40a0-92bd-e84b3acc5591": [
+   1794238601,
+   "filtered (none)"
+  ],
   "eqs:7555b68f-c13e-4d00-b3fc-606ff20e3c71": [
    1793136877,
    "filtered (none)"
@@ -55805,6 +55841,10 @@
    1793205432,
    "filtered (none)"
   ],
+  "eqs:7d4961a7-a04b-40e5-88e0-bf631a6352b9": [
+   1794238601,
+   "filtered (none)"
+  ],
   "eqs:7d534a55-53ec-4e85-b5fd-22b3582e0e6b": [
    1793278927,
    "filtered (none)"
@@ -55951,6 +55991,10 @@
   ],
   "eqs:8432d8c8-d4c7-4756-9e36-5a237087d8e5": [
    1793325727,
+   "filtered (none)"
+  ],
+  "eqs:85216143-c946-4723-9d47-5899e71f94ee": [
+   1794238601,
    "filtered (none)"
   ],
   "eqs:8554637a-3537-4919-96bc-6d17e245157c": [
@@ -57063,6 +57107,10 @@
   ],
   "eqs:c5a91818-2ca7-4d35-8a86-868f1f02b934": [
    1792463989,
+   "filtered (none)"
+  ],
+  "eqs:c5b533ff-dfa8-4e76-9fcd-5ba0108a0580": [
+   1794238601,
    "filtered (none)"
   ],
   "eqs:c63c2004-2e1a-446f-940a-2865f0a84bb9": [
@@ -61309,10 +61357,6 @@
    1793630991,
    "classified:none"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/central-national-gottesman-inc-cng-acquires-nebraska-based-omaha-paper-company-302912689.html": [
-   1792422763,
-   "classified:none"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/cet-energy-solutions-accelerates-growth-with-four-acquisitions-across-three-states-302921629.html": [
    1793188910,
    "filtered (none)"
@@ -62061,10 +62105,6 @@
    1793305388,
    "filtered (none)"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/nextech-solutions-nts-acquires-halcyon-days-consulting-adding-combat-tested-tactical-mission-networks-to-its-defense-technology-portfolio-302912738.html": [
-   1792422764,
-   "classified:none"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/nexus-capital-management-completes-acquisition-of-coldwater-creek-and-soft-surroundings-302925846.html": [
    1793637994,
    "classified:none"
@@ -62228,6 +62268,14 @@
   "prnewswire:https://www.prnewswire.com/news-releases/psp-investments-completes-sale-of-firstlights-us-portfolio-and-appoints-patrick-gut-ceo-of-caelo-energy-302926612.html": [
    1793637995,
    "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/psp-investments-to-acquire-50-of-enercare-one-of-canada-s-leading-home-infrastructure-platforms-for-approximately-1-6-billion-828094799.html": [
+   1794238608,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/psp-investments-to-acquire-50-of-enercare-one-of-canadas-leading-home-infrastructure-platforms-for-approximately-1-6-billion-302933417.html": [
+   1794238609,
+   "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/pye-barker-fire--safety-acquires-st-johns-fire-equipment-inc-strengthening-fire-suppression-services-in-florida-302929464.html": [
    1793888997,
@@ -63671,6 +63719,10 @@
   ],
   "sec:0001104659-26-124243": [
    1794234645,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-124271": [
+   1794238598,
    "filtered (none)"
   ],
   "sec:0001133228-26-013634": [
@@ -65987,6 +66039,14 @@
   ],
   "sec:0001213900-26-117277": [
    1794234645,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-117278": [
+   1794238598,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-117280": [
+   1794238598,
    "filtered (none)"
   ],
   "sec:0001214659-26-013480": [
