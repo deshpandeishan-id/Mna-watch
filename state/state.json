@@ -6845,6 +6845,10 @@
    1793961283,
    "bse: not a deal filing"
   ],
+  "bse:1a61a2c0-5d17-4320-9761-aa3c5d364c4b": [
+   1794201140,
+   "bse: not a deal filing"
+  ],
   "bse:1a6212d8-6ca8-48a1-aff0-1872727179ab": [
    1793876560,
    "filtered (none)"
@@ -12940,6 +12944,10 @@
   "bse:3a515d92-0e29-4063-8a4f-f0d98a58399d": [
    1793884618,
    "filtered (none)"
+  ],
+  "bse:3a5c619d-97b3-4f46-a3be-da827c8f2ded": [
+   1794201140,
+   "bse: not a deal filing"
   ],
   "bse:3a60a32a-b466-421a-8732-66ceacc41417": [
    1793269338,
@@ -20621,6 +20629,10 @@
    1793713791,
    "filtered (none)"
   ],
+  "bse:61cd33ea-ec4f-4800-a02f-54bebbe4e0e1": [
+   1794201140,
+   "bse: not a deal filing"
+  ],
   "bse:61d0d212-7f73-46f1-8454-a379366eee08": [
    1793028940,
    "filtered (none)"
@@ -21100,6 +21112,10 @@
   "bse:648bd31b-083f-423d-9191-0d129f525be1": [
    1793097942,
    "filtered (none)"
+  ],
+  "bse:64936a52-eff1-44b5-8d2c-7b6f402261a2": [
+   1794201140,
+   "bse: not a deal filing"
   ],
   "bse:6496035d-1c53-40e9-93e3-2cfcce4e28aa": [
    1793679318,
@@ -30529,6 +30545,10 @@
    1793460768,
    "filtered (none)"
   ],
+  "bse:95724a64-5330-42d4-9dd2-8db23b175474": [
+   1794201140,
+   "bse: not a deal filing"
+  ],
   "bse:957621f2-216d-4cf7-b38e-130d09681b09": [
    1793022917,
    "filtered (none)"
@@ -33264,6 +33284,10 @@
   "bse:a2f4b841-2333-4b76-8afe-01c89a74bd2e": [
    1793615457,
    "filtered (none)"
+  ],
+  "bse:a2f51eff-f323-4b20-94be-ad857fcf70ff": [
+   1794201140,
+   "bse: not a deal filing"
   ],
   "bse:a2f8322c-2120-4b5a-9205-a3bd7b7966c0": [
    1793786982,
@@ -36949,6 +36973,10 @@
    1794046549,
    "bse: not a deal filing"
   ],
+  "bse:b5f57bf0-4bd5-491d-9828-238ebdfdb1b0": [
+   1794201140,
+   "bse: not a deal filing"
+  ],
   "bse:b5f89ed9-316d-4482-bdb3-014f806bac24": [
    1793453034,
    "filtered (none)"
@@ -37981,6 +38009,10 @@
    1793698566,
    "filtered (none)"
   ],
+  "bse:baeb0c8d-b3f5-4ea2-9a9b-01ec10261ee2": [
+   1794201140,
+   "bse: not a deal filing"
+  ],
   "bse:baed0fd3-e3c3-4707-ae29-600f93581d53": [
    1793182866,
    "filtered (none)"
@@ -38184,6 +38216,10 @@
   "bse:bbeeb6d5-601d-44b1-843f-c74ca46ca550": [
    1793351557,
    "filtered (none)"
+  ],
+  "bse:bbf377ed-96f9-48ea-bc63-58f3921e5377": [
+   1794201140,
+   "bse: not a deal filing"
   ],
   "bse:bc00b2d2-ccc4-4373-9e22-f617e02ffdc4": [
    1793976807,
@@ -41652,6 +41688,10 @@
   "bse:cc83513c-efaa-4885-a43e-82e4cacd36fb": [
    1793179648,
    "filtered (none)"
+  ],
+  "bse:cc837832-a6bd-41aa-8af6-9eef3de9af1a": [
+   1794201140,
+   "bse: not a deal filing"
   ],
   "bse:cc84793b-7f22-46e2-bbe9-000278248f29": [
    1793799270,
@@ -56245,6 +56285,10 @@
    1793900400,
    "filtered (none)"
   ],
+  "eqs:ec908d27-32cd-4d65-af88-b21c28786793": [
+   1794201132,
+   "filtered (none)"
+  ],
   "eqs:ece2faa1-15e6-4268-befe-d02ab5b82305": [
    1793259458,
    "filtered (none)"
@@ -60791,6 +60835,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/stord-acquires-ams-fulfillment-enhancing-its-market-leading-scale-and-network-coverage-302915069.html": [
    1792589137,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/strathcona-resources-ltd-announces-agreement-to-acquire-greenfire-resources-ltd-302932925.html": [
+   1794201139,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/sunraycer-acquires-325-mwac-solar-portfolio-in-illinois-and-missouri-from-apricus-energy-302926915.html": [
