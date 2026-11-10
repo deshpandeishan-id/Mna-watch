@@ -770,6 +770,13 @@
    "ts": 1793078391,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/454699d9-59e9-49e7-acdb-6c22f3dd0c6c.pdf"
   },
+  "jindal photo|firm": {
+   "acquirer": "",
+   "source": "bse",
+   "title": "Jindal Photo Ltd: Jindal Photo Ltd - 532624 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+   "ts": 1794322475,
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/06194e7c-ddad-4bef-9607-9777a6e9329c.pdf"
+  },
   "jindal stainless|possible_offer": {
    "acquirer": "",
    "source": "bse",
@@ -1784,6 +1791,10 @@
   "bse:0059d6db-9748-4dcd-adca-92dfc128f939": [
    1793602211,
    "filtered (none)"
+  ],
+  "bse:0063aeac-23b1-4704-9b5d-2a94f7cdb976": [
+   1794322466,
+   "bse: not a deal filing"
   ],
   "bse:0065fd5a-fa28-4699-ab19-3b9e4150e9b9": [
    1793856296,
@@ -4909,6 +4920,10 @@
    1793431464,
    "classified:possible_offer"
   ],
+  "bse:0ea0c8d9-7341-45c5-9ef1-a920cc13a6fd": [
+   1794322466,
+   "bse: not a deal filing"
+  ],
   "bse:0ea61d10-84af-4837-af55-932bd243bf61": [
    1793880243,
    "filtered (none)"
@@ -5835,6 +5850,10 @@
   ],
   "bse:1372a5e0-36e7-4736-8adb-9fb9dd692a24": [
    1794036972,
+   "bse: not a deal filing"
+  ],
+  "bse:13747f40-75b7-48e5-967a-e1f758812582": [
+   1794322466,
    "bse: not a deal filing"
   ],
   "bse:137926ba-83ae-4335-bcae-9ae4f032dc71": [
@@ -8024,6 +8043,10 @@
   "bse:1e5b14de-f65c-45d9-bbe0-79e9d8f7cc6b": [
    1793337593,
    "filtered (none)"
+  ],
+  "bse:1e603ac3-d5e0-41e5-b1b8-330c28b19a5a": [
+   1794322466,
+   "bse: not a deal filing"
   ],
   "bse:1e62ce1b-6e26-4751-bdd3-35d1930a58fa": [
    1793876560,
@@ -12269,6 +12292,10 @@
    1793973085,
    "bse: not a deal filing"
   ],
+  "bse:33a72187-8b19-4ec2-b428-30ade5455fb3": [
+   1794322466,
+   "bse: not a deal filing"
+  ],
   "bse:33b05360-7611-45d7-b18b-d34ee32edb95": [
    1793615458,
    "filtered (none)"
@@ -12811,6 +12838,10 @@
   ],
   "bse:35ee9d76-8982-48db-8109-e65f5d3ff5bb": [
    1793964642,
+   "bse: not a deal filing"
+  ],
+  "bse:35f86281-9b13-419f-8cdf-f326ca94f37e": [
+   1794322466,
    "bse: not a deal filing"
   ],
   "bse:35fa6299-189f-4efd-9bda-5b2136f34169": [
@@ -14664,6 +14695,10 @@
   "bse:3ede46d4-0409-4954-bc7d-384c2784453e": [
    1792990950,
    "filtered (none)"
+  ],
+  "bse:3edf760a-2ea0-4a00-8cc2-48fbf2b50f84": [
+   1794322466,
+   "bse: not a deal filing"
   ],
   "bse:3ef1c21c-4e83-4844-adca-43d99300fc4b": [
    1793611741,
@@ -22377,6 +22412,10 @@
    1793986230,
    "bse: not a deal filing"
   ],
+  "bse:63ebc9b9-bfa7-4300-8d1e-f9aaa5508229": [
+   1794322466,
+   "bse: not a deal filing"
+  ],
   "bse:63ece022-db75-4829-aa67-686b84114ad7": [
    1793118440,
    "filtered (none)"
@@ -24649,6 +24688,10 @@
    1794297325,
    "bse: not a deal filing"
   ],
+  "bse:6f6ec8d2-fecc-4d43-ab31-33de478a137b": [
+   1794322466,
+   "bse: not a deal filing"
+  ],
   "bse:6f72da00-87fa-475b-b532-1ac440703899": [
    1793179648,
    "filtered (none)"
@@ -24964,6 +25007,10 @@
   "bse:70d9b221-3a4e-4c8c-aa5d-3d3c98308da9": [
    1793278940,
    "filtered (none)"
+  ],
+  "bse:70dac851-f702-4593-9150-1b475df098f5": [
+   1794322466,
+   "bse: not a deal filing"
   ],
   "bse:70dd5da2-9013-43f9-8930-99b981f38aff": [
    1793186082,
@@ -26849,6 +26896,10 @@
    1793008733,
    "filtered (none)"
   ],
+  "bse:7a338b58-a402-411d-aee2-ca72d7f99b5a": [
+   1794322466,
+   "bse: not a deal filing"
+  ],
   "bse:7a338e50-9cfe-4899-a5d6-9f6929efc816": [
    1793095319,
    "filtered (none)"
@@ -26999,6 +27050,10 @@
   ],
   "bse:7aea2ac1-7c4e-4ed8-bd9c-befc88582683": [
    1794292740,
+   "bse: not a deal filing"
+  ],
+  "bse:7b035a27-6c15-4973-b480-1994a41cfea4": [
+   1794322466,
    "bse: not a deal filing"
   ],
   "bse:7b0802ee-4483-4a41-9aa2-f72449af6b02": [
@@ -31297,6 +31352,10 @@
    1793331873,
    "filtered (none)"
   ],
+  "bse:8f367c63-d401-4747-99eb-0fa3c9222638": [
+   1794322466,
+   "bse: not a deal filing"
+  ],
   "bse:8f38b38b-0ded-4a21-89b0-6284b5933bf0": [
    1792995589,
    "filtered (none)"
@@ -31672,6 +31731,10 @@
   "bse:914cb0d4-c793-486c-9e4a-e7e03b354852": [
    1793278940,
    "filtered (none)"
+  ],
+  "bse:914ee534-8e74-4523-98ab-2e23a3a86268": [
+   1794322466,
+   "bse: not a deal filing"
   ],
   "bse:915a4436-929d-4b8d-9d75-ad19eb911336": [
    1793453034,
@@ -37997,6 +38060,10 @@
    1793121574,
    "filtered (none)"
   ],
+  "bse:af11cab8-6ead-47fe-a23f-3b735a6b70f1": [
+   1794322466,
+   "bse: not a deal filing"
+  ],
   "bse:af1eb69f-ec9d-4c51-8b03-126087f14aeb": [
    1793011262,
    "filtered (none)"
@@ -38889,6 +38956,10 @@
    1793453034,
    "filtered (none)"
   ],
+  "bse:b2f09442-6f31-4959-8966-724c3db161be": [
+   1794322466,
+   "bse: not a deal filing"
+  ],
   "bse:b2f43090-d779-4608-b31a-b795e9a1a85e": [
    1793080751,
    "filtered (none)"
@@ -39263,6 +39334,10 @@
   ],
   "bse:b4f2cb82-e4de-4b5f-967f-8a370a5b2156": [
    1793892586,
+   "bse: not a deal filing"
+  ],
+  "bse:b4fb2318-f3c3-42fe-9e64-853b583e22df": [
+   1794322466,
    "bse: not a deal filing"
   ],
   "bse:b4fe23d2-6da0-4c58-959c-b183b17f2d87": [
@@ -39951,6 +40026,10 @@
   ],
   "bse:b816f036-18f9-4d1c-9ed9-ead48a767624": [
    1794300918,
+   "bse: not a deal filing"
+  ],
+  "bse:b81b0898-8eed-4721-9d2b-ae18365fae73": [
+   1794322466,
    "bse: not a deal filing"
   ],
   "bse:b81ba946-f860-4c8a-a6ae-a67a2c54dd66": [
@@ -43001,6 +43080,10 @@
    1793358156,
    "filtered (none)"
   ],
+  "bse:c5fb35fa-cc8e-4848-8fc8-a88311ef862e": [
+   1794322466,
+   "bse: not a deal filing"
+  ],
   "bse:c5fca4eb-6dd9-464f-bbb7-fa909a1a7512": [
    1793192425,
    "filtered (none)"
@@ -43432,6 +43515,10 @@
   "bse:c809fb74-0216-4342-82ed-1527d13f6b79": [
    1793868966,
    "filtered (none)"
+  ],
+  "bse:c8177546-006a-417d-883a-1f4cb6948ca3": [
+   1794322466,
+   "bse: not a deal filing"
   ],
   "bse:c819ac01-0e0f-486a-a845-2cce1f4dee12": [
    1793683041,
@@ -44660,6 +44747,10 @@
   "bse:cd3e7664-30ae-4eca-b2b6-743dcc4b8dc5": [
    1793856296,
    "filtered (none)"
+  ],
+  "bse:cd3fb8b2-239a-41e8-b2c0-b276233e72f4": [
+   1794322475,
+   "bse: not a deal filing"
   ],
   "bse:cd40c6ba-f9d1-49f5-b349-83e5b3fc527f": [
    1794218905,
@@ -48413,6 +48504,10 @@
    1793282915,
    "filtered (none)"
   ],
+  "bse:df31fc11-5c88-4764-9f0e-f600d01884e7": [
+   1794322466,
+   "bse: not a deal filing"
+  ],
   "bse:df36c010-1ef7-4e3a-865f-b16d273c97df": [
    1793976807,
    "bse: not a deal filing"
@@ -49673,6 +49768,10 @@
    1793176425,
    "filtered (none)"
   ],
+  "bse:e52fb052-cf2b-4553-918b-3cdbda4b988c": [
+   1794322475,
+   "classified:definitive_agreement"
+  ],
   "bse:e534098e-e38a-46db-b81c-c383a03f4b97": [
    1793865158,
    "filtered (none)"
@@ -49708,6 +49807,10 @@
   "bse:e567d568-5c4b-439b-9f91-357654a76bf0": [
    1793351557,
    "filtered (none)"
+  ],
+  "bse:e56a869b-da97-4a91-b6d4-8dd7843471e1": [
+   1794322466,
+   "bse: not a deal filing"
   ],
   "bse:e56e3e78-458b-4d6e-a93c-a58fd2a6351e": [
    1794052005,
@@ -51417,6 +51520,10 @@
    1793179648,
    "filtered (none)"
   ],
+  "bse:ed786ccf-a93e-4014-b7df-0c661108d6b4": [
+   1794322466,
+   "bse: not a deal filing"
+  ],
   "bse:ed7b8de3-bdff-40c2-8be6-8d7025fd1137": [
    1793953416,
    "bse: not a deal filing"
@@ -51853,6 +51960,10 @@
    1793444747,
    "filtered (none)"
   ],
+  "bse:efb862d1-9b97-45b5-893a-cd45ea889809": [
+   1794322475,
+   "bse: not a deal filing"
+  ],
   "bse:efc295e1-1703-4a1a-b75b-ce10f454c7c7": [
    1793202536,
    "filtered (none)"
@@ -52104,6 +52215,10 @@
   "bse:f0c6ade7-b64c-4137-a098-5ee306359d72": [
    1793691498,
    "filtered (none)"
+  ],
+  "bse:f0ca30cd-4251-408e-8f18-bef057baf359": [
+   1794322466,
+   "bse: not a deal filing"
   ],
   "bse:f0d6c5ec-3fb8-4f6d-8fde-a948b94ad572": [
    1793169984,
@@ -55717,10 +55832,6 @@
    1793716948,
    "classified:possible_offer"
   ],
-  "eqs:139b7cc9-42fd-4675-b5fc-645088283945": [
-   1792505903,
-   "filtered (none)"
-  ],
   "eqs:13a347e4-3667-469b-b680-f2a6c78b84f0": [
    1793865148,
    "filtered (none)"
@@ -55919,6 +56030,10 @@
   ],
   "eqs:1d8c7e96-cef3-434a-ac69-72a9b2f00856": [
    1793176415,
+   "filtered (none)"
+  ],
+  "eqs:1dce7c8b-96e1-4d83-8f51-a55f4f380f98": [
+   1794322454,
    "filtered (none)"
   ],
   "eqs:1e135141-7874-43f8-bfab-2a3ae20fe930": [
@@ -57133,6 +57248,10 @@
    1793269329,
    "filtered (none)"
   ],
+  "eqs:58e0dec2-81d5-4d05-93e1-55691744e93f": [
+   1794322454,
+   "filtered (none)"
+  ],
   "eqs:596002a6-0e44-4bbc-a079-56d9bebe9ae1": [
    1793865148,
    "filtered (none)"
@@ -57391,6 +57510,10 @@
   ],
   "eqs:696b5662-be26-471d-8655-3eb22d448429": [
    1792512983,
+   "filtered (none)"
+  ],
+  "eqs:6980e69e-b59e-4378-add2-885b7a3e121d": [
+   1794322454,
    "filtered (none)"
   ],
   "eqs:6987f6a7-c9f9-4149-9dbc-f4e921151643": [
@@ -57887,10 +58010,6 @@
   ],
   "eqs:82b503aa-1345-4422-a436-c24aa3006000": [
    1793868955,
-   "filtered (none)"
-  ],
-  "eqs:8394a667-0d71-45ee-865b-7a11b7984df1": [
-   1792505903,
    "filtered (none)"
   ],
   "eqs:83afe414-de16-4ac0-866f-77738cf14655": [
@@ -58507,6 +58626,10 @@
   ],
   "eqs:a633b408-579b-4c7b-b606-281b1262ade7": [
    1793615448,
+   "filtered (none)"
+  ],
+  "eqs:a656f386-2775-42af-8b2d-ec722d7a99b9": [
+   1794322454,
    "filtered (none)"
   ],
   "eqs:a673461a-36df-4b91-a5e9-e324dbf9a1ec": [
@@ -59193,6 +59316,10 @@
    1793220617,
    "filtered (none)"
   ],
+  "eqs:d0d6593c-eb36-4b1d-b112-297b72340c97": [
+   1794322454,
+   "filtered (none)"
+  ],
   "eqs:d1403678-e913-4e32-8475-8541c9351163": [
    1793152784,
    "filtered (none)"
@@ -59541,10 +59668,6 @@
    1793691488,
    "filtered (none)"
   ],
-  "eqs:dfffdcc8-d1de-4153-a13c-e3b3dbeb97e9": [
-   1792505903,
-   "filtered (none)"
-  ],
   "eqs:e0199d0a-cb0c-4f72-b3ee-c2abb92b32c6": [
    1794292732,
    "filtered (none)"
@@ -59632,6 +59755,10 @@
   "eqs:e4508251-eb3e-42bf-a955-39e339a6eb61": [
    1793719799,
    "filtered (medium)"
+  ],
+  "eqs:e4a7cc05-ce48-43a5-ac12-980979445d76": [
+   1794322454,
+   "filtered (none)"
   ],
   "eqs:e4bae9a8-56b0-41be-981b-aece3ccfebf4": [
    1793347839,
@@ -63229,6 +63356,10 @@
    1792508400,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/beacon-pointe-advisors-deepens-new-york-presence-with-edge-wealth-management-acquisition-302934246.html": [
+   1794322462,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/bertram-capital-expands-industrial-distribution-portfolio-through-partnership-with-motion--control-enterprises-302919683.html": [
    1793038245,
    "filtered (none)"
@@ -63275,6 +63406,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/brg-communications-acquires-we-are-headstart-launches-brg-headstart-to-serve-healthcare-startups-emerging-brands-and-investors-302930740.html": [
    1793884616,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/broadwing-capital-launches-specialty-distribution-platform-with-acquisition-of-supply-side-302934177.html": [
+   1794322462,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/burco-acquires-delta-kits-names-bamidele-ali-chief-executive-officer-302931164.html": [
@@ -63353,12 +63488,20 @@
    1793806575,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/cogent-agrees-to-acquire-specular-to-strengthen-autonomous-cyber-defense-against-frontier-ai-threats-302934903.html": [
+   1794322464,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/cognizant-completes-acquisition-of-wizeline-302932412.html": [
    1794004682,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/cognizant-to-acquire-dyflex-solutions-accelerating-ai-led-enterprise-transformation-for-sap-clients-in-australia-and-new-zealand-302916092.html": [
    1792626076,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/cohen--steers-and-dlc-acquire-west-street-shopping-center-in-keene-new-hampshire-302934490.html": [
+   1794322463,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/columbia-distributing-completes-alaska-transaction-with-rndc-establishing-a-four-state-pacific-northwest-total-beverage-platform-302919977.html": [
@@ -63525,6 +63668,10 @@
    1793377460,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/encotech-joins-trinity-consultants-302933622.html": [
+   1794322463,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/energy-services-of-america-completes-famco-acquisition-302918424.html": [
    1792789495,
    "filtered (none)"
@@ -63544,6 +63691,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/enstructure-announces-four-regional-presidents-to-lead-expanded-north-american-terminal-network-867689282.html": [
    1793112473,
    "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/ensurise-llc-announces-merger-with-cis-group-302934579.html": [
+   1794322461,
+   "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/eqt-announces-strategic-acquisition-of-range-resources-creating-americas-undisputed-natural-gas-champion-302919052.html": [
    1793011261,
@@ -63797,6 +63948,10 @@
    1792508399,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/imvionix-acquires-us-and-canadian-rights-to-beovu-brolucizumab-dbll-marking-the-companys-official-launch-302934563.html": [
+   1794322461,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/incline-announces-sale-of-edko-302927011.html": [
    1793716955,
    "filtered (none)"
@@ -63824,6 +63979,14 @@
   "prnewswire:https://www.prnewswire.com/news-releases/integris-health-to-become-part-of-risant-health-302915273.html": [
    1792601786,
    "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/interluxe-group-acquires-another-a-story-to-create-a-global-luxury-focused-marketing-powerhouse-302934395.html": [
+   1794322463,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/interstate-waste-services-acquires-hometown-waste--recycling-broadening-roll-off-capabilities-throughout-new-jersey-302934948.html": [
+   1794322462,
+   "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/iqst---iqstel-reports-preliminary-q3-2026-revenue-of-106-0-million-nine-month-revenue-up-35-organically-to-314-0-million-302930379.html": [
    1793884616,
@@ -63923,6 +64086,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/lepage-millwork-to-acquire-fenetres-mq-from-andersen-302925105.html": [
    1793377460,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/levine-leichtman-capital-partners-and-management-acquire-five-star-franchising-302934007.html": [
+   1794322464,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/levine-leichtman-capital-partners-invests-in-concentric-energy-advisors-in-partnership-with-management-302929653.html": [
@@ -64412,6 +64579,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/southern-paving--milling-announces-acquisition-of-carolina-site-302913842.html": [
    1792508400,
    "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/southfield-capital-announces-the-sale-of-tfs-302934412.html": [
+   1794322460,
+   "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/sp-global-completes-acquisition-of-openzeppelin-302919305.html": [
    1793028935,
@@ -68091,6 +68262,10 @@
   ],
   "sec:0001213900-26-117790": [
    1794318925,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-117805": [
+   1794322450,
    "filtered (none)"
   ],
   "sec:0001214659-26-013480": [
