@@ -59377,10 +59377,6 @@
    1793061459,
    "filtered (none)"
   ],
-  "eqs:bb803c03-73bf-497f-9ec1-c6c2a5ec2c77": [
-   1792533243,
-   "filtered (none)"
-  ],
   "eqs:bbe80ca8-ae2c-4dc7-ad4d-cb32286ec05e": [
    1792692490,
    "filtered (none)"
@@ -63901,6 +63897,14 @@
    1793716959,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/clarivate-announces-pricing-terms-of-offers-to-purchase-for-cash-certain-of-its-outstanding-debt-securities-302935558.html": [
+   1794348029,
+   "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/clarivate-announces-pricing-terms-of-offers-to-purchase-for-cash-certain-of-its-outstanding-debt-securities-302935578.html": [
+   1794348029,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/clio-acquires-horizon-scanning-platform-page-302918936.html": [
    1793028932,
    "classified:none"
@@ -65113,10 +65117,6 @@
    1793211437,
    "classified:none"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/trive-capital-announces-sale-of-earthlink-302914673.html": [
-   1792533249,
-   "filtered (none)"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/truelink-capital-expands-ges-platform-with-acquisition-of-csg-creative-a-leading-association-marketing-and-creative-agency-302929208.html": [
    1793896758,
    "classified:none"
@@ -65469,10 +65469,6 @@
    1793391447,
    "filtered (none)"
   ],
-  "sec:0000950103-26-015917": [
-   1792531000,
-   "filtered (none)"
-  ],
   "sec:0000950103-26-015958": [
    1792609039,
    "filtered (none)"
@@ -65631,10 +65627,6 @@
   ],
   "sec:0001097149-26-000085": [
    1793964632,
-   "filtered (none)"
-  ],
-  "sec:0001104659-26-117472": [
-   1792533233,
    "filtered (none)"
   ],
   "sec:0001104659-26-117508": [
@@ -66309,6 +66301,26 @@
    1794345115,
    "filtered (none)"
   ],
+  "sec:0001104659-26-125214": [
+   1794348020,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-125218": [
+   1794348020,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-125224": [
+   1794348020,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-125255": [
+   1794348020,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-125258": [
+   1794348020,
+   "filtered (none)"
+  ],
   "sec:0001133228-26-013634": [
    1793112456,
    "filtered (none)"
@@ -66679,22 +66691,6 @@
   ],
   "sec:0001185185-26-005246": [
    1794004666,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-426833": [
-   1792531000,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-426849": [
-   1792533233,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-426862": [
-   1792533233,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-426867": [
-   1792533233,
    "filtered (none)"
   ],
   "sec:0001193125-26-426997": [
@@ -67761,8 +67757,24 @@
    1794345115,
    "filtered (none)"
   ],
-  "sec:0001199835-26-000379": [
-   1792531000,
+  "sec:0001193125-26-455563": [
+   1794348020,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-455639": [
+   1794348020,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-455640": [
+   1794348020,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-455671": [
+   1794348020,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-455677": [
+   1794348020,
    "filtered (none)"
   ],
   "sec:0001206774-26-000587": [
@@ -67775,10 +67787,6 @@
   ],
   "sec:0001210708-26-000096": [
    1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-111072": [
-   1792531000,
    "filtered (none)"
   ],
   "sec:0001213900-26-111095": [
@@ -68653,6 +68661,10 @@
    1794345115,
    "filtered (none)"
   ],
+  "sec:0001213900-26-118047": [
+   1794348020,
+   "filtered (none)"
+  ],
   "sec:0001214659-26-013480": [
    1793367351,
    "filtered (none)"
@@ -68663,6 +68675,10 @@
   ],
   "sec:0001214659-26-013841": [
    1794222515,
+   "filtered (none)"
+  ],
+  "sec:0001214659-26-013930": [
+   1794348020,
    "filtered (none)"
   ],
   "sec:0001262976-26-000034": [
@@ -68941,6 +68957,10 @@
    1794345115,
    "classified:possible_offer"
   ],
+  "sec:0001437749-26-036171": [
+   1794348020,
+   "filtered (none)"
+  ],
   "sec:0001462120-26-000075": [
    1793916725,
    "filtered (none)"
@@ -68979,14 +68999,6 @@
   ],
   "sec:0001482430-26-000044": [
    1793910231,
-   "filtered (none)"
-  ],
-  "sec:0001493152-26-047783": [
-   1792531000,
-   "filtered (none)"
-  ],
-  "sec:0001493152-26-047801": [
-   1792533233,
    "filtered (none)"
   ],
   "sec:0001493152-26-047803": [
@@ -69341,6 +69353,18 @@
    1794345115,
    "filtered (none)"
   ],
+  "sec:0001493152-26-050992": [
+   1794348020,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-050996": [
+   1794348020,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-051001": [
+   1794348020,
+   "filtered (none)"
+  ],
   "sec:0001505155-26-000083": [
    1794266113,
    "filtered (none)"
@@ -69351,10 +69375,6 @@
   ],
   "sec:0001514416-26-000080": [
    1793272571,
-   "filtered (none)"
-  ],
-  "sec:0001520138-26-000427": [
-   1792531000,
    "filtered (none)"
   ],
   "sec:0001520138-26-000434": [
@@ -69401,10 +69421,6 @@
    1793743828,
    "filtered (none)"
   ],
-  "sec:0001580642-26-006997": [
-   1792531000,
-   "filtered (none)"
-  ],
   "sec:0001580642-26-007158": [
    1793132232,
    "filtered (none)"
@@ -69431,14 +69447,6 @@
   ],
   "sec:0001617640-26-000063": [
    1793220614,
-   "filtered (none)"
-  ],
-  "sec:0001628280-26-066526": [
-   1792531000,
-   "filtered (none)"
-  ],
-  "sec:0001628280-26-066549": [
-   1792533233,
    "filtered (none)"
   ],
   "sec:0001628280-26-066700": [
@@ -69635,6 +69643,14 @@
   ],
   "sec:0001628280-26-072648": [
    1794341961,
+   "filtered (none)"
+  ],
+  "sec:0001628280-26-072757": [
+   1794348020,
+   "filtered (none)"
+  ],
+  "sec:0001628280-26-072793": [
+   1794348020,
    "filtered (none)"
   ],
   "sec:0001640334-26-001712": [
@@ -69931,6 +69947,10 @@
   ],
   "sec:0001999371-26-023881": [
    1793305378,
+   "filtered (none)"
+  ],
+  "sec:0001999371-26-025086": [
+   1794348020,
    "filtered (none)"
   ],
   "sec:0002030772-26-000032": [
