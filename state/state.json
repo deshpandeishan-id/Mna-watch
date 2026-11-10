@@ -588,6 +588,20 @@
    "ts": 1793431464,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0E9E9290_8A86_485C_974E_32ED9F46EBFF_125205.pdf"
   },
+  "fnac darty ep becomes controlling shareholder of fnac darty with 69 3 of its share capital|possible_offer": {
+   "acquirer": "",
+   "source": "euronext",
+   "title": "Fnac Darty: EP Group becomes the controlling shareholder of Fnac Darty with 69.3% of its share capital",
+   "ts": 1794331750,
+   "url": "https://live.euronext.com/en/products/equities/company-news/2026-11-10-fnac-darty-ep-group-becomes-controlling-shareholder-fnac"
+  },
+  "fnac darty ep devient lactionnaire de controle de fnac darty avec 69 3 du capital|possible_offer": {
+   "acquirer": "",
+   "source": "euronext",
+   "title": "Fnac Darty : EP Group devient l’actionnaire de contrôle de Fnac Darty avec 69,3% du capital",
+   "ts": 1794331750,
+   "url": "https://live.euronext.com/fr/products/equities/company-news/2026-11-10-fnac-darty-ep-group-devient-lactionnaire-controle-fnac"
+  },
   "gallantt ispat|possible_offer": {
    "acquirer": "",
    "source": "bse",
@@ -3648,6 +3662,10 @@
    1793360905,
    "filtered (none)"
   ],
+  "bse:0892703a-8205-48fd-b179-7121d2a059bf": [
+   1794331760,
+   "bse: not a deal filing"
+  ],
   "bse:0896a276-4d65-4e10-af5e-15088b33b86e": [
    1794215234,
    "bse: not a deal filing"
@@ -6283,6 +6301,10 @@
   "bse:15ab89a8-6539-49a3-8de7-b3a5ba6f7886": [
    1793005775,
    "filtered (none)"
+  ],
+  "bse:15ac6f68-0c9c-48b2-b701-9575de4290e2": [
+   1794331760,
+   "bse: not a deal filing"
   ],
   "bse:15b57806-4f9e-4626-9b84-c97b4ccf82ee": [
    1793813613,
@@ -9644,6 +9666,10 @@
    1794040118,
    "bse: not a deal filing"
   ],
+  "bse:266999a4-2668-49fa-9a9a-bf049136f264": [
+   1794331760,
+   "bse: not a deal filing"
+  ],
   "bse:26723361-2295-40dc-a15e-6db178b2b47f": [
    1793340452,
    "filtered (none)"
@@ -10527,6 +10553,10 @@
   "bse:2b0cf74e-dfbc-4d0a-b816-3fae47692d12": [
    1793028940,
    "filtered (none)"
+  ],
+  "bse:2b107e54-6169-4f1c-946b-eeecba8c1c59": [
+   1794331760,
+   "bse: not a deal filing"
   ],
   "bse:2b1569d2-1671-46bb-a45a-3da5fe92de47": [
    1793374185,
@@ -13714,6 +13744,10 @@
   ],
   "bse:39e6e075-f65f-4b3b-b961-d2f41d260c2b": [
    1794311343,
+   "bse: not a deal filing"
+  ],
+  "bse:39e9e988-b85e-442e-8dfd-f203aa15380b": [
+   1794331760,
    "bse: not a deal filing"
   ],
   "bse:39eee6fc-571d-434d-8a2d-e72440a50081": [
@@ -21752,6 +21786,10 @@
    1793367362,
    "filtered (none)"
   ],
+  "bse:605a647a-a5d0-471b-87f6-37e796542bf7": [
+   1794331760,
+   "bse: not a deal filing"
+  ],
   "bse:605b0c0b-1081-42b4-89f2-d964d6fe8802": [
    1793220625,
    "filtered (none)"
@@ -24252,6 +24290,10 @@
    1793360918,
    "filtered (none)"
   ],
+  "bse:6ce61246-a134-4b28-932a-892bdd1454aa": [
+   1794331760,
+   "bse: not a deal filing"
+  ],
   "bse:6ceb603c-41b9-47d4-96f3-80fb86939325": [
    1794049309,
    "bse: not a deal filing"
@@ -25491,6 +25533,10 @@
   "bse:72d1803a-c0ae-4530-b562-18fbafe3b43c": [
    1793179648,
    "filtered (none)"
+  ],
+  "bse:72d77c85-d5e7-4dff-ab60-93a91066ff51": [
+   1794331760,
+   "bse: not a deal filing"
   ],
   "bse:72d86399-bab6-4837-a934-b8457b09122b": [
    1793355083,
@@ -26827,6 +26873,10 @@
   "bse:795e047a-dd27-4ba9-a2f4-d22e6f325ec4": [
    1793770278,
    "filtered (none)"
+  ],
+  "bse:796a172e-29c5-4ebb-a24b-a5bb661f26d1": [
+   1794331760,
+   "bse: not a deal filing"
   ],
   "bse:796b73f6-71d9-43e3-8281-e8d0e94a09ec": [
    1793453034,
@@ -30615,6 +30665,10 @@
   "bse:8b47ea80-fb0e-44f8-92c3-9e612dc1a22d": [
    1793106036,
    "filtered (none)"
+  ],
+  "bse:8b47eb07-2406-4c5c-9b9b-5f4c6272553e": [
+   1794331760,
+   "bse: not a deal filing"
   ],
   "bse:8b56fc3d-d8f3-4137-a9b9-02bd586fe5ad": [
    1793455830,
@@ -35248,6 +35302,10 @@
    1793556728,
    "filtered (none)"
   ],
+  "bse:a10ed568-6cba-4306-af70-d5069299b4a8": [
+   1794331760,
+   "bse: not a deal filing"
+  ],
   "bse:a10fe5f3-9b3a-4150-9380-404f6517f30d": [
    1793458231,
    "filtered (none)"
@@ -36519,6 +36577,10 @@
   "bse:a74ff846-3f26-4065-a362-ff4ef94c2dc7": [
    1793109433,
    "filtered (none)"
+  ],
+  "bse:a750b73a-4052-46c7-9308-a7841ee32f5f": [
+   1794331760,
+   "bse: not a deal filing"
   ],
   "bse:a7568390-d474-42c0-a41b-b976f1512e6d": [
    1793719808,
@@ -44408,6 +44470,10 @@
    1793427532,
    "filtered (none)"
   ],
+  "bse:cb774424-cd41-456c-aa88-688a7f5d3c3d": [
+   1794331760,
+   "bse: not a deal filing"
+  ],
   "bse:cb7b90fe-209d-4d79-badd-dfc4504b4dc4": [
    1793733704,
    "filtered (none)"
@@ -46160,6 +46226,10 @@
    1794066296,
    "bse: not a deal filing"
   ],
+  "bse:d3bb603d-71a2-48a6-b21e-a41df25dcc8d": [
+   1794331760,
+   "bse: not a deal filing"
+  ],
   "bse:d3c7e759-148f-45b6-8203-a7201f739ba2": [
    1793347847,
    "filtered (none)"
@@ -46851,6 +46921,10 @@
   "bse:d73140b3-b52f-4b0a-82ea-d1f19cc5c2c8": [
    1793282915,
    "filtered (none)"
+  ],
+  "bse:d731619a-d485-4d1b-aae4-5b5545106a64": [
+   1794331760,
+   "bse: not a deal filing"
   ],
   "bse:d7317323-ee43-4bce-b101-83e0ffa57c01": [
    1793702152,
@@ -51228,6 +51302,10 @@
    1793948955,
    "bse: not a deal filing"
   ],
+  "bse:eb40cb73-af1b-4595-838d-f722de8d6b27": [
+   1794331760,
+   "bse: not a deal filing"
+  ],
   "bse:eb45e602-1b89-4fde-a875-baa370ea8606": [
    1793702152,
    "filtered (none)"
@@ -52992,6 +53070,10 @@
    1793179648,
    "filtered (none)"
   ],
+  "bse:f3fa0722-2675-4253-bd98-a15ba158ff42": [
+   1794331760,
+   "bse: not a deal filing"
+  ],
   "bse:f408f1fa-69d8-4db7-928b-4292382a91d5": [
    1793627426,
    "filtered (none)"
@@ -53887,6 +53969,10 @@
   "bse:f82eede2-5432-4428-916a-63e6403455e8": [
    1793622946,
    "filtered (none)"
+  ],
+  "bse:f8358f10-a4b1-447d-a0ed-53f2e54b4dd5": [
+   1794331760,
+   "bse: not a deal filing"
   ],
   "bse:f83769d0-a572-4d4d-87df-c9ac866e3739": [
    1793363265,
@@ -55652,6 +55738,10 @@
    1793121565,
    "filtered (none)"
   ],
+  "eqs:01de5c52-ec3e-44c6-93bd-f5f83ed2d1b4": [
+   1794331752,
+   "filtered (none)"
+  ],
   "eqs:0238c8f5-85ae-4049-af14-6c56028add9d": [
    1792789489,
    "filtered (none)"
@@ -55978,10 +56068,6 @@
   ],
   "eqs:12fcc61e-aab3-4d08-b853-8dccbe351ff3": [
    1793803157,
-   "filtered (none)"
-  ],
-  "eqs:1306594d-783e-4214-bac6-01343d32b168": [
-   1792515382,
    "filtered (none)"
   ],
   "eqs:130d0472-fc8e-4013-bf82-d67293af8f9b": [
@@ -57436,6 +57522,10 @@
    1793311317,
    "filtered (none)"
   ],
+  "eqs:5c51300d-d0ed-4f02-856b-972060fede79": [
+   1794331752,
+   "filtered (none)"
+  ],
   "eqs:5c7549df-f72c-476d-a36f-9b4d0eb6040e": [
    1793032281,
    "filtered (none)"
@@ -57522,6 +57612,10 @@
   ],
   "eqs:5fda15ef-11e3-4919-a6f4-7e0be37b52bc": [
    1793211429,
+   "filtered (none)"
+  ],
+  "eqs:5ffca1dd-a6ea-43c2-a3ec-2f668ab23482": [
+   1794331752,
    "filtered (none)"
   ],
   "eqs:602fbf2f-2064-42ea-b73b-0b3f69ccab18": [
@@ -57654,6 +57748,10 @@
   ],
   "eqs:66b5989e-03b3-4f7e-b4cd-868fd3c72802": [
    1793686544,
+   "filtered (none)"
+  ],
+  "eqs:6745fcbb-d437-4554-b1e1-9f76482f3adb": [
+   1794331752,
    "filtered (none)"
   ],
   "eqs:68957848-47d1-4289-88bd-bc9f303a3eb7": [
@@ -58088,10 +58186,6 @@
    1794325523,
    "filtered (none)"
   ],
-  "eqs:7f5e8bc2-7650-44de-a8e9-ec9c3d2f70de": [
-   1792515382,
-   "filtered (none)"
-  ],
   "eqs:7f606a47-d059-48f2-b105-0b450c684daf": [
    1793948948,
    "filtered (none)"
@@ -58414,10 +58508,6 @@
   ],
   "eqs:91d65187-7779-4334-acbf-6c45134441eb": [
    1794318928,
-   "filtered (none)"
-  ],
-  "eqs:91e43ce2-aa9d-44cd-a38d-a9979a581cc3": [
-   1792515382,
    "filtered (none)"
   ],
   "eqs:921b141b-0c71-40a2-86c7-4d984349b59d": [
@@ -59184,6 +59274,10 @@
    1792773458,
    "filtered (none)"
   ],
+  "eqs:bedbf3d2-9e3c-44a0-84c4-3860df2dc8e3": [
+   1794331752,
+   "filtered (none)"
+  ],
   "eqs:bf0422c3-15d8-464c-b94f-ebe5ce675491": [
    1793109422,
    "filtered (none)"
@@ -59718,6 +59812,10 @@
   ],
   "eqs:dbbc0d95-f65c-49b9-809b-c96614d6e560": [
    1794297317,
+   "filtered (none)"
+  ],
+  "eqs:dbd54fa2-905c-4134-bb95-4a53317df7bd": [
+   1794331752,
    "filtered (none)"
   ],
   "eqs:dc113ce7-1a2c-4454-9201-59a7a91fe8f2": [
@@ -63096,6 +63194,46 @@
    1794318926,
    "filtered (none)"
   ],
+  "euronext:12922844 at https://live.euronext.com": [
+   1794331750,
+   "filtered (none)"
+  ],
+  "euronext:12922845 at https://live.euronext.com": [
+   1794331750,
+   "filtered (none)"
+  ],
+  "euronext:12922847 at https://live.euronext.com": [
+   1794331750,
+   "filtered (none)"
+  ],
+  "euronext:12922849 at https://live.euronext.com": [
+   1794331750,
+   "filtered (none)"
+  ],
+  "euronext:12922850 at https://live.euronext.com": [
+   1794331750,
+   "classified:possible_offer"
+  ],
+  "euronext:12922851 at https://live.euronext.com": [
+   1794331750,
+   "classified:possible_offer"
+  ],
+  "euronext:12922852 at https://live.euronext.com": [
+   1794331750,
+   "filtered (none)"
+  ],
+  "euronext:12922853 at https://live.euronext.com": [
+   1794331750,
+   "filtered (none)"
+  ],
+  "euronext:12922854 at https://live.euronext.com": [
+   1794331750,
+   "filtered (none)"
+  ],
+  "euronext:12922855 at https://live.euronext.com": [
+   1794331750,
+   "filtered (none)"
+  ],
   "globenewswire:https://www.globenewswire.com/news-release/2026/11/03/3394275/0/en/cannabis-strategic-ventures-inc-signs-binding-letter-of-intent-with-scopien-technologies-inc.html": [
    1793726867,
    "bootstrap"
@@ -63972,14 +64110,6 @@
    1792714442,
    "filtered (none)"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/hig-whitehorse-accorde-un-financement-a-be-cloud-et-qualityhosting-302914380.html": [
-   1792515388,
-   "filtered (none)"
-  ],
-  "prnewswire:https://www.prnewswire.com/news-releases/hig-whitehorse-stellt-finanzierung-fur-be-cloud-und-qualityhosting-bereit-302914379.html": [
-   1792515388,
-   "filtered (none)"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/hig-whitehorse-verstrekt-financiering-aan-be-cloud-en-qualityhosting-302914939.html": [
    1792558538,
    "filtered (none)"
@@ -64139,6 +64269,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/kps-to-acquire-mm-packaging-from-mm-group-302933918.html": [
    1794263157,
    "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/kps-va-acquerir-mm-packaging-aupres-de-mm-group-302935262.html": [
+   1794331759,
+   "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/la-banque-royale-du-canada-annonce-une-entente-visant-lacquisition-de-yarra-capital-management-302932986.html": [
    1794230702,
@@ -67436,10 +67570,6 @@
    1793830966,
    "filtered (none)"
   ],
-  "sec:0001213900-26-110936": [
-   1792515372,
-   "filtered (none)"
-  ],
   "sec:0001213900-26-111015": [
    1792526836,
    "filtered (none)"
@@ -69002,6 +69132,10 @@
   ],
   "sec:0001493152-26-050833": [
    1794311329,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-050909": [
+   1794331749,
    "filtered (none)"
   ],
   "sec:0001505155-26-000083": [
