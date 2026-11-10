@@ -59198,6 +59198,10 @@
    1793726867,
    "filtered (none)"
   ],
+  "eqs:b36c5674-5889-42b4-9ff4-5a98467491c1": [
+   1794338696,
+   "filtered (none)"
+  ],
   "eqs:b37e2c9c-9336-4615-80cf-bb1c7288595a": [
    1793922616,
    "classified:possible_offer"
@@ -60420,6 +60424,10 @@
   ],
   "eqs:f6794db1-da4f-47b1-9e6d-6862abe19463": [
    1793005767,
+   "filtered (none)"
+  ],
+  "eqs:f6886ae6-09d4-4ee3-a835-f742b2e75b72": [
+   1794338696,
    "filtered (none)"
   ],
   "eqs:f6949a27-6930-4d5c-8469-7345b7af291d": [
@@ -63974,6 +63982,10 @@
    1794230702,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/dlc-adds-west-street-shopping-center-through-off-market-deal-302935339.html": [
+   1794338704,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/docusign-acquires-suplari-to-accelerate-ai-powered-contract-management-for-procurement-302927235.html": [
    1793716959,
    "classified:none"
@@ -64177,6 +64189,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/greenberg-traurig-advises-opko-health-on-722m-agreement-to-sell-select-bioreference-health-assets-to-labcorp-302915762.html": [
    1792609049,
    "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/grupo-simec-announces-agreement-with-votorantim-sa-to-acquire-acerbrag-sa-302935420.html": [
+   1794338703,
+   "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/guidewire-signs-definitive-agreement-to-acquire-hyperexponential-302920513.html": [
    1793100199,
@@ -67664,6 +67680,14 @@
   ],
   "sec:0001193125-26-454447": [
    1794314669,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-455047": [
+   1794338693,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-455119": [
+   1794338693,
    "filtered (none)"
   ],
   "sec:0001199835-26-000379": [
