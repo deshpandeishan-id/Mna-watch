@@ -1701,6 +1701,13 @@
    "ts": 1793868966,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9cf42428-c338-4a49-8180-e0279fafd19b.pdf"
   },
+  "worksport|possible_offer": {
+   "acquirer": "",
+   "source": "sec",
+   "title": "SC TO-C – Worksport Ltd (Subject)",
+   "ts": 1794345115,
+   "url": "https://www.sec.gov/Archives/edgar/data/1096275/000143774926036156/0001437749-26-036156-index.htm"
+  },
   "xtranet technologies|possible_offer": {
    "acquirer": "",
    "source": "bse",
@@ -2888,6 +2895,10 @@
   ],
   "bse:0571f6ba-8286-45b0-92aa-ca24d9468be8": [
    1793953416,
+   "bse: not a deal filing"
+  ],
+  "bse:05752e3b-0e8c-4da6-b6b2-2f97e77e91ec": [
+   1794345133,
    "bse: not a deal filing"
   ],
   "bse:0576d975-77db-470a-8ac6-9aa9dba72082": [
@@ -56158,6 +56169,10 @@
    1793127002,
    "classified:possible_offer"
   ],
+  "eqs:11dd0b2f-e64f-42c2-a98c-1862bff498ec": [
+   1794345125,
+   "filtered (none)"
+  ],
   "eqs:1237e6d1-530c-4b58-a335-1457807edb32": [
    1793986222,
    "filtered (none)"
@@ -56732,6 +56747,10 @@
   ],
   "eqs:2b821bec-192b-4743-9b76-6f8837a3f321": [
    1793380542,
+   "filtered (none)"
+  ],
+  "eqs:2b82cd55-ef72-4214-8a5d-97f676d624e3": [
+   1794345125,
    "filtered (none)"
   ],
   "eqs:2bc10177-ca8f-4c45-bf04-77c568f3c18a": [
@@ -57882,6 +57901,10 @@
    1793293135,
    "filtered (none)"
   ],
+  "eqs:6a68880b-3f4b-49e2-86a0-e052ecd6a38c": [
+   1794345125,
+   "filtered (none)"
+  ],
   "eqs:6aa061a1-ebba-4a0e-9ba0-7c674ea9977c": [
    1793779385,
    "filtered (none)"
@@ -58514,6 +58537,10 @@
    1793344054,
    "filtered (none)"
   ],
+  "eqs:8c77a31e-bfbc-4b26-bea3-f505b7b1464d": [
+   1794345125,
+   "filtered (none)"
+  ],
   "eqs:8c7f47dc-f632-4308-982b-4ccf399eb534": [
    1793672132,
    "filtered (none)"
@@ -58756,6 +58783,10 @@
   ],
   "eqs:9ac9d350-c154-4245-9951-e9d51d01792d": [
    1793641362,
+   "filtered (none)"
+  ],
+  "eqs:9add284a-f5a1-44d2-a434-19fd301d919d": [
+   1794345125,
    "filtered (none)"
   ],
   "eqs:9ae4dd4a-3d76-4f00-9f97-49462f448418": [
@@ -59430,6 +59461,10 @@
    1792681088,
    "filtered (none)"
   ],
+  "eqs:c33e760c-dc38-4dab-967b-5a108aabb0e9": [
+   1794345125,
+   "filtered (none)"
+  ],
   "eqs:c367aae3-93bc-40d9-8626-1d77aff281e9": [
    1793799261,
    "filtered (none)"
@@ -59628,6 +59663,10 @@
   ],
   "eqs:cd607193-ffee-4922-ad7b-548919a55362": [
    1793602197,
+   "filtered (none)"
+  ],
+  "eqs:ce7e9cda-196f-47fd-84ae-718a44152ccc": [
+   1794345125,
    "filtered (none)"
   ],
   "eqs:cea4c649-108c-47f9-8826-435f937a8126": [
@@ -63834,6 +63873,10 @@
    1793630991,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/cc-capital-and-motive-partners-reach-agreement-to-sell-wilshire-to-marsh-302935572.html": [
+   1794345131,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/ceo-jason-rabin-leads-management-buyout-of-centric-brands-takes-majority-stake-302933619.html": [
    1794253256,
    "filtered (none)"
@@ -64404,6 +64447,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/kps-va-acquerir-mm-packaging-aupres-de-mm-group-302935262.html": [
    1794331759,
+   "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/kps-will-mm-packaging-von-mm-group-ubernehmen-302935528.html": [
+   1794345131,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/la-banque-royale-du-canada-annonce-une-entente-visant-lacquisition-de-yarra-capital-management-302932986.html": [
@@ -65586,14 +65633,6 @@
    1793964632,
    "filtered (none)"
   ],
-  "sec:0001104659-26-117414": [
-   1792529120,
-   "filtered (none)"
-  ],
-  "sec:0001104659-26-117423": [
-   1792529120,
-   "filtered (none)"
-  ],
   "sec:0001104659-26-117472": [
    1792533233,
    "filtered (none)"
@@ -66258,6 +66297,18 @@
    1794318925,
    "filtered (none)"
   ],
+  "sec:0001104659-26-125108": [
+   1794345115,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-125156": [
+   1794345115,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-125166": [
+   1794345115,
+   "filtered (none)"
+  ],
   "sec:0001133228-26-013634": [
    1793112456,
    "filtered (none)"
@@ -66628,14 +66679,6 @@
   ],
   "sec:0001185185-26-005246": [
    1794004666,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-426705": [
-   1792529120,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-426741": [
-   1792529120,
    "filtered (none)"
   ],
   "sec:0001193125-26-426833": [
@@ -67690,6 +67733,34 @@
    1794338693,
    "filtered (none)"
   ],
+  "sec:0001193125-26-455339": [
+   1794345115,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-455386": [
+   1794345115,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-455400": [
+   1794345115,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-455415": [
+   1794345115,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-455426": [
+   1794345115,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-455438": [
+   1794345115,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-455457": [
+   1794345115,
+   "filtered (none)"
+  ],
   "sec:0001199835-26-000379": [
    1792531000,
    "filtered (none)"
@@ -67704,10 +67775,6 @@
   ],
   "sec:0001210708-26-000096": [
    1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-111032": [
-   1792529120,
    "filtered (none)"
   ],
   "sec:0001213900-26-111072": [
@@ -68582,6 +68649,10 @@
    1794322450,
    "filtered (none)"
   ],
+  "sec:0001213900-26-118004": [
+   1794345115,
+   "filtered (none)"
+  ],
   "sec:0001214659-26-013480": [
    1793367351,
    "filtered (none)"
@@ -68866,6 +68937,10 @@
    1794311329,
    "filtered (none)"
   ],
+  "sec:0001437749-26-036156": [
+   1794345115,
+   "classified:possible_offer"
+  ],
   "sec:0001462120-26-000075": [
    1793916725,
    "filtered (none)"
@@ -68904,10 +68979,6 @@
   ],
   "sec:0001482430-26-000044": [
    1793910231,
-   "filtered (none)"
-  ],
-  "sec:0001493152-26-047762": [
-   1792529120,
    "filtered (none)"
   ],
   "sec:0001493152-26-047783": [
@@ -69260,6 +69331,14 @@
   ],
   "sec:0001493152-26-050909": [
    1794331749,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-050957": [
+   1794345115,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-050958": [
+   1794345115,
    "filtered (none)"
   ],
   "sec:0001505155-26-000083": [
