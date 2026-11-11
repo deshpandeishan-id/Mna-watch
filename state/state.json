@@ -28293,6 +28293,10 @@
    1793598169,
    "filtered (none)"
   ],
+  "bse:7f5e1610-d0e4-4c35-b185-415334777edc": [
+   1794366749,
+   "bse: not a deal filing"
+  ],
   "bse:7f604781-99f8-44e8-b429-3762e99c4a4b": [
    1794043357,
    "bse: not a deal filing"
@@ -49617,6 +49621,10 @@
    1793695157,
    "filtered (none)"
   ],
+  "bse:e2e4cb63-4061-4a12-8ca2-b47d23f2c175": [
+   1794366749,
+   "classified:definitive_agreement"
+  ],
   "bse:e2ef7316-8101-46c4-8a29-f5e038b81ffe": [
    1793013925,
    "filtered (none)"
@@ -60417,6 +60425,10 @@
    1793337571,
    "filtered (none)"
   ],
+  "eqs:f1dd1c8f-42f2-4c51-a869-893356195438": [
+   1794366740,
+   "filtered (none)"
+  ],
   "eqs:f242b6a8-2036-4ede-b5d8-df3dab4fc47b": [
    1792765287,
    "filtered (none)"
@@ -60691,46 +60703,6 @@
   ],
   "eqs:ff22bd31-81b3-4854-bc23-cc62d1ac9cf3": [
    1792644965,
-   "filtered (none)"
-  ],
-  "euronext:12917454 at https://live.euronext.com": [
-   1792551280,
-   "filtered (none)"
-  ],
-  "euronext:12917455 at https://live.euronext.com": [
-   1792551280,
-   "filtered (none)"
-  ],
-  "euronext:12917456 at https://live.euronext.com": [
-   1792551280,
-   "filtered (none)"
-  ],
-  "euronext:12917458 at https://live.euronext.com": [
-   1792551280,
-   "filtered (none)"
-  ],
-  "euronext:12917459 at https://live.euronext.com": [
-   1792551280,
-   "filtered (none)"
-  ],
-  "euronext:12917460 at https://live.euronext.com": [
-   1792551280,
-   "filtered (none)"
-  ],
-  "euronext:12917461 at https://live.euronext.com": [
-   1792551280,
-   "filtered (none)"
-  ],
-  "euronext:12917464 at https://live.euronext.com": [
-   1792551280,
-   "filtered (none)"
-  ],
-  "euronext:12917465 at https://live.euronext.com": [
-   1792551280,
-   "classified:possible_offer"
-  ],
-  "euronext:12917466 at https://live.euronext.com": [
-   1792551280,
    "filtered (none)"
   ],
   "euronext:12917579 at https://live.euronext.com": [
