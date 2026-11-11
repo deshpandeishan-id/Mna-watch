@@ -10561,6 +10561,10 @@
    1793799270,
    "filtered (none)"
   ],
+  "bse:283b1dec-b52f-4f6a-8f5b-bcc0698b6c89": [
+   1794431189,
+   "bse: not a deal filing"
+  ],
   "bse:2842aae2-336e-4fa9-a2a0-f7b2f38c8dbf": [
    1793813613,
    "filtered (none)"
@@ -20248,6 +20252,10 @@
   "bse:53a0ffa9-8844-4200-865a-08d43a541bfb": [
    1793286430,
    "filtered (none)"
+  ],
+  "bse:53a59ea7-1c0e-41e7-9755-1182023543b6": [
+   1794431189,
+   "bse: not a deal filing"
   ],
   "bse:53acf3cb-45fc-4948-8720-ffbdf714c9ab": [
    1793115216,
@@ -41837,6 +41845,10 @@
    1793170007,
    "filtered (none)"
   ],
+  "bse:b4828d87-35dd-4876-8be5-12b8226d736b": [
+   1794431189,
+   "bse: not a deal filing"
+  ],
   "bse:b486787f-302c-409f-b77f-3278c970b75c": [
    1793275430,
    "filtered (none)"
@@ -49092,6 +49104,10 @@
   "bse:d3ed628b-24c1-47ab-a7f8-82323b3ce848": [
    1793374185,
    "filtered (none)"
+  ],
+  "bse:d3ee4ccd-9b3a-4dc8-bcba-add3232de3b1": [
+   1794431189,
+   "bse: not a deal filing"
   ],
   "bse:d3ef5161-a472-4eb0-85df-6bc526e5abab": [
    1793782942,
@@ -63029,6 +63045,10 @@
    1793691488,
    "filtered (none)"
   ],
+  "eqs:d1e4b1ae-91d4-4022-b10a-8e24cde0771d": [
+   1794431181,
+   "filtered (none)"
+  ],
   "eqs:d23752eb-6718-4040-9e69-98ff90e038bf": [
    1792639857,
    "filtered (none)"
@@ -67097,10 +67117,6 @@
    1793314096,
    "filtered (none)"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/bose-corporation-acquires-skullcandy-expanding-its-consumer-audio-portfolio-to-reach-new-audiences-302915875.html": [
-   1792615680,
-   "classified:none"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/bpea-private-equity-rebrands-as-brooke-private-equity-302918337.html": [
    1793028934,
    "filtered (none)"
@@ -67489,6 +67505,10 @@
    1793615455,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/global-asset-management-group-completes-transition-to-transfer-online-strengthening-shareholder-services-and-corporate-infrastructure-302936919.html": [
+   1794431187,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/global-experience-specialists-annonce-lacquisition-de-csg-creative-aupres-de-national-trade-productions-inc-302928257.html": [
    1793896758,
    "filtered (none)"
@@ -67516,6 +67536,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/graybar-reports-record-third-quarter-performance-302919921.html": [
    1793051660,
    "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/graymar-environmental-services-expands-southeast-presence-with-acquisition-of-hulls-environmental-services-locations-302936899.html": [
+   1794431188,
+   "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/greenberg-traurig-advises-tnl-mediagene-in-management-buyout-equity-transaction-302935657.html": [
    1794355500,
@@ -68449,10 +68473,6 @@
    1793367360,
    "classified:possible_offer"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/vinci-compass-announces-the-launch-of-vinci-permanent-capital-solutions-with-the-acquisition-of-australre-302915949.html": [
-   1792615680,
-   "classified:none"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/visiquate-acquires-artiva-hcx-uniting-revenue-cycle-intelligence-and-workflow-expertise-to-turn-insight-into-action-302927996.html": [
    1793799269,
    "classified:none"
@@ -68753,14 +68773,6 @@
    1793391447,
    "filtered (none)"
   ],
-  "sec:0000950103-26-015959": [
-   1792611307,
-   "filtered (none)"
-  ],
-  "sec:0000950103-26-015971": [
-   1792615663,
-   "filtered (none)"
-  ],
   "sec:0000950103-26-016138": [
    1793022901,
    "filtered (none)"
@@ -68813,10 +68825,6 @@
    1793884599,
    "filtered (none)"
   ],
-  "sec:0001017386-26-000144": [
-   1792615663,
-   "filtered (none)"
-  ],
   "sec:0001017386-26-000149": [
    1793106023,
    "filtered (none)"
@@ -68831,10 +68839,6 @@
   ],
   "sec:0001057352-26-000078": [
    1793132232,
-   "filtered (none)"
-  ],
-  "sec:0001062993-26-005466": [
-   1792615663,
    "filtered (none)"
   ],
   "sec:0001062993-26-005664": [
@@ -68907,22 +68911,6 @@
   ],
   "sec:0001097149-26-000085": [
    1793964632,
-   "filtered (none)"
-  ],
-  "sec:0001104659-26-117837": [
-   1792613386,
-   "filtered (none)"
-  ],
-  "sec:0001104659-26-117845": [
-   1792615663,
-   "filtered (none)"
-  ],
-  "sec:0001104659-26-117850": [
-   1792615663,
-   "filtered (none)"
-  ],
-  "sec:0001104659-26-117859": [
-   1792615663,
    "filtered (none)"
   ],
   "sec:0001104659-26-117888": [
@@ -69865,14 +69853,6 @@
    1794350693,
    "filtered (none)"
   ],
-  "sec:0001171843-26-006740": [
-   1792613386,
-   "filtered (none)"
-  ],
-  "sec:0001171843-26-006742": [
-   1792613386,
-   "filtered (none)"
-  ],
   "sec:0001171843-26-006953": [
    1793272571,
    "filtered (none)"
@@ -69977,32 +69957,8 @@
    1794004666,
    "filtered (none)"
   ],
-  "sec:0001193125-26-427754": [
-   1792611307,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-427815": [
-   1792613386,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-427867": [
-   1792615663,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-427896": [
-   1792615663,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-427898": [
-   1792615663,
-   "filtered (none)"
-  ],
   "sec:0001193125-26-427908": [
    1792617382,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-427930": [
-   1792615663,
    "filtered (none)"
   ],
   "sec:0001193125-26-427970": [
@@ -71077,14 +71033,6 @@
    1794350693,
    "filtered (none)"
   ],
-  "sec:0001213900-26-111349": [
-   1792615663,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-111358": [
-   1792615663,
-   "filtered (none)"
-  ],
   "sec:0001213900-26-111377": [
    1792617382,
    "filtered (none)"
@@ -72061,10 +72009,6 @@
    1794001875,
    "filtered (none)"
   ],
-  "sec:0001437749-26-033122": [
-   1792615663,
-   "filtered (none)"
-  ],
   "sec:0001437749-26-033155": [
    1792663733,
    "filtered (none)"
@@ -72287,10 +72231,6 @@
   ],
   "sec:0001482430-26-000044": [
    1793910231,
-   "filtered (none)"
-  ],
-  "sec:0001493152-26-047909": [
-   1792615663,
    "filtered (none)"
   ],
   "sec:0001493152-26-047930": [
@@ -72737,14 +72677,6 @@
    1793220614,
    "filtered (none)"
   ],
-  "sec:0001628280-26-066700": [
-   1792613386,
-   "filtered (none)"
-  ],
-  "sec:0001628280-26-066737": [
-   1792615663,
-   "filtered (none)"
-  ],
   "sec:0001628280-26-066900": [
    1792702479,
    "filtered (none)"
@@ -72969,10 +72901,6 @@
    1792787291,
    "filtered (none)"
   ],
-  "sec:0001683168-26-008011": [
-   1792615663,
-   "filtered (none)"
-  ],
   "sec:0001683168-26-008023": [
    1792702479,
    "filtered (none)"
@@ -73051,10 +72979,6 @@
   ],
   "sec:0001702510-26-000114": [
    1793654414,
-   "filtered (none)"
-  ],
-  "sec:0001717547-26-000068": [
-   1792615663,
    "filtered (none)"
   ],
   "sec:0001728951-26-000075": [
