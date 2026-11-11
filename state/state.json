@@ -5457,6 +5457,10 @@
    1793449304,
    "classified:possible_offer"
   ],
+  "bse:104f91c7-0ad8-41af-a33d-b1ec1f93cb8c": [
+   1794425572,
+   "bse: not a deal filing"
+  ],
   "bse:10555587-e038-4dad-8ef0-03a46f332030": [
    1793860222,
    "filtered (none)"
@@ -60289,6 +60293,10 @@
    1793083371,
    "filtered (none)"
   ],
+  "eqs:3ce66434-ccd1-4169-92d8-021d5caf42e9": [
+   1794425565,
+   "filtered (none)"
+  ],
   "eqs:3d24a146-3af6-4922-b9e4-3b567ff14c3a": [
    1792647105,
    "filtered (none)"
@@ -61351,6 +61359,10 @@
   ],
   "eqs:75d2d9ff-4b40-4a24-8f9a-71d7d8e85670": [
    1792644965,
+   "filtered (none)"
+  ],
+  "eqs:763a36a3-27ce-43b4-8c2b-56632dbc5a9a": [
+   1794425565,
    "filtered (none)"
   ],
   "eqs:764b96ca-63d1-4fa1-988a-436655991c19": [
@@ -67505,10 +67517,6 @@
    1793051660,
    "filtered (none)"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/greenberg-traurig-advises-opko-health-on-722m-agreement-to-sell-select-bioreference-health-assets-to-labcorp-302915762.html": [
-   1792609049,
-   "filtered (none)"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/greenberg-traurig-advises-tnl-mediagene-in-management-buyout-equity-transaction-302935657.html": [
    1794355500,
    "filtered (none)"
@@ -68743,10 +68751,6 @@
   ],
   "sec:0000947484-26-000138": [
    1793391447,
-   "filtered (none)"
-  ],
-  "sec:0000950103-26-015958": [
-   1792609039,
    "filtered (none)"
   ],
   "sec:0000950103-26-015959": [
