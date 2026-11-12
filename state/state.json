@@ -5555,6 +5555,10 @@
    1793791554,
    "filtered (none)"
   ],
+  "bse:0f863d42-65e6-4e95-87da-1ec52695be25": [
+   1794508438,
+   "bse: not a deal filing"
+  ],
   "bse:0f869a70-93ab-4d53-a7be-deef0cc98f09": [
    1793810032,
    "filtered (none)"
@@ -19498,6 +19502,10 @@
   "bse:4afd825d-8f4e-44c9-b9a4-ab2ce76d2e40": [
    1793713792,
    "filtered (none)"
+  ],
+  "bse:4aff86b4-8a63-4e52-919e-e562ca31a54c": [
+   1794508438,
+   "bse: not a deal filing"
   ],
   "bse:4b09510d-277b-405b-b0de-8577a8a45df0": [
    1793202541,
@@ -64511,10 +64519,6 @@
    1793813604,
    "filtered (none)"
   ],
-  "eqs:3d8a5c4d-6dd6-4670-aad6-989eb2785905": [
-   1792692490,
-   "filtered (none)"
-  ],
   "eqs:3dc15ded-75ac-4326-8dfc-1c54e90303b9": [
    1793782931,
    "filtered (none)"
@@ -66207,10 +66211,6 @@
    1793774437,
    "filtered (none)"
   ],
-  "eqs:9725079e-1721-488f-8680-3428d6b02698": [
-   1792692490,
-   "classified:possible_offer"
-  ],
   "eqs:97453fd0-4046-40fd-adac-c3025b8c39e0": [
    1793005767,
    "filtered (none)"
@@ -66905,10 +66905,6 @@
   ],
   "eqs:bb532769-30c6-462b-8804-fe47f0efe5e3": [
    1794407027,
-   "filtered (none)"
-  ],
-  "eqs:bbe80ca8-ae2c-4dc7-ad4d-cb32286ec05e": [
-   1792692490,
    "filtered (none)"
   ],
   "eqs:bbf63710-467b-46f3-8176-4590820442be": [
@@ -70931,6 +70927,46 @@
    1794498165,
    "filtered (none)"
   ],
+  "euronext:12923427 at https://live.euronext.com": [
+   1794508427,
+   "filtered (none)"
+  ],
+  "euronext:12923428 at https://live.euronext.com": [
+   1794508427,
+   "filtered (none)"
+  ],
+  "euronext:12923429 at https://live.euronext.com": [
+   1794508427,
+   "filtered (none)"
+  ],
+  "euronext:12923430 at https://live.euronext.com": [
+   1794508427,
+   "filtered (none)"
+  ],
+  "euronext:12923431 at https://live.euronext.com": [
+   1794508427,
+   "filtered (none)"
+  ],
+  "euronext:12923432 at https://live.euronext.com": [
+   1794508427,
+   "filtered (none)"
+  ],
+  "euronext:12923434 at https://live.euronext.com": [
+   1794508427,
+   "filtered (none)"
+  ],
+  "euronext:12923438 at https://live.euronext.com": [
+   1794508427,
+   "classified:none"
+  ],
+  "euronext:12923439 at https://live.euronext.com": [
+   1794508427,
+   "filtered (none)"
+  ],
+  "euronext:12923442 at https://live.euronext.com": [
+   1794508427,
+   "filtered (none)"
+  ],
   "globenewswire:https://www.globenewswire.com/news-release/2026/11/03/3394275/0/en/cannabis-strategic-ventures-inc-signs-binding-letter-of-intent-with-scopien-technologies-inc.html": [
    1793726867,
    "bootstrap"
@@ -71177,6 +71213,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/amynta-group-completes-acquisition-of-southern-states-underwriters-302917382.html": [
    1792697577,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/amyris-inc-to-acquire-industry-leading-sweet-protein-innovator-oobli-adding-a-proven-protein-technology-platform-to-its-biomanufacturing-capabilities-302937988.html": [
+   1794508436,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/analog-devices-completes-acquisition-of-alif-semiconductor-302928307.html": [
@@ -71783,6 +71823,10 @@
    1794431188,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/graymatter-wins-2027-system-integrator-of-the-year-302938221.html": [
+   1794508436,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/greenberg-traurig-advises-tnl-mediagene-in-management-buyout-equity-transaction-302935657.html": [
    1794355500,
    "filtered (none)"
@@ -71826,10 +71870,6 @@
   "prnewswire:https://www.prnewswire.com/news-releases/hackberry-lane-closes-multiple-student-housing-acquisitions-at-the-university-of-florida-and-university-of-alabama-growing-portfolio-to-approximately-4-000-beds-302932392.html": [
    1793999303,
    "filtered (none)"
-  ],
-  "prnewswire:https://www.prnewswire.com/news-releases/harlem-childrens-zone-acquires-fintech-platform-goalsetter-to-accelerate-universal-economic-mobility-302917320.html": [
-   1792692497,
-   "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/hexagon-completes-acquisition-of-waygate-technologies-302926094.html": [
    1793607475,
@@ -72245,6 +72285,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/outersignal-acquires-tempo-to-advance-agentic-personalization-for-consumer-brands-302934240.html": [
    1794314679,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/pai-pharma-acquires-nexus-pharmaceuticals-expanding-portfolio-of-sterile-injectable-products-302937821.html": [
+   1794508436,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/palmdale-oil-acquires-tri-county-oil-distributors-302933311.html": [
@@ -73815,6 +73859,10 @@
    1794494570,
    "filtered (none)"
   ],
+  "sec:0001104659-26-126142": [
+   1794508426,
+   "filtered (none)"
+  ],
   "sec:0001133228-26-013634": [
    1793112456,
    "filtered (none)"
@@ -75305,6 +75353,14 @@
   ],
   "sec:0001193125-26-457440": [
    1794501920,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-457794": [
+   1794508426,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-457876": [
+   1794508426,
    "filtered (none)"
   ],
   "sec:0001193805-26-001454": [
@@ -77205,6 +77261,10 @@
   ],
   "sec:0001654954-26-009387": [
    1793657079,
+   "filtered (none)"
+  ],
+  "sec:0001662991-26-000187": [
+   1794508426,
    "filtered (none)"
   ],
   "sec:0001663577-26-000330": [
