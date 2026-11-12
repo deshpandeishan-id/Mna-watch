@@ -41474,6 +41474,10 @@
    1793355078,
    "filtered (none)"
   ],
+  "bse:a67ed115-083a-4f23-aaf1-3af5a35be539": [
+   1794524827,
+   "bse: not a deal filing"
+  ],
   "bse:a68de81b-ec94-46f2-a3ed-129c56c21a1b": [
    1794470663,
    "bse: not a deal filing"
@@ -63694,10 +63698,6 @@
    1793803157,
    "filtered (none)"
   ],
-  "eqs:130ed189-149a-45ae-bd4e-3893e7ef46bc": [
-   1792704578,
-   "filtered (none)"
-  ],
   "eqs:132e8d94-7d6b-4bb7-af04-e3d92e5f5017": [
    1793627413,
    "filtered (none)"
@@ -64182,6 +64182,10 @@
    1793774437,
    "filtered (none)"
   ],
+  "eqs:2900555e-1213-4f02-8159-a27c67b3d22f": [
+   1794524797,
+   "filtered (none)"
+  ],
   "eqs:29017a95-cb21-483e-a68b-a0875daef7d4": [
    1794491312,
    "filtered (none)"
@@ -64268,10 +64272,6 @@
   ],
   "eqs:2cbf838e-58d4-4b0c-85aa-62977350578e": [
    1793106026,
-   "filtered (none)"
-  ],
-  "eqs:2d2ae7c1-86dc-4378-928b-eb1bbaf852bd": [
-   1792706774,
    "filtered (none)"
   ],
   "eqs:2d380c7f-488d-4f4e-a5d9-77c8e5372cf8": [
@@ -65228,6 +65228,10 @@
   ],
   "eqs:604e7e43-b78d-4543-a561-244a49e624c9": [
    1794001885,
+   "filtered (none)"
+  ],
+  "eqs:60bba3cd-b0a6-4e97-b31b-55c6c6e04c76": [
+   1794524797,
    "filtered (none)"
   ],
   "eqs:60f2edb2-8dce-4de7-b0ef-f87a42f11d26": [
@@ -71222,6 +71226,10 @@
    1794407034,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/aethlon-medical-reports-second-quarter-fiscal-2027-results-and-provides-corporate-update-302937989.html": [
+   1794524805,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/affle-to-acquire-perion-to-scale-its-cpcu-business-across-developed-markets-302925764.html": [
    1793552198,
    "classified:none"
@@ -71802,6 +71810,10 @@
    1793028930,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-ffr-announces-2026-q3-results-with-approximately-2-3-million-in-cumulative-revenue-for-acquired-robotics-business-302938436.html": [
+   1794524804,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-ffr-completes-acquisition-of-ffai-robotics-business-establishing-a-nasdaq-listed-humanoid-and-bionic-robotics-platform-october-robot-sales-expected-to-exceed-300-units-unveils-ff-omnimind-a-unified-a-302919898.html": [
    1793049165,
    "classified:none"
@@ -72186,10 +72198,6 @@
    1793824417,
    "filtered (none)"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/mesirow-advises-union-alarmtronic-llc-on-its-sale-to-pye-barker-fire--safety-302917480.html": [
-   1792706781,
-   "filtered (none)"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/mesirow-fiduciary-solutions-completes-acquisition-of-flexpath-strategies-plan-level-338-business-302919723.html": [
    1793041818,
    "classified:none"
@@ -72446,10 +72454,6 @@
    1793900407,
    "classified:none"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/procede-software-announces-strategic-acquisition-of-rimss-bringing-together-decades-of-dealer-technology-leadership-302916018.html": [
-   1792704585,
-   "classified:none"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/prominent-private-equity-ma-partner-joins-latham--watkins-in-new-york-302919820.html": [
    1793044453,
    "filtered (none)"
@@ -72533,6 +72537,10 @@
   "prnewswire:https://www.prnewswire.com/news-releases/schryver--co-serves-as-exclusive-ma-advisor-to-bee--jay-plumbing--heating-in-its-successful-sale-to-a-local-entrepreneur-302928719.html": [
    1793794630,
    "filtered (none)"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/sciens-water-acquires-roberts-filter-group-302937069.html": [
+   1794524805,
+   "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/securitize-to-acquire-river-one-connecting-stablecoin-capital-to-the-6-trillion-asset-backed-finance-market-302933804.html": [
    1794260016,
@@ -73198,10 +73206,6 @@
    1793964632,
    "filtered (none)"
   ],
-  "sec:0001104659-26-118203": [
-   1792704575,
-   "filtered (none)"
-  ],
   "sec:0001104659-26-118302": [
    1792760108,
    "filtered (none)"
@@ -73850,6 +73854,30 @@
    1794508426,
    "filtered (none)"
   ],
+  "sec:0001104659-26-126297": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-126300": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-126309": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-126339": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-126341": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-126351": [
+   1794524794,
+   "filtered (none)"
+  ],
   "sec:0001133228-26-013634": [
    1793112456,
    "filtered (none)"
@@ -73888,18 +73916,6 @@
   ],
   "sec:0001139552-26-000051": [
    1793876529,
-   "filtered (none)"
-  ],
-  "sec:0001140361-26-040525": [
-   1792704575,
-   "filtered (none)"
-  ],
-  "sec:0001140361-26-040531": [
-   1792704575,
-   "filtered (none)"
-  ],
-  "sec:0001140361-26-040532": [
-   1792704575,
    "filtered (none)"
   ],
   "sec:0001140361-26-040558": [
@@ -74138,6 +74154,14 @@
    1794518724,
    "filtered (none)"
   ],
+  "sec:0001140361-26-043465": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001140361-26-043469": [
+   1794524794,
+   "filtered (none)"
+  ],
   "sec:0001171843-26-006953": [
    1793272571,
    "filtered (none)"
@@ -74228,10 +74252,6 @@
   ],
   "sec:0001185185-26-005246": [
    1794004666,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-429105": [
-   1792704575,
    "filtered (none)"
   ],
   "sec:0001193125-26-429545": [
@@ -75362,6 +75382,66 @@
    1794518724,
    "filtered (none)"
   ],
+  "sec:0001193125-26-458516": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458568": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458570": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458596": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458597": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458611": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458623": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458630": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458651": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458655": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458694": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458699": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458748": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458751": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458753": [
+   1794524794,
+   "filtered (none)"
+  ],
   "sec:0001193805-26-001454": [
    1794482512,
    "classified:possible_offer"
@@ -75380,22 +75460,6 @@
   ],
   "sec:0001210708-26-000099": [
    1794350693,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-111740": [
-   1792704575,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-111746": [
-   1792704575,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-111750": [
-   1792704575,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-111763": [
-   1792706771,
    "filtered (none)"
   ],
   "sec:0001213900-26-111781": [
@@ -76258,6 +76322,14 @@
    1794518724,
    "filtered (none)"
   ],
+  "sec:0001213900-26-119002": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-119055": [
+   1794524794,
+   "filtered (none)"
+  ],
   "sec:0001214659-26-013480": [
    1793367351,
    "filtered (none)"
@@ -76276,10 +76348,6 @@
   ],
   "sec:0001262976-26-000034": [
    1793136874,
-   "filtered (none)"
-  ],
-  "sec:0001287032-26-000294": [
-   1792704575,
    "filtered (none)"
   ],
   "sec:0001292814-26-005283": [
@@ -76576,14 +76644,6 @@
   ],
   "sec:0001482430-26-000044": [
    1793910231,
-   "filtered (none)"
-  ],
-  "sec:0001493152-26-048138": [
-   1792704575,
-   "filtered (none)"
-  ],
-  "sec:0001493152-26-048139": [
-   1792706771,
    "filtered (none)"
   ],
   "sec:0001493152-26-048228": [
@@ -76942,6 +77002,22 @@
    1794518724,
    "filtered (none)"
   ],
+  "sec:0001493152-26-051437": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-051467": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-051499": [
+   1794524794,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-051500": [
+   1794524794,
+   "filtered (none)"
+  ],
   "sec:0001505155-26-000083": [
    1794266113,
    "filtered (none)"
@@ -77230,6 +77306,10 @@
    1794491301,
    "filtered (none)"
   ],
+  "sec:0001628280-26-073508": [
+   1794524794,
+   "filtered (none)"
+  ],
   "sec:0001640334-26-001712": [
    1793791536,
    "filtered (none)"
@@ -77254,16 +77334,16 @@
    1793747058,
    "filtered (none)"
   ],
+  "sec:0001663577-26-000339": [
+   1794524794,
+   "filtered (none)"
+  ],
   "sec:0001670541-26-000115": [
    1793794619,
    "filtered (none)"
   ],
   "sec:0001677703-26-000142": [
    1792787291,
-   "filtered (none)"
-  ],
-  "sec:0001683168-26-008024": [
-   1792704575,
    "filtered (none)"
   ],
   "sec:0001683168-26-008045": [
@@ -77348,10 +77428,6 @@
   ],
   "sec:0001731122-26-001407": [
    1793919867,
-   "filtered (none)"
-  ],
-  "sec:0001753926-26-001982": [
-   1792704575,
    "filtered (none)"
   ],
   "sec:0001753926-26-002000": [
@@ -77464,6 +77540,10 @@
   ],
   "sec:0001829126-26-012214": [
    1794482512,
+   "filtered (none)"
+  ],
+  "sec:0001829126-26-012322": [
+   1794524794,
    "filtered (none)"
   ],
   "sec:0001837607-26-000081": [
