@@ -5179,6 +5179,10 @@
    1793953416,
    "bse: not a deal filing"
   ],
+  "bse:0dc12663-c18d-4a57-804e-5dc6213c9cdd": [
+   1794512237,
+   "bse: not a deal filing"
+  ],
   "bse:0dc2a25a-c5ae-474b-8234-426430e77390": [
    1793367362,
    "filtered (none)"
@@ -7879,6 +7883,10 @@
    1793272590,
    "filtered (none)"
   ],
+  "bse:19881ff7-2ba2-49c2-843b-082f27050b47": [
+   1794512237,
+   "bse: not a deal filing"
+  ],
   "bse:19893a26-bfcd-44d9-b8e2-e4840b85ec44": [
    1794501938,
    "bse: not a deal filing"
@@ -8657,6 +8665,10 @@
   ],
   "bse:1ce013c0-11bb-4fdb-b9a7-af9993307148": [
    1793892586,
+   "bse: not a deal filing"
+  ],
+  "bse:1ce06805-3985-459b-96be-b582e3d3e0d9": [
+   1794512237,
    "bse: not a deal filing"
   ],
   "bse:1ce25306-02dd-4be9-b7ec-fc39b7727c9d": [
@@ -15059,6 +15071,10 @@
    1794478458,
    "bse: not a deal filing"
   ],
+  "bse:37e976de-ed19-44ea-8a99-79155537212e": [
+   1794512237,
+   "bse: not a deal filing"
+  ],
   "bse:37eb8823-5c80-4f77-8ffe-1817b77d4846": [
    1793641371,
    "filtered (none)"
@@ -20162,6 +20178,10 @@
   "bse:4de8216e-3beb-48f8-a9b7-c3ad2e4d53e9": [
    1793188914,
    "filtered (none)"
+  ],
+  "bse:4de99e90-c8d5-4abc-a347-962abc227c2a": [
+   1794512237,
+   "bse: not a deal filing"
   ],
   "bse:4decea60-02cd-4364-851e-f85d548318ee": [
    1793465827,
@@ -38407,6 +38427,10 @@
    1793431477,
    "filtered (none)"
   ],
+  "bse:99e0c288-630c-458e-89eb-a069436180e2": [
+   1794512237,
+   "bse: not a deal filing"
+  ],
   "bse:99e95f77-0210-479f-b5e9-e6a794528eea": [
    1794482530,
    "bse: not a deal filing"
@@ -38734,6 +38758,10 @@
   "bse:9b07fd5f-bdd7-485f-be91-82d424856bd5": [
    1793380551,
    "filtered (none)"
+  ],
+  "bse:9b0dafaf-d05f-4ddf-9963-61a7033dec49": [
+   1794512237,
+   "bse: not a deal filing"
   ],
   "bse:9b131312-5366-4a4e-88bd-14963b450d6d": [
    1793799270,
@@ -50261,6 +50289,10 @@
   ],
   "bse:ca64d52c-be17-46c5-a951-d39888f9f858": [
    1794465972,
+   "bse: not a deal filing"
+  ],
+  "bse:ca687fbd-966f-4cbe-990b-31d9868e494b": [
+   1794512237,
    "bse: not a deal filing"
   ],
   "bse:ca6bffb1-89dc-4158-9c2f-6cd35cee33e8": [
@@ -66223,10 +66255,6 @@
    1793702144,
    "filtered (none)"
   ],
-  "eqs:97c21349-4ebc-4670-a518-af1e557bec7f": [
-   1792695182,
-   "filtered (none)"
-  ],
   "eqs:9885a93b-343d-4273-a3e7-b470fb862f17": [
    1792743081,
    "filtered (none)"
@@ -71211,10 +71239,6 @@
    1793821210,
    "classified:none"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/amynta-group-completes-acquisition-of-southern-states-underwriters-302917382.html": [
-   1792697577,
-   "classified:none"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/amyris-inc-to-acquire-industry-leading-sweet-protein-innovator-oobli-adding-a-proven-protein-technology-platform-to-its-biomanufacturing-capabilities-302937988.html": [
    1794508436,
    "classified:none"
@@ -71875,14 +71899,6 @@
    1793607475,
    "classified:none"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/hig-capital-acquiert-une-participation-majoritaire-dans-l4a-pour-soutenir-sa-croissance-et-son-expansion-continues-302917352.html": [
-   1792695188,
-   "filtered (none)"
-  ],
-  "prnewswire:https://www.prnewswire.com/news-releases/hig-capital-erwirbt-mehrheitsbeteiligung-an-l4a-um-weiteres-wachstum-und-expansion-zu-unterstutzen-302917353.html": [
-   1792695188,
-   "filtered (none)"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/hig-capital-signe-un-accord-definitif-pour-acquerir-une-participation-majoritaire-dans-go-asia-302936319.html": [
    1794398133,
    "filtered (none)"
@@ -72269,6 +72285,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/onyx-partners-ltd-acquires-kanes-furniture-llc-302929585.html": [
    1793817150,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/open-road-resorts-expands-into-wisconsin-with-acquisition-of-rustic-timbers-door-county-camping-302938310.html": [
+   1794512236,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/oppfi-provides-update-on-pending-bnc-acquisition-302927260.html": [
@@ -73197,10 +73217,6 @@
   ],
   "sec:0001097149-26-000085": [
    1793964632,
-   "filtered (none)"
-  ],
-  "sec:0001104659-26-118129": [
-   1792697567,
    "filtered (none)"
   ],
   "sec:0001104659-26-118155": [
@@ -74237,14 +74253,6 @@
   ],
   "sec:0001185185-26-005246": [
    1794004666,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-428842": [
-   1792697567,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-428845": [
-   1792697567,
    "filtered (none)"
   ],
   "sec:0001193125-26-428897": [
@@ -75381,10 +75389,6 @@
   ],
   "sec:0001210708-26-000099": [
    1794350693,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-111672": [
-   1792697567,
    "filtered (none)"
   ],
   "sec:0001213900-26-111703": [
