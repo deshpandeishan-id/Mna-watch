@@ -637,6 +637,13 @@
    "ts": 1793337589,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/03867ED3_D689_45CB_83C7_47AA31CEB8E4_102452.pdf"
   },
+  "greenland energy announces recommended all share acquisition of 80 mile combination to consolidate 100 ownership of jameson land basin licenses in greenland in a single nasdaq listed energy and critical minerals|possible_offer": {
+   "acquirer": "",
+   "source": "prnewswire",
+   "title": "Greenland Energy Company Announces Recommended All-Share Acquisition of 80 Mile plc combination to consolidate 100% ownership of the Jameson Land Basin licenses in Greenland in a single Nasdaq-listed energy and critical minerals company",
+   "ts": 1794518734,
+   "url": "https://www.prnewswire.com/news-releases/greenland-energy-company-announces-recommended-all-share-acquisition-of-80-mile-plc-combination-to-consolidate-100-ownership-of-the-jameson-land-basin-licenses-in-greenland-in-a-single-nasdaq-listed-energy-and-critical-minerals-c-302938395.html"
+  },
   "gresham house energy storage fund|possible_offer": {
    "acquirer": "Not yet named",
    "source": "uk_panel",
@@ -11369,6 +11376,10 @@
   ],
   "bse:28c854b2-f2d9-456e-afd1-7e02123eca86": [
    1794491321,
+   "bse: not a deal filing"
+  ],
+  "bse:28cf3b6f-55ba-46d5-8781-2618ce62eb6a": [
+   1794518736,
    "bse: not a deal filing"
   ],
   "bse:28d55a18-b663-40b1-a8b1-4bcd86a20213": [
@@ -65551,10 +65562,6 @@
    1793957222,
    "filtered (none)"
   ],
-  "eqs:74858b2d-9ec4-423a-845a-0ff247e93338": [
-   1792702483,
-   "filtered (none)"
-  ],
   "eqs:74cb2e2d-f665-4c5e-aab3-c03c29ac102f": [
    1793195995,
    "filtered (none)"
@@ -71871,6 +71878,10 @@
    1794355500,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/greenland-energy-company-announces-recommended-all-share-acquisition-of-80-mile-plc-combination-to-consolidate-100-ownership-of-the-jameson-land-basin-licenses-in-greenland-in-a-single-nasdaq-listed-energy-and-critical-minerals-c-302938395.html": [
+   1794518734,
+   "classified:possible_offer"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/group-1-automotive-announces-hennessy-honda-of-woodstock-is-now-group-1-honda-woodstock-302935986.html": [
    1794407033,
    "filtered (none)"
@@ -72531,6 +72542,10 @@
    1793654424,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/sempra-completes-sale-of-45-equity-interest-in-sempra-infrastructure-partners-302938415.html": [
+   1794518734,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation-302930012.html": [
    1793896757,
    "classified:none"
@@ -72899,10 +72914,6 @@
    1793619048,
    "filtered (none)"
   ],
-  "sec:0000076605-26-000099": [
-   1792702479,
-   "filtered (none)"
-  ],
   "sec:0000076605-26-000103": [
    1793220614,
    "filtered (none)"
@@ -72985,10 +72996,6 @@
   ],
   "sec:0000879407-26-000063": [
    1793799258,
-   "filtered (none)"
-  ],
-  "sec:0000880641-26-000027": [
-   1792702479,
    "filtered (none)"
   ],
   "sec:0000897077-26-000105": [
@@ -73189,14 +73196,6 @@
   ],
   "sec:0001097149-26-000085": [
    1793964632,
-   "filtered (none)"
-  ],
-  "sec:0001104659-26-118155": [
-   1792702479,
-   "filtered (none)"
-  ],
-  "sec:0001104659-26-118169": [
-   1792702479,
    "filtered (none)"
   ],
   "sec:0001104659-26-118203": [
@@ -74127,6 +74126,18 @@
    1794482512,
    "filtered (none)"
   ],
+  "sec:0001140361-26-043431": [
+   1794518724,
+   "filtered (none)"
+  ],
+  "sec:0001140361-26-043433": [
+   1794518724,
+   "filtered (none)"
+  ],
+  "sec:0001140361-26-043435": [
+   1794518724,
+   "filtered (none)"
+  ],
   "sec:0001171843-26-006953": [
    1793272571,
    "filtered (none)"
@@ -74217,10 +74228,6 @@
   ],
   "sec:0001185185-26-005246": [
    1794004666,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-428937": [
-   1792702479,
    "filtered (none)"
   ],
   "sec:0001193125-26-429105": [
@@ -75327,6 +75334,34 @@
    1794508426,
    "filtered (none)"
   ],
+  "sec:0001193125-26-458193": [
+   1794518724,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458293": [
+   1794518724,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458386": [
+   1794518724,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458402": [
+   1794518724,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458409": [
+   1794518724,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458415": [
+   1794518724,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-458417": [
+   1794518724,
+   "filtered (none)"
+  ],
   "sec:0001193805-26-001454": [
    1794482512,
    "classified:possible_offer"
@@ -75345,22 +75380,6 @@
   ],
   "sec:0001210708-26-000099": [
    1794350693,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-111703": [
-   1792702479,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-111715": [
-   1792702479,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-111717": [
-   1792702479,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-111719": [
-   1792702479,
    "filtered (none)"
   ],
   "sec:0001213900-26-111740": [
@@ -76231,6 +76250,14 @@
    1794494570,
    "filtered (none)"
   ],
+  "sec:0001213900-26-118928": [
+   1794518724,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-118932": [
+   1794518724,
+   "filtered (none)"
+  ],
   "sec:0001214659-26-013480": [
    1793367351,
    "filtered (none)"
@@ -76253,6 +76280,10 @@
   ],
   "sec:0001287032-26-000294": [
    1792704575,
+   "filtered (none)"
+  ],
+  "sec:0001292814-26-005283": [
+   1794518724,
    "filtered (none)"
   ],
   "sec:0001298675-26-000044": [
@@ -76333,10 +76364,6 @@
   ],
   "sec:0001410636-26-000164": [
    1794001875,
-   "filtered (none)"
-  ],
-  "sec:0001437749-26-033275": [
-   1792702479,
    "filtered (none)"
   ],
   "sec:0001437749-26-033299": [
@@ -76549,10 +76576,6 @@
   ],
   "sec:0001482430-26-000044": [
    1793910231,
-   "filtered (none)"
-  ],
-  "sec:0001493152-26-048101": [
-   1792702479,
    "filtered (none)"
   ],
   "sec:0001493152-26-048138": [
@@ -76911,6 +76934,14 @@
    1794494570,
    "filtered (none)"
   ],
+  "sec:0001493152-26-051397": [
+   1794518724,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-051399": [
+   1794518724,
+   "filtered (none)"
+  ],
   "sec:0001505155-26-000083": [
    1794266113,
    "filtered (none)"
@@ -76921,10 +76952,6 @@
   ],
   "sec:0001514416-26-000080": [
    1793272571,
-   "filtered (none)"
-  ],
-  "sec:0001520138-26-000434": [
-   1792702479,
    "filtered (none)"
   ],
   "sec:0001520138-26-000460": [
@@ -76993,10 +77020,6 @@
   ],
   "sec:0001617640-26-000063": [
    1793220614,
-   "filtered (none)"
-  ],
-  "sec:0001628280-26-066900": [
-   1792702479,
    "filtered (none)"
   ],
   "sec:0001628280-26-066969": [
@@ -77239,10 +77262,6 @@
    1792787291,
    "filtered (none)"
   ],
-  "sec:0001683168-26-008023": [
-   1792702479,
-   "filtered (none)"
-  ],
   "sec:0001683168-26-008024": [
    1792704575,
    "filtered (none)"
@@ -77367,6 +77386,10 @@
    1793132232,
    "filtered (none)"
   ],
+  "sec:0001818383-26-000274": [
+   1794518724,
+   "filtered (none)"
+  ],
   "sec:0001819142-26-000061": [
    1793134613,
    "filtered (none)"
@@ -77467,6 +77490,10 @@
    1793305378,
    "filtered (none)"
   ],
+  "sec:0001935799-26-000022": [
+   1794518724,
+   "filtered (none)"
+  ],
   "sec:0001937653-26-000055": [
    1792750430,
    "filtered (none)"
@@ -77513,10 +77540,6 @@
   ],
   "sec:0002038118-26-000027": [
    1793220614,
-   "filtered (none)"
-  ],
-  "sec:0002064307-26-000020": [
-   1792702479,
    "filtered (none)"
   ],
   "sec:0002069692-26-000072": [
