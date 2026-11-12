@@ -798,6 +798,13 @@
    "ts": 1793078391,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/454699d9-59e9-49e7-acdb-6c22f3dd0c6c.pdf"
   },
+  "jd com completes voluntary public takeover offer of ceconomy|possible_offer": {
+   "acquirer": "",
+   "source": "globenewswire",
+   "title": "JD.com Completes Voluntary Public Takeover Offer of CECONOMY",
+   "ts": 1794527565,
+   "url": "https://www.globenewswire.com/news-release/2026/11/12/3401429/0/en/jd-com-completes-voluntary-public-takeover-offer-of-ceconomy.html"
+  },
   "jindal photo|firm": {
    "acquirer": "",
    "source": "bse",
@@ -986,6 +993,13 @@
    "title": "UK offer period: Metro Bank Holdings plc",
    "ts": 1794470644,
    "url": "https://www.thetakeoverpanel.org.uk/disclosure/disclosure-table"
+  },
+  "mfic shareholders amparo law firm pllc is investigating whether ares capital deal delivers best value for midcap financial investment shareholders|possible_offer": {
+   "acquirer": "",
+   "source": "globenewswire",
+   "title": "MFIC Shareholders: Amparo Law Firm PLLC Is Investigating Whether the Ares Capital Deal Delivers the Best Value for MidCap Financial Investment Shareholders",
+   "ts": 1794527563,
+   "url": "https://www.globenewswire.com/news-release/2026/11/12/3401569/0/en/mfic-shareholders-amparo-law-firm-pllc-is-investigating-whether-the-ares-capital-deal-delivers-the-best-value-for-midcap-financial-investment-shareholders.html"
   },
   "milkfood|possible_offer": {
    "acquirer": "",
@@ -1336,6 +1350,13 @@
    "title": "Rishi Laser Ltd: Rishi Laser Ltd - 526861 - Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011",
    "ts": 1793092504,
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/A0B649CF_9D2A_4FAE_A004_8775761F3C3F_143100.pdf"
+  },
+  "rrc shareholders amparo law firm pllc is investigating whether eqt deal delivers best value for range resources shareholders|possible_offer": {
+   "acquirer": "",
+   "source": "globenewswire",
+   "title": "RRC Shareholders: Amparo Law Firm PLLC Is Investigating Whether the EQT Deal Delivers the Best Value for Range Resources Shareholders",
+   "ts": 1794527562,
+   "url": "https://www.globenewswire.com/news-release/2026/11/12/3401562/0/en/rrc-shareholders-amparo-law-firm-pllc-is-investigating-whether-the-eqt-deal-delivers-the-best-value-for-range-resources-shareholders.html"
   },
   "sagar systech|possible_offer": {
    "acquirer": "",
@@ -63826,10 +63847,6 @@
    1792765287,
    "filtered (none)"
   ],
-  "eqs:1938ccd0-53bf-4b04-ad2c-fd42f532b143": [
-   1792710684,
-   "filtered (none)"
-  ],
   "eqs:19654f03-851f-4e48-b7b2-5229a40fca1e": [
    1793695144,
    "filtered (none)"
@@ -71192,6 +71209,86 @@
   ],
   "globenewswire:https://www.globenewswire.com/news-release/2026/11/05/3396284/0/en/vertex-expands-european-operations-with-acquisition-of-quartz-project-services.html": [
    1793880234,
+   "classified:none"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3401365/0/en/man-group-plc-form-8-3-gamma-communications-plc.html": [
+   1794527565,
+   "filtered (none)"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3401388/0/en/aeluma-executes-agreement-with-aixtron-for-purchase-of-g10-asp-mocvd.html": [
+   1794527565,
+   "filtered (none)"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3401429/0/en/jd-com-completes-voluntary-public-takeover-offer-of-ceconomy.html": [
+   1794527565,
+   "classified:possible_offer"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3401480/0/en/form-8-3-gresham-house-energy-storage-fund-plc.html": [
+   1794527563,
+   "filtered (none)"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3401562/0/en/rrc-shareholders-amparo-law-firm-pllc-is-investigating-whether-the-eqt-deal-delivers-the-best-value-for-range-resources-shareholders.html": [
+   1794527562,
+   "classified:possible_offer"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3401569/0/en/mfic-shareholders-amparo-law-firm-pllc-is-investigating-whether-the-ares-capital-deal-delivers-the-best-value-for-midcap-financial-investment-shareholders.html": [
+   1794527563,
+   "classified:possible_offer"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3401585/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus-investments.html": [
+   1794527561,
+   "filtered (none)"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3401591/0/en/skyline-builders-group-holding-signs-term-sheet-for-a-business-combination-with-super-critical-materials.html": [
+   1794527561,
+   "classified:none"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3401623/0/en/form-8-3-dcc-energy-plc.html": [
+   1794527559,
+   "filtered (none)"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3401727/0/en/virtuix-signs-loi-to-acquire-defense-contractor-sts-international-reporting-40-million-in-unaudited-cash-basis-revenue-through-october-2026.html": [
+   1794527559,
+   "classified:none"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3401861/0/en/davidson-kempner-capital-management-lp-form-8-3-easyjet-plc.html": [
+   1794527558,
+   "filtered (none)"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3401863/0/en/davidson-kempner-capital-management-lp-form-8-3-tate-lyle-plc.html": [
+   1794527558,
+   "filtered (none)"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3401885/0/en/dresner-partners-advised-mcm-on-its-sale-to-broadwind.html": [
+   1794527558,
+   "filtered (none)"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3402034/0/en/danone-completes-its-acquisition-of-made-group-expanding-its-presence-in-the-fast-growing-healthy-nutrition-space-in-asia-pacific.html": [
+   1794527558,
+   "classified:none"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3402034/0/fr/danone-finalise-l-acquisition-de-made-group-renfor%C3%A7ant-ainsi-sa-pr%C3%A9sence-dans-les-segments-en-forte-croissance-de-la-nutrition-saine-en-asie-pacifique.html": [
+   1794527558,
+   "filtered (none)"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3402083/0/en/advini-and-invivo-continue-to-strengthen-their-strategic-partnership-with-the-proposed-acquisition-of-the-bonne-nouvelle-and-mythique-brands.html": [
+   1794527557,
+   "classified:none"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3402083/0/fr/advini-et-invivo-poursuivent-leur-rapprochement-strat%C3%A9gique-avec-le-projet-de-reprise-des-marques-bonne-nouvelle-et-mythique.html": [
+   1794527556,
+   "filtered (none)"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3402091/0/en/tdg-gold-corp-agrees-to-sell-51-interest-in-aurora-west-property-to-freeport-mcmoran-mineral-properties-canada-inc-for-c-110-million-and-to-grant-certain-additional-earn-in-rights-.html": [
+   1794527556,
+   "filtered (none)"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3402094/0/en/basf-signs-agreement-to-sell-its-mining-solutions-business-to-snf.html": [
+   1794527556,
+   "filtered (none)"
+  ],
+  "globenewswire:https://www.globenewswire.com/news-release/2026/11/12/3402098/0/en/trmk-shareholders-amparo-law-firm-pllc-is-investigating-whether-the-hancock-whitney-deal-delivers-the-best-value-for-trustmark-shareholders.html": [
+   1794527556,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/-r-e-p-e-a-t-avenir-global-expands-global-reach-and-technology-expertise-with-acquisition-of-marker-collective--832006170.html": [
