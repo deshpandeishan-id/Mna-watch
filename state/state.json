@@ -8201,6 +8201,10 @@
    1793092504,
    "filtered (none)"
   ],
+  "bse:1d210a82-3709-4f27-a657-1e98f93ac854": [
+   1794450321,
+   "bse: not a deal filing"
+  ],
   "bse:1d29515d-41cb-4215-b68c-ce0a0e83d38c": [
    1794307900,
    "bse: not a deal filing"
@@ -17964,6 +17968,10 @@
   "bse:492aa4ea-47d0-412a-86fa-09b400e73ef4": [
    1793434646,
    "filtered (none)"
+  ],
+  "bse:492f0fcb-6c3a-406a-8e7c-53e7ee65b92d": [
+   1794450321,
+   "bse: not a deal filing"
   ],
   "bse:4935d1f7-a6cc-4ed2-bd9b-ce28dc3750d5": [
    1793976807,
@@ -61665,6 +61673,10 @@
    1793032281,
    "filtered (none)"
   ],
+  "eqs:85c11030-a90c-415f-9147-2a1f0006803f": [
+   1794450313,
+   "filtered (none)"
+  ],
   "eqs:85ede1c0-315f-4b77-8c87-7b1a72ad0cc8": [
    1792730007,
    "filtered (none)"
@@ -62047,10 +62059,6 @@
   ],
   "eqs:98d21122-06ef-42a3-9ca3-cbd05b6b7efd": [
    1793602196,
-   "filtered (none)"
-  ],
-  "eqs:98e9b239-bf24-4744-b5ea-52ba354b34e2": [
-   1792635091,
    "filtered (none)"
   ],
   "eqs:99d5a3be-331e-44fd-a2a0-61d45fee6757": [
@@ -62915,6 +62923,10 @@
   ],
   "eqs:cac16038-052d-4c69-90fc-3aac19bba7ae": [
    1794387219,
+   "filtered (none)"
+  ],
+  "eqs:cb3bc7ac-c33f-4dc5-83b0-315e80417d0e": [
+   1794450313,
    "filtered (none)"
   ],
   "eqs:cb8412b6-9d23-4fd1-9a24-f7f924fabe8e": [
@@ -68223,10 +68235,6 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/shrieve-chemical-company-acquires-clear-solutions-302919944.html": [
    1793106034,
-   "classified:none"
-  ],
-  "prnewswire:https://www.prnewswire.com/news-releases/side-acquires-boutique-art-studio-roboto-entertainment-in-creative-services-push-302915576.html": [
-   1792633018,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/siemens-to-expand-portfolio-for-semiconductor-design-and-verification-with-the-planned-acquisition-of-lauterbach-302934669.html": [
