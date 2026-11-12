@@ -7111,6 +7111,10 @@
    1793794631,
    "filtered (none)"
   ],
+  "bse:163fa0e7-5cf9-4a9a-b5c7-4cb5501da022": [
+   1794515425,
+   "bse: not a deal filing"
+  ],
   "bse:165ef96f-2ce9-4d66-8b76-2fb71f652463": [
    1793637997,
    "filtered (none)"
@@ -20771,6 +20775,10 @@
    1793199346,
    "filtered (none)"
   ],
+  "bse:500f3934-ddec-4ab7-8268-3471e4c2d10f": [
+   1794515425,
+   "bse: not a deal filing"
+  ],
   "bse:501048d4-283a-47bd-9148-95177f8b38fe": [
    1793810028,
    "filtered (none)"
@@ -27514,6 +27522,10 @@
   "bse:6cedd8e2-25c1-40cb-8747-71ecdd5a34fb": [
    1793615457,
    "filtered (none)"
+  ],
+  "bse:6cffb698-4f88-4e04-a7f3-aa3456cf3c51": [
+   1794515425,
+   "bse: not a deal filing"
   ],
   "bse:6d0363c7-8201-4f70-a466-25e5631f7997": [
    1793358155,
@@ -59099,6 +59111,10 @@
    1793619058,
    "filtered (none)"
   ],
+  "bse:ee68e671-21a4-47b3-8abf-649c2e3d268d": [
+   1794515425,
+   "bse: not a deal filing"
+  ],
   "bse:ee6af8a1-d861-400a-8d56-384dd05fc188": [
    1793179648,
    "filtered (none)"
@@ -72299,10 +72315,6 @@
    1794402112,
    "filtered (none)"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/oridian-capital-partners-backed-acr-acquires-ultra-green-packaging-302917396.html": [
-   1792699834,
-   "classified:none"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/outersignal-acquires-tempo-to-advance-agentic-personalization-for-consumer-brands-302934240.html": [
    1794314679,
    "classified:none"
@@ -72879,10 +72891,6 @@
    1793192405,
    "filtered (none)"
   ],
-  "sec:0000058361-26-000075": [
-   1792699824,
-   "filtered (none)"
-  ],
   "sec:0000066740-26-000318": [
    1793791536,
    "filtered (none)"
@@ -72901,10 +72909,6 @@
   ],
   "sec:0000076605-26-000108": [
    1793396666,
-   "filtered (none)"
-  ],
-  "sec:0000099780-26-000131": [
-   1792699824,
    "filtered (none)"
   ],
   "sec:0000100726-26-000018": [
@@ -72993,38 +72997,6 @@
   ],
   "sec:0000912767-26-000052": [
    1793035450,
-   "filtered (none)"
-  ],
-  "sec:0000912938-26-001031": [
-   1792699824,
-   "filtered (none)"
-  ],
-  "sec:0000912938-26-001032": [
-   1792699824,
-   "filtered (none)"
-  ],
-  "sec:0000912938-26-001033": [
-   1792699824,
-   "filtered (none)"
-  ],
-  "sec:0000912938-26-001034": [
-   1792699824,
-   "filtered (none)"
-  ],
-  "sec:0000912938-26-001035": [
-   1792699824,
-   "filtered (none)"
-  ],
-  "sec:0000912938-26-001036": [
-   1792699824,
-   "filtered (none)"
-  ],
-  "sec:0000912938-26-001037": [
-   1792699824,
-   "filtered (none)"
-  ],
-  "sec:0000912938-26-001038": [
-   1792699824,
    "filtered (none)"
   ],
   "sec:0000914208-26-000367": [
@@ -73919,10 +73891,6 @@
    1793876529,
    "filtered (none)"
   ],
-  "sec:0001140361-26-040512": [
-   1792699824,
-   "filtered (none)"
-  ],
   "sec:0001140361-26-040525": [
    1792704575,
    "filtered (none)"
@@ -74211,10 +74179,6 @@
    1794318925,
    "filtered (none)"
   ],
-  "sec:0001185185-26-004921": [
-   1792699824,
-   "filtered (none)"
-  ],
   "sec:0001185185-26-004933": [
    1792750430,
    "filtered (none)"
@@ -74253,14 +74217,6 @@
   ],
   "sec:0001185185-26-005246": [
    1794004666,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-428897": [
-   1792699824,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-428908": [
-   1792699824,
    "filtered (none)"
   ],
   "sec:0001193125-26-428937": [
@@ -76297,10 +76253,6 @@
   ],
   "sec:0001287032-26-000294": [
    1792704575,
-   "filtered (none)"
-  ],
-  "sec:0001288469-26-000060": [
-   1792699824,
    "filtered (none)"
   ],
   "sec:0001298675-26-000044": [
