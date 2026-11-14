@@ -7773,6 +7773,10 @@
    1793005775,
    "filtered (none)"
   ],
+  "bse:174c071a-aa1f-4ada-8af4-6c32f9a0f47d": [
+   1794621157,
+   "bse: not a deal filing"
+  ],
   "bse:1751dae7-efa5-4a11-95be-1261892c6223": [
    1793976807,
    "bse: not a deal filing"
@@ -11240,6 +11244,10 @@
   "bse:257b34ce-fe32-46c7-ae06-c73701a98ebc": [
    1793726871,
    "filtered (none)"
+  ],
+  "bse:257bd953-2b4e-4f73-9fab-8c9da2cebd9e": [
+   1794621157,
+   "bse: not a deal filing"
   ],
   "bse:257d43ef-1dd3-45b8-aa03-418f065ac4cd": [
    1794297325,
@@ -29665,6 +29673,10 @@
    1794210982,
    "bse: not a deal filing"
   ],
+  "bse:6ea4b3c4-c27c-4276-aa6a-9841889c7e51": [
+   1794621157,
+   "bse: not a deal filing"
+  ],
   "bse:6ea99e53-39f4-423d-9fcc-f702f81f2447": [
    1793803167,
    "filtered (none)"
@@ -40607,6 +40619,10 @@
   ],
   "bse:98cb588b-271e-4089-99c6-b6d84f4ad9cd": [
    1794061087,
+   "bse: not a deal filing"
+  ],
+  "bse:98d46564-744b-4211-a87a-223bb2a07880": [
+   1794621157,
    "bse: not a deal filing"
   ],
   "bse:98d5d385-ff16-4fb4-93c0-c28c482be824": [
@@ -69233,6 +69249,10 @@
    1793791546,
    "filtered (none)"
   ],
+  "eqs:62ffa470-3261-4326-bc88-4ae940f81242": [
+   1794621148,
+   "filtered (none)"
+  ],
   "eqs:636d4c88-b664-4e1f-b9e9-d175692c88dd": [
    1794292732,
    "filtered (none)"
@@ -69935,10 +69955,6 @@
   ],
   "eqs:89325cbe-de8a-43a4-8732-ca0764211ffd": [
    1794383759,
-   "filtered (none)"
-  ],
-  "eqs:8979df80-ca9c-4ab5-9c08-6e59ff42fa04": [
-   1792793573,
    "filtered (none)"
   ],
   "eqs:89ce2f84-8bb0-42ef-b5e0-2d35ee5bf22f": [
@@ -70955,6 +70971,10 @@
   ],
   "eqs:c1019b77-dc07-4ba2-b90e-38eb68467b9f": [
    1794554032,
+   "filtered (none)"
+  ],
+  "eqs:c141337d-4f89-40e5-9344-4735bab1c6e1": [
+   1794621148,
    "filtered (none)"
   ],
   "eqs:c1e867d1-9310-4f05-9a49-8f4a273b3165": [
@@ -75605,6 +75625,10 @@
    1793630992,
    "classified:none"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/chime-financial-set-to-join-sp-midcap-400-302939428.html": [
+   1794621154,
+   "filtered (none)"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/chord-expands-into-enterprise-ai-with-zenlytic-acquisition-adding-verizon-jcrew-dominos-and-stanley-black--decker-as-customers-302926600.html": [
    1793716959,
    "filtered (none)"
@@ -75815,6 +75839,10 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/enghouse-systems-to-acquire-mind-cti-in-all-cash-transaction-expanding-its-telecom-and-enterprise-uc-offerings-302934824.html": [
    1794311340,
+   "classified:none"
+  ],
+  "prnewswire:https://www.prnewswire.com/news-releases/enjay-converters-ltd-enjay-is-pleased-to-announce-the-acquisition-of-new-method-packaging-llc-new-method-302939376.html": [
+   1794621155,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/enstructure-announces-four-regional-presidents-to-lead-expanded-north-american-terminal-network-302920857.html": [
@@ -76044,10 +76072,6 @@
   "prnewswire:https://www.prnewswire.com/news-releases/hongli-group-provides-progress-update-on-proposed-acquisition-of-a-20-equity-interest-in-xell-energy-302924062.html": [
    1793367361,
    "classified:none"
-  ],
-  "prnewswire:https://www.prnewswire.com/news-releases/howard-hughes-holdings-set-to-join-sp-smallcap-600-302918511.html": [
-   1792793579,
-   "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/hsbc-holdings-plc-announces-increase-of-the-maximum-tender-amount-of-its-tender-offer-for-one-series-of-securities-302931934.html": [
    1793957229,
@@ -77905,6 +77929,22 @@
    1794606084,
    "filtered (none)"
   ],
+  "sec:0001104659-26-127163": [
+   1794621145,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-127202": [
+   1794621145,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-127223": [
+   1794621145,
+   "filtered (none)"
+  ],
+  "sec:0001104659-26-127233": [
+   1794621145,
+   "filtered (none)"
+  ],
   "sec:0001133228-26-013634": [
    1793112456,
    "filtered (none)"
@@ -78171,6 +78211,10 @@
   ],
   "sec:0001140361-26-043767": [
    1794606084,
+   "filtered (none)"
+  ],
+  "sec:0001140361-26-043831": [
+   1794621145,
    "filtered (none)"
   ],
   "sec:0001171843-26-006953": [
@@ -79457,6 +79501,26 @@
    1794606084,
    "filtered (none)"
   ],
+  "sec:0001193125-26-460879": [
+   1794621145,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-460921": [
+   1794621145,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-460928": [
+   1794621145,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-461027": [
+   1794621145,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-461054": [
+   1794621145,
+   "filtered (none)"
+  ],
   "sec:0001193805-26-001454": [
    1794482512,
    "classified:possible_offer"
@@ -80317,6 +80381,10 @@
    1794606084,
    "filtered (none)"
   ],
+  "sec:0001213900-26-119821": [
+   1794621145,
+   "filtered (none)"
+  ],
   "sec:0001214659-26-013480": [
    1793367351,
    "filtered (none)"
@@ -80567,6 +80635,10 @@
   ],
   "sec:0001437749-26-036336": [
    1794486435,
+   "filtered (none)"
+  ],
+  "sec:0001437749-26-036955": [
+   1794621145,
    "filtered (none)"
   ],
   "sec:0001462120-26-000075": [
@@ -80983,6 +81055,26 @@
   ],
   "sec:0001493152-26-051759": [
    1794606084,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-051809": [
+   1794621145,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-051834": [
+   1794621145,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-051839": [
+   1794621145,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-051841": [
+   1794621145,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-051849": [
+   1794621145,
    "filtered (none)"
   ],
   "sec:0001505155-26-000083": [
@@ -81511,6 +81603,10 @@
   ],
   "sec:0001829126-26-012346": [
    1794581517,
+   "filtered (none)"
+  ],
+  "sec:0001829126-26-012411": [
+   1794621145,
    "filtered (none)"
   ],
   "sec:0001837607-26-000081": [
