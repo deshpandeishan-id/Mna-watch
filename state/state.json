@@ -875,6 +875,13 @@
    "ts": 1794260006,
    "url": "https://www.sec.gov/Archives/edgar/data/896493/000092189526002970/0000921895-26-002970-index.htm"
   },
+  "iba information reglementee|possible_offer": {
+   "acquirer": "",
+   "source": "euronext",
+   "title": "IBA – Information Réglementée",
+   "ts": 1795660181,
+   "url": "https://live.euronext.com/fr/products/equities/company-news/2026-11-25-iba-information-reglementee"
+  },
   "iifl capital services|possible_offer": {
    "acquirer": "",
    "source": "bse",
@@ -3976,10 +3983,6 @@
    1794569836,
    "bse: not a deal filing"
   ],
-  "bse:0ed0d125-2505-415b-ab18-9e2c5692c97c": [
-   1793824418,
-   "filtered (none)"
-  ],
   "bse:0ed585b6-f62c-44ec-8c31-12a3b1547794": [
    1794383767,
    "bse: not a deal filing"
@@ -6816,6 +6819,10 @@
    1793976807,
    "bse: not a deal filing"
   ],
+  "bse:271cb832-8922-40a8-a029-9ce604caffce": [
+   1795660199,
+   "bse: not a deal filing"
+  ],
   "bse:271f238b-be58-41be-b16d-ae18381fea7d": [
    1794215234,
    "bse: not a deal filing"
@@ -8119,10 +8126,6 @@
   "bse:31725da4-a65b-4e2e-bd5d-6e652342459d": [
    1794554040,
    "bse: not a deal filing"
-  ],
-  "bse:317cb5e1-b3fe-40fa-a38f-301d12c234a6": [
-   1793845062,
-   "filtered (none)"
   ],
   "bse:317f3c01-8147-4fa2-968f-a107397b2c75": [
    1793948955,
@@ -9991,10 +9994,6 @@
   "bse:3fff1667-9879-4d43-9198-d1f070d2115c": [
    1795195403,
    "bse: not a deal filing"
-  ],
-  "bse:40031c2a-40c1-42f9-9324-867fcd1f0ec4": [
-   1793845062,
-   "filtered (none)"
   ],
   "bse:4006f5bf-9a90-4bc3-9de3-e90089151619": [
    1793865157,
@@ -26180,10 +26179,6 @@
    1793876560,
    "filtered (none)"
   ],
-  "bse:c230455e-51c7-4b4f-94c2-b9421bd646c9": [
-   1793824418,
-   "filtered (none)"
-  ],
   "bse:c2312ddb-25d5-429e-a239-cbf796e2f60e": [
    1794311343,
    "bse: not a deal filing"
@@ -33516,10 +33511,6 @@
    1794921119,
    "classified:definitive_agreement"
   ],
-  "bse:fc52b06b-0adc-4fcb-9b09-7818905591ea": [
-   1793824418,
-   "filtered (none)"
-  ],
   "bse:fc5354b9-2a0d-4325-8892-0b35d8147a5b": [
    1794226049,
    "bse: not a deal filing"
@@ -34062,6 +34053,10 @@
   ],
   "eqs:057f8e3e-7464-4e78-85b9-8a00a9a4d1c8": [
    1793976798,
+   "filtered (none)"
+  ],
+  "eqs:05d6e4de-f11a-4aeb-9c0b-fc387052073e": [
+   1795660183,
    "filtered (none)"
   ],
   "eqs:0656abe7-8022-4a3f-9dc9-a46d52e6215b": [
@@ -34684,10 +34679,6 @@
    1794462018,
    "filtered (none)"
   ],
-  "eqs:32a0ca02-6283-42ef-888d-fc9568fbf2ec": [
-   1793834135,
-   "filtered (none)"
-  ],
   "eqs:340170da-0f43-4a38-ba72-3f9d7c5aeab3": [
    1794921103,
    "filtered (none)"
@@ -35220,10 +35211,6 @@
    1794292732,
    "filtered (none)"
   ],
-  "eqs:5a5a19d1-86d5-4d65-a024-e9a494fc4508": [
-   1793845054,
-   "filtered (none)"
-  ],
   "eqs:5c422b05-fc4b-4e3e-a22a-4887db6292a8": [
    1794952231,
    "filtered (none)"
@@ -35372,6 +35359,10 @@
    1793860214,
    "filtered (none)"
   ],
+  "eqs:662f4499-2677-41fc-b5a4-3be8a1e1af6d": [
+   1795660183,
+   "filtered (none)"
+  ],
   "eqs:6656cb37-245e-4358-9f4b-cee9d8c57a1b": [
    1794234652,
    "filtered (none)"
@@ -35414,10 +35405,6 @@
   ],
   "eqs:6a68880b-3f4b-49e2-86a0-e052ecd6a38c": [
    1794345125,
-   "filtered (none)"
-  ],
-  "eqs:6b2e7327-00f9-47a9-8f76-1d160c311832": [
-   1793827752,
    "filtered (none)"
   ],
   "eqs:6b70c5cb-0e50-4107-9bce-832c43abf439": [
@@ -35570,10 +35557,6 @@
   ],
   "eqs:75442569-a30f-40a0-92bd-e84b3acc5591": [
    1794238601,
-   "filtered (none)"
-  ],
-  "eqs:759d0027-396f-475e-8640-0e3d08ffff48": [
-   1793845054,
    "filtered (none)"
   ],
   "eqs:75a36d79-30af-4776-a6af-a92249e86006": [
@@ -36030,10 +36013,6 @@
   ],
   "eqs:93622da5-7a2d-44c3-8a3a-738e11d3fc12": [
    1794562228,
-   "filtered (none)"
-  ],
-  "eqs:93a1da33-3cbf-4ad1-8bf4-7f4cab2a3123": [
-   1793840441,
    "filtered (none)"
   ],
   "eqs:93de2c61-a162-4b09-848b-9868149692cb": [
@@ -36816,6 +36795,10 @@
    1793880232,
    "filtered (none)"
   ],
+  "eqs:cd154cc1-7640-4f51-b8ce-746b215baecc": [
+   1795660183,
+   "filtered (none)"
+  ],
   "eqs:cd272553-9fc5-437a-97fc-043e730beb09": [
    1793865148,
    "filtered (none)"
@@ -37542,6 +37525,10 @@
   ],
   "eqs:fd0b825b-f6aa-4ff5-82d7-30cbf72514ec": [
    1795427219,
+   "filtered (none)"
+  ],
+  "eqs:fd274695-45c8-41f3-8aca-4271b11b2fce": [
+   1795660183,
    "filtered (none)"
   ],
   "eqs:fd98d8df-30f9-4250-b59c-76cee0dab9be": [
@@ -39136,6 +39123,46 @@
    1795568506,
    "filtered (none)"
   ],
+  "euronext:12926059 at https://live.euronext.com": [
+   1795660181,
+   "filtered (none)"
+  ],
+  "euronext:12926060 at https://live.euronext.com": [
+   1795660181,
+   "filtered (none)"
+  ],
+  "euronext:12926062 at https://live.euronext.com": [
+   1795660181,
+   "filtered (none)"
+  ],
+  "euronext:12926063 at https://live.euronext.com": [
+   1795660181,
+   "classified:possible_offer"
+  ],
+  "euronext:12926064 at https://live.euronext.com": [
+   1795660181,
+   "filtered (none)"
+  ],
+  "euronext:12926065 at https://live.euronext.com": [
+   1795660181,
+   "filtered (none)"
+  ],
+  "euronext:12926066 at https://live.euronext.com": [
+   1795660181,
+   "filtered (none)"
+  ],
+  "euronext:12926067 at https://live.euronext.com": [
+   1795660181,
+   "filtered (none)"
+  ],
+  "euronext:12926069 at https://live.euronext.com": [
+   1795660181,
+   "filtered (none)"
+  ],
+  "euronext:12926070 at https://live.euronext.com": [
+   1795660181,
+   "filtered (none)"
+  ],
   "globenewswire:https://www.globenewswire.com/news-release/2026/11/04/3395892/0/en/host-hotels-resorts-acquires-1-hotel-brooklyn-bridge-and-renaissance-dallas-at-plano-legacy-west-hotel.html": [
    1793880239,
    "classified:none"
@@ -39928,10 +39955,6 @@
    1793888996,
    "classified:none"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/construction-partners-inc-completes-georgia-acquisition-302929808.html": [
-   1793827758,
-   "filtered (none)"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/core-home-acquires-tochi-snacks-as-it-expands-into-food--beverage-302934153.html": [
    1794318936,
    "classified:none"
@@ -39978,10 +40001,6 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/doc-brands-announces-acquisition-of-moon-oral-beauty-302945874.html": [
    1795115247,
-   "classified:none"
-  ],
-  "prnewswire:https://www.prnewswire.com/news-releases/dover-completes-acquisition-of-leistung-302929655.html": [
-   1793827759,
    "classified:none"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/dragonpass-acquires-icoupon-the-leading-global-voucher-redemption-network-to-build-international-loyalty-as-a-service-platform-302932143.html": [
@@ -40058,10 +40077,6 @@
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/firstservice-residential-expands-its-special-districts-business-302940544.html": [
    1794864109,
-   "filtered (none)"
-  ],
-  "prnewswire:https://www.prnewswire.com/news-releases/flyte-aviation-executes-letter-of-intent-to-sell-cardiology-assets-302929773.html": [
-   1793827758,
    "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/fort-point-capital-launches-us-propane-302933445.html": [
@@ -40368,6 +40383,10 @@
    1794921115,
    "filtered (none)"
   ],
+  "prnewswire:https://www.prnewswire.com/news-releases/ls-power-completes-acquisition-of-4-4-gw-natural-gas-generation-assets-from-constellation-302950859.html": [
+   1795660190,
+   "classified:none"
+  ],
   "prnewswire:https://www.prnewswire.com/news-releases/ls-power-to-acquire-six-natural-gas-power-generation-assets-from-nrg-energy-302933303.html": [
    1794230705,
    "classified:none"
@@ -40443,10 +40462,6 @@
   "prnewswire:https://www.prnewswire.com/news-releases/merchants-capital-to-acquire-remaining-interest-in-vium-capital-expanding-its-seniors-housing-and-healthcare-lending-platform-302945905.html": [
    1795137338,
    "classified:none"
-  ],
-  "prnewswire:https://www.prnewswire.com/news-releases/mesirow-advises-canworks-on-its-sale-to-mason-wells-302929726.html": [
-   1793824417,
-   "filtered (none)"
   ],
   "prnewswire:https://www.prnewswire.com/news-releases/michaels-tree--loader-service-names-pat-turley-ceo-launches-national-acquisition-strategy-for-tree-care-companies-302945018.html": [
    1795115247,
@@ -40844,10 +40859,6 @@
    1793973060,
    "filtered (none)"
   ],
-  "prnewswire:https://www.prnewswire.com/news-releases/the-braff-group-completes-400th-health-care-services-ma-transaction-302924637.html": [
-   1793827759,
-   "filtered (none)"
-  ],
   "prnewswire:https://www.prnewswire.com/news-releases/the-milestone-group-names-rob-strong-as-head-of-acquisitions-302935289.html": [
    1794334721,
    "filtered (none)"
@@ -41144,16 +41155,8 @@
    1795470333,
    "filtered (none)"
   ],
-  "sec:0000950157-26-001202": [
-   1793830966,
-   "filtered (none)"
-  ],
   "sec:0000950157-26-001281": [
    1795053532,
-   "filtered (none)"
-  ],
-  "sec:0001001614-26-000061": [
-   1793830966,
    "filtered (none)"
   ],
   "sec:0001005286-26-000050": [
@@ -41170,10 +41173,6 @@
   ],
   "sec:0001043277-26-000051": [
    1795195351,
-   "filtered (none)"
-  ],
-  "sec:0001062993-26-005749": [
-   1793834132,
    "filtered (none)"
   ],
   "sec:0001062993-26-005772": [
@@ -41194,10 +41193,6 @@
   ],
   "sec:0001072613-26-000891": [
    1794606084,
-   "filtered (none)"
-  ],
-  "sec:0001074828-26-000099": [
-   1793830966,
    "filtered (none)"
   ],
   "sec:0001089819-26-000021": [
@@ -41230,22 +41225,6 @@
   ],
   "sec:0001104631-26-000030": [
    1795137326,
-   "filtered (none)"
-  ],
-  "sec:0001104659-26-122729": [
-   1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001104659-26-122756": [
-   1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001104659-26-122765": [
-   1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001104659-26-122790": [
-   1793834132,
    "filtered (none)"
   ],
   "sec:0001104659-26-123043": [
@@ -41940,6 +41919,10 @@
    1795635746,
    "filtered (none)"
   ],
+  "sec:0001104659-26-132078": [
+   1795660180,
+   "filtered (none)"
+  ],
   "sec:0001133228-26-013983": [
    1793993273,
    "filtered (none)"
@@ -41994,10 +41977,6 @@
   ],
   "sec:0001139552-26-000051": [
    1793876529,
-   "filtered (none)"
-  ],
-  "sec:0001140361-26-041966": [
-   1793827742,
    "filtered (none)"
   ],
   "sec:0001140361-26-042045": [
@@ -42196,6 +42175,14 @@
    1795635746,
    "filtered (none)"
   ],
+  "sec:0001140361-26-045743": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001140361-26-045751": [
+   1795660180,
+   "filtered (none)"
+  ],
   "sec:0001171843-26-007147": [
    1793884599,
    "filtered (none)"
@@ -42274,74 +42261,6 @@
   ],
   "sec:0001185185-26-005596": [
    1795537661,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-447005": [
-   1793824407,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-447109": [
-   1793827742,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-447289": [
-   1793827742,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-447302": [
-   1793827742,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-447333": [
-   1793827742,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-447593": [
-   1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-447608": [
-   1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-447617": [
-   1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-447636": [
-   1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-447641": [
-   1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-447645": [
-   1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-447647": [
-   1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-447678": [
-   1793834132,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-447680": [
-   1793834132,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-447682": [
-   1793834132,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-447685": [
-   1793834132,
-   "filtered (none)"
-  ],
-  "sec:0001193125-26-447686": [
-   1793834132,
    "filtered (none)"
   ],
   "sec:0001193125-26-447839": [
@@ -43320,48 +43239,64 @@
    1795635746,
    "filtered (none)"
   ],
+  "sec:0001193125-26-478423": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-478472": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-478483": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-478520": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-478564": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-478570": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-478623": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-478633": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-478638": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-478667": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-478671": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-478682": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001193125-26-478699": [
+   1795660180,
+   "filtered (none)"
+  ],
   "sec:0001193805-26-001454": [
    1794482512,
    "classified:possible_offer"
   ],
-  "sec:0001210708-26-000096": [
-   1793830966,
-   "filtered (none)"
-  ],
   "sec:0001210708-26-000099": [
    1794350693,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-115935": [
-   1793827742,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-115944": [
-   1793827742,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-115945": [
-   1793827742,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-115999": [
-   1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-116001": [
-   1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-116002": [
-   1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-116003": [
-   1793830966,
-   "filtered (none)"
-  ],
-  "sec:0001213900-26-116028": [
-   1793834132,
    "filtered (none)"
   ],
   "sec:0001213900-26-116054": [
@@ -44092,12 +44027,40 @@
    1795635746,
    "filtered (none)"
   ],
+  "sec:0001213900-26-124167": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-124181": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-124186": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-124200": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-124205": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001213900-26-124223": [
+   1795660180,
+   "filtered (none)"
+  ],
   "sec:0001214659-26-013841": [
    1794222515,
    "filtered (none)"
   ],
   "sec:0001214659-26-013930": [
    1794348020,
+   "filtered (none)"
+  ],
+  "sec:0001287032-26-000331": [
+   1795660180,
    "filtered (none)"
   ],
   "sec:0001292814-26-005283": [
@@ -44144,12 +44107,32 @@
    1794311329,
    "filtered (none)"
   ],
+  "sec:0001376139-26-000049": [
+   1795660180,
+   "filtered (none)"
+  ],
   "sec:0001379785-26-000044": [
    1795470333,
    "filtered (none)"
   ],
   "sec:0001393584-26-000029": [
    1794606084,
+   "filtered (none)"
+  ],
+  "sec:0001398344-26-020615": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001398344-26-020621": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001398344-26-020626": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001398344-26-020628": [
+   1795660180,
    "filtered (none)"
   ],
   "sec:0001410636-26-000161": [
@@ -44268,6 +44251,10 @@
    1795635746,
    "classified:possible_offer"
   ],
+  "sec:0001437749-26-038289": [
+   1795660180,
+   "filtered (none)"
+  ],
   "sec:0001462120-26-000075": [
    1793916725,
    "filtered (none)"
@@ -44298,14 +44285,6 @@
   ],
   "sec:0001482541-26-000078": [
    1795137326,
-   "filtered (none)"
-  ],
-  "sec:0001493152-26-049960": [
-   1793827742,
-   "filtered (none)"
-  ],
-  "sec:0001493152-26-049995": [
-   1793830966,
    "filtered (none)"
   ],
   "sec:0001493152-26-050082": [
@@ -44668,6 +44647,26 @@
    1795568505,
    "filtered (none)"
   ],
+  "sec:0001493152-26-054210": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-054218": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-054227": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-054238": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001493152-26-054291": [
+   1795660180,
+   "filtered (none)"
+  ],
   "sec:0001498547-26-000089": [
    1795635746,
    "filtered (none)"
@@ -44746,10 +44745,6 @@
   ],
   "sec:0001618756-26-000061": [
    1795568505,
-   "filtered (none)"
-  ],
-  "sec:0001628280-26-070182": [
-   1793827742,
    "filtered (none)"
   ],
   "sec:0001628280-26-070328": [
@@ -44892,6 +44887,10 @@
    1795568505,
    "filtered (none)"
   ],
+  "sec:0001628280-26-075973": [
+   1795660180,
+   "filtered (none)"
+  ],
   "sec:0001639825-26-000052": [
    1795470333,
    "filtered (none)"
@@ -44920,16 +44919,16 @@
    1795033427,
    "filtered (none)"
   ],
+  "sec:0001663577-26-000363": [
+   1795660180,
+   "filtered (none)"
+  ],
   "sec:0001682220-26-000077": [
    1794952220,
    "filtered (none)"
   ],
   "sec:0001682852-26-000208": [
    1794888002,
-   "filtered (none)"
-  ],
-  "sec:0001683168-26-008310": [
-   1793830966,
    "filtered (none)"
   ],
   "sec:0001683168-26-008341": [
@@ -45150,6 +45149,14 @@
   ],
   "sec:0001829126-26-012751": [
    1795498621,
+   "filtered (none)"
+  ],
+  "sec:0001829126-26-012880": [
+   1795660180,
+   "filtered (none)"
+  ],
+  "sec:0001829126-26-012883": [
+   1795660180,
    "filtered (none)"
   ],
   "sec:0001849056-26-000055": [
